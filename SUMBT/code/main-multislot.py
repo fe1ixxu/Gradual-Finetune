@@ -170,21 +170,12 @@ class Processor(DataProcessor):
 
     def get_train_examples(self, data_dir, data_augmentation, accumulation=False):
         """See base class."""
-        if data_augmentation == "6k":
+        if data_augmentation == "4k":
             return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, "train6000.tsv")), "train", accumulation)  
-        elif data_augmentation == "4k":
-            return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, "train4000.tsv")), "train", accumulation)   
-        elif data_augmentation == "3k":
-            return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, "train3000.tsv")), "train", accumulation)       
+                self._read_tsv(os.path.join(data_dir, "train4000.tsv")), "train", accumulation)        
         elif data_augmentation == "2k":
             return self._create_examples(
                 self._read_tsv(os.path.join(data_dir, "train2000.tsv")), "train", accumulation) 
-        elif data_augmentation == "1k":
-            return self._create_examples(
-                self._read_tsv(os.path.join(data_dir, "train1000.tsv")), "train", accumulation)
         elif data_augmentation == "500":
             return self._create_examples(
                 self._read_tsv(os.path.join(data_dir, "train500.tsv")), "train", accumulation) 
