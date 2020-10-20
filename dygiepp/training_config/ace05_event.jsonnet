@@ -1,12 +1,12 @@
-local template = import "template2.libsonnet";
+local template = import "template.libsonnet";
 
 template.DyGIE {
   bert_model: "xlm-roberta-base",
   cuda_device: 0,
   data_paths: {
-    train: "data/ace-event/collated-data/en-ar/large-filter/en1k-train.json",
-    validation: "data/ace-event/collated-data/en-ar/large-filter/dev.json",
-    test: "data/ace-event/collated-data/en-ar/large-filter/test.json",
+    train: "data/ace-event/collated-data/en-ar/json/en1k-train.json",
+    validation: "data/ace-event/collated-data/en-ar/json/dev.json",
+    test: "data/ace-event/collated-data/en-ar/json/test.json",
   },
   loss_weights: {
     ner: 0.5,
