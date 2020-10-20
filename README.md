@@ -76,7 +76,7 @@ We have also offered all preprocessed dataset for restaurant and hotel domains h
 Build virtual environment
 ```
 cd SUMBT
-conda create --name dygiepp python=3.6
+conda create --name sumbt python=3.6
 conda activate sumbt
 pip install -r requirements.txt
 ```
