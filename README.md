@@ -14,7 +14,7 @@ pip install -r requirements.txt
 conda develop .   # Adds DyGIE to your PYTHONPATH
 ```
 
-We have already offered all dataset at `./dygiepp/data/ace-event/collated-data/en-ar/json`, so no complex data preprocessing needed now. The amount of English data has been indicated in the name of data file.
+We have already offered all dataset at `./dygiepp/data/ace-event/collated-data/en-ar/json`, so no complex data preprocessing needed now. The amount of English data (out-of-domain data) has been indicated in the name of data file.
 
 ### Train from Scratch
 ```
