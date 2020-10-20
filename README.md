@@ -18,7 +18,7 @@ We have already offered all dataset at `./dygiepp/data/ace-event/collated-data/e
 
 ### Train from Scratch
 ```
-CUDA_VISIBLE_DEVICES=`free-gpu` allennlp train "training_config/ace05_event.jsonnet" \
+allennlp train "training_config/ace05_event.jsonnet" \
     --serialization-dir PATH/TO/STORE/YOUR/MODEL \
     --include-package dygie 
 ```
@@ -34,26 +34,26 @@ model:{
 ```
 If we want to modify the learning rate to 8e-6 for XLMR and 2e-4 for the rest, something in the config file is like this:
 ```
-    optimizer: {
-      type: 'adamw',
-      lr: 2e-4,
-      weight_decay: 0.0,
-      parameter_groups: [
-        [
-          ['_embedder'],
-          {
-            lr: 8e-6,
-            weight_decay: 0.01,
-            finetune: true,
-          },
-        ],
-      ],
-    }
+optimizer: {
+  type: 'adamw',
+  lr: 2e-4,
+  weight_decay: 0.0,
+  parameter_groups: [
+    [
+      ['_embedder'],
+      {
+        lr: 8e-6,
+        weight_decay: 0.01,
+        finetune: true,
+      },
+    ],
+  ],
+}
 ```
 
 Then, an exmaple to fine-tune a model is:
 ```
-CUDA_VISIBLE_DEVICES=`free-gpu` allennlp train "training_config/ace05_event_fine_tune.jsonnet" \
+allennlp train "training_config/ace05_event_fine_tune.jsonnet" \
     --serialization-dir PATH/TO/STORE/YOUR/FINETUNED/MODEL \
     --include-package dygie 
 ```
@@ -61,7 +61,7 @@ Please see more details of config details  in `ace05_event_fine_tune.jsonnet` fo
 ### Evaluation
 To evaluate a trained model:
 ```
-CUDA_VISIBLE_DEVICES=`free-gpu` allennlp evaluate \
+allennlp evaluate \
   PATH/FOR/TRAINED/MODEL \
   data/ace-event/collated-data/en-ar/json/test.json \
   --cuda-device 0 \
