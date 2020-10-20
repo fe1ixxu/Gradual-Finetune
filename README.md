@@ -14,7 +14,7 @@ pip install -r requirements.txt
 conda develop .   # Adds DyGIE to your PYTHONPATH
 ```
 
-We have already offered all dataset at `./dygiepp/data/ace-event/collated-data/en-ar/json`, so no complex data preprocessing needed now. The amount of English and Arabic data has been indicated in the name of data file.
+We have already offered all dataset at `./dygiepp/data/ace-event/collated-data/en-ar/json`, so no complex data preprocessing needed now. The amount of English data has been indicated in the name of data file.
 
 ### Train from Scratch
 ```
@@ -29,7 +29,7 @@ The DYGIE++ uses allennlp framework, so we have to add "from_archive" in the con
 ```
 model:{
   "type": "from_archive",
-  "archive_file": PATH/TO/STORE/YOUR/MODEL
+  "archive_file": PATH/TO/STORE/YOUR/TRAINED/MODEL
 },
 ```
 If we want to modify the learning rate to 8e-6 for XLMR and 2e-4 for the rest, something in the config file is like this:
@@ -69,3 +69,44 @@ allennlp evaluate \
 ```
 
 ## 2. Dialogue State Tracking
+We utilize [SUMBT](https://github.com/SKTBrain/SUMBT) to perform DST experiments. Original SUMBT does not offer fine-tuning function, but we add it for their repo: `./SUMBT`. We use `--fine_tune FINE/TUNE/DIR` to enable the fine-tuning function. We also add `--domain` arguments to forcus on each domain, and `--data_augmentation DARA/TO/AUG # e.g., 500` to represent the amount of augmentated data. 
+
+We have also offered all preprocessed dataset for restaurant and hotel domains here: `SUMBT/data/multiwoz/domains`. he amount of out-of-domain and has been indicated in the name of data file, e.g. train4000.tsv represents 4K out-of-domain data.
+
+Build virtual environment
+```
+cd SUMBT
+conda create --name dygiepp python=3.6
+conda activate sumbt
+pip install -r requirements.txt
+```
+
+### Train from Scratch
+To train the model:
+```
+python3 code/main-multislot.py --do_train --do_eval --num_train_epochs $EPOCH --data_dir $DATA/DIR \
+--bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT/DIR \
+--target_slot all --warmup_proportion 0.1 --learning_rate LR/YOU/WANT --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
+--tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA/TO/AUG \
+--domain $DOMAIN --patience 15  # --data_augmentation only support 4k, 2k, 500, NONE. NONE means no augmentated data
+```
+
+### Fine-Tuning
+We show how to enable fine-tuning function by simply modify the command:
+```
+python3 code/main-multislot.py --do_train --do_eval --num_train_epochs $EPOCH --data_dir $DATA/DIR \
+--bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT/DIR \
+--target_slot all --warmup_proportion 0.1 --learning_rate LR/YOU/WANT --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
+--tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA_AUG \
+--fine_tune $FINE_TUNE_DIR --patience 15 --domain $DOMAIN
+```
+### Evaluation
+A simple way to evaluate a trained model is just removing `--do_train`:
+```
+python3 code/main-multislot.py --do_eval --num_train_epochs $EPOCH --data_dir $DATA/DIR \
+--bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT/DIR \
+--target_slot all --warmup_proportion 0.1 --learning_rate LR/YOU/WANT --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
+--tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA/TO/AUG \
+--domain $DOMAIN --patience 15  # --data_augmentation only support 4k, 2k, 500, NONE. NONE means no augmentated data
+```
+
