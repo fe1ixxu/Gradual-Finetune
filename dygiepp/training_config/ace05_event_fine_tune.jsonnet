@@ -4,9 +4,9 @@ template.DyGIE {
   bert_model: "xlm-roberta-base",
   cuda_device: 0,
   data_paths: {
-    train: "data/ace-event/collated-data/en-ar/large-filter/ar-train.json",
-    validation: "data/ace-event/collated-data/en-ar/large-filter/dev.json",
-    test: "data/ace-event/collated-data/en-ar/large-filter/test.json",
+    train: "data/ace-event/collated-data/en-ar/json/ar-train.json",
+    validation: "data/ace-event/collated-data/en-ar/json/dev.json",
+    test: "data/ace-event/collated-data/en-ar/json/test.json",
   },
   loss_weights: {
     ner: 0.5,
@@ -17,7 +17,7 @@ template.DyGIE {
   target_task: "events",
   model:{
     "type": "from_archive",
-    "archive_file": "/export/c12/haoranxu/dygiepp/loss/en1k-500-200-ar/model.tar.gz"
+    "archive_file": PATH/TO/STORE/YOUR/TRAINED/MODEL
   },
   trainer: {
     checkpointer: {
@@ -25,7 +25,7 @@ template.DyGIE {
     },
     num_epochs: 50,
     grad_norm: 5.0,
-    validation_metric: '+MEAN__arg_class_f1',
+    validation_metric: '+MEAN__trig_class_f1',
     optimizer: {
       type: 'adamw',
       lr: 2e-4,
