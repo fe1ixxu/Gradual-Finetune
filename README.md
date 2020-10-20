@@ -71,7 +71,7 @@ allennlp evaluate \
 ## 2. Dialogue State Tracking
 We utilize [SUMBT](https://github.com/SKTBrain/SUMBT) to perform DST experiments. Original SUMBT does not offer fine-tuning function, but we add it for their repo: `./SUMBT`. We use `--fine_tune FINE/TUNE/DIR` to enable the fine-tuning function. We also add `--domain` arguments to forcus on each domain, and `--data_augmentation DARA/TO/AUG # e.g., 500` to represent the amount of augmentated data. 
 
-We have also offered all preprocessed dataset for restaurant and hotel domains here: `SUMBT/data/multiwoz/domains`. he amount of out-of-domain and has been indicated in the name of data file, e.g. train4000.tsv represents 4K out-of-domain data.
+We have also offered all preprocessed dataset for restaurant and hotel domains here: `SUMBT/data/multiwoz/domains`. The amount of out-of-domain and has been indicated in the name of data file, e.g. train4000.tsv represents 4K out-of-domain data.
 
 Build virtual environment
 ```
