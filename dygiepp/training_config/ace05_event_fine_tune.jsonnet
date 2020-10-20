@@ -1,4 +1,4 @@
-local template = import "template2.libsonnet";
+local template = import "template.libsonnet";
 
 template.DyGIE {
   bert_model: "xlm-roberta-base",
