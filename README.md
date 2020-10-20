@@ -32,6 +32,14 @@ model:{
   "archive_file": PATH/TO/STORE/YOUR/TRAINED/MODEL
 },
 ```
+You also have to point out the new train file in the config file:
+```
+data_paths: {
+train: "data/ace-event/collated-data/en-ar/json/TRAIN.json",
+validation: "data/ace-event/collated-data/en-ar/json/dev.json",
+test: "data/ace-event/collated-data/en-ar/json/test.json",
+}
+```
 If we want to modify the learning rate to 8e-6 for XLMR and 2e-4 for the rest, something in the config file is like this:
 ```
 optimizer: {
