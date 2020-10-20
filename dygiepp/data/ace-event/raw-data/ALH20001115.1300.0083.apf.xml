@@ -1,0 +1,548 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001115.1300.0083.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001115.1300.0083">
+<entity ID="ALH20001115.1300.0083-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="ALH20001115.1300.0083-E1-5" TYPE="NOM" LDCTYPE="NOM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="416" END="436">خطوط الطيران المنافسة</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="419">خطوط</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0083-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E2-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="738" END="743">ايرباص</charseq>
+    </extent>
+    <head>
+      <charseq START="738" END="743">ايرباص</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايرباص">
+      <charseq START="738" END="743">ايرباص</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E3" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E3-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="700" END="769">اسطول من تسع طائرات من بينها طائرتان
+»ايرباص ٠١٣« وطائرة »بوينغ ٧٣٧٠٠٤</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="704">اسطول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E3-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="709" END="718">تسع طائرات</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="718">طائرات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E3-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="726" END="727">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="726" END="727">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0083-E4" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E4-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="729" END="747">طائرتان
+»ايرباص ٠١٣</charseq>
+    </extent>
+    <head>
+      <charseq START="729" END="735">طائرتان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E4-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="745" END="747">٠١٣</charseq>
+    </extent>
+    <head>
+      <charseq START="745" END="747">٠١٣</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="٠١٣">
+      <charseq START="745" END="747">٠١٣</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E5" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E5-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="751" END="769">طائرة »بوينغ ٧٣٧٠٠٤</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="755">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E5-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="764" END="769">٧٣٧٠٠٤</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="769">٧٣٧٠٠٤</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="٧٣٧٠٠٤">
+      <charseq START="764" END="769">٧٣٧٠٠٤</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E6-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="758" END="762">بوينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="758" END="762">بوينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بوينغ">
+      <charseq START="758" END="762">بوينغ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E7" TYPE="VEH" SUBTYPE="Air" CLASS="GEN">
+  <entity_mention ID="ALH20001115.1300.0083-E7-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="819" END="829">طائرة
+جديدة</charseq>
+    </extent>
+    <head>
+      <charseq START="819" END="823">طائرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0083-E8" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E8-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="853" END="864">منطقة الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="853" END="857">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0083-E9" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E9-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="859" END="864">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="859" END="864">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="859" END="864">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E10" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E10-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="867" END="884">شبة القارة
+الهندية</charseq>
+    </extent>
+    <head>
+      <charseq START="867" END="884">شبة القارة
+الهندية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شبة القارة الهندية">
+      <charseq START="867" END="884">شبة القارة
+الهندية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E11-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="106" END="117">مسقط  رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="109">مسقط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مسقط">
+      <charseq START="106" END="109">مسقط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E12" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E12-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="112" END="117">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="117">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="112" END="117">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E13-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="360" END="365">للشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="360" END="365">للشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="658" END="663">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="658" END="663">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="303" END="303">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="303">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="124" END="124">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="124" END="124">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="160">العـــمانية لخدمات
+الطـــيران</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="160">العـــمانية لخدمات
+الطـــيران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-31" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="163" END="166">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="166">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="168" END="168">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="168" END="168">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="126" END="191">شركة »العـــمانية لخدمات
+الطـــيران« التي تملك شركة »طيـــران عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="129">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="196" END="197">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="197">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E13-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="202" END="202">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="202">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العـــمانية لخدمات الطـــيران">
+      <charseq START="132" END="160">العـــمانية لخدمات
+الطـــيران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0083-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0083-E14-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="371" END="380">طيران عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="380">طيران عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="387" END="387">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="387">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="405" END="406">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="406">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="490" END="491">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="491">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="688" END="697">طيران عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="688" END="697">طيران عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="798" END="798">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="798">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="800" END="805">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="800" END="805">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="809" END="810">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="810">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="813" END="813">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="813" END="813">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="173" END="191">شركة »طيـــران عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="176">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0083-E14-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="179" END="191">طيـــران عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="191">طيـــران عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طيـــران عمان">
+      <charseq START="179" END="191">طيـــران عمان</charseq>
+    </name>
+    <name NAME="طيران عمان">
+      <charseq START="371" END="380">طيران عمان</charseq>
+    </name>
+    <name NAME="طيران عمان">
+      <charseq START="688" END="697">طيران عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="ALH20001115.1300.0083-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001115.1300.0083-V1-1">
+    <extent>
+      <charseq START="224" END="238">1.52 مليون ريال</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001115.1300.0083-V2" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001115.1300.0083-V2-1">
+    <extent>
+      <charseq START="244" END="261">اربعة ملايين دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001115.1300.0083-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001115.1300.0083-V3-1">
+    <extent>
+      <charseq START="542" END="557">20.27 مليون ريال</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001115.1300.0083-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001115.1300.0083-V4-1">
+    <extent>
+      <charseq START="595" END="610">23.29 مليون ريال</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001115.1300.0083-V5" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001115.1300.0083-V5-1">
+    <extent>
+      <charseq START="665" END="679">10.5
+مليون ريال</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001115.1300.0083-T1">
+  <timex2_mention ID="ALH20001115.1300.0083-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0083-T2">
+  <timex2_mention ID="ALH20001115.1300.0083-T2-1">
+    <extent>
+      <charseq START="615" END="638">الفترة نفسها من عام ٩٩٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0083-T3">
+  <timex2_mention ID="ALH20001115.1300.0083-T3-1">
+    <extent>
+      <charseq START="266" END="292">اول تسعة اشهر من السنة ٠٠٠٢</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0083-T4">
+  <timex2_mention ID="ALH20001115.1300.0083-T4-1">
+    <extent>
+      <charseq START="335" END="346">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0083-T5">
+  <timex2_mention ID="ALH20001115.1300.0083-T5-1">
+    <extent>
+      <charseq START="562" END="590">الاشهر التسعة الاولى من السنة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0083-T6">
+  <timex2_mention ID="ALH20001115.1300.0083-T6-1">
+    <extent>
+      <charseq START="781" END="792">ايلول سبتمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001115.1300.0083-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0083-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0083-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0083-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="106" END="117">مسقط  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0083-E12-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="112" END="117">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0083-E11-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="106" END="117">مسقط  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0083-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0083-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0083-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0083-R2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="126" END="191">شركة »العـــمانية لخدمات
+الطـــيران« التي تملك شركة »طيـــران عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0083-E14-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="173" END="191">شركة »طيـــران عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0083-E13-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="168" END="168">ت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001115.1300.0083-EV1" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001115.1300.0083-E7" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001115.1300.0083-E14" ROLE="Buyer"/>
+  <event_argument REFID="ALH20001115.1300.0083-T6" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001115.1300.0083-EV1-1">
+    <extent>
+      <charseq START="781" END="829">ايلول سبتمبر اعلنت الشركة انها ستشتري طائرة
+جديدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="777" END="884">وفي ايلول سبتمبر اعلنت الشركة انها ستشتري طائرة
+جديدة لخدمة رحلات جديدة الى منطقة الخليج وشبة القارة
+الهندية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="812" END="817">ستشتري</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001115.1300.0083-E7-21" ROLE="Artifact">
+      <extent>
+        <charseq START="819" END="829">طائرة
+جديدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001115.1300.0083-E14-20" ROLE="Buyer">
+      <extent>
+        <charseq START="813" END="813">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001115.1300.0083-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="781" END="792">ايلول سبتمبر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

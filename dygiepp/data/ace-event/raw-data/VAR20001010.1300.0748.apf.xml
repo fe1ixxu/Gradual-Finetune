@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001010.1300.0748.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001010.1300.0748">
+<entity ID="VAR20001010.1300.0748-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E1-1" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="372" END="389">الدكتور جرفروي جوز</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="378">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="391" END="436">أستاذ العلوم
+السياسية في جامعة فرسود الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="395">أستاذ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E1-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="380" END="389">جرفروي جوز</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="389">جرفروي جوز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جرفروي جوز">
+      <charseq START="380" END="389">جرفروي جوز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.0748-E2" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E2-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="416" END="436">جامعة فرسود الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="426">جامعة فرسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جامعة فرسود">
+      <charseq START="416" END="426">جامعة فرسود</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.0748-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E3-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="428" END="436">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="436">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E3-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="662" END="667">أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="667">أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E3-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="134" END="139">أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="139">أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكية">
+      <charseq START="428" END="436">الأمريكية</charseq>
+    </name>
+    <name NAME="أمريكا">
+      <charseq START="662" END="667">أمريكا</charseq>
+    </name>
+    <name NAME="أمريكا">
+      <charseq START="134" END="139">أمريكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.0748-E4" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001010.1300.0748-E4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="489" END="507">لمستمعين في إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="496">لمستمعين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E5" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E5-8" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="510" END="527">الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="516">الأراضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E6" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E6-15" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="518" END="527">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="527">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينية">
+      <charseq START="518" END="527">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.0748-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E7-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="489" END="527">لمستمعين في إسرائيل والأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="496">لمستمعين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E8-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="239" END="240">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="240">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E8-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="150" END="151">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="151">كم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E9-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="73" END="73">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="73" END="73">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E9-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="114" END="114">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="114">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E9-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="235" END="235">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="235">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E11-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="202" END="212">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="212">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E12-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="215" END="232">القوات الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="220">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E13-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="501" END="507">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="507">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E13-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="501" END="507">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="507">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E13-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="222" END="232">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="232">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيل">
+      <charseq START="501" END="507">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="501" END="507">إسرائيل</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="222" END="232">الإسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.0748-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E15-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="290" END="302">ضيفي البرنامج</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="293">ضيفي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E15-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="305" END="307">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="307">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.0748-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E16-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="317" END="329">خالد عبد الله</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="329">خالد عبد الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E16-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="309" END="329">الدكتور خالد عبد الله</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="315">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E16-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="331" END="369">السفير
+السابق للجامعة العربية في واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="336">السفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خالد عبد الله">
+      <charseq START="317" END="329">خالد عبد الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.0748-E18" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E18-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="345" END="369">للجامعة العربية في واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="359">للجامعة العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للجامعة العربية">
+      <charseq START="345" END="359">للجامعة العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.0748-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.0748-E19-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="470" END="475">واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="475">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E19-9" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="611" END="613">هنا</charseq>
+    </extent>
+    <head>
+      <charseq START="611" END="613">هنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E19-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="618" END="623">واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="618" END="623">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.0748-E19-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="364" END="369">واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="369">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="470" END="475">واشنطن</charseq>
+    </name>
+    <name NAME="واشنطن">
+      <charseq START="618" END="623">واشنطن</charseq>
+    </name>
+    <name NAME="واشنطن">
+      <charseq START="364" END="369">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="VAR20001010.1300.0748-V1" TYPE="Contact-Info" SUBTYPE="Phone-Number">
+  <value_mention ID="VAR20001010.1300.0748-V1-1">
+    <extent>
+      <charseq START="573" END="583">18009494949</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="VAR20001010.1300.0748-V2" TYPE="Contact-Info" SUBTYPE="Phone-Number">
+  <value_mention ID="VAR20001010.1300.0748-V2-1">
+    <extent>
+      <charseq START="639" END="648">2026193861</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="VAR20001010.1300.0748-V3" TYPE="Contact-Info" SUBTYPE="Phone-Number">
+  <value_mention ID="VAR20001010.1300.0748-V3-1">
+    <extent>
+      <charseq START="477" END="486">2026193861</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="VAR20001010.1300.0748-T1">
+  <timex2_mention ID="VAR20001010.1300.0748-T1-1">
+    <extent>
+      <charseq START="157" END="167">أقل من ساعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.0748-T2">
+  <timex2_mention ID="VAR20001010.1300.0748-T2-1">
+    <extent>
+      <charseq START="175" END="179">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.0748-T3">
+  <timex2_mention ID="VAR20001010.1300.0748-T3-1">
+    <extent>
+      <charseq START="695" END="708">حوالي 45 دقيقة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.0748-T4">
+  <timex2_mention ID="VAR20001010.1300.0748-T4-1">
+    <extent>
+      <charseq START="39" END="60">10/10/2000 13:12:28.52</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.0748-T5">
+  <timex2_mention ID="VAR20001010.1300.0748-T5-1">
+    <extent>
+      <charseq START="108" END="112">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001010.1300.0748-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001010.1300.0748-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001010.1300.0748-E13" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001010.1300.0748-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="215" END="232">القوات الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E12-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="215" END="232">القوات الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E13-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="222" END="232">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001010.1300.0748-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001010.1300.0748-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001010.1300.0748-E18" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001010.1300.0748-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="331" END="369">السفير
+السابق للجامعة العربية في واشنطن</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E16-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="331" END="369">السفير
+السابق للجامعة العربية في واشنطن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E18-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="345" END="369">للجامعة العربية في واشنطن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001010.1300.0748-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001010.1300.0748-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001010.1300.0748-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001010.1300.0748-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="391" END="436">أستاذ العلوم
+السياسية في جامعة فرسود الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="391" END="436">أستاذ العلوم
+السياسية في جامعة فرسود الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E2-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="416" END="436">جامعة فرسود الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001010.1300.0748-R4" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001010.1300.0748-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001010.1300.0748-E13" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001010.1300.0748-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="489" END="527">لمستمعين في إسرائيل والأراضي الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E4-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="489" END="507">لمستمعين في إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E13-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="501" END="507">إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001010.1300.0748-R5" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001010.1300.0748-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001010.1300.0748-E5" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001010.1300.0748-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="489" END="527">لمستمعين في إسرائيل والأراضي الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E7-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="489" END="527">لمستمعين في إسرائيل والأراضي الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001010.1300.0748-E5-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="510" END="527">الأراضي الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001010.1300.0748-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001010.1300.0748-E11" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001010.1300.0748-E12" ROLE="Attacker"/>
+  <event_mention ID="VAR20001010.1300.0748-EV1-1">
+    <extent>
+      <charseq START="181" END="232">المجابهة الحالية بين
+الفلسطينيين والقوات الإسرائيلية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="232">وقبل أن ننتقل إلى التطورات العالمية الأخرى اليوم نذكر أن برنامج هالو
+أمريكا الذي يأتيكم بعد أقل من ساعة يناقش اليوم المجابهة الحالية بين
+الفلسطينيين والقوات الإسرائيلية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="181" END="188">المجابهة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001010.1300.0748-E11-22" ROLE="Attacker">
+      <extent>
+        <charseq START="202" END="212">الفلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001010.1300.0748-E12-23" ROLE="Attacker">
+      <extent>
+        <charseq START="215" END="232">القوات الإسرائيلية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="VAR20001010.1300.0748-EV1-2">
+    <extent>
+      <charseq START="674" END="681">المجابهة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="625" END="716">وصور مرة أخري 2026193861 وبرنامج الو أمريكا لبحث
+المجابهة الحالية بعد حوالي 45 دقيقة من الآن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="674" END="681">المجابهة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="VAR20001010.1300.0748-EV2" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="VAR20001010.1300.0748-E16" ROLE="Entity"/>
+  <event_argument REFID="VAR20001010.1300.0748-E1" ROLE="Entity"/>
+  <event_mention ID="VAR20001010.1300.0748-EV2-1">
+    <extent>
+      <charseq START="331" END="450">السفير
+السابق للجامعة العربية في واشنطن والدكتور جرفروي جوز أستاذ العلوم
+السياسية في جامعة فرسود الأمريكية وذلك بالاتصال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="234" END="486">وندعوكم إلى المشاركة في البرنامج بطرح
+أسئلة موضوعية على ضيفي البرنامج وهما الدكتور خالد عبد الله السفير
+السابق للجامعة العربية في واشنطن والدكتور جرفروي جوز أستاذ العلوم
+السياسية في جامعة فرسود الأمريكية وذلك بالاتصال على رقم الهاتف في
+واشنطن 2026193861</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="443" END="450">بالاتصال</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001010.1300.0748-E16-29" ROLE="Entity">
+      <extent>
+        <charseq START="331" END="369">السفير
+السابق للجامعة العربية في واشنطن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001010.1300.0748-E1-2" ROLE="Entity">
+      <extent>
+        <charseq START="391" END="436">أستاذ العلوم
+السياسية في جامعة فرسود الأمريكية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001010.1300.0748-EV3" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_mention ID="VAR20001010.1300.0748-EV3-1">
+    <extent>
+      <charseq START="547" END="554">بالاتصال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="488" END="623">ولمستمعين في إسرائيل والأراضي الفلسطينية يمكن طلب
+المكالمة بالاتصال على الرقم المحلي 18009494949 ثم طلب المكالمة على
+الرقم هنا في واشنطن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="547" END="554">بالاتصال</charseq>
+    </anchor>
+  </event_mention>
+</event>
+</document>
+</source_file>

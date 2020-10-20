@@ -1,0 +1,645 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001014.1300.0111.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001014.1300.0111">
+<entity ID="ALH20001014.1300.0111-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E1-4" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="827" END="872">اربع دول فقط من هذه الفئة منها السودان وليسوتو</charseq>
+    </extent>
+    <head>
+      <charseq START="832" END="834">دول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E1-5" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="855" END="856">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="856">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E1-8" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="878" END="879">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="878" END="879">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E1-9" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="893" END="893">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="893" END="893">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E1-11" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="982" END="983">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="982" END="983">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E1-23" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="874" END="874">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="874">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E1-31" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="884" END="884">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="884" END="884">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E2-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="858" END="864">السودان</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="864">السودان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السودان">
+      <charseq START="858" END="864">السودان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0111-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E3-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="867" END="872">ليسوتو</charseq>
+    </extent>
+    <head>
+      <charseq START="867" END="872">ليسوتو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ليسوتو">
+      <charseq START="867" END="872">ليسوتو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0111-E4" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ALH20001014.1300.0111-E4-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="920" END="924">الفرد</charseq>
+    </extent>
+    <head>
+      <charseq START="920" END="924">الفرد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E5-12" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1101" END="1101">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1101" END="1101">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E5-13" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1112" END="1125">الدول الصناعية</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1116">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E6-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1228" END="1259">سكان هذه الدول الثماني والاربعين</charseq>
+    </extent>
+    <head>
+      <charseq START="1228" END="1231">سكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E7-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1302" END="1316">عشر سكان العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1309">سكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E8" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001014.1300.0111-E8-17" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1287" END="1316">أكثر قليلاً من عشر سكان العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="1287" END="1290">أكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E9" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001014.1300.0111-E9-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1223" END="1223">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1223" END="1223">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E9-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1265" END="1266">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1265" END="1266">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E10-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="141" END="152">جنيف  رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="144">جنيف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جنيف">
+      <charseq START="141" END="144">جنيف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0111-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E11-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="147" END="152">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="152">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="147" END="152">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0111-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E12-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="160" END="203">منظمة الامم المتحدة للتجارة والتنمية
+اونكتاد</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="195">منظمة الامم المتحدة للتجارة والتنمية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E12-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="197" END="203">اونكتاد</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="203">اونكتاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E12-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="158" END="158">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="158">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E12-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="282" END="282">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="282">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E12-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="404" END="404">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="404">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E12-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="406" END="412">المنظمة</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="412">المنظمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E12-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="423" END="424">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="424">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منظمة الامم المتحدة للتجارة والتنمية">
+      <charseq START="160" END="195">منظمة الامم المتحدة للتجارة والتنمية</charseq>
+    </name>
+    <name NAME="اونكتاد">
+      <charseq START="197" END="203">اونكتاد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0111-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E13-2" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="231" END="231">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="231">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-3" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="474" END="474">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="474">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="304" END="368">لاكثر ٨٤ دولة فقراً في العالم
+التي تصدر سلعاً أولية وتستورد النفط</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="316">دولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-19" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="334" END="337">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="337">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-21" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="357" END="357">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="357">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-22" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="847" END="851">الفئة</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="851">الفئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-25" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1008" END="1020">الدول الفقيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1008" END="1012">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-26" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1031" END="1045">أكثر الدول فقرا</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1040">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-27" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1109" END="1110">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1109" END="1110">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-28" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1237" END="1259">الدول الثماني والاربعين</charseq>
+    </extent>
+    <head>
+      <charseq START="1237" END="1241">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-29" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="339" END="339">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="339">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-30" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="537" END="537">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="537">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-33" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="999" END="1020">الفئة من الدول الفقيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1003">لفئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-34" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="215" END="229">افقر دول العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="218">افقر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-35" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="443" END="457">افقر دول
+العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="446">افقر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E13-36" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="464" END="472">هذه الدول</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="472">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E14" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E14-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1311" END="1316">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="1311" END="1316">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E14-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="224" END="229">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="229">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E14-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="327" END="332">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="332">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E14-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="452" END="457">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="457">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0111-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0111-E15-37" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="448" END="457">دول
+العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="450">دول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0111-E15-48" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="220" END="229">دول العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="222">دول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ALH20001014.1300.0111-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001014.1300.0111-V1-1">
+    <extent>
+      <charseq START="958" END="966">٠٠٩ دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001014.1300.0111-V2" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="ALH20001014.1300.0111-V2-1">
+    <extent>
+      <charseq START="1133" END="1143">٥٤ في المئة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001014.1300.0111-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001014.1300.0111-V3-1">
+    <extent>
+      <charseq START="1330" END="1336">دولارين</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001014.1300.0111-T1">
+  <timex2_mention ID="ALH20001014.1300.0111-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-14</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0111-T2">
+  <timex2_mention ID="ALH20001014.1300.0111-T2-1">
+    <extent>
+      <charseq START="205" END="210">الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0111-T3">
+  <timex2_mention ID="ALH20001014.1300.0111-T3-1">
+    <extent>
+      <charseq START="596" END="609">آذار مارس ٩٩٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0111-T4">
+  <timex2_mention ID="ALH20001014.1300.0111-T4-1">
+    <extent>
+      <charseq START="788" END="809">الاعوام العشرة الماضية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0111-T5">
+  <timex2_mention ID="ALH20001014.1300.0111-T5-1">
+    <extent>
+      <charseq START="1159" END="1166">عام ٠٩٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0111-T6">
+  <timex2_mention ID="ALH20001014.1300.0111-T6-1">
+    <extent>
+      <charseq START="1206" END="1220">أوائل السبعينات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0111-T7">
+  <timex2_mention ID="ALH20001014.1300.0111-T7-1">
+    <extent>
+      <charseq START="383" END="397">عامي ٨٩٩١
+و٩٩٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0111-T8">
+  <timex2_mention ID="ALH20001014.1300.0111-T8-1">
+    <extent>
+      <charseq START="612" END="624">آب اغسطس
+٠٠٠٢</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001014.1300.0111-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0111-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0111-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0111-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="220" END="229">دول العالم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E15-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="220" END="229">دول العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E14-41" ROLE="Arg-2">
+      <extent>
+        <charseq START="224" END="229">العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001014.1300.0111-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="448" END="457">دول
+العالم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E15-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="448" END="457">دول
+العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E14-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="452" END="457">العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0111-R3" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0111-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0111-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0111-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1228" END="1259">سكان هذه الدول الثماني والاربعين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E6-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="1228" END="1259">سكان هذه الدول الثماني والاربعين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E13-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="1237" END="1259">الدول الثماني والاربعين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0111-R4" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0111-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0111-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0111-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1302" END="1316">عشر سكان العالم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E7-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="1302" END="1316">عشر سكان العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E14-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="1311" END="1316">العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0111-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0111-E10" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001014.1300.0111-E11" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001014.1300.0111-R5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="141" END="152">جنيف  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E11-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="147" END="152">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E10-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="141" END="152">جنيف  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0111-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0111-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0111-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0111-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="304" END="368">لاكثر ٨٤ دولة فقراً في العالم
+التي تصدر سلعاً أولية وتستورد النفط</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E13-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="304" END="368">لاكثر ٨٤ دولة فقراً في العالم
+التي تصدر سلعاً أولية وتستورد النفط</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0111-E14-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="327" END="332">العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

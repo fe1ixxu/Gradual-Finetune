@@ -1,0 +1,939 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="DIGRESSING_20050215.2204.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="DIGRESSING_20050215.2204">
+<entity ID="DIGRESSING_20050215.2204-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E1-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="384" END="391">المفكرين</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="391">المفكرين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="394" END="425">المعنيين بالحياة السياسية في مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="401">المعنيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="573" END="586">رئيس الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="576">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E3-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2260" END="2264">مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="2260" END="2264">مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مبارك">
+      <charseq START="2260" END="2264">مبارك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E4-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="682" END="698">المؤسسة التشريعية</charseq>
+    </extent>
+    <head>
+      <charseq START="682" END="688">المؤسسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E4-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="704" END="705">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="704" END="705">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E5-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1168" END="1177">بحزب الوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="1168" END="1177">بحزب الوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بحزب الوسط">
+      <charseq START="1168" END="1177">بحزب الوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E6-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1147" END="1158">الحزب الوطني</charseq>
+    </extent>
+    <head>
+      <charseq START="1147" END="1158">الحزب الوطني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحزب الوطني">
+      <charseq START="1147" END="1158">الحزب الوطني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E7-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1313" END="1321">المشاركين</charseq>
+    </extent>
+    <head>
+      <charseq START="1313" END="1321">المشاركين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E8-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1455" END="1472">أحمد كمال أبوالمجد</charseq>
+    </extent>
+    <head>
+      <charseq START="1455" END="1472">أحمد كمال أبوالمجد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E8-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1396" END="1453">نائب رئيس المجلس القومي لحقوق
+الانسان ووزير الاعلام الاسبق</charseq>
+    </extent>
+    <head>
+      <charseq START="1396" END="1399">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E8-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1435" END="1453">وزير الاعلام الاسبق</charseq>
+    </extent>
+    <head>
+      <charseq START="1435" END="1438">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E8-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1475" END="1477">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="1475" END="1477">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E8-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1534" END="1534">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1534" END="1534">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أحمد كمال أبوالمجد">
+      <charseq START="1455" END="1472">أحمد كمال أبوالمجد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E10-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1401" END="1432">رئيس المجلس القومي لحقوق
+الانسان</charseq>
+    </extent>
+    <head>
+      <charseq START="1401" END="1404">رئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E11-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1440" END="1446">الاعلام</charseq>
+    </extent>
+    <head>
+      <charseq START="1440" END="1446">الاعلام</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاعلام">
+      <charseq START="1440" END="1446">الاعلام</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E12" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050215.2204-E12-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1479" END="1481">ممن</charseq>
+    </extent>
+    <head>
+      <charseq START="1480" END="1481">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E12-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1485" END="1486">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1485" END="1486">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E13" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050215.2204-E13-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1550" END="1550">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1550" END="1550">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E13-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1556" END="1560">الناس</charseq>
+    </extent>
+    <head>
+      <charseq START="1556" END="1560">الناس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E14" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050215.2204-E14-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1686" END="1687">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1686" END="1687">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E14-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1675" END="1687">متحدثون اخرون</charseq>
+    </extent>
+    <head>
+      <charseq START="1675" END="1681">متحدثون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E15-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1785" END="1793">محمد فائق</charseq>
+    </extent>
+    <head>
+      <charseq START="1785" END="1793">محمد فائق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E15-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1742" END="1783">الامين العام للمنظمة العربية لحقوق الانسان</charseq>
+    </extent>
+    <head>
+      <charseq START="1742" END="1747">الامين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد فائق">
+      <charseq START="1785" END="1793">محمد فائق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E17-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1755" END="1783">للمنظمة العربية لحقوق الانسان</charseq>
+    </extent>
+    <head>
+      <charseq START="1755" END="1783">للمنظمة العربية لحقوق الانسان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للمنظمة العربية لحقوق الانسان">
+      <charseq START="1755" END="1783">للمنظمة العربية لحقوق الانسان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050215.2204-E18-32" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="1809" END="1829">جميع الحكومات العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1809" END="1812">جميع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E18-34" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="1814" END="1829">الحكومات العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1814" END="1821">الحكومات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E18-35" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1843" END="1843">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1843" END="1843">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E18-36" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1864" END="1865">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1864" END="1865">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E18-48" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1886" END="1886">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1886" END="1886">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E18-49" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1906" END="1906">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1906" END="1906">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E19-33" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1823" END="1829">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1823" END="1829">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="1823" END="1829">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E20-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1892" END="1901">الاصلاحيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1892" END="1901">الاصلاحيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E20-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1911" END="1912">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1911" END="1912">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050215.2204-E21-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1917" END="1922">السجون</charseq>
+    </extent>
+    <head>
+      <charseq START="1917" END="1922">السجون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E22-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="107" END="107">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="107">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E22-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1406" END="1432">المجلس القومي لحقوق
+الانسان</charseq>
+    </extent>
+    <head>
+      <charseq START="1406" END="1432">المجلس القومي لحقوق
+الانسان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E22-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="112" END="140">المنظمة المصرية لحقوق الانسان</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="140">المنظمة المصرية لحقوق الانسان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المجلس القومي لحقوق الانسان">
+      <charseq START="1406" END="1432">المجلس القومي لحقوق
+الانسان</charseq>
+    </name>
+    <name NAME="المنظمة المصرية لحقوق الانسان">
+      <charseq START="112" END="140">المنظمة المصرية لحقوق الانسان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E23-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1978" END="1990">ابراهيم
+درويش</charseq>
+    </extent>
+    <head>
+      <charseq START="1978" END="1990">ابراهيم
+درويش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E23-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1992" END="2028">أستاذ القانون الدستوري بجامعة القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1992" END="1996">أستاذ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ابراهيم درويش">
+      <charseq START="1978" END="1990">ابراهيم
+درويش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E24-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="73" END="80">Mohammed</charseq>
+    </extent>
+    <head>
+      <charseq START="73" END="80">Mohammed</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Mohammed">
+      <charseq START="73" END="80">Mohammed</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E26" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E26-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2015" END="2028">بجامعة القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="2015" END="2028">بجامعة القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بجامعة القاهرة">
+      <charseq START="2015" END="2028">بجامعة القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E27-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="248" END="268">بفندق بيراميزا بالدقي</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="261">بفندق بيراميزا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بفندق بيراميزا">
+      <charseq START="248" END="261">بفندق بيراميزا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E28" TYPE="LOC" SUBTYPE="Address" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E28-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="263" END="268">بالدقي</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="268">بالدقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالدقي">
+      <charseq START="263" END="268">بالدقي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E29" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050215.2204-E29-53" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="279" END="372">مجموعة من الأكاديميين والخبراء
+والقانونيين والحقوقيين ورؤساء الأحزاب السياسية وأساتذة الجامعات</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="284">مجموعة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E30-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="289" END="299">الأكاديميين</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="299">الأكاديميين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E31-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="302" END="308">الخبراء</charseq>
+    </extent>
+    <head>
+      <charseq START="302" END="308">الخبراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E32-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="311" END="320">القانونيين</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="320">القانونيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E33-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="323" END="331">الحقوقيين</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="331">الحقوقيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E34-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="334" END="355">رؤساء الأحزاب السياسية</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="338">رؤساء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E35" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E35-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="340" END="355">الأحزاب السياسية</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="346">الأحزاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E36-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="358" END="372">أساتذة الجامعات</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="363">أساتذة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E37" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E37-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="365" END="372">الجامعات</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="372">الجامعات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E38" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050215.2204-E38-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="380" END="391">بعض المفكرين</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="382">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050215.2204-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050215.2204-E39-4" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="578" END="586">الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="586">الجمهورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E39-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="990" END="992">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="990" END="992">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E39-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1732" END="1734">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="1732" END="1734">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E39-44" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2031" END="2033">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="2031" END="2033">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E39-45" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2035" END="2035">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2035" END="2035">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E39-47" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2340" END="2344">الوطن</charseq>
+    </extent>
+    <head>
+      <charseq START="2340" END="2344">الوطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050215.2204-E39-63" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="423" END="425">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="425">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="990" END="992">مصر</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="1732" END="1734">مصر</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="2031" END="2033">مصر</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="423" END="425">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="DIGRESSING_20050215.2204-T1">
+  <timex2_mention ID="DIGRESSING_20050215.2204-T1-1">
+    <extent>
+      <charseq START="40" END="58">2005-02-15T22:04:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050215.2204-T2">
+  <timex2_mention ID="DIGRESSING_20050215.2204-T2-1">
+    <extent>
+      <charseq START="84" END="102">2005-02-15T22:04:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050215.2204-T3">
+  <timex2_mention ID="DIGRESSING_20050215.2204-T3-1">
+    <extent>
+      <charseq START="157" END="173">15-17 فبراير 2005</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050215.2204-T4">
+  <timex2_mention ID="DIGRESSING_20050215.2204-T4-1">
+    <extent>
+      <charseq START="814" END="825">الوقت الحالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050215.2204-T5">
+  <timex2_mention ID="DIGRESSING_20050215.2204-T5-1">
+    <extent>
+      <charseq START="1361" END="1371">اليوم الأول</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050215.2204-T6">
+  <timex2_mention ID="DIGRESSING_20050215.2204-T6-1">
+    <extent>
+      <charseq START="2193" END="2204">يوما بعد يوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="DIGRESSING_20050215.2204-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E28" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="248" END="268">بفندق بيراميزا بالدقي</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E27-51" ROLE="Arg-1">
+      <extent>
+        <charseq START="248" END="268">بفندق بيراميزا بالدقي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E28-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="263" END="268">بالدقي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R2" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E35" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="334" END="355">رؤساء الأحزاب السياسية</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E34-58" ROLE="Arg-1">
+      <extent>
+        <charseq START="334" END="355">رؤساء الأحزاب السياسية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E35-59" ROLE="Arg-2">
+      <extent>
+        <charseq START="340" END="355">الأحزاب السياسية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E37" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="358" END="372">أساتذة الجامعات</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E36-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="358" END="372">أساتذة الجامعات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E37-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="365" END="372">الجامعات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E39" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="573" END="586">رئيس الجمهورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E3-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="573" END="586">رئيس الجمهورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E39-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="578" END="586">الجمهورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R5" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E10" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1396" END="1453">نائب رئيس المجلس القومي لحقوق
+الانسان ووزير الاعلام الاسبق</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E8-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="1396" END="1453">نائب رئيس المجلس القومي لحقوق
+الانسان ووزير الاعلام الاسبق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E10-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="1401" END="1432">رئيس المجلس القومي لحقوق
+الانسان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R6" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E22" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1401" END="1453">رئيس المجلس القومي لحقوق
+الانسان ووزير الاعلام الاسبق</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E10-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="1401" END="1432">رئيس المجلس القومي لحقوق
+الانسان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E22-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="1406" END="1432">المجلس القومي لحقوق
+الانسان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E11" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1435" END="1453">وزير الاعلام الاسبق</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="1435" END="1453">وزير الاعلام الاسبق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E11-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="1440" END="1446">الاعلام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E18" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1814" END="1829">الحكومات العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E19-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="1823" END="1829">العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E18-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="1814" END="1829">الحكومات العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E17" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1742" END="1783">الامين العام للمنظمة العربية لحقوق الانسان</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E15-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="1742" END="1783">الامين العام للمنظمة العربية لحقوق الانسان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E17-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="1755" END="1783">للمنظمة العربية لحقوق الانسان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050215.2204-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050215.2204-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050215.2204-E26" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050215.2204-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1992" END="2028">أستاذ القانون الدستوري بجامعة القاهرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E23-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="1992" END="2028">أستاذ القانون الدستوري بجامعة القاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050215.2204-E26-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="2015" END="2028">بجامعة القاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="DIGRESSING_20050215.2204-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="DIGRESSING_20050215.2204-E27" ROLE="Place"/>
+  <event_argument REFID="DIGRESSING_20050215.2204-E29" ROLE="Entity"/>
+  <event_argument REFID="DIGRESSING_20050215.2204-T3" ROLE="Time-Within"/>
+  <event_mention ID="DIGRESSING_20050215.2204-EV1-1">
+    <extent>
+      <charseq START="157" END="372">15-17 فبراير 2005
+الملتقى الفكري التاسع تحت عنوان " الإصلاح الدستوري بين التعجيل والتأجيل"
+بفندق بيراميزا بالدقي وبمشاركة مجموعة من الأكاديميين والخبراء
+والقانونيين والحقوقيين ورؤساء الأحزاب السياسية وأساتذة الجامعات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="107" END="425">تعقد المنظمة المصرية لحقوق الانسان خلال الفترة من 15-17 فبراير 2005
+الملتقى الفكري التاسع تحت عنوان " الإصلاح الدستوري بين التعجيل والتأجيل"
+بفندق بيراميزا بالدقي وبمشاركة مجموعة من الأكاديميين والخبراء
+والقانونيين والحقوقيين ورؤساء الأحزاب السياسية وأساتذة الجامعات وكذلك
+بعض المفكرين والمعنيين بالحياة السياسية في مصر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="175" END="181">الملتقى</charseq>
+    </anchor>
+    <event_mention_argument REFID="DIGRESSING_20050215.2204-E27-51" ROLE="Place">
+      <extent>
+        <charseq START="248" END="268">بفندق بيراميزا بالدقي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="DIGRESSING_20050215.2204-E29-53" ROLE="Entity">
+      <extent>
+        <charseq START="279" END="372">مجموعة من الأكاديميين والخبراء
+والقانونيين والحقوقيين ورؤساء الأحزاب السياسية وأساتذة الجامعات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="DIGRESSING_20050215.2204-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="157" END="173">15-17 فبراير 2005</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

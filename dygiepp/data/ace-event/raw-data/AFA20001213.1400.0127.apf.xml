@@ -1,0 +1,840 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001213.1400.0127.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001213.1400.0127">
+<entity ID="AFA20001213.1400.0127-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E1-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="855" END="908">الامير الوليد بن طلال هو خامس اغنى رجل اعمال في العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="860">الامير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="862" END="875">الوليد بن طلال</charseq>
+    </extent>
+    <head>
+      <charseq START="862" END="875">الوليد بن طلال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="877" END="878">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="878">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="923" END="923">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="923" END="923">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="880" END="908">خامس اغنى رجل اعمال في العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="880" END="883">خامس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="885" END="908">اغنى رجل اعمال في العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="898">رجل اعمال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-35" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="142" END="162">الامير الوليد بن طلال</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="147">الامير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="149" END="162">الوليد بن طلال</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="162">الوليد بن طلال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E1-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="346" END="359">الوليد بن طلال</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="359">الوليد بن طلال</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الوليد بن طلال">
+      <charseq START="862" END="875">الوليد بن طلال</charseq>
+    </name>
+    <name NAME="الوليد بن طلال">
+      <charseq START="149" END="162">الوليد بن طلال</charseq>
+    </name>
+    <name NAME="الوليد بن طلال">
+      <charseq START="346" END="359">الوليد بن طلال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E2-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="587" END="594">الياباني</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="594">الياباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E2-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="642" END="648">اليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="648">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E2-34" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="809" END="816">الياباني</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="816">الياباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الياباني">
+      <charseq START="587" END="594">الياباني</charseq>
+    </name>
+    <name NAME="اليابان">
+      <charseq START="642" END="648">اليابان</charseq>
+    </name>
+    <name NAME="الياباني">
+      <charseq START="809" END="816">الياباني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E3" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E3-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="818" END="833">بطل الكأس السوبر</charseq>
+    </extent>
+    <head>
+      <charseq START="818" END="820">بطل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E3-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="795" END="833">جوبيلو ايواتا الياباني بطل الكأس السوبر</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="807">جوبيلو ايواتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جوبيلو ايواتا">
+      <charseq START="795" END="807">جوبيلو ايواتا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E4-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="957" END="987">مجلة "فوربس" الاميركية
+المتخصصة</charseq>
+    </extent>
+    <head>
+      <charseq START="957" END="967">مجلة "فوربس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلة فوربس">
+      <charseq START="957" END="967">مجلة "فوربس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E5-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="970" END="978">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="978">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركية">
+      <charseq START="970" END="978">الاميركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E6" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E6-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="685" END="688">اسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="685" END="688">اسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E6-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="528" END="534">الاسيوي</charseq>
+    </extent>
+    <head>
+      <charseq START="528" END="534">الاسيوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E6-30" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="305" END="312">الاسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="312">الاسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسيا">
+      <charseq START="685" END="688">اسيا</charseq>
+    </name>
+    <name NAME="الاسيوي">
+      <charseq START="528" END="534">الاسيوي</charseq>
+    </name>
+    <name NAME="الاسيوية">
+      <charseq START="305" END="312">الاسيوية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E7-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="736" END="742">اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="736" END="742">اسبانيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسبانيا">
+      <charseq START="736" END="742">اسبانيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E10-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="699" END="704">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="699" END="704">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E10-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="903" END="908">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="903" END="908">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العالم">
+      <charseq START="699" END="704">العالم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E11-20" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="439" END="445">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="445">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="439" END="445">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E12-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="574" END="594">شيميزو بولسه الياباني</charseq>
+    </extent>
+    <head>
+      <charseq START="574" END="585">شيميزو بولسه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E12-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="627" END="627">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="627">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E12-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="659" END="659">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="659">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شيميزو بولسه">
+      <charseq START="574" END="585">شيميزو بولسه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E14-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="714" END="720">للاندية</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="720">للاندية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001213.1400.0127-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E17-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="116" END="134">الرياض 12-13 (أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="121">الرياض</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياض">
+      <charseq START="116" END="121">الرياض</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E18-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="382" END="410">اعضاء الجهازين الفني
+والاداري</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="386">اعضاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001213.1400.0127-E19" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E19-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="388" END="410">الجهازين الفني
+والاداري</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="395">الجهازين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001213.1400.0127-E20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E20-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="130" END="134">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="134">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="130" END="134">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E24" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E24-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="481" END="481">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="481" END="481">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="515" END="520">الهلال</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="520">الهلال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="568" END="568">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="568">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="680" END="680">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="680">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="651" END="651">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="651" END="651">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="180" END="211">فريق
+الهلال السعودي في كرة القدم</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="183">فريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="185" END="190">الهلال</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="190">الهلال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="289" END="289">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="289">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="336" END="336">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="336">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="374" END="379">الهلال</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="379">الهلال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E24-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="420" END="425">الفريق</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="425">الفريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الهلال">
+      <charseq START="515" END="520">الهلال</charseq>
+    </name>
+    <name NAME="الهلال">
+      <charseq START="185" END="190">الهلال</charseq>
+    </name>
+    <name NAME="الهلال">
+      <charseq START="374" END="379">الهلال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E25-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="668" END="675">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="675">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E25-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="192" END="198">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="198">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001213.1400.0127-E25-41" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="252" END="256">سعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="256">سعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودية">
+      <charseq START="668" END="675">السعودية</charseq>
+    </name>
+    <name NAME="السعودي">
+      <charseq START="192" END="198">السعودي</charseq>
+    </name>
+    <name NAME="سعودي">
+      <charseq START="252" END="256">سعودي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001213.1400.0127-E27" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E27-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="225" END="232">60 سيارة</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="232">سيارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001213.1400.0127-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001213.1400.0127-E29-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="368" END="379">لاعبي الهلال</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="372">لاعبي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="AFA20001213.1400.0127-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001213.1400.0127-V1-1">
+    <extent>
+      <charseq START="240" END="256">مليوني ريال
+سعودي</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001213.1400.0127-V2" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001213.1400.0127-V2-1">
+    <extent>
+      <charseq START="259" END="275">نحو 550 الف دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001213.1400.0127-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001213.1400.0127-V3-1">
+    <extent>
+      <charseq START="925" END="943">بنحو 20 مليار دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001213.1400.0127-T1">
+  <timex2_mention ID="AFA20001213.1400.0127-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-13 17:27:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001213.1400.0127-T2">
+  <timex2_mention ID="AFA20001213.1400.0127-T2-1">
+    <extent>
+      <charseq START="123" END="127">12-13</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001213.1400.0127-T3">
+  <timex2_mention ID="AFA20001213.1400.0127-T3-1">
+    <extent>
+      <charseq START="550" END="561">بعد عام 1997</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001213.1400.0127-T4">
+  <timex2_mention ID="AFA20001213.1400.0127-T4-1">
+    <extent>
+      <charseq START="747" END="759">29 تموز/يوليو</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001213.1400.0127-T5">
+  <timex2_mention ID="AFA20001213.1400.0127-T5-1">
+    <extent>
+      <charseq START="765" END="775">12 اب/اغسطس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001213.1400.0127-T6">
+  <timex2_mention ID="AFA20001213.1400.0127-T6-1">
+    <extent>
+      <charseq START="777" END="784">عام 2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001213.1400.0127-T7">
+  <timex2_mention ID="AFA20001213.1400.0127-T7-1">
+    <extent>
+      <charseq START="835" END="842">عام 1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001213.1400.0127-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001213.1400.0127-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001213.1400.0127-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001213.1400.0127-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="116" END="134">الرياض 12-13 (أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E20-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="130" END="134">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E17-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="116" END="134">الرياض 12-13 (أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001213.1400.0127-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001213.1400.0127-E25" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001213.1400.0127-E24" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001213.1400.0127-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="180" END="211">فريق
+الهلال السعودي في كرة القدم</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E25-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="192" END="198">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E24-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="180" END="211">فريق
+الهلال السعودي في كرة القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001213.1400.0127-R3" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001213.1400.0127-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001213.1400.0127-E24" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001213.1400.0127-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="368" END="379">لاعبي الهلال</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E29-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="368" END="379">لاعبي الهلال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E24-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="374" END="379">الهلال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001213.1400.0127-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001213.1400.0127-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001213.1400.0127-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001213.1400.0127-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="574" END="594">شيميزو بولسه الياباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E12-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="574" END="594">شيميزو بولسه الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E2-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="587" END="594">الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001213.1400.0127-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001213.1400.0127-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001213.1400.0127-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001213.1400.0127-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="795" END="833">جوبيلو ايواتا الياباني بطل الكأس السوبر</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E3-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="795" END="833">جوبيلو ايواتا الياباني بطل الكأس السوبر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E2-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="809" END="816">الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001213.1400.0127-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001213.1400.0127-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001213.1400.0127-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001213.1400.0127-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="957" END="987">مجلة "فوربس" الاميركية
+المتخصصة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E4-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="957" END="987">مجلة "فوربس" الاميركية
+المتخصصة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E5-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="970" END="978">الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001213.1400.0127-R7" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001213.1400.0127-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001213.1400.0127-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001213.1400.0127-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="382" END="410">اعضاء الجهازين الفني
+والاداري</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E18-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="382" END="410">اعضاء الجهازين الفني
+والاداري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001213.1400.0127-E19-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="388" END="410">الجهازين الفني
+والاداري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001213.1400.0127-EV1" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001213.1400.0127-E24" ROLE="Beneficiary"/>
+  <event_argument REFID="AFA20001213.1400.0127-V1" ROLE="Money"/>
+  <event_argument REFID="AFA20001213.1400.0127-E1" ROLE="Giver"/>
+  <event_mention ID="AFA20001213.1400.0127-EV1-1">
+    <extent>
+      <charseq START="138" END="256">قدم الامير الوليد بن طلال مكافآت ضخمة الى فريق
+الهلال السعودي في كرة القدم هي عبارة عن 60 سيارة ومبلغ مليوني ريال
+سعودي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="138" END="336">قدم الامير الوليد بن طلال مكافآت ضخمة الى فريق
+الهلال السعودي في كرة القدم هي عبارة عن 60 سيارة ومبلغ مليوني ريال
+سعودي (نحو 550 الف دولار) بمناسبة فوزه بالكأس السوبر الاسيوية للمرة
+الثانية في تاريخه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="138" END="140">قدم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001213.1400.0127-E24-37" ROLE="Beneficiary">
+      <extent>
+        <charseq START="180" END="211">فريق
+الهلال السعودي في كرة القدم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001213.1400.0127-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="240" END="256">مليوني ريال
+سعودي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001213.1400.0127-E1-35" ROLE="Giver">
+      <extent>
+        <charseq START="142" END="162">الامير الوليد بن طلال</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001213.1400.0127-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001213.1400.0127-E18" ROLE="Entity"/>
+  <event_argument REFID="AFA20001213.1400.0127-E1" ROLE="Entity"/>
+  <event_argument REFID="AFA20001213.1400.0127-E29" ROLE="Entity"/>
+  <event_mention ID="AFA20001213.1400.0127-EV2-1">
+    <extent>
+      <charseq START="346" END="410">الوليد بن طلال استقبل لاعبي الهلال واعضاء الجهازين الفني
+والاداري</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="341" END="504">وكان الوليد بن طلال استقبل لاعبي الهلال واعضاء الجهازين الفني
+والاداري بعد فوز الفريق بكأس الكؤوس العربية الحادية عشرة للمرة الاولى
+في تاريخه وبالكأس السوبر السادسة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="361" END="366">استقبل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001213.1400.0127-E18-27" ROLE="Entity">
+      <extent>
+        <charseq START="382" END="410">اعضاء الجهازين الفني
+والاداري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001213.1400.0127-E1-44" ROLE="Entity">
+      <extent>
+        <charseq START="346" END="359">الوليد بن طلال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001213.1400.0127-E29-45" ROLE="Entity">
+      <extent>
+        <charseq START="368" END="379">لاعبي الهلال</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001213.1400.0127-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001213.1400.0127-E7" ROLE="Place"/>
+  <event_argument REFID="AFA20001213.1400.0127-E24" ROLE="Entity"/>
+  <event_mention ID="AFA20001213.1400.0127-EV3-1">
+    <extent>
+      <charseq START="515" END="742">الهلال اللقب الاسيوي للمرة الثانية بعد عام 1997 بتغلبه على
+شيميزو بولسه الياباني في الدور النهائي بعد ان فاز عليه 1-2 ذهابا في
+اليابان وتعادل معه 1-1 في السعودية، وسيمثل اسيا في بطولة العالم
+الثانية للاندية التي ستقام في اسبانيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="509" END="842">واحرز الهلال اللقب الاسيوي للمرة الثانية بعد عام 1997 بتغلبه على
+شيميزو بولسه الياباني في الدور النهائي بعد ان فاز عليه 1-2 ذهابا في
+اليابان وتعادل معه 1-1 في السعودية، وسيمثل اسيا في بطولة العالم
+الثانية للاندية التي ستقام في اسبانيا من 29 تموز/يوليو الى 12 اب/اغسطس
+عام 2001 الى جانب جوبيلو ايواتا الياباني بطل الكأس السوبر عام 1999</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="727" END="731">ستقام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001213.1400.0127-E7-17" ROLE="Place">
+      <extent>
+        <charseq START="736" END="742">اسبانيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001213.1400.0127-E24-3" ROLE="Entity">
+      <extent>
+        <charseq START="515" END="520">الهلال</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001206.1400.0099.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001206.1400.0099">
+<entity ID="AFA20001206.1400.0099-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="284" END="307">مدير الاتصالات في
+النادي</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="287">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E1-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="309" END="320">جواو مالهيرو</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="320">جواو مالهيرو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جواو مالهيرو">
+      <charseq START="309" END="320">جواو مالهيرو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E3-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="446" END="455">البرتغالية</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="455">البرتغالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E3-15" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="526" END="532">برتغالي</charseq>
+    </extent>
+    <head>
+      <charseq START="526" END="532">برتغالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E3-49" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="158" END="166">البرتغالي</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="166">البرتغالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="برتغالي">
+      <charseq START="526" END="532">برتغالي</charseq>
+    </name>
+    <name NAME="البرتغالي">
+      <charseq START="158" END="166">البرتغالي</charseq>
+    </name>
+    <name NAME="البرتغالية">
+      <charseq START="446" END="455">البرتغالية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E4-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="474" END="500">مدرب برشلونة الاسباني
+سابقا</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="477">مدرب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0099-E5" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E5-12" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="479" END="494">برشلونة الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="485">برشلونة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0099-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E6-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="487" END="494">الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="494">الاسباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسباني">
+      <charseq START="487" END="494">الاسباني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E7-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="538" END="539">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="539">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E7-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="541" END="555">سبورتينغ لشبونة</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="555">سبورتينغ لشبونة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E7-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="624" END="629">للفريق</charseq>
+    </extent>
+    <head>
+      <charseq START="624" END="629">للفريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E7-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="665" END="672">سبورتينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="672">سبورتينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E7-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="722" END="722">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="722" END="722">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E7-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="828" END="835">سبورتينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="828" END="835">سبورتينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E7-29" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="923" END="928">الثاني</charseq>
+    </extent>
+    <head>
+      <charseq START="923" END="928">الثاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E7-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="521" END="536">فريق برتغالي اخر</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="524">فريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سبورتينغ لشبونة">
+      <charseq START="541" END="555">سبورتينغ لشبونة</charseq>
+    </name>
+    <name NAME="سبورتينغ">
+      <charseq START="665" END="672">سبورتينغ</charseq>
+    </name>
+    <name NAME="سبورتينغ">
+      <charseq START="828" END="835">سبورتينغ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E9-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="594" END="594">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="594">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E9-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="654" END="655">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="654" END="655">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E9-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="562" END="603">لاغوستينو اغناسيو المقال من منصبه امس ايضا</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="578">لاغوستينو اغناسيو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لاغوستينو اغناسيو">
+      <charseq START="562" END="578">لاغوستينو اغناسيو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E10" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E10-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="645" END="650">اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="650">اوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوروبا">
+      <charseq START="645" END="650">اوروبا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E11-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="771" END="793">مدربي الفريقين العريقين</charseq>
+    </extent>
+    <head>
+      <charseq START="771" END="775">مدربي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0099-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E12-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="777" END="793">الفريقين العريقين</charseq>
+    </extent>
+    <head>
+      <charseq START="777" END="784">الفريقين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0099-E13" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E13-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="949" END="949">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="949" END="949">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E13-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="955" END="959">بورتو</charseq>
+    </extent>
+    <head>
+      <charseq START="955" END="959">بورتو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بورتو">
+      <charseq START="955" END="959">بورتو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="102" END="119">لشبونة 12-6 (أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="107">لشبونة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لشبونة">
+      <charseq START="102" END="107">لشبونة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E15-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="506" END="506">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="506">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E15-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="460" END="465">مورينو</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="465">مورينو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E15-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="468" END="500">مساعد مدرب برشلونة الاسباني
+سابقا</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="472">مساعد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E15-46" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="227" END="269">خوسيه
+مورينو الذي قدم استقالته امس الثلاثاء</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="238">خوسيه
+مورينو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E15-53" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="220" END="225">مواطنه</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="225">مواطنه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E15-54" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="240" END="243">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="243">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E15-55" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="256" END="256">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="256">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مورينو">
+      <charseq START="460" END="465">مورينو</charseq>
+    </name>
+    <name NAME="خوسيه مورينو">
+      <charseq START="227" END="238">خوسيه
+مورينو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E16" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E16-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="639" END="650">ابطال اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="639" END="643">ابطال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0099-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E17-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="438" END="455">الصحافة البرتغالية</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="444">الصحافة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E17-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="436" END="436">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="436">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0099-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E18-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="346" END="353">اوليفيرا</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="353">اوليفيرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="341" END="341">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="341">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-10" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="168" END="171">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="168" END="171">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="173" END="173">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="173">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="144" END="210">مدربا لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="148">مدربا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-44" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="387" END="387">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="387">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-45" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="402" END="402">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="402">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="127" END="142">انطونيو اوليفيرا</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="142">انطونيو اوليفيرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E18-52" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="225" END="225">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="225" END="225">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انطونيو اوليفيرا">
+      <charseq START="127" END="142">انطونيو اوليفيرا</charseq>
+    </name>
+    <name NAME="اوليفيرا">
+      <charseq START="346" END="353">اوليفيرا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E21-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="115" END="119">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="119">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="115" END="119">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0099-E24" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0099-E24-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="302" END="307">النادي</charseq>
+    </extent>
+    <head>
+      <charseq START="302" END="307">النادي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E24-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="359" END="364">بنفيكا</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="364">بنفيكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E24-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="817" END="822">بنفيكا</charseq>
+    </extent>
+    <head>
+      <charseq START="817" END="822">بنفيكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E24-28" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="902" END="906">الاول</charseq>
+    </extent>
+    <head>
+      <charseq START="902" END="906">الاول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E24-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="897" END="897">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="897">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0099-E24-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="150" END="210">لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="156">لبنفيكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بنفيكا">
+      <charseq START="817" END="822">بنفيكا</charseq>
+    </name>
+    <name NAME="لبنفيكا">
+      <charseq START="150" END="156">لبنفيكا</charseq>
+    </name>
+    <name NAME="بنفيكا">
+      <charseq START="359" END="364">بنفيكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001206.1400.0099-T1">
+  <timex2_mention ID="AFA20001206.1400.0099-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-06 17:26:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T2">
+  <timex2_mention ID="AFA20001206.1400.0099-T2-1">
+    <extent>
+      <charseq START="109" END="112">12-6</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T3">
+  <timex2_mention ID="AFA20001206.1400.0099-T3-1">
+    <extent>
+      <charseq START="258" END="269">امس الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T4">
+  <timex2_mention ID="AFA20001206.1400.0099-T4-1">
+    <extent>
+      <charseq START="322" END="335">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T5">
+  <timex2_mention ID="AFA20001206.1400.0099-T5-1">
+    <extent>
+      <charseq START="724" END="735">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T6">
+  <timex2_mention ID="AFA20001206.1400.0099-T6-1">
+    <extent>
+      <charseq START="422" END="425">1994</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T7">
+  <timex2_mention ID="AFA20001206.1400.0099-T7-1">
+    <extent>
+      <charseq START="596" END="598">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T8">
+  <timex2_mention ID="AFA20001206.1400.0099-T8-1">
+    <extent>
+      <charseq START="748" END="754">18 عاما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0099-T9">
+  <timex2_mention ID="AFA20001206.1400.0099-T9-1">
+    <extent>
+      <charseq START="799" END="808">ثلاثة ايام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001206.1400.0099-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="479" END="494">برشلونة الاسباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E5-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="479" END="494">برشلونة الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E6-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="487" END="494">الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="521" END="536">فريق برتغالي اخر</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E7-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="521" END="536">فريق برتغالي اخر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E3-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="526" END="532">برتغالي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="639" END="650">ابطال اوروبا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E16-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="639" END="650">ابطال اوروبا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E10-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="645" END="650">اوروبا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="771" END="793">مدربي الفريقين العريقين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E11-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="771" END="793">مدربي الفريقين العريقين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E12-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="777" END="793">الفريقين العريقين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="102" END="119">لشبونة 12-6 (أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E21-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="115" END="119">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E14-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="102" END="119">لشبونة 12-6 (أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E24" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="144" END="210">مدربا لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E18-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="144" END="210">مدربا لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E24-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="150" END="210">لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E24" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="284" END="307">مدير الاتصالات في
+النادي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="284" END="307">مدير الاتصالات في
+النادي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E24-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="302" END="307">النادي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="438" END="455">الصحافة البرتغالية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E17-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="438" END="455">الصحافة البرتغالية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E3-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="446" END="455">البرتغالية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R9" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R9-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="468" END="500">مساعد مدرب برشلونة الاسباني
+سابقا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E15-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="468" END="500">مساعد مدرب برشلونة الاسباني
+سابقا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E4-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="474" END="500">مدرب برشلونة الاسباني
+سابقا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0099-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0099-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0099-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0099-R10-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="474" END="500">مدرب برشلونة الاسباني
+سابقا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E4-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="474" END="500">مدرب برشلونة الاسباني
+سابقا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0099-E5-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="479" END="494">برشلونة الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001206.1400.0099-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1400.0099-E15" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1400.0099-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001206.1400.0099-EV1-1">
+    <extent>
+      <charseq START="249" END="269">استقالته امس الثلاثاء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="123" END="335">عاد انطونيو اوليفيرا مدربا لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم بدلا من مواطنه خوسيه
+مورينو الذي قدم استقالته امس الثلاثاء، حسب ما اعلن مدير الاتصالات في
+النادي جواو مالهيرو اليوم الاربعاء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="249" END="256">استقالته</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1400.0099-E15-55" ROLE="Person">
+      <extent>
+        <charseq START="256" END="256">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0099-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="258" END="269">امس الثلاثاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1400.0099-EV2" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001206.1400.0099-E18" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1400.0099-T4" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001206.1400.0099-EV2-1">
+    <extent>
+      <charseq START="123" END="335">عاد انطونيو اوليفيرا مدربا لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم بدلا من مواطنه خوسيه
+مورينو الذي قدم استقالته امس الثلاثاء، حسب ما اعلن مدير الاتصالات في
+النادي جواو مالهيرو اليوم الاربعاء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="123" END="335">عاد انطونيو اوليفيرا مدربا لبنفيكا البرتغالي
+الذي يلعب ضمن دوري الدرجة الاولى لكرة القدم بدلا من مواطنه خوسيه
+مورينو الذي قدم استقالته امس الثلاثاء، حسب ما اعلن مدير الاتصالات في
+النادي جواو مالهيرو اليوم الاربعاء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="123" END="125">عاد</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1400.0099-E18-48" ROLE="Person">
+      <extent>
+        <charseq START="127" END="142">انطونيو اوليفيرا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0099-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="322" END="335">اليوم الاربعاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1400.0099-EV3" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1400.0099-E9" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1400.0099-E7" ROLE="Entity"/>
+  <event_argument REFID="AFA20001206.1400.0099-T7" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001206.1400.0099-EV3-1">
+    <extent>
+      <charseq START="541" END="603">سبورتينغ لشبونة خلفا
+لاغوستينو اغناسيو المقال من منصبه امس ايضا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="431" END="754">واشارت الصحافة البرتغالية ان مورينو، مساعد مدرب برشلونة الاسباني
+سابقا، قد يشرف على تدريب فريق برتغالي اخر هو سبورتينغ لشبونة خلفا
+لاغوستينو اغناسيو المقال من منصبه امس ايضا بعد النتائج السيئة للفريق
+في دوري ابطال اوروبا، وهو كان قاد سبورتينغ الى احراز لقب الدوري للمرة
+السابعة عشرة في تاريخه العام الماضي والاول منذ 18 عاما</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="580" END="585">المقال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1400.0099-E9-36" ROLE="Person">
+      <extent>
+        <charseq START="562" END="603">لاغوستينو اغناسيو المقال من منصبه امس ايضا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0099-E7-17" ROLE="Entity">
+      <extent>
+        <charseq START="541" END="555">سبورتينغ لشبونة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0099-T7-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="596" END="598">امس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1400.0099-EV4" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001206.1400.0099-E18" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1400.0099-E24" ROLE="Entity"/>
+  <event_mention ID="AFA20001206.1400.0099-EV4-1">
+    <extent>
+      <charseq START="341" END="364">يعود اوليفيرا الى بنفيكا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="340" END="425">ويعود اوليفيرا الى بنفيكا بعد ست سنوات من قيادته الى احراز لقبه
+الاخير في الدوري (1994</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="341" END="344">يعود</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1400.0099-E18-7" ROLE="Person">
+      <extent>
+        <charseq START="341" END="341">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0099-E24-6" ROLE="Entity">
+      <extent>
+        <charseq START="359" END="364">بنفيكا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

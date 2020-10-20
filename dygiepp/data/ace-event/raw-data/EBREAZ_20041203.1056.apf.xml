@@ -1,0 +1,1596 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="EBREAZ_20041203.1056.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="EBREAZ_20041203.1056">
+<entity ID="EBREAZ_20041203.1056-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E1-6" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="341" END="362">الدول
+الاسلامية جميعها</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="345">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E1-8" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="361" END="362">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="362">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E1-9" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="376" END="377">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="377">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E1-10" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="398" END="399">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="399">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E1-11" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="336" END="336">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="336">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E2-7" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="347" END="355">الاسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="355">الاسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E2-44" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="421" END="429">الاسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="429">الاسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسلامية">
+      <charseq START="347" END="355">الاسلامية</charseq>
+    </name>
+    <name NAME="الاسلامية">
+      <charseq START="421" END="429">الاسلامية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E3" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E3-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="498" END="499">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="499">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E4" TYPE="LOC" SUBTYPE="Water-Body" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E4-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="589" END="593">البحر</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="593">البحر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E5-166" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="162" END="171">الانجليزية</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="171">الانجليزية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الانجليزية">
+      <charseq START="162" END="171">الانجليزية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E6-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="912" END="918">المطاعم</charseq>
+    </extent>
+    <head>
+      <charseq START="912" END="918">المطاعم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E7-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="923" END="929">المتاحف</charseq>
+    </extent>
+    <head>
+      <charseq START="923" END="929">المتاحف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E8" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E8-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1044" END="1068">أخرى أيضاً من ذوات الخيال</charseq>
+    </extent>
+    <head>
+      <charseq START="1044" END="1047">أخرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E8-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1079" END="1080">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1079" END="1080">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E8-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1105" END="1105">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1105" END="1105">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E9" TYPE="LOC" SUBTYPE="Region-General" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E9-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1212" END="1223">داخل المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="1217" END="1223">المدينة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E10" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E10-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1792" END="1821">احدى
+الأخوات الكسولات جداً جدا</charseq>
+    </extent>
+    <head>
+      <charseq START="1792" END="1795">احدى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E10-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1827" END="1827">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1827" END="1827">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E10-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1930" END="1930">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1930" END="1930">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E10-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2069" END="2077">هذه البنت</charseq>
+    </extent>
+    <head>
+      <charseq START="2073" END="2077">البنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E10-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2120" END="2121">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2120" END="2121">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E10-140" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1891" END="1891">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1891" END="1891">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E11-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1797" END="1821">الأخوات الكسولات جداً جدا</charseq>
+    </extent>
+    <head>
+      <charseq START="1797" END="1803">الأخوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E12" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E12-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="313" END="325">احدى الزميلات</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="316">احدى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E12-152" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="327" END="327">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="327">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E14" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E14-95" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2484" END="2491">الانترنت</charseq>
+    </extent>
+    <head>
+      <charseq START="2484" END="2491">الانترنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E14-108" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3113" END="3120">الانترنت</charseq>
+    </extent>
+    <head>
+      <charseq START="3113" END="3120">الانترنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E14-113" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3294" END="3301">الانترنت</charseq>
+    </extent>
+    <head>
+      <charseq START="3294" END="3301">الانترنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E14-124" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3632" END="3639">الانترنت</charseq>
+    </extent>
+    <head>
+      <charseq START="3632" END="3639">الانترنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الانترنت">
+      <charseq START="2484" END="2491">الانترنت</charseq>
+    </name>
+    <name NAME="الانترنت">
+      <charseq START="3113" END="3120">الانترنت</charseq>
+    </name>
+    <name NAME="الانترنت">
+      <charseq START="3294" END="3301">الانترنت</charseq>
+    </name>
+    <name NAME="الانترنت">
+      <charseq START="3632" END="3639">الانترنت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E15" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E15-97" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1477" END="1481">للبعض</charseq>
+    </extent>
+    <head>
+      <charseq START="1477" END="1481">للبعض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E15-98" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1472" END="1472">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1472" END="1472">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E16" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E16-99" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1566" END="1568">أحد</charseq>
+    </extent>
+    <head>
+      <charseq START="1566" END="1568">أحد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E16-100" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1585" END="1585">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1585">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E16-101" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1603" END="1603">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1603" END="1603">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E16-103" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1593" END="1593">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1593" END="1593">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E16-104" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1607" END="1608">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1607" END="1608">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E16-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1610" END="1610">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1610" END="1610">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E17-107" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="2947" END="2954">الفرنسية</charseq>
+    </extent>
+    <head>
+      <charseq START="2947" END="2954">الفرنسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفرنسية">
+      <charseq START="2947" END="2954">الفرنسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E18" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E18-118" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3497" END="3502">الطالب</charseq>
+    </extent>
+    <head>
+      <charseq START="3497" END="3502">الطالب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E18-119" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3507" END="3507">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3507" END="3507">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E19" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E19-120" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3570" END="3576">المجتمع</charseq>
+    </extent>
+    <head>
+      <charseq START="3570" END="3576">المجتمع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E20" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E20-121" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3590" END="3600">احد
+الفتيات</charseq>
+    </extent>
+    <head>
+      <charseq START="3590" END="3592">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E20-122" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3588" END="3588">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3588" END="3588">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E21" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E21-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="379" END="387">قائد واحد</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="382">قائد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E21-125" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="389" END="389">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="389">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E22-126" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="414" END="437">البلدة الاسلامية العظيمة</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="419">البلدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E22-147" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="442" END="444">USI</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="444">USI</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E22-148" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="460" END="480">United State of Islam</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="480">United State of Islam</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E22-151" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="409" END="409">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="409">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="USI">
+      <charseq START="442" END="444">USI</charseq>
+    </name>
+    <name NAME="United State of Islam">
+      <charseq START="460" END="480">United State of Islam</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E23-127" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="614" END="614">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="614">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E23-128" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="624" END="644">مدينة
+مائية تحت البحر</charseq>
+    </extent>
+    <head>
+      <charseq START="624" END="628">مدينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E23-131" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="668" END="669">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="669">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E24" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E24-129" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="640" END="644">البحر</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="644">البحر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E25" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E25-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="660" END="664">الناس</charseq>
+    </extent>
+    <head>
+      <charseq START="660" END="664">الناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E25-96" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1435" END="1439">الناس</charseq>
+    </extent>
+    <head>
+      <charseq START="1435" END="1439">الناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E25-130" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="655" END="655">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="655" END="655">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E25-132" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="679" END="680">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="680">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E26" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E26-133" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="686" END="690">الأرض</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="690">الأرض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E27-134" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="863" END="881">بعض الغرفة الزجاجية</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="865">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E28" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E28-135" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="867" END="872">الغرفة</charseq>
+    </extent>
+    <head>
+      <charseq START="867" END="872">الغرفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E29" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E29-136" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="974" END="975">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="974" END="975">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E30-137" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1122" END="1126">المدن</charseq>
+    </extent>
+    <head>
+      <charseq START="1122" END="1126">المدن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E30-138" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1249" END="1255">المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="1249" END="1255">المدينة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E31-102" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="318" END="325">الزميلات</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="325">الزميلات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E31-123" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3594" END="3600">الفتيات</charseq>
+    </extent>
+    <head>
+      <charseq START="3594" END="3600">الفتيات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E31-154" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="545" END="551">الأخوات</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="551">الأخوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E32" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E32-146" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3517" END="3524">أناس
+جدد</charseq>
+    </extent>
+    <head>
+      <charseq START="3517" END="3520">أناس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E33-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3367" END="3367">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3367" END="3367">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3371" END="3371">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3371" END="3371">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="112" END="117">ebreaz</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="117">ebreaz</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="935" END="935">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="935" END="935">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1296" END="1296">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1296" END="1296">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1404" END="1404">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1404" END="1404">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1884" END="1884">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1884" END="1884">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1702" END="1702">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1702" END="1702">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1652" END="1652">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1652" END="1652">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1925" END="1925">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1925" END="1925">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-67" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2455" END="2455">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2455" END="2455">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2404" END="2404">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2404" END="2404">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2514" END="2514">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2514" END="2514">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2111" END="2111">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2111" END="2111">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2105" END="2105">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2105" END="2105">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2098" END="2098">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2098" END="2098">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-73" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2144" END="2144">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2144" END="2144">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2527" END="2527">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2527" END="2527">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2544" END="2544">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2544" END="2544">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2553" END="2553">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2553" END="2553">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-77" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2635" END="2635">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2635" END="2635">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2615" END="2615">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2615" END="2615">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2607" END="2607">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2607" END="2607">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2811" END="2813">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="2811" END="2813">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2834" END="2834">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2834" END="2834">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-82" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2901" END="2901">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2901" END="2901">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2914" END="2914">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2914" END="2914">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-84" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2935" END="2935">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2935" END="2935">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2945" END="2945">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2945" END="2945">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2977" END="2977">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2977" END="2977">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3050" END="3050">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3050" END="3050">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3035" END="3037">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="3035" END="3037">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-89" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3031" END="3031">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3031" END="3031">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2659" END="2659">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2659" END="2659">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-92" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2667" END="2667">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2667" END="2667">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-93" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2739" END="2739">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2739" END="2739">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-94" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2787" END="2787">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2787" END="2787">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-106" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1769" END="1769">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1769" END="1769">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-111" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3174" END="3174">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3174" END="3174">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-112" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3262" END="3262">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3262" END="3262">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3313" END="3313">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3313" END="3313">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3438" END="3439">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="3438" END="3439">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-141" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2397" END="2397">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2397" END="2397">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-142" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2409" END="2409">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2409" END="2409">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-143" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2731" END="2731">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2731" END="2731">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-144" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3039" END="3039">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3039" END="3039">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-149" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="705" END="705">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="705">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-165" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4038" END="4038">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="4038" END="4038">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-167" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3788" END="3788">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3788" END="3788">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-168" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3259" END="3259">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3259" END="3259">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-169" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3213" END="3213">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3213" END="3213">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-170" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3193" END="3193">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3193" END="3193">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-171" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3188" END="3188">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3188" END="3188">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E33-172" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3207" END="3207">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3207" END="3207">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ebreaz">
+      <charseq START="112" END="117">ebreaz</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="EBREAZ_20041203.1056-E34-150" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="829" END="837">الأكوريوم</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="837">الأكوريوم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E35" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E35-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1399" END="1404">صديقتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1399" END="1403">صديقت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1406" END="1406">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1406" END="1406">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1539" END="1539">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1539" END="1539">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1550" END="1550">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1550" END="1550">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1558" END="1558">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1558" END="1558">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1577" END="1577">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1577" END="1577">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1616" END="1616">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1616" END="1616">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1643" END="1644">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1643" END="1644">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1599" END="1599">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1599" END="1599">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1684" END="1685">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1684" END="1685">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-139" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1524" END="1525">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1524" END="1525">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-153" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="540" END="551">احدى الأخوات</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="543">احدى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-156" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="580" END="580">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="580">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E35-157" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="602" END="602">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="602">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="EBREAZ_20041203.1056-E36-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3410" END="3410">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3410" END="3410">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3335" END="3335">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3335" END="3335">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-145" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="3330" END="3333">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="3330" END="3333">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-158" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3685" END="3692">الدكتورة</charseq>
+    </extent>
+    <head>
+      <charseq START="3685" END="3692">الدكتورة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-159" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3697" END="3697">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3697" END="3697">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-160" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3786" END="3786">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3786" END="3786">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-161" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3798" END="3799">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="3798" END="3799">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-173" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3321" END="3356">الدكتورة التي تحاول كتمها فلا تستطيع</charseq>
+    </extent>
+    <head>
+      <charseq START="3321" END="3328">الدكتورة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E36-174" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3351" END="3351">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3351" END="3351">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EBREAZ_20041203.1056-E37" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="EBREAZ_20041203.1056-E37-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="143" END="144">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="144">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="757" END="758">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="758">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="800" END="801">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="800" END="801">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="816" END="817">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="816" END="817">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="819" END="819">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="819" END="819">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="847" END="847">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="847">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1342" END="1343">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1342" END="1343">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1345" END="1345">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1345" END="1345">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1522" END="1523">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1522" END="1523">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1959" END="1960">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1959" END="1960">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1987" END="1987">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1987" END="1987">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2005" END="2005">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2005" END="2005">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2040" END="2041">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2040" END="2041">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2049" END="2050">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2049" END="2050">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1947" END="1947">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1947" END="1947">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2014" END="2015">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2014" END="2015">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2236" END="2237">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2236" END="2237">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2261" END="2261">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2261" END="2261">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2274" END="2274">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2274" END="2274">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2292" END="2292">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2292" END="2292">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2316" END="2316">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2316" END="2316">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-109" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3148" END="3148">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3148" END="3148">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-110" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3161" END="3162">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3161" END="3162">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-115" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3422" END="3423">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3422" END="3423">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-117" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3465" END="3466">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3465" END="3466">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-155" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3545" END="3545">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3545" END="3545">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-162" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3958" END="3959">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3958" END="3959">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-163" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3968" END="3968">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3968" END="3968">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EBREAZ_20041203.1056-E37-164" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3982" END="3982">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3982" END="3982">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="EBREAZ_20041203.1056-T1">
+  <timex2_mention ID="EBREAZ_20041203.1056-T1-1">
+    <extent>
+      <charseq START="36" END="54">2004-12-03T10:56:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EBREAZ_20041203.1056-T2">
+  <timex2_mention ID="EBREAZ_20041203.1056-T2-1">
+    <extent>
+      <charseq START="1376" END="1384">عشر
+سنوات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EBREAZ_20041203.1056-T3">
+  <timex2_mention ID="EBREAZ_20041203.1056-T3-1">
+    <extent>
+      <charseq START="2637" END="2643">كل صباح</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EBREAZ_20041203.1056-T4">
+  <timex2_mention ID="EBREAZ_20041203.1056-T4-1">
+    <extent>
+      <charseq START="121" END="139">2004-12-03T10:56:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EBREAZ_20041203.1056-T5">
+  <timex2_mention ID="EBREAZ_20041203.1056-T5-1">
+    <extent>
+      <charseq START="256" END="275">بعد عشر سنوات تقريبا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="EBREAZ_20041203.1056-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Future" MODALITY="Asserted">
+  <relation_argument REFID="EBREAZ_20041203.1056-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="EBREAZ_20041203.1056-E24" ROLE="Arg-2"/>
+  <relation_mention ID="EBREAZ_20041203.1056-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="624" END="644">مدينة
+مائية تحت البحر</charseq>
+    </extent>
+    <relation_mention_argument REFID="EBREAZ_20041203.1056-E23-128" ROLE="Arg-1">
+      <extent>
+        <charseq START="624" END="644">مدينة
+مائية تحت البحر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="EBREAZ_20041203.1056-E24-129" ROLE="Arg-2">
+      <extent>
+        <charseq START="640" END="644">البحر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="EBREAZ_20041203.1056-R2" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="EBREAZ_20041203.1056-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="EBREAZ_20041203.1056-E33" ROLE="Arg-2"/>
+  <relation_mention ID="EBREAZ_20041203.1056-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1399" END="1404">صديقتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="EBREAZ_20041203.1056-E35-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="1399" END="1404">صديقتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="EBREAZ_20041203.1056-E33-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="1404" END="1404">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

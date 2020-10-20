@@ -1,0 +1,744 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="GLIMMERMAN_20050118.0339.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="GLIMMERMAN_20050118.0339">
+<entity ID="GLIMMERMAN_20050118.0339-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E1-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="794" END="796">Eve</charseq>
+    </extent>
+    <head>
+      <charseq START="794" END="796">Eve</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E1-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="116" END="118">Eve</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="118">Eve</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Eve">
+      <charseq START="794" END="796">Eve</charseq>
+    </name>
+    <name NAME="Eve">
+      <charseq START="116" END="118">Eve</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="464" END="469">للنساء</charseq>
+    </extent>
+    <head>
+      <charseq START="464" END="469">للنساء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="490" END="495">النساء</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="495">النساء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E2-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="516" END="521">للنساء</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="521">للنساء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E3-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="511" END="514">الله</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="514">الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الله">
+      <charseq START="511" END="514">الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E4-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="500" END="500">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="500">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E4-11" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="477" END="478">من</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="478">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E4-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="480" END="480">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="480">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="571" END="571">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="571">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="577" END="579">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="577" END="579">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="584" END="584">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="584" END="584">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="749" END="749">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="749" END="749">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="780" END="780">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="780" END="780">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="782" END="782">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="782" END="782">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="67" END="76">GlimmerMan</charseq>
+    </extent>
+    <head>
+      <charseq START="67" END="76">GlimmerMan</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E5-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="532" END="541">GlimmerMan</charseq>
+    </extent>
+    <head>
+      <charseq START="532" END="541">GlimmerMan</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="GlimmerMan">
+      <charseq START="67" END="76">GlimmerMan</charseq>
+    </name>
+    <name NAME="GlimmerMan">
+      <charseq START="532" END="541">GlimmerMan</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E6-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="573" END="575">Eve</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="575">Eve</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E6-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="632" END="632">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="632" END="632">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Eve">
+      <charseq START="573" END="575">Eve</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E7" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E7-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="680" END="685">رجل ما</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="682">رجل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E8" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="664" END="669">المرأة</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="669">المرأة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="691" END="692">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="692">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="694" END="701">بنت فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="696">بنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="703" END="712">خطيبة فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="703" END="707">خطيبة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="714" END="722">زوجة فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="717">زوجة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="724" END="730">أم فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="724" END="725">أم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="732" END="739">جدة فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="732" END="734">جدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E8-48" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="176" END="180">امرأة</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="180">امرأة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E9" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E9-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="698" END="701">فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="698" END="701">فلان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E9-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="709" END="712">فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="709" END="712">فلان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E9-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="719" END="722">فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="722">فلان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E9-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="736" END="739">فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="736" END="739">فلان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E9-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="727" END="730">فلان</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="730">فلان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E14" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E14-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="840" END="840">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="840">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E14-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="848" END="848">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="848" END="848">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E14-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="864" END="865">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="864" END="865">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E14-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="870" END="870">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="870" END="870">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E15" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E15-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="763" END="771">كل الرجال</charseq>
+    </extent>
+    <head>
+      <charseq START="763" END="764">كل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E15-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="766" END="771">الرجال</charseq>
+    </extent>
+    <head>
+      <charseq START="766" END="771">الرجال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E15-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="328" END="333">الرجال</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="333">الرجال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E16-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="899" END="905">نابليون</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="905">نابليون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نابليون">
+      <charseq START="899" END="905">نابليون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E17" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E17-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="853" END="858">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="853" END="858">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E18" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E18-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="151" END="152">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="152">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E19-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="248" END="266">ولاّدة بنت المستكفي</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="266">ولاّدة بنت المستكفي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ولاّدة بنت المستكفي">
+      <charseq START="248" END="266">ولاّدة بنت المستكفي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E20" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E20-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="163" END="174">كلّ رجل عظيم</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="164">كل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E20-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="167" END="169">رجل</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="169">رجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E20-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="192" END="192">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="192">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E20-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="204" END="204">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="204">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E20-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="227" END="227">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="227">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E22-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="299" END="303">عزيزي</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="302">عزيز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E23-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="502" END="508">أنــــا</charseq>
+    </extent>
+    <head>
+      <charseq START="502" END="508">أنــــا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E23-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="484" END="484">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="484">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E23-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="497" END="497">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="497">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E23-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="303" END="303">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="303">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E24-55" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="360" END="381">شاعري العباس بن الاحنف</charseq>
+    </extent>
+    <head>
+      <charseq START="360" END="364">شاعري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E24-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="366" END="381">العباس بن الاحنف</charseq>
+    </extent>
+    <head>
+      <charseq START="366" END="381">العباس بن الاحنف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E24-57" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="417" END="417">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="417">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العباس بن الاحنف">
+      <charseq START="366" END="381">العباس بن الاحنف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E26-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="430" END="436">بني آدم</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="432">بني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E26-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="442" END="443">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="443">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E27-59" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="434" END="436">آدم</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="436">آدم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آدم">
+      <charseq START="434" END="436">آدم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="GLIMMERMAN_20050118.0339-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E28-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="471" END="474">عبيد</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="474">عبيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E28-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="445" END="445">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="445">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="GLIMMERMAN_20050118.0339-E28-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="456" END="474">نحــــن للنساء عبيد</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="462">نحــــن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="GLIMMERMAN_20050118.0339-T1">
+  <timex2_mention ID="GLIMMERMAN_20050118.0339-T1-1">
+    <extent>
+      <charseq START="40" END="58">2005-01-18T03:39:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="GLIMMERMAN_20050118.0339-T2">
+  <timex2_mention ID="GLIMMERMAN_20050118.0339-T2-1">
+    <extent>
+      <charseq START="80" END="98">2005-01-18T03:39:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="GLIMMERMAN_20050118.0339-T3">
+  <timex2_mention ID="GLIMMERMAN_20050118.0339-T3-1">
+    <extent>
+      <charseq START="132" END="140">T14:17:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="GLIMMERMAN_20050118.0339-T4">
+  <timex2_mention ID="GLIMMERMAN_20050118.0339-T4-1">
+    <extent>
+      <charseq START="280" END="288">T06:55:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="GLIMMERMAN_20050118.0339-T5">
+  <timex2_mention ID="GLIMMERMAN_20050118.0339-T5-1">
+    <extent>
+      <charseq START="555" END="563">T23:55:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="GLIMMERMAN_20050118.0339-T6">
+  <timex2_mention ID="GLIMMERMAN_20050118.0339-T6-1">
+    <extent>
+      <charseq START="810" END="818">T12:40:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="GLIMMERMAN_20050118.0339-R1" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="GLIMMERMAN_20050118.0339-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="GLIMMERMAN_20050118.0339-E23" ROLE="Arg-2"/>
+  <relation_mention ID="GLIMMERMAN_20050118.0339-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="299" END="303">عزيزي</charseq>
+    </extent>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E22-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="299" END="303">عزيزي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E23-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="303" END="303">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="GLIMMERMAN_20050118.0339-R2" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="GLIMMERMAN_20050118.0339-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="GLIMMERMAN_20050118.0339-E9" ROLE="Arg-2"/>
+  <relation_mention ID="GLIMMERMAN_20050118.0339-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="703" END="712">خطيبة فلان</charseq>
+    </extent>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E8-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="703" END="712">خطيبة فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E9-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="709" END="712">فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="GLIMMERMAN_20050118.0339-R3" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="GLIMMERMAN_20050118.0339-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="GLIMMERMAN_20050118.0339-E9" ROLE="Arg-2"/>
+  <relation_mention ID="GLIMMERMAN_20050118.0339-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="714" END="722">زوجة فلان</charseq>
+    </extent>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E8-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="714" END="722">زوجة فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E9-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="719" END="722">فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="GLIMMERMAN_20050118.0339-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="724" END="730">أم فلان</charseq>
+    </extent>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E8-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="724" END="730">أم فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E9-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="727" END="730">فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="GLIMMERMAN_20050118.0339-R3-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="732" END="739">جدة فلان</charseq>
+    </extent>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E8-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="732" END="739">جدة فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E9-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="736" END="739">فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="GLIMMERMAN_20050118.0339-R3-4" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="694" END="701">بنت فلان</charseq>
+    </extent>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E8-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="694" END="701">بنت فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="GLIMMERMAN_20050118.0339-E9-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="698" END="701">فلان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

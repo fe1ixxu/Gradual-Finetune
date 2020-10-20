@@ -1,0 +1,2367 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ANN20001118.1500.0101.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001118.1500.0101">
+<entity ID="ANN20001118.1500.0101-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="383" END="391">خمسة
+شهود</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="391">شهود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E1-158" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4087" END="4092">الشهود</charseq>
+    </extent>
+    <head>
+      <charseq START="4087" END="4092">الشهود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E2-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="415" END="430">وكلاء الدفاع عنه</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="419">وكلاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E2-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="432" END="472">المحامون سليم عثمان وجوزف فرح
+وفؤاد شبقلو</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="439">المحامون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E2-168" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3789" END="3810">وكلاء الدفاع عن عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="3789" END="3793">وكلاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E4-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="441" END="450">سليم عثمان</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="450">سليم عثمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E4-170" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3828" END="3845">المحامي سليم عثمان</charseq>
+    </extent>
+    <head>
+      <charseq START="3828" END="3834">المحامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E4-171" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3836" END="3845">سليم عثمان</charseq>
+    </extent>
+    <head>
+      <charseq START="3836" END="3845">سليم عثمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سليم عثمان">
+      <charseq START="441" END="450">سليم عثمان</charseq>
+    </name>
+    <name NAME="سليم عثمان">
+      <charseq START="3836" END="3845">سليم عثمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E5-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="453" END="460">جوزف فرح</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="460">جوزف فرح</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جوزف فرح">
+      <charseq START="453" END="460">جوزف فرح</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E6-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="463" END="472">فؤاد شبقلو</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="472">فؤاد شبقلو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E6-95" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1846" END="1856">وكيل عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="1846" END="1849">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E6-96" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1858" END="1870">المحامي شبقلو</charseq>
+    </extent>
+    <head>
+      <charseq START="1858" END="1864">المحامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E6-97" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1866" END="1870">شبقلو</charseq>
+    </extent>
+    <head>
+      <charseq START="1866" END="1870">شبقلو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E6-105" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2012" END="2012">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2012" END="2012">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E6-106" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2020" END="2020">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2020" END="2020">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فؤاد شبقلو">
+      <charseq START="463" END="472">فؤاد شبقلو</charseq>
+    </name>
+    <name NAME="شبقلو">
+      <charseq START="1866" END="1870">شبقلو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E7-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="492" END="495">وكيل</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="495">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E7-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="498" END="516">المحامي انطوان زخيا</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="504">المحامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E7-46" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="506" END="516">انطوان زخيا</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="516">انطوان زخيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انطوان زخيا">
+      <charseq START="506" END="516">انطوان زخيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E9-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2987" END="2993">المهندس</charseq>
+    </extent>
+    <head>
+      <charseq START="2987" END="2993">المهندس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3118" END="3142">كمشرف في المكتب الاستشاري</charseq>
+    </extent>
+    <head>
+      <charseq START="3118" END="3122">كمشرف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-129" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2973" END="2973">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2973" END="2973">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-130" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2980" END="3008">الشاهد المهندس مليح رامز عيدو</charseq>
+    </extent>
+    <head>
+      <charseq START="2980" END="2985">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-131" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2995" END="3008">مليح رامز عيدو</charseq>
+    </extent>
+    <head>
+      <charseq START="2995" END="3008">مليح رامز عيدو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-132" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3012" END="3012">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3012" END="3012">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-136" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3078" END="3078">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3078" END="3078">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-137" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3107" END="3107">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3107" END="3107">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-141" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3174" END="3174">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3174" END="3174">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E9-187" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3096" END="3096">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3096" END="3096">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مليح رامز عيدو">
+      <charseq START="2995" END="3008">مليح رامز عيدو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E10-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="551" END="568">المحامي خليل شباني</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="557">المحامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E10-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="519" END="549">وكيل ادارة
+مرفأ بيروت واستثماره</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="522">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E10-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="559" END="568">خليل شباني</charseq>
+    </extent>
+    <head>
+      <charseq START="559" END="568">خليل شباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خليل شباني">
+      <charseq START="559" END="568">خليل شباني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E12-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="586" END="608">المحامي فادي
+روحانا صقر</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="592">المحامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E12-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="571" END="583">وكيل ,سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="574">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E12-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1381" END="1395">فادي روحانا صقر</charseq>
+    </extent>
+    <head>
+      <charseq START="1381" END="1395">فادي روحانا صقر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E12-68" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1362" END="1379">وكيل الجهة المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="1362" END="1365">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E12-69" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="594" END="608">فادي
+روحانا صقر</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="608">فادي
+روحانا صقر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E12-81" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1549" END="1549">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1549" END="1549">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E12-85" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1595" END="1595">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1595" END="1595">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E12-178" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3965" END="3976">وكيل المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="3965" END="3968">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فادي روحانا صقر">
+      <charseq START="1381" END="1395">فادي روحانا صقر</charseq>
+    </name>
+    <name NAME="فادي روحانا صقر">
+      <charseq START="594" END="608">فادي
+روحانا صقر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E14-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="647" END="653">المهندس</charseq>
+    </extent>
+    <head>
+      <charseq START="647" END="653">المهندس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="655" END="770">ربيع خيرالله الذي قال ان
+قاضي الامور المستعجلة في بيروت كلفه عام 1998 وضع تقرير بمعاينة حطام
+الباخرة بعلبك في المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="655" END="666">ربيع خيرالله</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-30" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="668" END="671">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="671">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="714" END="714">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="714">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-36" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="776" END="776">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="776">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="781" END="781">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="781" END="781">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="822" END="822">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="822" END="822">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="837" END="837">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="837">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-44" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="849" END="849">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="849">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-45" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="863" END="863">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="863">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="888" END="893">الشاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="888" END="893">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-53" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1000" END="1000">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1000">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-54" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1031" END="1031">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1031">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-58" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1118" END="1118">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1118" END="1118">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E14-61" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1244" END="1249">الشاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="1244" END="1249">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ربيع خيرالله">
+      <charseq START="655" END="666">ربيع خيرالله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E16-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="680" END="709">قاضي الامور المستعجلة في بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="683">قاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E16-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="869" END="879">قاضي العجلة</charseq>
+    </extent>
+    <head>
+      <charseq START="869" END="872">قاضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E17" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E17-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="748" END="760">الباخرة بعلبك</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="760">الباخرة بعلبك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E17-90" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1686" END="1699">الباخرة
+,بعلبك</charseq>
+    </extent>
+    <head>
+      <charseq START="1686" END="1699">الباخرة
+,بعلبك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E17-151" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3415" END="3421">الباخرة</charseq>
+    </extent>
+    <head>
+      <charseq START="3415" END="3421">الباخرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الباخرة بعلبك">
+      <charseq START="748" END="760">الباخرة بعلبك</charseq>
+    </name>
+    <name NAME="الباخرة ,بعلبك">
+      <charseq START="1686" END="1699">الباخرة
+,بعلبك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E18-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="765" END="770">المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="765" END="770">المرفأ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="811" END="816">المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="811" END="816">المرفأ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-65" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1347" END="1352">المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="1347" END="1352">المرفأ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-92" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1709" END="1714">المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="1709" END="1714">المرفأ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-118" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2549" END="2554">المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="2549" END="2554">المرفأ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-120" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2590" END="2595">المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="2590" END="2595">المرفأ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-139" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3153" END="3162">مرفأ بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="3153" END="3162">مرفأ بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-140" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3195" END="3195">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3195" END="3195">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E18-146" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3252" END="3257">المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="3252" END="3257">المرفأ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مرفأ بيروت">
+      <charseq START="3153" END="3162">مرفأ بيروت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E19-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="801" END="816">عناصر امن المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="805">عناصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E19-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="821" END="821">و</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="821">و</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E19-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1107" END="1111">الحرس</charseq>
+    </extent>
+    <head>
+      <charseq START="1107" END="1111">الحرس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E19-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1117" END="1117">و</charseq>
+    </extent>
+    <head>
+      <charseq START="1117" END="1117">و</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E20-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="899" END="905">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="905">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E20-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1255" END="1261">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1261">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E20-84" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1580" END="1586">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1580" END="1586">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E20-102" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1996" END="2002">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1996" END="2002">المحكمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E21-55" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1058" END="1075">مؤسسة ,اراب اكسبرس</charseq>
+    </extent>
+    <head>
+      <charseq START="1058" END="1075">مؤسسة ,اراب اكسبرس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E21-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1212" END="1227">المؤسسة المذكورة</charseq>
+    </extent>
+    <head>
+      <charseq START="1212" END="1218">المؤسسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مؤسسة ,اراب اكسبرس">
+      <charseq START="1058" END="1075">مؤسسة ,اراب اكسبرس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E22-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3450" END="3460">آراب اكسبرس</charseq>
+    </extent>
+    <head>
+      <charseq START="3450" END="3460">آراب اكسبرس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آراب اكسبرس">
+      <charseq START="3450" END="3460">آراب اكسبرس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E23-142" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3204" END="3204">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3204" END="3204">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E23-143" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3210" END="3234">الشاهد المهندس عباس عواضه</charseq>
+    </extent>
+    <head>
+      <charseq START="3210" END="3215">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E23-144" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3225" END="3234">عباس عواضه</charseq>
+    </extent>
+    <head>
+      <charseq START="3225" END="3234">عباس عواضه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E23-145" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3238" END="3238">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3238" END="3238">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E23-147" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3300" END="3300">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3300" END="3300">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E23-153" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3498" END="3498">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3498" END="3498">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E23-198" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3217" END="3223">المهندس</charseq>
+    </extent>
+    <head>
+      <charseq START="3217" END="3223">المهندس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عباس عواضه">
+      <charseq START="3225" END="3234">عباس عواضه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E24" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E24-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1342" END="1352">مياه المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="1342" END="1345">مياه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E26-70" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1423" END="1439">المهندس سليم حاتم</charseq>
+    </extent>
+    <head>
+      <charseq START="1423" END="1429">المهندس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-71" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1416" END="1439">الشاهد
+المهندس سليم حاتم</charseq>
+    </extent>
+    <head>
+      <charseq START="1416" END="1421">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-72" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1431" END="1439">سليم حاتم</charseq>
+    </extent>
+    <head>
+      <charseq START="1431" END="1439">سليم حاتم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-74" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1452" END="1467">الاخير مدعى عليه</charseq>
+    </extent>
+    <head>
+      <charseq START="1452" END="1457">الاخير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-75" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1467" END="1467">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1467" END="1467">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-83" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1565" END="1570">الشاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="1565" END="1570">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-86" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1607" END="1607">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1607" END="1607">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-87" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1619" END="1619">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1619" END="1619">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-117" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2512" END="2517">الشاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="2512" END="2517">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E26-121" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2605" END="2610">الشاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="2605" END="2610">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سليم حاتم">
+      <charseq START="1431" END="1439">سليم حاتم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E29-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1521" END="1541">قاضي التحقيق في بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="1521" END="1524">قاضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E30" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E30-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1705" END="1714">حوض المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="1705" END="1707">حوض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E33-99" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1902" END="1928">المشرف
+على المشروع والادارة</charseq>
+    </extent>
+    <head>
+      <charseq START="1902" END="1907">المشرف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E34-100" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1921" END="1928">والادارة</charseq>
+    </extent>
+    <head>
+      <charseq START="1921" END="1928">والادارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E35" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E35-103" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1324" END="1352">17 قذيفة غارقة في مياه المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="1327" END="1331">قذيفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E36-108" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2097" END="2102">الضباط</charseq>
+    </extent>
+    <head>
+      <charseq START="2097" END="2102">الضباط</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E37-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="484" END="489">صوفيان</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="489">صوفيان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="496" END="496">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="496">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3597" END="3610">المتعهد الجديد</charseq>
+    </extent>
+    <head>
+      <charseq START="3597" END="3603">المتعهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-109" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2123" END="2152">المتعهد الجديد
+للالتزام صوفيان</charseq>
+    </extent>
+    <head>
+      <charseq START="2123" END="2129">المتعهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-110" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2147" END="2152">صوفيان</charseq>
+    </extent>
+    <head>
+      <charseq START="2147" END="2152">صوفيان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-111" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2154" END="2154">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2154" END="2154">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-127" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2915" END="2921">المتعهد</charseq>
+    </extent>
+    <head>
+      <charseq START="2915" END="2921">المتعهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-128" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2959" END="2959">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2959" END="2959">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-152" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3431" END="3460">المتعهد الجديد في ,آراب اكسبرس</charseq>
+    </extent>
+    <head>
+      <charseq START="3431" END="3437">المتعهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-154" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3544" END="3557">الملتزم الجديد</charseq>
+    </extent>
+    <head>
+      <charseq START="3544" END="3550">الملتزم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-156" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3592" END="3592">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3592" END="3592">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-157" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="3635" END="3635">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3635" END="3635">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-196" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="239" END="258">المتعهد هاروت
+صوفيان</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="245">المتعهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E37-197" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="247" END="258">هاروت
+صوفيان</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="258">هاروت
+صوفيان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صوفيان">
+      <charseq START="484" END="489">صوفيان</charseq>
+    </name>
+    <name NAME="صوفيان">
+      <charseq START="2147" END="2152">صوفيان</charseq>
+    </name>
+    <name NAME="هاروت صوفيان">
+      <charseq START="247" END="258">هاروت
+صوفيان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E38" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ANN20001118.1500.0101-E38-115" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="2345" END="2350">غطاسين</charseq>
+    </extent>
+    <head>
+      <charseq START="2345" END="2350">غطاسين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E39" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E39-119" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2584" END="2595">بمدخل المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="2584" END="2588">بمدخل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E40" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E40-73" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2695" END="2736">الباخرة الونش ,أودين, العائدة الى
+,سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="2695" END="2709">الباخرة الونش ,</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E40-123" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2710" END="2714">أودين</charseq>
+    </extent>
+    <head>
+      <charseq START="2710" END="2714">أودين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الباخرة الونش ,">
+      <charseq START="2695" END="2709">الباخرة الونش ,</charseq>
+    </name>
+    <name NAME="أودين">
+      <charseq START="2710" END="2714">أودين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E43-138" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3127" END="3142">المكتب الاستشاري</charseq>
+    </extent>
+    <head>
+      <charseq START="3127" END="3132">المكتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E46-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="328" END="329">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="329">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="577" END="583">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="577" END="583">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-48" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="269" END="289">شركة التعهدات البحرية</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="272">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1485" END="1491">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="1485" END="1491">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-88" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1636" END="1649">الشركة المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="1636" END="1641">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-89" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1367" END="1379">الجهة المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="1367" END="1371">الجهة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-93" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1809" END="1822">الشركة المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="1809" END="1814">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-101" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1934" END="1947">الشركة المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="1934" END="1939">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-104" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1803" END="1803">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1803" END="1803">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-107" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2065" END="2078">الشركة
+المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="2065" END="2070">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-112" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2168" END="2174">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="2168" END="2174">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-113" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2203" END="2209">الاخيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="2203" END="2209">الاخيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-114" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2233" END="2234">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2233" END="2234">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-122" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3043" END="3049">الاخيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="3043" END="3049">الاخيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-124" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2730" END="2736">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="2730" END="2736">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-125" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2804" END="2810">المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="2804" END="2810">المدعية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-126" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2815" END="2815">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2815" END="2815">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-133" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="292" END="298">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="298">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-134" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3030" END="3036">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="3030" END="3036">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-135" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3056" END="3056">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3056" END="3056">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-148" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3346" END="3352">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="3346" END="3352">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-149" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3359" END="3359">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3359" END="3359">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-150" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3380" END="3380">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3380" END="3380">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-155" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3574" END="3580">المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="3574" END="3580">المدعية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-174" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3866" END="3879">الشركة المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="3866" END="3871">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-179" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3970" END="3976">المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="3970" END="3976">المدعية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E46-183" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4023" END="4029">سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="4023" END="4029">سارمولم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سارمولم">
+      <charseq START="577" END="583">سارمولم</charseq>
+    </name>
+    <name NAME="سارمولم">
+      <charseq START="1485" END="1491">سارمولم</charseq>
+    </name>
+    <name NAME="سارمولم">
+      <charseq START="2168" END="2174">سارمولم</charseq>
+    </name>
+    <name NAME="سارمولم">
+      <charseq START="2730" END="2736">سارمولم</charseq>
+    </name>
+    <name NAME="سارمولم">
+      <charseq START="292" END="298">سارمولم</charseq>
+    </name>
+    <name NAME="سارمولم">
+      <charseq START="3030" END="3036">سارمولم</charseq>
+    </name>
+    <name NAME="سارمولم">
+      <charseq START="3346" END="3352">سارمولم</charseq>
+    </name>
+    <name NAME="سارمولم">
+      <charseq START="4023" END="4029">سارمولم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E47-159" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3649" END="3666">الشاهد الياس فرحات</charseq>
+    </extent>
+    <head>
+      <charseq START="3649" END="3654">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E47-160" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3656" END="3666">الياس فرحات</charseq>
+    </extent>
+    <head>
+      <charseq START="3656" END="3666">الياس فرحات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E47-161" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3678" END="3678">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3678" END="3678">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E47-162" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3715" END="3715">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3715" END="3715">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الياس فرحات">
+      <charseq START="3656" END="3666">الياس فرحات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E49-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="618" END="626">تاج الدين</charseq>
+    </extent>
+    <head>
+      <charseq START="618" END="626">تاج الدين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E49-82" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1551" END="1559">تاج الدين</charseq>
+    </extent>
+    <head>
+      <charseq START="1551" END="1559">تاج الدين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E49-163" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3717" END="3732">القاضي تاج الدين</charseq>
+    </extent>
+    <head>
+      <charseq START="3717" END="3722">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E49-164" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3724" END="3732">تاج الدين</charseq>
+    </extent>
+    <head>
+      <charseq START="3724" END="3732">تاج الدين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E49-188" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="131" END="161">القاضي المنفرد الجزائي في بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="136">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E49-189" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="163" END="176">مازن تاج الدين</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="176">مازن تاج الدين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تاج الدين">
+      <charseq START="618" END="626">تاج الدين</charseq>
+    </name>
+    <name NAME="تاج الدين">
+      <charseq START="1551" END="1559">تاج الدين</charseq>
+    </name>
+    <name NAME="تاج الدين">
+      <charseq START="3724" END="3732">تاج الدين</charseq>
+    </name>
+    <name NAME="مازن تاج الدين">
+      <charseq START="163" END="176">مازن تاج الدين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E50-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3882" END="3923">صاحب المصلحة فعليا في تقديم الدعوى
+الحاضرة</charseq>
+    </extent>
+    <head>
+      <charseq START="3882" END="3885">صاحب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-165" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3748" END="3776">الشاهد الاخير وسام شكور الحاج</charseq>
+    </extent>
+    <head>
+      <charseq START="3748" END="3753">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-166" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3762" END="3776">وسام شكور الحاج</charseq>
+    </extent>
+    <head>
+      <charseq START="3762" END="3776">وسام شكور الحاج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-167" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3820" END="3820">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3820" END="3820">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-172" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3851" END="3923">الشاهد هو ممثل الشركة المدعية وصاحب المصلحة فعليا في تقديم الدعوى
+الحاضرة</charseq>
+    </extent>
+    <head>
+      <charseq START="3851" END="3856">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-173" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3858" END="3859">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="3858" END="3859">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-175" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3939" END="3939">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3939" END="3939">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-180" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3987" END="3992">الشاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="3987" END="3992">الشاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-181" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3997" END="3997">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3997" END="3997">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-182" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4003" END="4029">المدير التنفيذي في ,سارمولم</charseq>
+    </extent>
+    <head>
+      <charseq START="4003" END="4008">المدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E50-184" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3861" END="3879">ممثل الشركة المدعية</charseq>
+    </extent>
+    <head>
+      <charseq START="3861" END="3864">ممثل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وسام شكور الحاج">
+      <charseq START="3762" END="3776">وسام شكور الحاج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E54-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2093" END="2113">احد الضباط بلباس مدني</charseq>
+    </extent>
+    <head>
+      <charseq START="2093" END="2095">احد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E57" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E57-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="705" END="709">بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="709">بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E57-79" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1537" END="1541">بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="1537" END="1541">بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E57-190" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="157" END="161">بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="161">بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيروت">
+      <charseq START="705" END="709">بيروت</charseq>
+    </name>
+    <name NAME="بيروت">
+      <charseq START="1537" END="1541">بيروت</charseq>
+    </name>
+    <name NAME="بيروت">
+      <charseq START="157" END="161">بيروت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E58-191" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="185" END="258">المخليين المدير العام السابق لمرفأ بيروت مهيب عيتاني والمتعهد هاروت
+صوفيان</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="192">المخليين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001118.1500.0101-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E59-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="407" END="412">عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="407" END="412">عيتاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-5" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="430" END="430">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="430">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="970" END="975">عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="975">عيتاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1474" END="1479">عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="1474" END="1479">عيتاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-98" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1851" END="1856">عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="1851" END="1856">عيتاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-116" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2500" END="2506">لعيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="2500" END="2506">لعيتاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-169" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3805" END="3810">عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="3805" END="3810">عيتاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-176" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3946" END="3956">المدعى عليه</charseq>
+    </extent>
+    <head>
+      <charseq START="3946" END="3951">المدعى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-177" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3956" END="3956">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3956" END="3956">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-193" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="226" END="236">مهيب عيتاني</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="236">مهيب عيتاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E59-194" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="194" END="224">المدير العام السابق لمرفأ بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="199">المدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عيتاني">
+      <charseq START="407" END="412">عيتاني</charseq>
+    </name>
+    <name NAME="عيتاني">
+      <charseq START="970" END="975">عيتاني</charseq>
+    </name>
+    <name NAME="عيتاني">
+      <charseq START="1474" END="1479">عيتاني</charseq>
+    </name>
+    <name NAME="عيتاني">
+      <charseq START="1851" END="1856">عيتاني</charseq>
+    </name>
+    <name NAME="لعيتاني">
+      <charseq START="2500" END="2506">لعيتاني</charseq>
+    </name>
+    <name NAME="عيتاني">
+      <charseq START="3805" END="3810">عيتاني</charseq>
+    </name>
+    <name NAME="مهيب عيتاني">
+      <charseq START="226" END="236">مهيب عيتاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E61" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E61-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="549" END="549">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="549" END="549">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E61-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="530" END="539">مرفأ بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="539">مرفأ بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001118.1500.0101-E61-195" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="214" END="224">لمرفأ بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="224">لمرفأ بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مرفأ بيروت">
+      <charseq START="530" END="539">مرفأ بيروت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001118.1500.0101-E65" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001118.1500.0101-E65-199" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="807" END="816">امن المرفأ</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="809">امن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ANN20001118.1500.0101-V1" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="ANN20001118.1500.0101-V1-1">
+    <extent>
+      <charseq START="2817" END="2827">20 في المئة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ANN20001118.1500.0101-T1">
+  <timex2_mention ID="ANN20001118.1500.0101-T1-1">
+    <extent>
+      <charseq START="2275" END="2295">لخمسة اشهر وتسعة ايام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001118.1500.0101-T2">
+  <timex2_mention ID="ANN20001118.1500.0101-T2-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001118.1500.0101-T3">
+  <timex2_mention ID="ANN20001118.1500.0101-T3-1">
+    <extent>
+      <charseq START="355" END="362">عام 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001118.1500.0101-T4">
+  <timex2_mention ID="ANN20001118.1500.0101-T4-1">
+    <extent>
+      <charseq START="716" END="723">عام 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001118.1500.0101-T5">
+  <timex2_mention ID="ANN20001118.1500.0101-T5-1">
+    <extent>
+      <charseq START="948" END="956">ايار 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001118.1500.0101-T6">
+  <timex2_mention ID="ANN20001118.1500.0101-T6-1">
+    <extent>
+      <charseq START="3262" END="3288">الاسبوع
+الاول من نيسان 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001118.1500.0101-T7">
+  <timex2_mention ID="ANN20001118.1500.0101-T7-1">
+    <extent>
+      <charseq START="4052" END="4072">22 كانون الاول المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ANN20001118.1500.0101-R1" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E49" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E57" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="131" END="161">القاضي المنفرد الجزائي في بيروت</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E49-188" ROLE="Arg-1">
+      <extent>
+        <charseq START="131" END="161">القاضي المنفرد الجزائي في بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E57-190" ROLE="Arg-2">
+      <extent>
+        <charseq START="157" END="161">بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E59" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E61" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="194" END="224">المدير العام السابق لمرفأ بيروت</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E59-194" ROLE="Arg-1">
+      <extent>
+        <charseq START="194" END="224">المدير العام السابق لمرفأ بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E61-195" ROLE="Arg-2">
+      <extent>
+        <charseq START="214" END="224">لمرفأ بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E37" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="492" END="496">وكيله</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E7-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="492" END="495">وكيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E37-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="496" END="496">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E61" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="519" END="549">وكيل ادارة
+مرفأ بيروت واستثماره</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E10-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="519" END="549">وكيل ادارة
+مرفأ بيروت واستثماره</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E61-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="530" END="539">مرفأ بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E65" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="801" END="816">عناصر امن المرفأ</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E19-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="801" END="816">عناصر امن المرفأ</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E65-199" ROLE="Arg-2">
+      <extent>
+        <charseq START="807" END="816">امن المرفأ</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R6" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E59" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="415" END="430">وكلاء الدفاع عنه</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E2-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="415" END="430">وكلاء الدفاع عنه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E59-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="430" END="430">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E57" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="680" END="709">قاضي الامور المستعجلة في بيروت</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E16-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="680" END="709">قاضي الامور المستعجلة في بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E57-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="705" END="709">بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E46" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1362" END="1379">وكيل الجهة المدعية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E12-68" ROLE="Arg-1">
+      <extent>
+        <charseq START="1362" END="1379">وكيل الجهة المدعية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E46-89" ROLE="Arg-2">
+      <extent>
+        <charseq START="1367" END="1379">الجهة المدعية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001118.1500.0101-R8-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="571" END="583">وكيل ,سارمولم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E12-56" ROLE="Arg-1">
+      <extent>
+        <charseq START="571" END="583">وكيل ,سارمولم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E46-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="577" END="583">سارمولم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R10" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E57" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1521" END="1541">قاضي التحقيق في بيروت</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E29-78" ROLE="Arg-1">
+      <extent>
+        <charseq START="1521" END="1541">قاضي التحقيق في بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E57-79" ROLE="Arg-2">
+      <extent>
+        <charseq START="1537" END="1541">بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R11" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E59" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R11-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1846" END="1856">وكيل عيتاني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E6-95" ROLE="Arg-1">
+      <extent>
+        <charseq START="1846" END="1856">وكيل عيتاني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E59-98" ROLE="Arg-2">
+      <extent>
+        <charseq START="1851" END="1856">عيتاني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R12" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E37" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E22" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3431" END="3460">المتعهد الجديد في ,آراب اكسبرس</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E37-152" ROLE="Arg-1">
+      <extent>
+        <charseq START="3431" END="3460">المتعهد الجديد في ,آراب اكسبرس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E22-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="3450" END="3460">آراب اكسبرس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R13" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E59" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3789" END="3810">وكلاء الدفاع عن عيتاني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E2-168" ROLE="Arg-1">
+      <extent>
+        <charseq START="3789" END="3810">وكلاء الدفاع عن عيتاني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E59-169" ROLE="Arg-2">
+      <extent>
+        <charseq START="3805" END="3810">عيتاني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R14" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E18" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R14-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2584" END="2595">بمدخل المرفأ</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E39-119" ROLE="Arg-1">
+      <extent>
+        <charseq START="2584" END="2595">بمدخل المرفأ</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E18-120" ROLE="Arg-2">
+      <extent>
+        <charseq START="2590" END="2595">المرفأ</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R15" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E43" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3118" END="3142">كمشرف في المكتب الاستشاري</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E9-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="3118" END="3142">كمشرف في المكتب الاستشاري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E43-138" ROLE="Arg-2">
+      <extent>
+        <charseq START="3127" END="3142">المكتب الاستشاري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R16" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E50" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E46" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R16-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="3861" END="3879">ممثل الشركة المدعية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E50-184" ROLE="Arg-1">
+      <extent>
+        <charseq START="3861" END="3879">ممثل الشركة المدعية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E46-174" ROLE="Arg-2">
+      <extent>
+        <charseq START="3866" END="3879">الشركة المدعية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001118.1500.0101-R17" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001118.1500.0101-E50" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001118.1500.0101-E46" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001118.1500.0101-R17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="4003" END="4029">المدير التنفيذي في ,سارمولم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E50-182" ROLE="Arg-1">
+      <extent>
+        <charseq START="4003" END="4029">المدير التنفيذي في ,سارمولم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001118.1500.0101-E46-183" ROLE="Arg-2">
+      <extent>
+        <charseq START="4023" END="4029">سارمولم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ANN20001118.1500.0101-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001118.1500.0101-E19" ROLE="Artifact"/>
+  <event_mention ID="ANN20001118.1500.0101-EV1-1">
+    <extent>
+      <charseq START="1103" END="1111">حضر الحرس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="882" END="1227">وابرز
+الشاهد الى المحكمة محضراً بمعاينة فنية اجراها على الحطام في ايار 1998
+ويحمل توقيع عيتاني فضم الى الملف. واوضح انه قصد الحطام مرتين في اطار
+مهمته ورافق الاعمال الجارية من مؤسسة ,اراب اكسبرس, وراقبها بواسطة
+منظار, ثم حضر الحرس ومنعوه من متابعة المهمة. وتحدث عن ,خروق لجهة عدم
+اكتمال ربط الحطام بالمواعين والرافعة المستعملة من المؤسسة المذكورة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1103" END="1105">حضر</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E19-57" ROLE="Artifact">
+      <extent>
+        <charseq START="1107" END="1111">الحرس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001118.1500.0101-EV2" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001118.1500.0101-E49" ROLE="Adjudicator"/>
+  <event_argument REFID="ANN20001118.1500.0101-E58" ROLE="Plaintiff"/>
+  <event_mention ID="ANN20001118.1500.0101-EV2-1">
+    <extent>
+      <charseq START="124" END="258">استأنف القاضي المنفرد الجزائي في بيروت مازن تاج الدين محاكمة
+المخليين المدير العام السابق لمرفأ بيروت مهيب عيتاني والمتعهد هاروت
+صوفيان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="124" END="391">استأنف القاضي المنفرد الجزائي في بيروت مازن تاج الدين محاكمة
+المخليين المدير العام السابق لمرفأ بيروت مهيب عيتاني والمتعهد هاروت
+صوفيان في ادعاد شركة التعهدات البحرية ,سارمولم, بسرقة معدات بحرية
+عائدة اليها واعاقة تنفيذ قرار قضائي عام 1998. واستمع الى افادات خمسة
+شهود</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="124" END="129">استأنف</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E49-188" ROLE="Adjudicator">
+      <extent>
+        <charseq START="131" END="161">القاضي المنفرد الجزائي في بيروت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E58-191" ROLE="Plaintiff">
+      <extent>
+        <charseq START="185" END="258">المخليين المدير العام السابق لمرفأ بيروت مهيب عيتاني والمتعهد هاروت
+صوفيان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001118.1500.0101-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001118.1500.0101-E59" ROLE="Entity"/>
+  <event_argument REFID="ANN20001118.1500.0101-E2" ROLE="Entity"/>
+  <event_argument REFID="ANN20001118.1500.0101-E37" ROLE="Entity"/>
+  <event_argument REFID="ANN20001118.1500.0101-E7" ROLE="Entity"/>
+  <event_argument REFID="ANN20001118.1500.0101-E10" ROLE="Entity"/>
+  <event_argument REFID="ANN20001118.1500.0101-E12" ROLE="Entity"/>
+  <event_mention ID="ANN20001118.1500.0101-EV3-1">
+    <extent>
+      <charseq START="400" END="583">الجلسة عيتاني ووكلاء الدفاع عنه المحامون سليم عثمان وجوزف فرح
+وفؤاد شبقلو. كذلك حضر صوفيان ووكيله المحامي انطوان زخيا ووكيل ادارة
+مرفأ بيروت واستثماره المحامي خليل شباني ووكيل ,سارمولم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="395" END="608">وحضر الجلسة عيتاني ووكلاء الدفاع عنه المحامون سليم عثمان وجوزف فرح
+وفؤاد شبقلو. كذلك حضر صوفيان ووكيله المحامي انطوان زخيا ووكيل ادارة
+مرفأ بيروت واستثماره المحامي خليل شباني ووكيل ,سارمولم, المحامي فادي
+روحانا صقر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="400" END="405">الجلسة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E59-3" ROLE="Entity">
+      <extent>
+        <charseq START="407" END="412">عيتاني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E2-4" ROLE="Entity">
+      <extent>
+        <charseq START="415" END="430">وكلاء الدفاع عنه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E37-10" ROLE="Entity">
+      <extent>
+        <charseq START="484" END="489">صوفيان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E7-14" ROLE="Entity">
+      <extent>
+        <charseq START="492" END="495">وكيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E10-18" ROLE="Entity">
+      <extent>
+        <charseq START="519" END="549">وكيل ادارة
+مرفأ بيروت واستثماره</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E12-56" ROLE="Entity">
+      <extent>
+        <charseq START="571" END="583">وكيل ,سارمولم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001118.1500.0101-EV4" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001118.1500.0101-E9" ROLE="Person"/>
+  <event_mention ID="ANN20001118.1500.0101-EV4-1">
+    <extent>
+      <charseq START="3103" END="3107">توقفه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2968" END="3195">وبدوره أفاد الشاهد المهندس مليح رامز عيدو انه اشرف على اعمال ,سارمولم,
+وان الاخيرة تجاوبت في العمل خلال مراقبته التنفيذ. وذكر انه بعد  توقفه
+عن العمل كمشرف في المكتب الاستشاري توجه الى مرفأ بيروت لسحب أغراضه
+الخاصة ومنع من دخوله</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="3103" END="3107">توقفه</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E9-137" ROLE="Person">
+      <extent>
+        <charseq START="3107" END="3107">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001118.1500.0101-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001118.1500.0101-E23" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001118.1500.0101-E18" ROLE="Destination"/>
+  <event_argument REFID="ANN20001118.1500.0101-T6" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001118.1500.0101-EV5-1">
+    <extent>
+      <charseq START="3238" END="3288">ه منع من دخول المرفأ في الاسبوع
+الاول من نيسان 1998</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="3199" END="3334">وبدوره قال الشاهد المهندس عباس عواضه انه منع من دخول المرفأ في الاسبوع
+الاول من نيسان 1998 بينما كان يتولى مراقبة عملية تنفيذ رفع الحطام</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="3247" END="3250">دخول</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E23-145" ROLE="Artifact">
+      <extent>
+        <charseq START="3238" END="3238">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-E18-146" ROLE="Destination">
+      <extent>
+        <charseq START="3252" END="3257">المرفأ</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001118.1500.0101-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="3262" END="3288">الاسبوع
+الاول من نيسان 1998</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

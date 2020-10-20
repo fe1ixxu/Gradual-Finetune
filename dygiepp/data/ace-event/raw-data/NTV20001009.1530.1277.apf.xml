@@ -1,0 +1,935 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001009.1530.1277.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001009.1530.1277">
+<entity ID="NTV20001009.1530.1277-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E1-46" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="175">مصري</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="175">مصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E1-54" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="293" END="304">الشعب المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="297">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E1-55" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="299" END="304">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="304">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصري">
+      <charseq START="172" END="175">مصري</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="299" END="304">المصري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E2-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="307" END="314">النقابات</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="314">النقابات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E3-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="317" END="323">الأحزاب</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="323">الأحزاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E4-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="377" END="430">مجمع العامرية الذي تعرض للدمار خلال
+حرب الخليج الثانية</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="389">مجمع العامرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E4-6" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="391" END="394">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="394">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E4-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="396" END="396">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="396">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجمع العامرية">
+      <charseq START="377" END="389">مجمع العامرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="NTV20001009.1530.1277-E5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="448" END="467">أحد مستشفيات الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="450">أحد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E6-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="452" END="467">مستشفيات الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="459">مستشفيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E7" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="NTV20001009.1530.1277-E7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="461" END="467">الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="467">الأطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E8" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E8-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="517" END="517">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="517">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="542" END="556">أول طائرة تركية</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="550">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E8-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="860" END="871">طائرة معونات</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="864">طائرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E9-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="282" END="304">جميع طوائف الشعب المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="291">طوائف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E10-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="552" END="556">تركية</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="556">تركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E10-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="818" END="822">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="818" END="822">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E10-29" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="847" END="851">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="851">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E10-34" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="935" END="939">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="935" END="939">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تركية">
+      <charseq START="552" END="556">تركية</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="818" END="822">تركيا</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="847" END="851">تركيا</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="935" END="939">تركيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E12" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001009.1530.1277-E12-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="590" END="621">عدد من الأطباء في
+مختلف التخصصات</charseq>
+    </extent>
+    <head>
+      <charseq START="590" END="592">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E13-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="597" END="621">الأطباء في
+مختلف التخصصات</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="603">الأطباء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E14-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="658" END="658">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="658" END="658">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E14-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="663" END="663">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="663" END="663">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E14-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="665" END="681">الإدارة
+الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="671">الإدارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E15-21" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="673" END="681">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="681">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E15-28" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="805" END="812">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="805" END="812">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E15-33" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="911" END="918">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="911" END="918">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكية">
+      <charseq START="673" END="681">الأمريكية</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="805" END="812">الأمريكي</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="911" END="918">الأمريكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E16-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="747" END="779">لجنة العقوبات التابعة لمجلس الأمن</charseq>
+    </extent>
+    <head>
+      <charseq START="747" END="759">لجنة العقوبات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجنة العقوبات">
+      <charseq START="747" END="759">لجنة العقوبات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E17-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="769" END="779">لمجلس الأمن</charseq>
+    </extent>
+    <head>
+      <charseq START="769" END="779">لمجلس الأمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمجلس الأمن">
+      <charseq START="769" END="779">لمجلس الأمن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E18-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="824" END="833">روبرت برسن</charseq>
+    </extent>
+    <head>
+      <charseq START="824" END="833">روبرت برسن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E18-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="798" END="822">السفير الأمريكي
+لدى تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="803">السفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="روبرت برسن">
+      <charseq START="824" END="833">روبرت برسن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E21-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="899" END="918">مجلس النواب الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="909">مجلس النواب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E21-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="926" END="926">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="926" END="926">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلس النواب">
+      <charseq START="899" END="909">مجلس النواب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E23" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="NTV20001009.1530.1277-E23-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="961" END="966">الأرمن</charseq>
+    </extent>
+    <head>
+      <charseq START="961" END="966">الأرمن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E24" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E24-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="417" END="422">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="422">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="417" END="422">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E25" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E25-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="65" END="65">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="65">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E25-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="99" END="127">طائرة تابعة لشركة مصر للطيران</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="103">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E25-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="160" END="161">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="161">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E26-40" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="71" END="77">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="71" END="77">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="71" END="77">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E27-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="111" END="127">لشركة مصر للطيران</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="127">لشركة مصر للطيران</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لشركة مصر للطيران">
+      <charseq START="111" END="127">لشركة مصر للطيران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E28-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="578" END="582">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="582">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E28-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="139" END="143">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="143">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="578" END="582">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="139" END="143">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001009.1530.1277-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E29-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="326" END="326">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="326">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E29-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="331" END="335">الوفد</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="335">الوفد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E29-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="163" END="175">وفد شعبي مصري</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="165">وفد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E29-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="248" END="248">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="248">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E29-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="252" END="256">الوفد</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="256">الوفد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E29-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="258" END="273">مائة وسبعين شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="273">شخصا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E29-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="279" END="280">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="280">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001009.1530.1277-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001009.1530.1277-E32-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="510" END="515">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="515">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E32-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="877" END="882">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="882">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E32-47" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="198" END="210">الشعب
+العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="202">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E32-48" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="204" END="210">العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="210">العراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001009.1530.1277-E32-49" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="245" END="245">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="245">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العراق">
+      <charseq START="510" END="515">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="877" END="882">العراق</charseq>
+    </name>
+    <name NAME="العراقي">
+      <charseq START="204" END="210">العراقي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="NTV20001009.1530.1277-T1">
+  <timex2_mention ID="NTV20001009.1530.1277-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/09/2000 15:51:17.42</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001009.1530.1277-T2">
+  <timex2_mention ID="NTV20001009.1530.1277-T2-1">
+    <extent>
+      <charseq START="79" END="97">يوم الأربعاء القادم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001009.1530.1277-T3">
+  <timex2_mention ID="NTV20001009.1530.1277-T3-1">
+    <extent>
+      <charseq START="362" END="369">ست ساعات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001009.1530.1277-T4">
+  <timex2_mention ID="NTV20001009.1530.1277-T4-1">
+    <extent>
+      <charseq START="523" END="540">يوم الاثنين المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001009.1530.1277-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E25" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="99" END="127">طائرة تابعة لشركة مصر للطيران</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E27-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="111" END="127">لشركة مصر للطيران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E25-41" ROLE="Arg-2">
+      <extent>
+        <charseq START="99" END="127">طائرة تابعة لشركة مصر للطيران</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001009.1530.1277-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E1" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="163" END="175">وفد شعبي مصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E29-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="163" END="175">وفد شعبي مصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E1-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="172" END="175">مصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001009.1530.1277-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E6" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="452" END="467">مستشفيات الأطفال</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E7-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="461" END="467">الأطفال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E6-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="452" END="467">مستشفيات الأطفال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001009.1530.1277-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E8" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="542" END="556">أول طائرة تركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E10-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="552" END="556">تركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E8-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="542" END="556">أول طائرة تركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001009.1530.1277-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E15" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="665" END="681">الإدارة
+الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E14-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="665" END="681">الإدارة
+الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E15-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="673" END="681">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001009.1530.1277-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E17" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="747" END="779">لجنة العقوبات التابعة لمجلس الأمن</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E16-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="747" END="779">لجنة العقوبات التابعة لمجلس الأمن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E17-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="769" END="779">لمجلس الأمن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001009.1530.1277-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E15" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="798" END="822">السفير الأمريكي
+لدى تركيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E18-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="798" END="822">السفير الأمريكي
+لدى تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E15-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="805" END="812">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001009.1530.1277-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001009.1530.1277-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001009.1530.1277-E15" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001009.1530.1277-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="899" END="918">مجلس النواب الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E21-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="899" END="918">مجلس النواب الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001009.1530.1277-E15-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="911" END="918">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001009.1530.1277-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001009.1530.1277-E29" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001009.1530.1277-E28" ROLE="Destination"/>
+  <event_argument REFID="NTV20001009.1530.1277-E26" ROLE="Origin"/>
+  <event_argument REFID="NTV20001009.1530.1277-T2" ROLE="Time-Within"/>
+  <event_argument REFID="NTV20001009.1530.1277-E25" ROLE="Vehicle"/>
+  <event_mention ID="NTV20001009.1530.1277-EV1-1">
+    <extent>
+      <charseq START="65" END="175">تغادر القاهرة يوم الأربعاء القادم طائرة تابعة لشركة مصر للطيران متجهة
+إلى بغداد مباشرة وعلى متنها وفد شعبي مصري</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="245">تغادر القاهرة يوم الأربعاء القادم طائرة تابعة لشركة مصر للطيران متجهة
+إلى بغداد مباشرة وعلى متنها وفد شعبي مصري تعبيرا عن التضامن مع الشعب
+العراقي ومشاركة في كسر الحصار المفروض عليه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="65" END="69">تغادر</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E29-45" ROLE="Artifact">
+      <extent>
+        <charseq START="163" END="175">وفد شعبي مصري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E28-43" ROLE="Destination">
+      <extent>
+        <charseq START="139" END="143">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E26-40" ROLE="Origin">
+      <extent>
+        <charseq START="71" END="77">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="79" END="97">يوم الأربعاء القادم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E25-39" ROLE="Vehicle">
+      <extent>
+        <charseq START="65" END="65">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001009.1530.1277-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001009.1530.1277-E8" ROLE="Vehicle"/>
+  <event_argument REFID="NTV20001009.1530.1277-E12" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001009.1530.1277-E32" ROLE="Destination"/>
+  <event_argument REFID="NTV20001009.1530.1277-T4" ROLE="Time-Starting"/>
+  <event_mention ID="NTV20001009.1530.1277-EV2-1">
+    <extent>
+      <charseq START="510" END="621">العراق يتوجه يوم الاثنين المقبل
+أول طائرة تركية في رحلة إنسانية إلى بغداد حاملة عدد من الأطباء في
+مختلف التخصصات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="471" END="648">واستمرار لتحدي الحذر الجوي المفروض على العراق يتوجه يوم الاثنين المقبل
+أول طائرة تركية في رحلة إنسانية إلى بغداد حاملة عدد من الأطباء في
+مختلف التخصصات إضافة إلى كميات من الأدوية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="517" END="521">يتوجه</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E8-12" ROLE="Vehicle">
+      <extent>
+        <charseq START="517" END="517">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E12-16" ROLE="Artifact">
+      <extent>
+        <charseq START="590" END="621">عدد من الأطباء في
+مختلف التخصصات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E32-11" ROLE="Destination">
+      <extent>
+        <charseq START="510" END="515">العراق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-T4-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="523" END="540">يوم الاثنين المقبل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001009.1530.1277-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001009.1530.1277-E29" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001009.1530.1277-E4" ROLE="Destination"/>
+  <event_argument REFID="NTV20001009.1530.1277-E5" ROLE="Destination"/>
+  <event_argument REFID="NTV20001009.1530.1277-T3" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001009.1530.1277-EV3-1">
+    <extent>
+      <charseq START="331" END="467">الوفد خلال
+الزيارة التي تستغرق ست ساعات بتفقد مجمع العامرية الذي تعرض للدمار خلال
+حرب الخليج الثانية علاوة على زيارة أحد مستشفيات الأطفال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="325" END="467">ويقوم الوفد خلال
+الزيارة التي تستغرق ست ساعات بتفقد مجمع العامرية الذي تعرض للدمار خلال
+حرب الخليج الثانية علاوة على زيارة أحد مستشفيات الأطفال</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="342" END="348">الزيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E29-4" ROLE="Artifact">
+      <extent>
+        <charseq START="331" END="335">الوفد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E4-5" ROLE="Destination">
+      <extent>
+        <charseq START="377" END="430">مجمع العامرية الذي تعرض للدمار خلال
+حرب الخليج الثانية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E5-8" ROLE="Destination">
+      <extent>
+        <charseq START="448" END="467">أحد مستشفيات الأطفال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="362" END="369">ست ساعات</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001009.1530.1277-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="NTV20001009.1530.1277-E8" ROLE="Vehicle"/>
+  <event_argument REFID="NTV20001009.1530.1277-E10" ROLE="Agent"/>
+  <event_argument REFID="NTV20001009.1530.1277-E32" ROLE="Destination"/>
+  <event_mention ID="NTV20001009.1530.1277-EV4-1">
+    <extent>
+      <charseq START="847" END="882">تركيا بإرسال طائرة معونات إلى العراق</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="835" END="994">ويأتي إسراع تركيا بإرسال طائرة معونات إلى العراق
+كرد فعل لإصدار مجلس النواب الأمريكي قرارا يتهم فيه تركيا بارتكاب مذابح
+في حق الأرمن إبدان الحرب العالمية الأولى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="853" END="858">بإرسال</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E8-30" ROLE="Vehicle">
+      <extent>
+        <charseq START="860" END="871">طائرة معونات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E10-29" ROLE="Agent">
+      <extent>
+        <charseq START="847" END="851">تركيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001009.1530.1277-E32-31" ROLE="Destination">
+      <extent>
+        <charseq START="877" END="882">العراق</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

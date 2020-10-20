@@ -1,0 +1,720 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ANN20001013.0900.0052.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001013.0900.0052">
+<entity ID="ANN20001013.0900.0052-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E1-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="292" END="300">بوتا سينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="300">بوتا سينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="271" END="290">وزير الداخلية السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="274">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E1-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="604" END="607">سينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="607">سينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بوتا سينغ">
+      <charseq START="292" END="300">بوتا سينغ</charseq>
+    </name>
+    <name NAME="سينغ">
+      <charseq START="604" END="607">سينغ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E3-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="276" END="283">الداخلية</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="283">الداخلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الداخلية">
+      <charseq START="276" END="283">الداخلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E4-4" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="304" END="309">اللذين</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="309">اللذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E4-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="318" END="320">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="320">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E4-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="420" END="422">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="422">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E4-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="504" END="506">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="506">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001013.0900.0052-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="484" END="495">مصادر قضائية</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="488">مصادر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E5-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="482" END="482">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="482">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001013.0900.0052-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E6-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="557" END="570">المحكمة العليا</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="570">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المحكمة العليا">
+      <charseq START="557" END="570">المحكمة العليا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E7-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="705" END="716">لحزب المؤتمر</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="716">لحزب المؤتمر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لحزب المؤتمر">
+      <charseq START="705" END="716">لحزب المؤتمر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E8-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="767" END="779">رويترز, و ص ف</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="772">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="767" END="772">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E9-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="775" END="779">و ص ف</charseq>
+    </extent>
+    <head>
+      <charseq START="775" END="779">و ص ف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="و ص ف">
+      <charseq START="775" END="779">و ص ف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E10-16" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="415" END="422">كل منهما</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="416">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001013.0900.0052-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E11-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="112" END="122">لمسؤول هندي</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="117">لمسؤول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001013.0900.0052-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E12-12" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="656" END="660">حكومت</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="660">حكومت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E12-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="119" END="122">هندي</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="122">هندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E12-23" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="136" END="141">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="141">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E12-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="197" END="202">الهندي</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="202">الهندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="هندي">
+      <charseq START="119" END="122">هندي</charseq>
+    </name>
+    <name NAME="الهندي">
+      <charseq START="197" END="202">الهندي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E14-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="599" END="601">راو</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="601">راو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="661" END="661">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="661">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="670" END="680">راو ,79 سنة</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="672">راو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="697" END="697">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="697" END="697">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="184" END="209">رئيس الوزراء الهندي السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="187">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="235" END="235">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="235">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="699" END="716">رئيسا لحزب المؤتمر</charseq>
+    </extent>
+    <head>
+      <charseq START="699" END="703">رئيسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="217" END="228">ناراسيما راو</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="228">ناراسيما راو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001013.0900.0052-E14-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="266" END="346">راو ووزير الداخلية السابق بوتا سينغ , اللذين أفرج عنهما بكفالة في
+29 ايلول الماضي</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="268">راو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="راو">
+      <charseq START="599" END="601">راو</charseq>
+    </name>
+    <name NAME="راو">
+      <charseq START="670" END="672">راو</charseq>
+    </name>
+    <name NAME="ناراسيما راو">
+      <charseq START="217" END="228">ناراسيما راو</charseq>
+    </name>
+    <name NAME="راو">
+      <charseq START="266" END="268">راو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001013.0900.0052-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001013.0900.0052-E16-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="189" END="195">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="195">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ANN20001013.0900.0052-V1" TYPE="Crime">
+  <value_mention ID="ANN20001013.0900.0052-V1-1">
+    <extent>
+      <charseq START="230" END="248">لتورطه في قضية رشوة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ANN20001013.0900.0052-V2" TYPE="Sentence">
+  <value_mention ID="ANN20001013.0900.0052-V2-1">
+    <extent>
+      <charseq START="162" END="178">بالسجن ثلاث سنوات</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ANN20001013.0900.0052-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ANN20001013.0900.0052-V3-1">
+    <extent>
+      <charseq START="448" END="460">مئة الف روبية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ANN20001013.0900.0052-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ANN20001013.0900.0052-V4-1">
+    <extent>
+      <charseq START="462" END="473">,2200
+دولار,</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ANN20001013.0900.0052-T1">
+  <timex2_mention ID="ANN20001013.0900.0052-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-13</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T2">
+  <timex2_mention ID="ANN20001013.0900.0052-T2-1">
+    <extent>
+      <charseq START="143" END="150">عام 1947</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T3">
+  <timex2_mention ID="ANN20001013.0900.0052-T3-1">
+    <extent>
+      <charseq START="158" END="160">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T4">
+  <timex2_mention ID="ANN20001013.0900.0052-T4-1">
+    <extent>
+      <charseq START="169" END="178">ثلاث سنوات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T5">
+  <timex2_mention ID="ANN20001013.0900.0052-T5-1">
+    <extent>
+      <charseq START="250" END="257">عام 1993</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T6">
+  <timex2_mention ID="ANN20001013.0900.0052-T6-1">
+    <extent>
+      <charseq START="332" END="346">29 ايلول الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T7">
+  <timex2_mention ID="ANN20001013.0900.0052-T7-1">
+    <extent>
+      <charseq START="522" END="535">8 تشرين الثاني</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T8">
+  <timex2_mention ID="ANN20001013.0900.0052-T8-1">
+    <extent>
+      <charseq START="623" END="630">عام 1993</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001013.0900.0052-T9">
+  <timex2_mention ID="ANN20001013.0900.0052-T9-1">
+    <extent>
+      <charseq START="718" END="725">عام 1996</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ANN20001013.0900.0052-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001013.0900.0052-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001013.0900.0052-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001013.0900.0052-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="112" END="122">لمسؤول هندي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E11-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="112" END="122">لمسؤول هندي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E12-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="119" END="122">هندي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001013.0900.0052-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001013.0900.0052-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001013.0900.0052-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001013.0900.0052-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="184" END="209">رئيس الوزراء الهندي السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E14-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="184" END="209">رئيس الوزراء الهندي السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E12-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="197" END="202">الهندي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001013.0900.0052-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001013.0900.0052-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001013.0900.0052-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001013.0900.0052-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="271" END="290">وزير الداخلية السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="271" END="290">وزير الداخلية السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E3-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="276" END="283">الداخلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001013.0900.0052-R4" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001013.0900.0052-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001013.0900.0052-E7" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001013.0900.0052-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="699" END="716">رئيسا لحزب المؤتمر</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E14-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="699" END="716">رئيسا لحزب المؤتمر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001013.0900.0052-E7-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="705" END="716">لحزب المؤتمر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ANN20001013.0900.0052-EV1" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001013.0900.0052-E14" ROLE="Defendant"/>
+  <event_argument REFID="ANN20001013.0900.0052-T4" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001013.0900.0052-EV1-1">
+    <extent>
+      <charseq START="162" END="209">بالسجن ثلاث سنوات على رئيس الوزراء الهندي السابق</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="93" END="257">في أول إدانة رسمية لمسؤول هندي منذ إستقلال البلاد عام 1947,
+حُكم امس بالسجن ثلاث سنوات على رئيس الوزراء الهندي السابق ب0في0
+ناراسيما راو لتورطه في قضية رشوة عام 1993</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="162" END="167">بالسجن</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E14-20" ROLE="Defendant">
+      <extent>
+        <charseq START="184" END="209">رئيس الوزراء الهندي السابق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="169" END="178">ثلاث سنوات</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001013.0900.0052-EV2" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ANN20001013.0900.0052-E4" ROLE="Plaintiff"/>
+  <event_argument REFID="ANN20001013.0900.0052-T7" ROLE="Time-Ending"/>
+  <event_argument REFID="ANN20001013.0900.0052-E6" ROLE="Adjudicator"/>
+  <event_mention ID="ANN20001013.0900.0052-EV2-1">
+    <extent>
+      <charseq START="504" END="570">هما مهلة تنتهي في 8 تشرين الثاني لاستئناف
+الحكم امام المحكمة العليا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="477" END="570">واوضحت مصادر قضائية ان امامهما مهلة تنتهي في 8 تشرين الثاني لاستئناف
+الحكم امام المحكمة العليا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="537" END="544">لاستئناف</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E4-8" ROLE="Plaintiff">
+      <extent>
+        <charseq START="504" END="506">هما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-T7-1" ROLE="Time-Ending">
+      <extent>
+        <charseq START="522" END="535">8 تشرين الثاني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E6-9" ROLE="Adjudicator">
+      <extent>
+        <charseq START="557" END="570">المحكمة العليا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001013.0900.0052-EV3" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001013.0900.0052-E14" ROLE="Person"/>
+  <event_argument REFID="ANN20001013.0900.0052-T9" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001013.0900.0052-EV3-1">
+    <extent>
+      <charseq START="670" END="725">راو ,79 سنة, إستقال من منصبه رئيسا لحزب المؤتمر عام 1996</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="665" END="762">وكان راو ,79 سنة, إستقال من منصبه رئيسا لحزب المؤتمر عام 1996 بعد
+هزيمة مهينة في الانتخابات العامة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="683" END="688">إستقال</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E14-14" ROLE="Person">
+      <extent>
+        <charseq START="670" END="680">راو ,79 سنة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-T9-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="718" END="725">عام 1996</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001013.0900.0052-EV4" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001013.0900.0052-E14" ROLE="Defendant"/>
+  <event_mention ID="ANN20001013.0900.0052-EV4-1">
+    <extent>
+      <charseq START="262" END="346">دين راو ووزير الداخلية السابق بوتا سينغ , اللذين أفرج عنهما بكفالة في
+29 ايلول الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="261" END="394">ودين راو ووزير الداخلية السابق بوتا سينغ , اللذين أفرج عنهما بكفالة في
+29 ايلول الماضي , بالتآمر الاجرامي سندا الى قانون مكافحة الفساد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="262" END="264">دين</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E14-30" ROLE="Defendant">
+      <extent>
+        <charseq START="266" END="346">راو ووزير الداخلية السابق بوتا سينغ , اللذين أفرج عنهما بكفالة في
+29 ايلول الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001013.0900.0052-EV5" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001013.0900.0052-E14" ROLE="Defendant"/>
+  <event_argument REFID="ANN20001013.0900.0052-V2" ROLE="Sentence"/>
+  <event_argument REFID="ANN20001013.0900.0052-V1" ROLE="Crime"/>
+  <event_argument REFID="ANN20001013.0900.0052-T3" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001013.0900.0052-EV5-1">
+    <extent>
+      <charseq START="153" END="248">حُكم امس بالسجن ثلاث سنوات على رئيس الوزراء الهندي السابق ب0في0
+ناراسيما راو لتورطه في قضية رشوة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="93" END="258">في أول إدانة رسمية لمسؤول هندي منذ إستقلال البلاد عام 1947,
+حُكم امس بالسجن ثلاث سنوات على رئيس الوزراء الهندي السابق ب0في0
+ناراسيما راو لتورطه في قضية رشوة عام 1993.</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="153" END="156">حُكم</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E14-20" ROLE="Defendant">
+      <extent>
+        <charseq START="184" END="209">رئيس الوزراء الهندي السابق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-V2-1" ROLE="Sentence">
+      <extent>
+        <charseq START="162" END="178">بالسجن ثلاث سنوات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="230" END="248">لتورطه في قضية رشوة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="158" END="160">امس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001013.0900.0052-EV6" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001013.0900.0052-E10" ROLE="Entity"/>
+  <event_argument REFID="ANN20001013.0900.0052-V3" ROLE="Money"/>
+  <event_argument REFID="ANN20001013.0900.0052-V4" ROLE="Money"/>
+  <event_mention ID="ANN20001013.0900.0052-EV6-1">
+    <extent>
+      <charseq START="415" END="473">كل منهما دفع غرامة مالية مقدارها مئة الف روبية ,2200
+دولار,</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="397" END="474">وقضى
+الحكم بالزام كل منهما دفع غرامة مالية مقدارها مئة الف روبية ,2200
+دولار,.</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="428" END="432">غرامة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E10-16" ROLE="Entity">
+      <extent>
+        <charseq START="415" END="422">كل منهما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-V3-1" ROLE="Money">
+      <extent>
+        <charseq START="448" END="460">مئة الف روبية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-V4-1" ROLE="Money">
+      <extent>
+        <charseq START="462" END="473">,2200
+دولار,</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001013.0900.0052-EV7" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001013.0900.0052-E4" ROLE="Person"/>
+  <event_argument REFID="ANN20001013.0900.0052-T6" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001013.0900.0052-EV7-1">
+    <extent>
+      <charseq START="311" END="346">أفرج عنهما بكفالة في
+29 ايلول الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="261" END="394">ودين راو ووزير الداخلية السابق بوتا سينغ , اللذين أفرج عنهما بكفالة في
+29 ايلول الماضي , بالتآمر الاجرامي سندا الى قانون مكافحة الفساد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="311" END="314">أفرج</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001013.0900.0052-E4-5" ROLE="Person">
+      <extent>
+        <charseq START="318" END="320">هما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001013.0900.0052-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="332" END="346">29 ايلول الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001013.0900.0052-EV8" TYPE="Business" SUBTYPE="End-Org" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="ANN20001013.0900.0052-EV8-1">
+    <extent>
+      <charseq START="643" END="645">حجب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="574" END="661">وتتعلق قضية الفساد بشراء راو وسينغ أصواتا نيابية عام 1993 للحؤول دون
+حجب الثقة عن حكومته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="643" END="645">حجب</charseq>
+    </anchor>
+  </event_mention>
+</event>
+</document>
+</source_file>

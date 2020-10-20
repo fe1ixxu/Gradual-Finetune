@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001206.1000.0046.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001206.1000.0046">
+<entity ID="AFA20001206.1000.0046-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="333" END="337">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="337">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E1-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="485" END="489">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="489">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E1-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="707" END="712">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="707" END="712">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E1-33" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="350" END="357">اليمنيين</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="357">اليمنيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمن">
+      <charseq START="333" END="337">اليمن</charseq>
+    </name>
+    <name NAME="اليمن">
+      <charseq START="485" END="489">اليمن</charseq>
+    </name>
+    <name NAME="اليمني">
+      <charseq START="707" END="712">اليمني</charseq>
+    </name>
+    <name NAME="اليمنيين">
+      <charseq START="350" END="357">اليمنيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0046-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E2-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="238" END="242">جيزان</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="242">جيزان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E2-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="788" END="792">جيزان</charseq>
+    </extent>
+    <head>
+      <charseq START="788" END="792">جيزان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E2-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="555" END="559">جيزان</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="559">جيزان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جيزان">
+      <charseq START="238" END="242">جيزان</charseq>
+    </name>
+    <name NAME="جيزان">
+      <charseq START="788" END="792">جيزان</charseq>
+    </name>
+    <name NAME="جيزان">
+      <charseq START="555" END="559">جيزان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0046-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E3-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="422" END="425">عسير</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="425">عسير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E3-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="245" END="248">عسير</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="248">عسير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عسير">
+      <charseq START="422" END="425">عسير</charseq>
+    </name>
+    <name NAME="عسير">
+      <charseq START="245" END="248">عسير</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0046-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E4-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="149" END="152">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="152">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="149" END="152">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0046-E5" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="438" END="459">المنفذ الحدودي الجنوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="443">المنفذ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E6-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="658" END="673">الاراضي السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="658" END="664">الاراضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E7-14" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="578" END="582">بلدان</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="582">بلدان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E8-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="571" END="572">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="572">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E8-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="583" END="584">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="584">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E8-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="513" END="530">18230 متسللا آخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="523">متسلل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E9-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="597" END="612">السلطات السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="603">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E9-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="591" END="591">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="591" END="591">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E10-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="636" END="689">اليمنيين الذين يدخلون
+الاراضي السعودية بحثا عن فرص عمل</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="643">اليمنيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E10-20" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="645" END="649">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="649">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E10-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="655" END="656">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="655" END="656">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E10-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="734" END="762">اليمنيين المقيمين في السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="734" END="741">اليمنيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E10-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="749" END="750">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="749" END="750">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E12" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001206.1000.0046-E12-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="765" END="792">بعض السعوديين في منطقة جيزان</charseq>
+    </extent>
+    <head>
+      <charseq START="765" END="767">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E13-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="769" END="777">السعوديين</charseq>
+    </extent>
+    <head>
+      <charseq START="769" END="777">السعوديين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E14" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E14-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="782" END="792">منطقة جيزان</charseq>
+    </extent>
+    <head>
+      <charseq START="782" END="786">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E15-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="431" END="432">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="432">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E15-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="479" END="480">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="480">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E15-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="408" END="425">24719 شخصا في عسير</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="417">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E16-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="344" END="345">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="345">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E16-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="282" END="294">43 الف متسللا</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="294">متسللا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E16-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="299" END="300">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="300">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E17-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="136" END="152">الرياض 12-6 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="141">الرياض</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياض">
+      <charseq START="136" END="141">الرياض</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0046-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E19-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="755" END="762">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="755" END="762">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E19-34" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="666" END="673">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="673">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E19-35" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="219" END="226">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="226">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E19-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="310" END="317">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="317">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E19-37" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="605" END="612">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="612">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E19-40" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="181" END="188">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="188">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودية">
+      <charseq START="755" END="762">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="666" END="673">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="219" END="226">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="310" END="317">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="605" END="612">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="181" END="188">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0046-E23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E23-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="369" END="375">الصحيفة</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="375">الصحيفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E23-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="367" END="367">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="367">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E23-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="162" END="188">صحيفة "الاقتصادية" السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="178">صحيفة "الاقتصادية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E23-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="160" END="160">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="160">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة الاقتصادية">
+      <charseq START="162" END="178">صحيفة "الاقتصادية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0046-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E26-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="208" END="263">قوات الامن السعودية في منطقتي جيزان وعسير (جنوب السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="211">قوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0046-E26-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="270" END="270">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="270">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E27" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001206.1000.0046-E27-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="340" END="357">معظمهم من اليمنيين</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="343">معظم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E28" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E28-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="251" END="263">جنوب السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="263">السعودية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0046-E29" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0046-E29-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="323" END="337">الحدود مع اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="328">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001206.1000.0046-T1">
+  <timex2_mention ID="AFA20001206.1000.0046-T1-1">
+    <extent>
+      <charseq START="143" END="146">12-6</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1000.0046-T2">
+  <timex2_mention ID="AFA20001206.1000.0046-T2-1">
+    <extent>
+      <charseq START="190" END="203">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1000.0046-T3">
+  <timex2_mention ID="AFA20001206.1000.0046-T3-1">
+    <extent>
+      <charseq START="389" END="400">الشهر الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1000.0046-T4">
+  <timex2_mention ID="AFA20001206.1000.0046-T4-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-06 11:21:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001206.1000.0046-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="658" END="673">الاراضي السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E6-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="658" END="673">الاراضي السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E19-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="666" END="673">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="162" END="188">صحيفة "الاقتصادية" السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E23-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="162" END="188">صحيفة "الاقتصادية" السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E19-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="181" END="188">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="323" END="337">الحدود مع اليمن</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E29-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="323" END="337">الحدود مع اليمن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E1-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="333" END="337">اليمن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="597" END="612">السلطات السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E9-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="597" END="612">السلطات السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E19-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="605" END="612">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="208" END="263">قوات الامن السعودية في منطقتي جيزان وعسير (جنوب السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E26-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="208" END="263">قوات الامن السعودية في منطقتي جيزان وعسير (جنوب السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E19-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="219" END="226">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R6" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="734" END="762">اليمنيين المقيمين في السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E10-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="734" END="762">اليمنيين المقيمين في السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E19-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="755" END="762">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R7" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E14" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E13" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001206.1000.0046-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="765" END="792">بعض السعوديين في منطقة جيزان</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E14-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="782" END="792">منطقة جيزان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E13-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="769" END="777">السعوديين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R8-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="136" END="152">الرياض 12-6 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E4-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="149" END="152">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E17-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="136" END="152">الرياض 12-6 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R9" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E6" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E10" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001206.1000.0046-R9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="636" END="689">اليمنيين الذين يدخلون
+الاراضي السعودية بحثا عن فرص عمل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E6-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="658" END="673">الاراضي السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E10-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="636" END="689">اليمنيين الذين يدخلون
+الاراضي السعودية بحثا عن فرص عمل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R10" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="408" END="425">24719 شخصا في عسير</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E15-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="408" END="425">24719 شخصا في عسير</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E3-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="422" END="425">عسير</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R11-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="578" END="584">بلدانهم</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E8-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="583" END="584">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E7-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="578" END="582">بلدان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0046-R12" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0046-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0046-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0046-R12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="340" END="357">معظمهم من اليمنيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E16-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="344" END="345">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0046-E1-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="350" END="357">اليمنيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001206.1000.0046-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0046-E15" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1000.0046-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001206.1000.0046-EV1-1">
+    <extent>
+      <charseq START="389" END="425">الشهر الماضي توقيف 24719 شخصا في عسير</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="362" END="489">واوضحت الصحيفة انه تم خلال الشهر الماضي توقيف 24719 شخصا في عسير
+تسللوا عبر المنفذ الحدودي الجنوبي، في اشارة الى قدومهم من اليمن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="402" END="406">توقيف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E15-47" ROLE="Person">
+      <extent>
+        <charseq START="408" END="425">24719 شخصا في عسير</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0046-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="389" END="400">الشهر الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0046-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0046-E8" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1000.0046-E2" ROLE="Place"/>
+  <event_mention ID="AFA20001206.1000.0046-EV2-1">
+    <extent>
+      <charseq START="501" END="559">القبض على   18230 متسللا آخرين خلال الايام الماضية في جيزان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="492" END="584">كما
+القي القبض على   18230 متسللا آخرين خلال الايام الماضية في جيزان و"تم
+ترحيلهم الى بلدانهم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="501" END="505">القبض</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E8-16" ROLE="Person">
+      <extent>
+        <charseq START="513" END="530">18230 متسللا آخرين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E2-42" ROLE="Place">
+      <extent>
+        <charseq START="555" END="559">جيزان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0046-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0046-E15" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001206.1000.0046-E1" ROLE="Origin"/>
+  <event_mention ID="AFA20001206.1000.0046-EV3-1">
+    <extent>
+      <charseq START="475" END="489">قدومهم من اليمن</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="362" END="489">واوضحت الصحيفة انه تم خلال الشهر الماضي توقيف 24719 شخصا في عسير
+تسللوا عبر المنفذ الحدودي الجنوبي، في اشارة الى قدومهم من اليمن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="475" END="480">قدومهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E15-11" ROLE="Artifact">
+      <extent>
+        <charseq START="479" END="480">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E1-12" ROLE="Origin">
+      <extent>
+        <charseq START="485" END="489">اليمن</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0046-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001206.1000.0046-E10" ROLE="Artifact"/>
+  <event_mention ID="AFA20001206.1000.0046-EV4-1">
+    <extent>
+      <charseq START="631" END="689">تدفق اليمنيين الذين يدخلون
+الاراضي السعودية بحثا عن فرص عمل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="590" END="792">وتواجه السلطات السعودية صعوبات في مواجهة تدفق اليمنيين الذين يدخلون
+الاراضي السعودية بحثا عن فرص عمل او لتهريب القات اليمني الذي يلقى
+رواجا بين اليمنيين المقيمين في السعودية وبعض السعوديين في منطقة جيزان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="631" END="634">تدفق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E10-19" ROLE="Artifact">
+      <extent>
+        <charseq START="636" END="689">اليمنيين الذين يدخلون
+الاراضي السعودية بحثا عن فرص عمل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0046-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0046-E8" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001206.1000.0046-E7" ROLE="Destination"/>
+  <event_argument REFID="AFA20001206.1000.0046-E2" ROLE="Origin"/>
+  <event_mention ID="AFA20001206.1000.0046-EV5-1">
+    <extent>
+      <charseq START="555" END="582">جيزان و"تم
+ترحيلهم الى بلدان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="492" END="584">كما
+القي القبض على   18230 متسللا آخرين خلال الايام الماضية في جيزان و"تم
+ترحيلهم الى بلدانهم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="566" END="572">ترحيلهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E8-13" ROLE="Artifact">
+      <extent>
+        <charseq START="571" END="572">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E7-14" ROLE="Destination">
+      <extent>
+        <charseq START="578" END="582">بلدان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E2-42" ROLE="Origin">
+      <extent>
+        <charseq START="555" END="559">جيزان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0046-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0046-E16" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1000.0046-E26" ROLE="Agent"/>
+  <event_mention ID="AFA20001206.1000.0046-EV6-1">
+    <extent>
+      <charseq START="270" END="294">ت
+القبض على 43 الف متسللا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="136" END="357">الرياض 12-6 (اف ب) - ذكرت صحيفة "الاقتصادية" السعودية اليوم الاربعاء
+ان قوات الامن السعودية في منطقتي جيزان وعسير (جنوب السعودية)، القت
+القبض على 43 الف متسللا دخلوا الاراضي السعودية عبر الحدود مع اليمن،
+معظمهم من اليمنيين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="272" END="276">القبض</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E16-5" ROLE="Person">
+      <extent>
+        <charseq START="282" END="294">43 الف متسللا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0046-E26-45" ROLE="Agent">
+      <extent>
+        <charseq START="270" END="270">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,2728 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="DIGRESSING_20050107.1751.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="DIGRESSING_20050107.1751">
+<entity ID="DIGRESSING_20050107.1751-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E1-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="409" END="420">الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="420">الشرق الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E1-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="203" END="214">الشرق الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="214">الشرق الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E1-229" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="201" END="201">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="201">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق الأوسط">
+      <charseq START="409" END="420">الشرق الأوسط</charseq>
+    </name>
+    <name NAME="الشرق الاوسط">
+      <charseq START="203" END="214">الشرق الاوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="378" END="392">البرلمان المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="385">البرلمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1104" END="1118">البرلمان المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1111">البرلمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1241" END="1255">البرلمان المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="1241" END="1248">البرلمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1733" END="1740">البرلمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1733" END="1740">البرلمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-92" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2053" END="2053">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2053" END="2053">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-93" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2059" END="2068">مجلس الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="2059" END="2068">مجلس الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-94" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2086" END="2086">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2086" END="2086">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-95" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2073" END="2073">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2073" END="2073">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-98" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2126" END="2135">مجلس الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="2126" END="2135">مجلس الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-99" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2139" END="2139">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2139" END="2139">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E2-148" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3008" END="3017">مجلس الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="3008" END="3017">مجلس الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البرلمان">
+      <charseq START="378" END="385">البرلمان</charseq>
+    </name>
+    <name NAME="مجلس الشعب">
+      <charseq START="2059" END="2068">مجلس الشعب</charseq>
+    </name>
+    <name NAME="مجلس الشعب">
+      <charseq START="2126" END="2135">مجلس الشعب</charseq>
+    </name>
+    <name NAME="مجلس الشعب">
+      <charseq START="3008" END="3017">مجلس الشعب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-3" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="387" END="392">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="392">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="435" END="440">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="440">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-19" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="640" END="642">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="642">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="743" END="748">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="748">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-37" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="986" END="1031">الشعب المصري الذي عانى الكثير طوال
+سنوات طويلة</charseq>
+    </extent>
+    <head>
+      <charseq START="986" END="990">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-38" TYPE="PRO" LDCTYPE="WHQ" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="999" END="1002">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="999" END="1002">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="992" END="997">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="997">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-40" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="1038" END="1042">الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="1038" END="1042">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-46" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1113" END="1118">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="1113" END="1118">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1250" END="1255">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="1250" END="1255">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-58" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1366" END="1374">الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1366" END="1374">الجمهورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-62" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1441" END="1449">الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1441" END="1449">الجمهورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-70" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1611" END="1617">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1611" END="1617">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-91" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="2008" END="2012">الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="2008" END="2012">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-96" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="2092" END="2096">للشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="2092" END="2096">للشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-97" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="2099" END="2099">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2099" END="2099">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-100" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="2241" END="2243">شعب</charseq>
+    </extent>
+    <head>
+      <charseq START="2241" END="2243">شعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-112" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="2511" END="2515">الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="2511" END="2515">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-188" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3632" END="3637">المصرى</charseq>
+    </extent>
+    <head>
+      <charseq START="3632" END="3637">المصرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-201" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="1007" END="1007">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1007">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-202" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="158" END="160">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="160">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-216" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="803" END="817">رئاسة
+الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="817">الجمهورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-232" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="239" END="244">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="244">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E3-241" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="364" END="372">الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="372">الجمهورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المصري">
+      <charseq START="387" END="392">المصري</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="435" END="440">المصري</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="640" END="642">مصر</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="743" END="748">المصري</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="992" END="997">المصري</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="1113" END="1118">المصري</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="1250" END="1255">المصري</charseq>
+    </name>
+    <name NAME="المصرية">
+      <charseq START="1611" END="1617">المصرية</charseq>
+    </name>
+    <name NAME="المصرى">
+      <charseq START="3632" END="3637">المصرى</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="158" END="160">مصر</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="239" END="244">المصري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="457" END="467">اسرة
+متوسطة</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="460">اسرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="403" END="403">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="403">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="427" END="494">المهندس المصري الذي ينتمي الى اسرة
+متوسطة وحصل على بكالوريوس الهندسة</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="433">لمهندس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-7" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="442" END="445">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="445">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="447" END="447">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="447">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="514" END="514">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="514">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="516" END="533">كعامل عادي
+بالشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="520">كعامل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="540" END="540">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="540">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="581" END="581">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="581">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="678" END="678">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="678" END="678">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="795" END="795">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="795">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="829" END="829">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="829">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="969" END="969">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="969">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="974" END="974">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="974" END="974">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1078" END="1078">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1078" END="1078">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-44" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1087" END="1087">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1087" END="1087">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-52" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1218" END="1218">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1218" END="1218">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-57" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1361" END="1374">رئيس
+الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1361" END="1364">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-59" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1396" END="1396">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1396" END="1396">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-67" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1530" END="1530">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1530" END="1530">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-219" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1452" END="1454">انا</charseq>
+    </extent>
+    <head>
+      <charseq START="1452" END="1454">انا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-220" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="880" END="880">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="880" END="880">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-221" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1230" END="1230">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1230" END="1230">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-222" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1344" END="1344">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1344" END="1344">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-223" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1460" END="1460">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1460" END="1460">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-224" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1519" END="1519">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1519" END="1519">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-225" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="359" END="372">رئيس الجمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="362">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-230" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="231" END="261">المهندس المصري يسري
+السيد متولي</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="237">المهندس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-231" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="246" END="261">يسري
+السيد متولي</charseq>
+    </extent>
+    <head>
+      <charseq START="246" END="261">يسري
+السيد متولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-233" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="264" END="267">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="267">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-234" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="272" END="272">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="272">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-236" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="296" END="296">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="296">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E6-240" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="351" END="351">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="351">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يسري السيد متولي">
+      <charseq START="246" END="261">يسري
+السيد متولي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E7" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E7-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="591" END="598">الموظفين</charseq>
+    </extent>
+    <head>
+      <charseq START="591" END="598">الموظفين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E8-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="628" END="642">العاملين في مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="635">العاملين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E9-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="656" END="670">الطبقات الكادحة</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="662">الطبقات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E10-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="722" END="728">المصانع</charseq>
+    </extent>
+    <head>
+      <charseq START="722" END="728">المصانع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E11-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="736" END="748">الشباب
+المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="736" END="741">الشباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E13-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="754" END="760">المقاهي</charseq>
+    </extent>
+    <head>
+      <charseq START="754" END="760">المقاهي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E14-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="840" END="847">للنقابات</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="847">للنقابات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E15-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="855" END="886">نقابة المهندسين التي انتمي
+اليها</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="869">نقابة المهندسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E15-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="885" END="886">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="885" END="886">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E15-32" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="871" END="874">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="871" END="874">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E15-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="904" END="905">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="904" END="905">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E15-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1402" END="1416">نقابة المهندسين</charseq>
+    </extent>
+    <head>
+      <charseq START="1402" END="1416">نقابة المهندسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E15-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1428" END="1429">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1428" END="1429">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نقابة المهندسين">
+      <charseq START="855" END="869">نقابة المهندسين</charseq>
+    </name>
+    <name NAME="نقابة المهندسين">
+      <charseq START="1402" END="1416">نقابة المهندسين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E16" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050107.1751-E16-36" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="976" END="1031">كثيرون من الشعب المصري الذي عانى الكثير طوال
+سنوات طويلة</charseq>
+    </extent>
+    <head>
+      <charseq START="976" END="981">كثيرون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E18" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E18-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1053" END="1058">الساسة</charseq>
+    </extent>
+    <head>
+      <charseq START="1053" END="1058">الساسة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="123" END="123">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="123">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="80" END="87">Mohammed</charseq>
+    </extent>
+    <head>
+      <charseq START="80" END="87">Mohammed</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="137" END="137">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="137">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-127" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3044" END="3051">Mohammed</charseq>
+    </extent>
+    <head>
+      <charseq START="3044" END="3051">Mohammed</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-139" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2904" END="2908">محمّد</charseq>
+    </extent>
+    <head>
+      <charseq START="2904" END="2908">محمّد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-140" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2922" END="2922">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="2922" END="2922">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-150" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3076" END="3078">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="3076" END="3078">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-151" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3083" END="3083">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3083" END="3083">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-152" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3091" END="3091">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3091" END="3091">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-154" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3101" END="3103">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="3101" END="3103">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-155" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3105" END="3105">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3105" END="3105">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-156" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3153" END="3153">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3153" END="3153">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-157" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3162" END="3162">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3162" END="3162">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-158" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3185" END="3186">ني</charseq>
+    </extent>
+    <head>
+      <charseq START="3185" END="3186">ني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-159" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3188" END="3188">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3188" END="3188">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E19-218" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2913" END="2913">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2913" END="2913">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Mohammed">
+      <charseq START="80" END="87">Mohammed</charseq>
+    </name>
+    <name NAME="Mohammed">
+      <charseq START="3044" END="3051">Mohammed</charseq>
+    </name>
+    <name NAME="محمّد">
+      <charseq START="2904" END="2908">محمّد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E21" TYPE="LOC" SUBTYPE="Address" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E21-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1132" END="1158">دائرة سيدي جابر بالاسكندرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1132" END="1146">دائرة سيدي جابر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E21-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1181" END="1187">الدائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1181" END="1187">الدائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E21-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1322" END="1332">هذه الدائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1326" END="1332">الدائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دائرة سيدي جابر">
+      <charseq START="1132" END="1146">دائرة سيدي جابر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E22-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1195" END="1211">مرشح الحزب الوطني</charseq>
+    </extent>
+    <head>
+      <charseq START="1195" END="1198">مرشح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E23-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1200" END="1211">الحزب الوطني</charseq>
+    </extent>
+    <head>
+      <charseq START="1200" END="1211">الحزب الوطني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحزب الوطني">
+      <charseq START="1200" END="1211">الحزب الوطني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E25-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1466" END="1512">الجماعة الصوفية الشاذلية والذين يحظون
+بثقل كبير</charseq>
+    </extent>
+    <head>
+      <charseq START="1466" END="1472">الجماعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E25-65" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1492" END="1496">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="1492" END="1496">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E25-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1501" END="1502">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1501" END="1502">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E26-68" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1539" END="1562">الرئيس الراحل عبد الناصر</charseq>
+    </extent>
+    <head>
+      <charseq START="1539" END="1544">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E26-69" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1553" END="1562">عبد الناصر</charseq>
+    </extent>
+    <head>
+      <charseq START="1553" END="1562">عبد الناصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد الناصر">
+      <charseq START="1553" END="1562">عبد الناصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E28" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2368" END="2369">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="2368" END="2369">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-107" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2392" END="2393">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="2392" END="2393">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-108" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2406" END="2407">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="2406" END="2407">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-109" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2421" END="2422">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="2421" END="2422">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-113" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2537" END="2538">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="2537" END="2538">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2544" END="2545">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="2544" END="2545">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2551" END="2552">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="2551" END="2552">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-117" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2563" END="2575">ناكرين الجميل</charseq>
+    </extent>
+    <head>
+      <charseq START="2563" END="2568">ناكرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E28-197" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3769" END="3770">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="3769" END="3770">كم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E30" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E30-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1663" END="1669">الانسان</charseq>
+    </extent>
+    <head>
+      <charseq START="1663" END="1669">الانسان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E31-72" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1643" END="1687">الناشط في مجال حقوق الانسان سعد الدين ابراهيم</charseq>
+    </extent>
+    <head>
+      <charseq START="1643" END="1648">الناشط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E31-73" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1671" END="1687">سعد الدين ابراهيم</charseq>
+    </extent>
+    <head>
+      <charseq START="1671" END="1687">سعد الدين ابراهيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سعد الدين ابراهيم">
+      <charseq START="1671" END="1687">سعد الدين ابراهيم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E33-74" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1690" END="1710">الكاتبة نوال السعداوي</charseq>
+    </extent>
+    <head>
+      <charseq START="1690" END="1696">الكاتبة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E33-75" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1698" END="1710">نوال السعداوي</charseq>
+    </extent>
+    <head>
+      <charseq START="1698" END="1710">نوال السعداوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نوال السعداوي">
+      <charseq START="1698" END="1710">نوال السعداوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E35-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1713" END="1747">محمد فريد حسنين عضو البرلمان السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="1713" END="1727">محمد فريد حسنين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E35-77" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1729" END="1747">عضو البرلمان السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="1729" END="1731">عضو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد فريد حسنين">
+      <charseq START="1713" END="1727">محمد فريد حسنين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-79" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1750" END="1781">جلال عامر الضابط السابق في الجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="1750" END="1758">جلال عامر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-82" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1760" END="1781">الضابط السابق في الجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="1760" END="1765">الضابط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-171" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3412" END="3432">الكاتب الصحفى المعارض</charseq>
+    </extent>
+    <head>
+      <charseq START="3412" END="3417">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-172" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3434" END="3442">جلال عامر</charseq>
+    </extent>
+    <head>
+      <charseq START="3434" END="3442">جلال عامر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-173" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3444" END="3445">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="3444" END="3445">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-174" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3455" END="3455">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3455" END="3455">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-176" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3494" END="3494">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3494" END="3494">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-179" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3524" END="3524">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3524" END="3524">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-180" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3575" END="3575">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3575" END="3575">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-181" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3583" END="3584">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="3583" END="3584">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-182" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3593" END="3593">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3593" END="3593">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-184" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3599" END="3599">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3599" END="3599">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-185" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3609" END="3609">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3609" END="3609">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-186" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3656" END="3656">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3656" END="3656">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E37-213" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3730" END="3756">جلال عامر ممن يستحقون دعمنا</charseq>
+    </extent>
+    <head>
+      <charseq START="3730" END="3738">جلال عامر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جلال عامر">
+      <charseq START="1750" END="1758">جلال عامر</charseq>
+    </name>
+    <name NAME="جلال عامر">
+      <charseq START="3434" END="3442">جلال عامر</charseq>
+    </name>
+    <name NAME="جلال عامر">
+      <charseq START="3730" END="3738">جلال عامر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E38" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E38-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1777" END="1781">الجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="1777" END="1781">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E40-83" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1805" END="1809">العدو</charseq>
+    </extent>
+    <head>
+      <charseq START="1805" END="1809">العدو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E41" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E41-84" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1879" END="1884">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="1879" END="1884">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E41-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1877" END="1877">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1877" END="1877">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="1879" END="1884">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E42-86" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1905" END="1908">الهي</charseq>
+    </extent>
+    <head>
+      <charseq START="1905" END="1908">الهي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E43-87" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1929" END="1943">آباؤنا المؤسسون</charseq>
+    </extent>
+    <head>
+      <charseq START="1929" END="1932">آباؤ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E43-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1948" END="1949">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1948" END="1949">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E43-89" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1973" END="1974">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1973" END="1974">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E43-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2022" END="2022">و</charseq>
+    </extent>
+    <head>
+      <charseq START="2022" END="2022">و</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E43-205" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1942" END="1943">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1942" END="1943">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E43-207" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2018" END="2018">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2018" END="2018">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E44" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E44-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="282" END="293">أي حزب سياسي</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="283">أي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E45-101" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2307" END="2311">مواطن</charseq>
+    </extent>
+    <head>
+      <charseq START="2307" END="2311">مواطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E45-102" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2327" END="2327">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2327" END="2327">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E45-103" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2335" END="2335">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2335" END="2335">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E45-104" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2304" END="2324">كل مواطن فوق الأربعين</charseq>
+    </extent>
+    <head>
+      <charseq START="2304" END="2305">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E46-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2483" END="2488">حرامية</charseq>
+    </extent>
+    <head>
+      <charseq START="2483" END="2488">حرامية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E47" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E47-111" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2496" END="2501">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="2496" END="2501">الشرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-120" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2621" END="2621">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2621" END="2621">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-121" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2665" END="2667">انا</charseq>
+    </extent>
+    <head>
+      <charseq START="2665" END="2667">انا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-123" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2685" END="2687">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="2685" END="2687">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-124" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2696" END="2698">انا</charseq>
+    </extent>
+    <head>
+      <charseq START="2696" END="2698">انا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-126" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2586" END="2596">عمر العربيّ</charseq>
+    </extent>
+    <head>
+      <charseq START="2586" END="2596">عمر العربيّ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-128" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2701" END="2701">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2701" END="2701">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-129" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2707" END="2707">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2707" END="2707">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E48-132" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2763" END="2764">ني</charseq>
+    </extent>
+    <head>
+      <charseq START="2763" END="2764">ني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمر العربيّ">
+      <charseq START="2586" END="2596">عمر العربيّ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E49" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E49-122" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2672" END="2677">الحمام</charseq>
+    </extent>
+    <head>
+      <charseq START="2672" END="2677">الحمام</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E50-130" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2729" END="2732">الله</charseq>
+    </extent>
+    <head>
+      <charseq START="2729" END="2732">الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الله">
+      <charseq START="2729" END="2732">الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E51-134" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2872" END="2876">Dr. R</charseq>
+    </extent>
+    <head>
+      <charseq START="2872" END="2876">Dr. R</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Dr. R">
+      <charseq START="2872" END="2876">Dr. R</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E52" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E52-143" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2966" END="2973">حزب
+الغد</charseq>
+    </extent>
+    <head>
+      <charseq START="2966" END="2968">حزب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E53-144" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2982" END="2982">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2982" END="2982">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E54" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050107.1751-E54-145" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2989" END="2991">ناس</charseq>
+    </extent>
+    <head>
+      <charseq START="2989" END="2991">ناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E54-146" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2997" END="2997">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2997" END="2997">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E54-147" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3002" END="3003">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="3002" END="3003">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E55-149" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3030" END="3036">السادات</charseq>
+    </extent>
+    <head>
+      <charseq START="3030" END="3036">السادات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السادات">
+      <charseq START="3030" END="3036">السادات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E56-153" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3096" END="3099">رامي</charseq>
+    </extent>
+    <head>
+      <charseq START="3096" END="3099">رامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E56-160" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3181" END="3181">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3181" END="3181">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E56-161" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3234" END="3234">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3234" END="3234">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رامي">
+      <charseq START="3096" END="3099">رامي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E57-163" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="3294" END="3300">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="3294" END="3300">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="3294" END="3300">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-164" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3318" END="3323">gammel</charseq>
+    </extent>
+    <head>
+      <charseq START="3318" END="3323">gammel</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-165" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3355" END="3355">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="3355" END="3355">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-177" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3510" END="3510">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3510" END="3510">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-178" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3519" END="3519">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3519" END="3519">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-189" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3663" END="3665">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="3663" END="3665">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-190" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3674" END="3674">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3674" END="3674">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-192" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3718" END="3718">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3718" END="3718">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-193" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3716" END="3716">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3716" END="3716">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E58-200" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3762" END="3763">نى</charseq>
+    </extent>
+    <head>
+      <charseq START="3762" END="3763">نى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="gammel">
+      <charseq START="3318" END="3323">gammel</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E59" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E59-166" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3383" END="3385">شخص</charseq>
+    </extent>
+    <head>
+      <charseq START="3383" END="3385">شخص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E59-167" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3390" END="3390">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3390" END="3390">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E59-168" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3398" END="3398">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3398" END="3398">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E59-169" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3401" END="3401">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3401" END="3401">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E59-214" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3679" END="3679">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3679" END="3679">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E59-215" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3725" END="3725">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3725" END="3725">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E61-125" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="139" END="160">مرشحا جديدا لرئاسة مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="143">مرشحا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E62" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050107.1751-E62-183" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3590" END="3592">غير</charseq>
+    </extent>
+    <head>
+      <charseq START="3590" END="3592">غير</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E64-191" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3696" END="3708">مرشح واحد فقط</charseq>
+    </extent>
+    <head>
+      <charseq START="3696" END="3699">مرشح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E65-194" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3740" END="3742">ممن</charseq>
+    </extent>
+    <head>
+      <charseq START="3740" END="3742">ممن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E65-195" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3749" END="3750">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="3749" END="3750">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E66" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E66-198" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3814" END="3821">للمرشحين</charseq>
+    </extent>
+    <head>
+      <charseq START="3814" END="3821">للمرشحين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E67" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050107.1751-E67-203" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2255" END="2256">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="2255" END="2256">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E68" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-115" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2740" END="2741">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2740" END="2741">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-141" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2927" END="2928">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2927" END="2928">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-142" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2930" END="2930">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2930" END="2930">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-162" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3255" END="3255">و</charseq>
+    </extent>
+    <head>
+      <charseq START="3255" END="3255">و</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-175" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3468" END="3469">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3468" END="3469">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-187" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3648" END="3649">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3648" END="3649">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-196" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3755" END="3756">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3755" END="3756">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-199" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3841" END="3842">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3841" END="3842">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E68-204" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1933" END="1934">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1933" END="1934">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E69" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050107.1751-E69-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2794" END="2800">الدهماء</charseq>
+    </extent>
+    <head>
+      <charseq START="2794" END="2800">الدهماء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E69-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2807" END="2808">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="2807" END="2808">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E69-206" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1989" END="2004">السوقة و
+الدهماء</charseq>
+    </extent>
+    <head>
+      <charseq START="1989" END="1994">السوقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E69-217" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2023" END="2024">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2023" END="2024">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E70" TYPE="VEH" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E70-208" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2457" END="2465">المواصلات</charseq>
+    </extent>
+    <head>
+      <charseq START="2457" END="2465">المواصلات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E71" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E71-209" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1587" END="1588">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1587" END="1588">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E71-210" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1600" END="1601">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1600" END="1601">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E71-211" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1619" END="1622">خمسة</charseq>
+    </extent>
+    <head>
+      <charseq START="1619" END="1622">خمسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E71-212" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1640" END="1641">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1640" END="1641">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E73" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E73-227" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="226" END="226">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="226">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E77" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E77-235" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="285" END="293">حزب سياسي</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="287">حزب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E78" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050107.1751-E78-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="527" END="533">بالشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="533">بالشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E78-237" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="301" END="339">باحدى شركات المنسوجات
+بمدينة الاسكندرية</charseq>
+    </extent>
+    <head>
+      <charseq START="301" END="305">باحدى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E79-238" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="307" END="339">شركات المنسوجات
+بمدينة الاسكندرية</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="311">شركات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E80" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E80-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1148" END="1158">بالاسكندرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1148" END="1158">بالاسكندرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E80-239" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="323" END="339">بمدينة الاسكندرية</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="339">بمدينة الاسكندرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالاسكندرية">
+      <charseq START="1148" END="1158">بالاسكندرية</charseq>
+    </name>
+    <name NAME="بمدينة الاسكندرية">
+      <charseq START="323" END="339">بمدينة الاسكندرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050107.1751-E81" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-106" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2371" END="2375">الريس</charseq>
+    </extent>
+    <head>
+      <charseq START="2371" END="2375">الريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-118" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2558" END="2558">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2558" END="2558">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-119" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2626" END="2631">للريّس</charseq>
+    </extent>
+    <head>
+      <charseq START="2626" END="2631">للريّس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-131" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2749" END="2754">الريّس</charseq>
+    </extent>
+    <head>
+      <charseq START="2749" END="2754">الريّس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-133" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2819" END="2824">الريّس</charseq>
+    </extent>
+    <head>
+      <charseq START="2819" END="2824">الريّس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-135" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2841" END="2843">ملك</charseq>
+    </extent>
+    <head>
+      <charseq START="2841" END="2843">ملك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-136" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2845" END="2849">سلطان</charseq>
+    </extent>
+    <head>
+      <charseq START="2845" END="2849">سلطان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-137" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2851" END="2854">أمير</charseq>
+    </extent>
+    <head>
+      <charseq START="2851" END="2854">أمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-138" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2837" END="2839">ريس</charseq>
+    </extent>
+    <head>
+      <charseq START="2837" END="2839">ريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050107.1751-E81-226" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2385" END="2386">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="2385" END="2386">هو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="DIGRESSING_20050107.1751-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="DIGRESSING_20050107.1751-V1-1">
+    <extent>
+      <charseq START="1263" END="1272">مليون جنيه</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="DIGRESSING_20050107.1751-T1">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T1-1">
+    <extent>
+      <charseq START="40" END="58">2005-01-07T17:51:18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T2">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T2-1">
+    <extent>
+      <charseq START="91" END="109">2005-01-07T17:51:18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T3">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T3-1">
+    <extent>
+      <charseq START="216" END="220">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T4">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T4-1">
+    <extent>
+      <charseq START="497" END="506">بعد 28 سنة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T5">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T5-1">
+    <extent>
+      <charseq START="907" END="918">طوال 9 سنوات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T6">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T6-1">
+    <extent>
+      <charseq START="1120" END="1127">عام 2000</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T7">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T7-1">
+    <extent>
+      <charseq START="2600" END="2618">2005-01-07T07:31:21</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T8">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T8-1">
+    <extent>
+      <charseq START="2880" END="2898">2005-01-08T03:41:11</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T9">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T9-1">
+    <extent>
+      <charseq START="3055" END="3073">2005-01-08T04:02:49</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050107.1751-T10">
+  <timex2_mention ID="DIGRESSING_20050107.1751-T10-1">
+    <extent>
+      <charseq START="3327" END="3345">2005-01-18T11:49:18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="DIGRESSING_20050107.1751-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E80" ROLE="Arg-2"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E79" ROLE="Arg-1"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="301" END="339">باحدى شركات المنسوجات
+بمدينة الاسكندرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E80-239" ROLE="Arg-2">
+      <extent>
+        <charseq START="323" END="339">بمدينة الاسكندرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E79-238" ROLE="Arg-1">
+      <extent>
+        <charseq START="307" END="339">شركات المنسوجات
+بمدينة الاسكندرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E3" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="628" END="642">العاملين في مصر</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="628" END="642">العاملين في مصر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="640" END="642">مصر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R3" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E43" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E68" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1929" END="1943">آباؤنا المؤسسون</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E43-87" ROLE="Arg-1">
+      <extent>
+        <charseq START="1929" END="1943">آباؤنا المؤسسون</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E68-204" ROLE="Arg-2">
+      <extent>
+        <charseq START="1933" END="1934">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E3" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="231" END="261">المهندس المصري يسري
+السيد متولي</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E6-230" ROLE="Arg-1">
+      <extent>
+        <charseq START="231" END="261">المهندس المصري يسري
+السيد متولي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-232" ROLE="Arg-2">
+      <extent>
+        <charseq START="239" END="244">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="DIGRESSING_20050107.1751-R4-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="427" END="494">المهندس المصري الذي ينتمي الى اسرة
+متوسطة وحصل على بكالوريوس الهندسة</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E6-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="427" END="494">المهندس المصري الذي ينتمي الى اسرة
+متوسطة وحصل على بكالوريوس الهندسة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="435" END="440">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E3" ROLE="Arg-2"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E6" ROLE="Arg-1"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="359" END="372">رئيس الجمهورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-241" ROLE="Arg-2">
+      <extent>
+        <charseq START="364" END="372">الجمهورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E6-225" ROLE="Arg-1">
+      <extent>
+        <charseq START="359" END="372">رئيس الجمهورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="DIGRESSING_20050107.1751-R5-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1361" END="1374">رئيس
+الجمهورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E6-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="1361" END="1374">رئيس
+الجمهورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="1366" END="1374">الجمهورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E3" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="378" END="392">البرلمان المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E2-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="378" END="392">البرلمان المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="387" END="392">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="DIGRESSING_20050107.1751-R6-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1104" END="1118">البرلمان المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E2-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="1104" END="1118">البرلمان المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="1113" END="1118">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="DIGRESSING_20050107.1751-R6-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1241" END="1255">البرلمان المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E2-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="1241" END="1255">البرلمان المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="1250" END="1255">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R8" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E5" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R8-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="427" END="467">المهندس المصري الذي ينتمي الى اسرة
+متوسطة</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E6-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="447" END="447">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E5-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="457" END="467">اسرة
+متوسطة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E78" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="516" END="533">كعامل عادي
+بالشركة</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E6-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="516" END="533">كعامل عادي
+بالشركة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E78-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="527" END="533">بالشركة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R10" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E3" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="736" END="748">الشباب
+المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E11-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="736" END="748">الشباب
+المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E3-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="743" END="748">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E80" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1132" END="1158">دائرة سيدي جابر بالاسكندرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E21-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="1132" END="1158">دائرة سيدي جابر بالاسكندرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E80-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="1148" END="1158">بالاسكندرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R13" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E23" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R13-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1195" END="1211">مرشح الحزب الوطني</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E22-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1195" END="1211">مرشح الحزب الوطني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E23-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="1200" END="1211">الحزب الوطني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R16" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E2" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R16-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1729" END="1747">عضو البرلمان السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E35-77" ROLE="Arg-1">
+      <extent>
+        <charseq START="1729" END="1747">عضو البرلمان السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E2-78" ROLE="Arg-2">
+      <extent>
+        <charseq START="1733" END="1740">البرلمان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050107.1751-R17" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050107.1751-E37" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050107.1751-E38" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050107.1751-R17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1750" END="1781">جلال عامر الضابط السابق في الجيش</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E37-82" ROLE="Arg-1">
+      <extent>
+        <charseq START="1760" END="1781">الضابط السابق في الجيش</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050107.1751-E38-81" ROLE="Arg-2">
+      <extent>
+        <charseq START="1777" END="1781">الجيش</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="DIGRESSING_20050107.1751-EV1" TYPE="Personnel" SUBTYPE="Nominate" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="DIGRESSING_20050107.1751-E6" ROLE="Person"/>
+  <event_argument REFID="DIGRESSING_20050107.1751-E3" ROLE="Agent"/>
+  <event_mention ID="DIGRESSING_20050107.1751-EV1-1">
+    <extent>
+      <charseq START="786" END="817">ترشيح نفسه لمنصب رئاسة
+الجمهورية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="777" END="817">وعن فكرة ترشيح نفسه لمنصب رئاسة
+الجمهورية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="786" END="790">ترشيح</charseq>
+    </anchor>
+    <event_mention_argument REFID="DIGRESSING_20050107.1751-E6-26" ROLE="Person">
+      <extent>
+        <charseq START="795" END="795">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="DIGRESSING_20050107.1751-E3-216" ROLE="Agent">
+      <extent>
+        <charseq START="803" END="817">رئاسة
+الجمهورية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="DIGRESSING_20050107.1751-EV2" TYPE="Personnel" SUBTYPE="Nominate" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="DIGRESSING_20050107.1751-E71" ROLE="Person"/>
+  <event_mention ID="DIGRESSING_20050107.1751-EV2-1">
+    <extent>
+      <charseq START="1590" END="1601">ترشيح أنفسهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1565" END="1631">وبهذا يبلغ
+عدد من اعلنوا ترشيح أنفسهم للرئاسة المصرية خمسة حتى الآن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1590" END="1594">ترشيح</charseq>
+    </anchor>
+    <event_mention_argument REFID="DIGRESSING_20050107.1751-E71-210" ROLE="Person">
+      <extent>
+        <charseq START="1600" END="1601">هم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="DIGRESSING_20050107.1751-EV3" TYPE="Personnel" SUBTYPE="Nominate" MODALITY="Other" POLARITY="Positive" GENERICITY="Generic" TENSE="Future">
+  <event_argument REFID="DIGRESSING_20050107.1751-E45" ROLE="Person"/>
+  <event_mention ID="DIGRESSING_20050107.1751-EV3-1">
+    <extent>
+      <charseq START="2326" END="2330">سيرشح</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2300" END="2335">كان كل مواطن فوق الأربعين سيرشح نفسه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2326" END="2330">سيرشح</charseq>
+    </anchor>
+    <event_mention_argument REFID="DIGRESSING_20050107.1751-E45-102" ROLE="Person">
+      <extent>
+        <charseq START="2327" END="2327">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="DIGRESSING_20050107.1751-EV4" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="DIGRESSING_20050107.1751-E73" ROLE="Entity"/>
+  <event_argument REFID="DIGRESSING_20050107.1751-E2" ROLE="Entity"/>
+  <event_mention ID="DIGRESSING_20050107.1751-EV4-1">
+    <extent>
+      <charseq START="226" END="392">تقدم المهندس المصري يسري
+السيد متولي والذي لا ينتمي الى أي حزب سياسي ويعمل باحدى شركات المنسوجات
+بمدينة الاسكندرية بطلب ترشيحه لمنصب رئيس الجمهورية الى البرلمان المصري</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="226" END="392">تقدم المهندس المصري يسري
+السيد متولي والذي لا ينتمي الى أي حزب سياسي ويعمل باحدى شركات المنسوجات
+بمدينة الاسكندرية بطلب ترشيحه لمنصب رئيس الجمهورية الى البرلمان المصري</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="226" END="229">تقدم</charseq>
+    </anchor>
+    <event_mention_argument REFID="DIGRESSING_20050107.1751-E73-227" ROLE="Entity">
+      <extent>
+        <charseq START="226" END="226">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="DIGRESSING_20050107.1751-E2-2" ROLE="Entity">
+      <extent>
+        <charseq START="378" END="392">البرلمان المصري</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

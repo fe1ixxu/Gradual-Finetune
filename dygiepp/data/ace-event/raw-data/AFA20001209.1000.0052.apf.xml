@@ -1,0 +1,1481 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001209.1000.0052.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001209.1000.0052">
+<entity ID="AFA20001209.1000.0052-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1443" END="1467">مدينة ريو دي جانيرو وحدها</charseq>
+    </extent>
+    <head>
+      <charseq START="1443" END="1461">مدينة ريو دي جانيرو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مدينة ريو دي جانيرو">
+      <charseq START="1443" END="1461">مدينة ريو دي جانيرو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E2" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="365" END="370">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="370">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="416" END="431">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="431">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E3-38" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1664" END="1673">الاميركيات</charseq>
+    </extent>
+    <head>
+      <charseq START="1664" END="1673">الاميركيات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E3-58" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2395" END="2401">اميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="2395" END="2401">اميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركيات">
+      <charseq START="1664" END="1673">الاميركيات</charseq>
+    </name>
+    <name NAME="اميركية">
+      <charseq START="2395" END="2401">اميركية</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="416" END="431">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E4-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="480" END="497">لويس كارلوس غارسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="497">لويس كارلوس غارسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E4-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="441" END="478">رئيس الهيئة البرازيلية لعمليات التجميل</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="444">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E4-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="635" END="647">الطبيب الجراح</charseq>
+    </extent>
+    <head>
+      <charseq START="635" END="640">الطبيب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E4-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1212" END="1255">المسؤول عن الهيئة البرازيلية لعمليات التجميل</charseq>
+    </extent>
+    <head>
+      <charseq START="1212" END="1218">المسؤول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E4-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1260" END="1260">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1260" END="1260">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E4-98" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1692" END="1697">غارسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1692" END="1697">غارسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غارسيا">
+      <charseq START="1692" END="1697">غارسيا</charseq>
+    </name>
+    <name NAME="لويس كارلوس غارسيا">
+      <charseq START="480" END="497">لويس كارلوس غارسيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E6-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="446" END="478">الهيئة البرازيلية لعمليات التجميل</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="478">الهيئة البرازيلية لعمليات التجميل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E6-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1223" END="1255">الهيئة البرازيلية لعمليات التجميل</charseq>
+    </extent>
+    <head>
+      <charseq START="1223" END="1255">الهيئة البرازيلية لعمليات التجميل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E6-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1404" END="1413">هذه الهيئة</charseq>
+    </extent>
+    <head>
+      <charseq START="1408" END="1413">الهيئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E6-99" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1400" END="1400">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1400" END="1400">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الهيئة البرازيلية لعمليات التجميل">
+      <charseq START="1223" END="1255">الهيئة البرازيلية لعمليات التجميل</charseq>
+    </name>
+    <name NAME="الهيئة البرازيلية لعمليات التجميل">
+      <charseq START="446" END="478">الهيئة البرازيلية لعمليات التجميل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E7" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E7-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="519" END="523">البحر</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="523">البحر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E8-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="870" END="892">لنساء برازيليات مشهورات</charseq>
+    </extent>
+    <head>
+      <charseq START="870" END="874">لنساء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E8-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="891" END="892">ات</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="892">ات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E8-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="898" END="898">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="898" END="898">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E8-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="942" END="943">هن</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="943">هن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E9-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="876" END="884">برازيليات</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="884">برازيليات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-16" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="928" END="937">البرازيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="928" END="937">البرازيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1071" END="1080">البرازيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1071" END="1080">البرازيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1092" END="1099">البرازيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1092" END="1099">البرازيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-63" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2645" END="2654">البرازيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="2645" END="2654">البرازيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-66" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2721" END="2728">البرازيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2721" END="2728">البرازيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-72" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2819" END="2826">البرازيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2819" END="2826">البرازيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-95" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="343" END="350">البرازيل</charseq>
+    </extent>
+    <head>
+      <charseq START="343" END="350">البرازيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-96" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="352" END="431">ثاني دولة في العالم لجهة عدد عمليات التجميل التي تسجل
+سنويا بعد الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="360">دولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E9-97" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="702" END="707">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="707">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البرازيل">
+      <charseq START="1092" END="1099">البرازيل</charseq>
+    </name>
+    <name NAME="البرازيلية">
+      <charseq START="2645" END="2654">البرازيلية</charseq>
+    </name>
+    <name NAME="البرازيل">
+      <charseq START="2721" END="2728">البرازيل</charseq>
+    </name>
+    <name NAME="البرازيل">
+      <charseq START="2819" END="2826">البرازيل</charseq>
+    </name>
+    <name NAME="البرازيل">
+      <charseq START="343" END="350">البرازيل</charseq>
+    </name>
+    <name NAME="برازيليات">
+      <charseq START="876" END="884">برازيليات</charseq>
+    </name>
+    <name NAME="البرازيلية">
+      <charseq START="928" END="937">البرازيلية</charseq>
+    </name>
+    <name NAME="البرازيلية">
+      <charseq START="1071" END="1080">البرازيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E12-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="971" END="977">للاطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="977">للاطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E13-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="945" END="949">مقدمة</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="949">مقدمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E13-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="979" END="984">كسوكسا</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="984">كسوكسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E13-21" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="987" END="990">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="990">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E13-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="997" END="998">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="997" END="998">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كسوكسا">
+      <charseq START="979" END="984">كسوكسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E15-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1055" END="1107">ممثلة المسلسلات البرازيلية ملكة جمال البرازيل السابقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1055" END="1059">ممثلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E15-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1082" END="1107">ملكة جمال البرازيل السابقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1082" END="1085">ملكة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E15-94" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1109" END="1117">فيرا فيشر</charseq>
+    </extent>
+    <head>
+      <charseq START="1109" END="1117">فيرا فيشر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فيرا فيشر">
+      <charseq START="1109" END="1117">فيرا فيشر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E18-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1134" END="1164">واحدة من الرموز الجنسية الحالية</charseq>
+    </extent>
+    <head>
+      <charseq START="1134" END="1138">واحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E18-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1167" END="1177">لا فيتيشيرا</charseq>
+    </extent>
+    <head>
+      <charseq START="1167" END="1177">لا فيتيشيرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لا فيتيشيرا">
+      <charseq START="1167" END="1177">لا فيتيشيرا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E20-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1415" END="1468">3200 طبيب جراح بينهم 600 في مدينة ريو دي جانيرو وحدها.</charseq>
+    </extent>
+    <head>
+      <charseq START="1420" END="1423">طبيب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E20-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1433" END="1434">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1433" END="1434">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E20-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2445" END="2452">الجراحون</charseq>
+    </extent>
+    <head>
+      <charseq START="2445" END="2452">الجراحون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E20-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2440" END="2440">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2440" END="2440">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E21-35" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1436" END="1467">600 في مدينة ريو دي جانيرو وحدها</charseq>
+    </extent>
+    <head>
+      <charseq START="1436" END="1438">600</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E22-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1656" END="1673">النجمات الاميركيات</charseq>
+    </extent>
+    <head>
+      <charseq START="1656" END="1662">النجمات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E22-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1651" END="1651">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1651" END="1651">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E24-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1708" END="1708">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1708" END="1708">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-41" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1741" END="1744">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1741" END="1744">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1746" END="1746">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1746" END="1746">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1776" END="1777">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1776" END="1777">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1838" END="1839">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1838" END="1839">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1850" END="1850">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1850" END="1850">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1912" END="1917">للشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="1912" END="1917">للشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1999" END="2004">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="1999" END="2004">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-100" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1710" END="1795">شركة "سيليميد" الوطنية الوحيدة التي تنتج الثدي الاصطناعي
+وتقدر حصتها في الاسواق ب75% ب</charseq>
+    </extent>
+    <head>
+      <charseq START="1710" END="1731">شركة "سيليميد" الوطنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-101" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1821" END="1821">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1821" END="1821">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E24-102" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1997" END="1997">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1997" END="1997">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة سيليميد الوطنية">
+      <charseq START="1710" END="1731">شركة "سيليميد" الوطنية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E25-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1893" END="1893">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1893" END="1893">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E25-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1895" END="1917">الادارة
+التجارية للشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="1895" END="1901">الادارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E26-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2156" END="2191">النساء اللواتي يخضعن لعمليات التجميل</charseq>
+    </extent>
+    <head>
+      <charseq START="2156" END="2161">النساء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E26-52" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2163" END="2169">اللواتي</charseq>
+    </extent>
+    <head>
+      <charseq START="2163" END="2169">اللواتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E26-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2175" END="2175">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2175" END="2175">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E27-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="2252" END="2259">الفرنسية</charseq>
+    </extent>
+    <head>
+      <charseq START="2252" END="2259">الفرنسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفرنسية">
+      <charseq START="2252" END="2259">الفرنسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E28-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2315" END="2331">اوسفالدو فيديريكو</charseq>
+    </extent>
+    <head>
+      <charseq START="2315" END="2331">اوسفالدو فيديريكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E28-57" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2308" END="2311">مدير</charseq>
+    </extent>
+    <head>
+      <charseq START="2308" END="2311">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوسفالدو فيديريكو">
+      <charseq START="2315" END="2331">اوسفالدو فيديريكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="USP">
+  <entity_mention ID="AFA20001209.1000.0052-E30-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2379" END="2401">شركات عدة خصوصا اميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="2379" END="2383">شركات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E30-84" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2373" END="2373">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2373" END="2373">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E32" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AFA20001209.1000.0052-E32-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2471" END="2476">الزبون</charseq>
+    </extent>
+    <head>
+      <charseq START="2471" END="2476">الزبون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E34" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E34-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2667" END="2672">الخارج</charseq>
+    </extent>
+    <head>
+      <charseq START="2667" END="2672">الخارج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E35" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001209.1000.0052-E35-59" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="2688" END="2715">اكبر عدد من
+النساء الاجنبيات</charseq>
+    </extent>
+    <head>
+      <charseq START="2693" END="2695">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E36-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2700" END="2715">النساء الاجنبيات</charseq>
+    </extent>
+    <head>
+      <charseq START="2700" END="2705">النساء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E36-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2736" END="2737">هن</charseq>
+    </extent>
+    <head>
+      <charseq START="2736" END="2737">هن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E37" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001209.1000.0052-E37-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2771" END="2789">نحو 20 الف برازيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="2782" END="2789">برازيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E37-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2764" END="2764">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2764" END="2764">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E37-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2796" END="2797">هن</charseq>
+    </extent>
+    <head>
+      <charseq START="2796" END="2797">هن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E38" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E38-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2812" END="2826">شواطىء البرازيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2812" END="2817">شواطىء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E39-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2837" END="2882">15 الف امرأة تتراوح اعمارهن ما بين 17 و60 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="2844" END="2848">امرأة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E39-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2850" END="2850">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2850" END="2850">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E39-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2862" END="2863">هن</charseq>
+    </extent>
+    <head>
+      <charseq START="2862" END="2863">هن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E39-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2888" END="2888">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2888" END="2888">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E40" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E40-65" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2636" END="2654">العيادات البرازيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="2636" END="2643">العيادات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E40-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2675" END="2675">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2675" END="2675">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E40-82" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2661" END="2662">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2661" END="2662">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E40-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2631" END="2631">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2631" END="2631">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E41-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2089" END="2114">شركة "امبورتميد" المستوردة</charseq>
+    </extent>
+    <head>
+      <charseq START="2089" END="2104">شركة "امبورتميد"</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E41-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2223" END="2223">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2223" END="2223">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E41-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2262" END="2262">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2262" END="2262">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E41-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2084" END="2084">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2084" END="2084">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E41-103" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2312" END="2313">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2312" END="2313">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E41-104" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2347" END="2370">الشركة المستوردة الوحيدة</charseq>
+    </extent>
+    <head>
+      <charseq START="2347" END="2352">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E41-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2339" END="2340">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2339" END="2340">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E41-106" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2345" END="2345">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2345" END="2345">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة امبورتميد">
+      <charseq START="2089" END="2104">شركة "امبورتميد"</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E42-78" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2233" END="2259">شركة "يوروسيليكون" الفرنسية</charseq>
+    </extent>
+    <head>
+      <charseq START="2233" END="2250">شركة "يوروسيليكون"</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة يوروسيليكون">
+      <charseq START="2233" END="2250">شركة "يوروسيليكون"</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E44-88" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1973" END="1979">الاطباء</charseq>
+    </extent>
+    <head>
+      <charseq START="1973" END="1979">الاطباء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E45" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AFA20001209.1000.0052-E45-89" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2010" END="2015">الجراح</charseq>
+    </extent>
+    <head>
+      <charseq START="2010" END="2015">الجراح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E45-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2025" END="2025">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2025" END="2025">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E45-91" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2037" END="2037">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2037" END="2037">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E45-92" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2017" END="2017">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2017" END="2017">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E45-93" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2061" END="2061">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2061" END="2061">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E46" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E46-107" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="137" END="156">ساو باولو 12-9 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="145">ساو باولو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ساو باولو">
+      <charseq START="137" END="145">ساو باولو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E47" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E47-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="499" END="514">لوكالة
+فرانس برس</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="514">لوكالة
+فرانس برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E47-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1919" END="1934">لوكالة فرانس برس</charseq>
+    </extent>
+    <head>
+      <charseq START="1919" END="1934">لوكالة فرانس برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E47-108" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="153" END="156">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="156">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوكالة فرانس برس">
+      <charseq START="1919" END="1934">لوكالة فرانس برس</charseq>
+    </name>
+    <name NAME="اف ب">
+      <charseq START="153" END="156">اف ب</charseq>
+    </name>
+    <name NAME="لوكالة فرانس برس">
+      <charseq START="499" END="514">لوكالة
+فرانس برس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001209.1000.0052-E48" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001209.1000.0052-E48-109" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="169" END="191">عدد كبير من البرازيليات</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="171">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E49-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="815" END="825">البرازيليات</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="825">البرازيليات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E49-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1509" END="1519">البرازيليات</charseq>
+    </extent>
+    <head>
+      <charseq START="1509" END="1519">البرازيليات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001209.1000.0052-E49-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="181" END="191">البرازيليات</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="191">البرازيليات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001209.1000.0052-E50" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001209.1000.0052-E50-111" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1043" END="1051">مجلة
+فيخا</charseq>
+    </extent>
+    <head>
+      <charseq START="1043" END="1051">مجلة
+فيخا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلة فيخا">
+      <charseq START="1043" END="1051">مجلة
+فيخا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001209.1000.0052-V1" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001209.1000.0052-V1-1">
+    <extent>
+      <charseq START="793" END="793">%</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001209.1000.0052-V2" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001209.1000.0052-V2-1">
+    <extent>
+      <charseq START="1790" END="1793">ب75%</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001209.1000.0052-V3" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001209.1000.0052-V3-1">
+    <extent>
+      <charseq START="1841" END="1844">ب30%</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001209.1000.0052-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001209.1000.0052-V4-1">
+    <extent>
+      <charseq START="2602" END="2624">ما بين 2500 و5000 دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001209.1000.0052-V5" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001209.1000.0052-V5-1">
+    <extent>
+      <charseq START="765" END="769">30%
+و</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001209.1000.0052-T1">
+  <timex2_mention ID="AFA20001209.1000.0052-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-09 11:48:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T2">
+  <timex2_mention ID="AFA20001209.1000.0052-T2-1">
+    <extent>
+      <charseq START="147" END="150">12-9</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T3">
+  <timex2_mention ID="AFA20001209.1000.0052-T3-1">
+    <extent>
+      <charseq START="2919" END="2930">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T4">
+  <timex2_mention ID="AFA20001209.1000.0052-T4-1">
+    <extent>
+      <charseq START="406" END="410">سنويا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T5">
+  <timex2_mention ID="AFA20001209.1000.0052-T5-1">
+    <extent>
+      <charseq START="693" END="697">عامين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T6">
+  <timex2_mention ID="AFA20001209.1000.0052-T6-1">
+    <extent>
+      <charseq START="1262" END="1280">عشية بدء موسم
+الصيف</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T7">
+  <timex2_mention ID="AFA20001209.1000.0052-T7-1">
+    <extent>
+      <charseq START="718" END="727">1998 و1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T8">
+  <timex2_mention ID="AFA20001209.1000.0052-T8-1">
+    <extent>
+      <charseq START="773" END="784">العام الحالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T9">
+  <timex2_mention ID="AFA20001209.1000.0052-T9-1">
+    <extent>
+      <charseq START="1282" END="1298">بعد اعياد الميلاد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001209.1000.0052-T10">
+  <timex2_mention ID="AFA20001209.1000.0052-T10-1">
+    <extent>
+      <charseq START="1800" END="1815">منذ العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001209.1000.0052-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E47" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E46" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001209.1000.0052-T2" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001209.1000.0052-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="137" END="156">ساو باولو 12-9 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E47-108" ROLE="Arg-1">
+      <extent>
+        <charseq START="153" END="156">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E46-107" ROLE="Arg-2">
+      <extent>
+        <charseq START="137" END="156">ساو باولو 12-9 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="147" END="150">12-9</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="352" END="431">ثاني دولة في العالم لجهة عدد عمليات التجميل التي تسجل
+سنويا بعد الولايات المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E9-96" ROLE="Arg-1">
+      <extent>
+        <charseq START="352" END="431">ثاني دولة في العالم لجهة عدد عمليات التجميل التي تسجل
+سنويا بعد الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E2-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="365" END="370">العالم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="870" END="892">لنساء برازيليات مشهورات</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E8-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="870" END="892">لنساء برازيليات مشهورات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E9-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="876" END="884">برازيليات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R4" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1055" END="1107">ممثلة المسلسلات البرازيلية ملكة جمال البرازيل السابقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E15-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="1055" END="1107">ممثلة المسلسلات البرازيلية ملكة جمال البرازيل السابقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E9-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="1071" END="1080">البرازيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1212" END="1255">المسؤول عن الهيئة البرازيلية لعمليات التجميل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E4-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="1212" END="1255">المسؤول عن الهيئة البرازيلية لعمليات التجميل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E6-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="1223" END="1255">الهيئة البرازيلية لعمليات التجميل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001209.1000.0052-R5-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="441" END="478">رئيس الهيئة البرازيلية لعمليات التجميل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E4-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="441" END="478">رئيس الهيئة البرازيلية لعمليات التجميل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E6-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="446" END="478">الهيئة البرازيلية لعمليات التجميل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1656" END="1673">النجمات الاميركيات</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E22-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="1656" END="1673">النجمات الاميركيات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E3-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="1664" END="1673">الاميركيات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E42" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E27" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2233" END="2259">شركة "يوروسيليكون" الفرنسية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E42-78" ROLE="Arg-1">
+      <extent>
+        <charseq START="2233" END="2259">شركة "يوروسيليكون" الفرنسية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E27-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="2252" END="2259">الفرنسية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E41" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2308" END="2313">مديرها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E28-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="2308" END="2311">مدير</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E41-103" ROLE="Arg-2">
+      <extent>
+        <charseq START="2312" END="2313">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E40" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2636" END="2654">العيادات البرازيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E40-65" ROLE="Arg-1">
+      <extent>
+        <charseq START="2636" END="2654">العيادات البرازيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E9-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="2645" END="2654">البرازيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R10-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2812" END="2826">شواطىء البرازيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E38-71" ROLE="Arg-1">
+      <extent>
+        <charseq START="2812" END="2826">شواطىء البرازيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E9-72" ROLE="Arg-2">
+      <extent>
+        <charseq START="2819" END="2826">البرازيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2379" END="2401">شركات عدة خصوصا اميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E30-55" ROLE="Arg-1">
+      <extent>
+        <charseq START="2379" END="2401">شركات عدة خصوصا اميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E3-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="2395" END="2401">اميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R13" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E24" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1895" END="1917">الادارة
+التجارية للشركة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E25-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="1895" END="1917">الادارة
+التجارية للشركة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E24-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="1912" END="1917">للشركة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R14" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1415" END="1467">3200 طبيب جراح بينهم 600 في مدينة ريو دي جانيرو وحدها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E21-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="1436" END="1467">600 في مدينة ريو دي جانيرو وحدها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E1-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="1443" END="1467">مدينة ريو دي جانيرو وحدها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001209.1000.0052-R15" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001209.1000.0052-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001209.1000.0052-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001209.1000.0052-R15-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1082" END="1107">ملكة جمال البرازيل السابقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E15-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="1082" END="1107">ملكة جمال البرازيل السابقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001209.1000.0052-E9-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="1092" END="1099">البرازيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

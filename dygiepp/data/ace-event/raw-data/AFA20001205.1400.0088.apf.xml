@@ -1,0 +1,786 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001205.1400.0088.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001205.1400.0088">
+<entity ID="AFA20001205.1400.0088-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E1-1" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="262" END="281">الامين العام للاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="267">الامين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="283" END="297">صلاح الدين حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="297">صلاح الدين حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E1-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="447" END="450">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="450">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E1-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="454" END="454">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="454" END="454">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E1-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="712" END="715">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="712" END="715">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E1-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="719" END="719">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="719">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صلاح الدين حافظ">
+      <charseq START="283" END="297">صلاح الدين حافظ</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="447" END="450">حافظ</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="712" END="715">حافظ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E2-10" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="474" END="489">الحكومة المغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="480">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E2-11" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="482" END="489">المغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="489">المغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E2-16" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="645" END="651">المغربي</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="651">المغربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E2-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="762" END="767">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="762" END="767">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E2-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1019" END="1024">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1024">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E2-34" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="469" END="469">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="469">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E2-41" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="206" END="213">المغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="213">المغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغربية">
+      <charseq START="482" END="489">المغربية</charseq>
+    </name>
+    <name NAME="المغربي">
+      <charseq START="645" END="651">المغربي</charseq>
+    </name>
+    <name NAME="المغرب">
+      <charseq START="762" END="767">المغرب</charseq>
+    </name>
+    <name NAME="المغرب">
+      <charseq START="1019" END="1024">المغرب</charseq>
+    </name>
+    <name NAME="المغربية">
+      <charseq START="206" END="213">المغربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E3-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="529" END="536">لوجورنال</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="536">لوجورنال</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوجورنال">
+      <charseq START="529" END="536">لوجورنال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E4-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="541" END="545">دومان</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="545">دومان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دومان">
+      <charseq START="541" END="545">دومان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E5-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="550" END="564">الصحيفة الجديدة</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="564">الصحيفة الجديدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الصحيفة الجديدة">
+      <charseq START="550" END="564">الصحيفة الجديدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E6-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="638" END="651">اليسار المغربي</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="643">اليسار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليسار">
+      <charseq START="638" END="643">اليسار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E8-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="675" END="692">الملك الحسن الثاني</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="679">الملك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E8-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="681" END="692">الحسن الثاني</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="692">الحسن الثاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحسن الثاني">
+      <charseq START="681" END="692">الحسن الثاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E10-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="737" END="767">نقابة الصحافة الوطنية في المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="741">نقابة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0088-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E11-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="785" END="796">رئيس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="785" END="788">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E11-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="798" END="815">عبد الرحمن اليوسفي</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="815">عبد الرحمن اليوسفي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E11-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="882" END="888">اليوسفي</charseq>
+    </extent>
+    <head>
+      <charseq START="882" END="888">اليوسفي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد الرحمن اليوسفي">
+      <charseq START="798" END="815">عبد الرحمن اليوسفي</charseq>
+    </name>
+    <name NAME="اليوسفي">
+      <charseq START="882" END="888">اليوسفي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E13-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="790" END="796">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="796">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0088-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E14-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="595" END="595">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="595">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E14-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="604" END="604">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="604">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0088-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E15-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="332" END="338">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="338">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E15-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="873" END="879">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="873" END="879">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E15-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="118" END="135">القاهرة 12-5 (أف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="124">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="332" END="338">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="873" END="879">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="118" END="124">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E16-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="311" END="311">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="311">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E16-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="313" END="327">وكالة فرانس
+برس</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="327">وكالة فرانس
+برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E16-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="135">أف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="135">أف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وكالة فرانس برس">
+      <charseq START="313" END="327">وكالة فرانس
+برس</charseq>
+    </name>
+    <name NAME="أف ب">
+      <charseq START="132" END="135">أف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E17-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="275" END="281">للاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="281">للاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E17-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="858" END="864">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="864">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E17-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="871" END="871">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="871" END="871">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E17-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="144" END="164">اتحاد الصحافيين العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="164">اتحاد الصحافيين العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E17-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="187" END="187">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="187">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اتحاد الصحافيين العرب">
+      <charseq START="144" END="164">اتحاد الصحافيين العرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0088-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E18-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="868" END="879">مقره القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="868" END="870">مقر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0088-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E19-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="198" END="213">السلطات المغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="204">السلطات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0088-E22" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0088-E22-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="356" END="360">الصحف</charseq>
+    </extent>
+    <head>
+      <charseq START="356" END="360">الصحف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0088-E22-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="237" END="244">ثلاث صحف</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="244">صحف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001205.1400.0088-T1">
+  <timex2_mention ID="AFA20001205.1400.0088-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-05 15:16:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0088-T2">
+  <timex2_mention ID="AFA20001205.1400.0088-T2-1">
+    <extent>
+      <charseq START="126" END="129">12-5</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0088-T3">
+  <timex2_mention ID="AFA20001205.1400.0088-T3-1">
+    <extent>
+      <charseq START="166" END="179">اليوم الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0088-T4">
+  <timex2_mention ID="AFA20001205.1400.0088-T4-1">
+    <extent>
+      <charseq START="215" END="226">السبت الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0088-T5">
+  <timex2_mention ID="AFA20001205.1400.0088-T5-1">
+    <extent>
+      <charseq START="246" END="252">اسبوعية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0088-T6">
+  <timex2_mention ID="AFA20001205.1400.0088-T6-1">
+    <extent>
+      <charseq START="567" END="583">مساء السبت الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0088-T7">
+  <timex2_mention ID="AFA20001205.1400.0088-T7-1">
+    <extent>
+      <charseq START="694" END="701">عام 1972</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001205.1400.0088-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="868" END="879">مقره القاهرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E18-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="868" END="879">مقره القاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E15-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="873" END="879">القاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0088-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="785" END="796">رئيس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E11-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="785" END="796">رئيس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E13-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="790" END="796">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0088-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="118" END="135">القاهرة 12-5 (أف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E16-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="132" END="135">أف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E15-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="118" END="135">القاهرة 12-5 (أف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0088-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="198" END="213">السلطات المغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E19-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="198" END="213">السلطات المغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E2-41" ROLE="Arg-2">
+      <extent>
+        <charseq START="206" END="213">المغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0088-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="262" END="281">الامين العام للاتحاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E1-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="262" END="281">الامين العام للاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E17-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="275" END="281">للاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0088-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="638" END="651">اليسار المغربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E6-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="638" END="651">اليسار المغربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E2-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="645" END="651">المغربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0088-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="737" END="767">نقابة الصحافة الوطنية في المغرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E10-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="767">نقابة الصحافة الوطنية في المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E2-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="762" END="767">المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0088-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0088-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0088-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0088-R8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="868" END="879">مقره القاهرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E17-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="871" END="871">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0088-E18-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="868" END="879">مقره القاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001205.1400.0088-EV1" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0088-E15" ROLE="Place"/>
+  <event_argument REFID="AFA20001205.1400.0088-E1" ROLE="Entity"/>
+  <event_argument REFID="AFA20001205.1400.0088-E16" ROLE="Entity"/>
+  <event_mention ID="AFA20001205.1400.0088-EV1-1">
+    <extent>
+      <charseq START="262" END="338">الامين العام للاتحاد صلاح الدين حافظ في بيان تسلمت وكالة فرانس
+برس في القاهرة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="257" END="436">وقال الامين العام للاتحاد صلاح الدين حافظ في بيان تسلمت وكالة فرانس
+برس في القاهرة نسخة منه ان منع الصحف عبر اجراءات ادارية وبعيدا عن اي
+قرار قضائي يعتبر ادانة مباشرة لحرية الصحافة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="302" END="305">بيان</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E15-6" ROLE="Place">
+      <extent>
+        <charseq START="332" END="338">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E1-1" ROLE="Entity">
+      <extent>
+        <charseq START="262" END="281">الامين العام للاتحاد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E16-5" ROLE="Entity">
+      <extent>
+        <charseq START="313" END="327">وكالة فرانس
+برس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0088-EV2" TYPE="Business" SUBTYPE="End-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001205.1400.0088-E3" ROLE="Org"/>
+  <event_argument REFID="AFA20001205.1400.0088-E4" ROLE="Org"/>
+  <event_argument REFID="AFA20001205.1400.0088-E5" ROLE="Org"/>
+  <event_argument REFID="AFA20001205.1400.0088-T6" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001205.1400.0088-EV2-1">
+    <extent>
+      <charseq START="524" END="583">حظر "لوجورنال" و"دومان" و"الصحيفة الجديدة" مساء السبت الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="520" END="701">وتم حظر "لوجورنال" و"دومان" و"الصحيفة الجديدة" مساء السبت الماضي بعد
+ان نشرت او اوردت تعليقات على وثيقة تشير الى تورط اليسار المغربي في
+الانقلاب الفاشل ضد الملك الحسن الثاني عام 1972</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="524" END="526">حظر</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E3-12" ROLE="Org">
+      <extent>
+        <charseq START="529" END="536">لوجورنال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E4-13" ROLE="Org">
+      <extent>
+        <charseq START="541" END="545">دومان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E5-14" ROLE="Org">
+      <extent>
+        <charseq START="550" END="564">الصحيفة الجديدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0088-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="567" END="583">مساء السبت الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0088-EV3" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0088-E1" ROLE="Entity"/>
+  <event_argument REFID="AFA20001205.1400.0088-E10" ROLE="Entity"/>
+  <event_mention ID="AFA20001205.1400.0088-EV3-1">
+    <extent>
+      <charseq START="712" END="767">حافظ انه باشر اتصالات مع نقابة الصحافة الوطنية في المغرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="706" END="848">واعلن حافظ انه باشر اتصالات مع نقابة الصحافة الوطنية في المغرب واجرى
+اتصالا مع رئيس الوزراء عبد الرحمن اليوسفي من اجل التدخل لانهاء عملية
+المنع</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="726" END="732">اتصالات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E1-19" ROLE="Entity">
+      <extent>
+        <charseq START="712" END="715">حافظ</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E10-21" ROLE="Entity">
+      <extent>
+        <charseq START="737" END="767">نقابة الصحافة الوطنية في المغرب</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0088-EV4" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0088-E1" ROLE="Entity"/>
+  <event_argument REFID="AFA20001205.1400.0088-E11" ROLE="Entity"/>
+  <event_mention ID="AFA20001205.1400.0088-EV4-1">
+    <extent>
+      <charseq START="712" END="796">حافظ انه باشر اتصالات مع نقابة الصحافة الوطنية في المغرب واجرى
+اتصالا مع رئيس الوزراء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="706" END="848">واعلن حافظ انه باشر اتصالات مع نقابة الصحافة الوطنية في المغرب واجرى
+اتصالا مع رئيس الوزراء عبد الرحمن اليوسفي من اجل التدخل لانهاء عملية
+المنع</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="775" END="779">اتصال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E1-19" ROLE="Entity">
+      <extent>
+        <charseq START="712" END="715">حافظ</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0088-E11-24" ROLE="Entity">
+      <extent>
+        <charseq START="785" END="796">رئيس الوزراء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

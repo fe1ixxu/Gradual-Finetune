@@ -1,0 +1,1020 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001211.1400.0108.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001211.1400.0108">
+<entity ID="AFA20001211.1400.0108-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="425" END="455">سيرجيو كاسترو احد محامي بيونشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="437">سيرجيو كاسترو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E1-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="439" END="455">احد محامي بيونشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="441">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سيرجيو كاسترو">
+      <charseq START="425" END="437">سيرجيو كاسترو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E2-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="443" END="455">محامي بيونشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="447">محامي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001211.1400.0108-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E3-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="543" END="549">التشيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="543" END="549">التشيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E3-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="696" END="700">تشيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="700">تشيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E3-41" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1095" END="1110">الحكومة العسكرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1095" END="1101">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التشيلي">
+      <charseq START="543" END="549">التشيلي</charseq>
+    </name>
+    <name NAME="تشيلي">
+      <charseq START="696" END="700">تشيلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E5-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="614" END="700">القاضي خوان غوسمان تابيا المكلف نظر
+الشكاوى ال190 التي قدمت ضد اوغوستو بينوشيه في تشيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="619">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="621" END="637">خوان غوسمان تابيا</charseq>
+    </extent>
+    <head>
+      <charseq START="621" END="637">خوان غوسمان تابيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="714" END="719">القاضي</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="719">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="934" END="946">القاضي غوسمان</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="939">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="941" END="946">غوسمان</charseq>
+    </extent>
+    <head>
+      <charseq START="941" END="946">غوسمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-49" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="254" END="311">القاضي خوان
+غوسمان الذي يتهمه بالجرائم التي ارتكبت في عهده</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="259">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-50" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="261" END="271">خوان
+غوسمان</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="271">خوان
+غوسمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-51" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="273" END="276">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="276">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-52" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="278" END="278">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="278">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E5-53" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="929" END="929">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="929" END="929">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خوان غوسمان تابيا">
+      <charseq START="621" END="637">خوان غوسمان تابيا</charseq>
+    </name>
+    <name NAME="غوسمان">
+      <charseq START="941" END="946">غوسمان</charseq>
+    </name>
+    <name NAME="خوان غوسمان">
+      <charseq START="261" END="271">خوان
+غوسمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E6-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="449" END="455">بيونشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="455">بيونشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="532" END="556">الديكتاتور التشيلي السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="532" END="541">الديكتاتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="570" END="570">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="570">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="677" END="691">اوغوستو بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="677" END="691">اوغوستو بينوشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="748" END="762">الجنرال بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="754">الجنرال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="756" END="762">بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="756" END="762">بينوشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="948" END="962">الجنرال بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="948" END="954">الجنرال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="956" END="962">بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="956" END="962">بينوشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-25" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="967" END="967">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="967" END="967">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1063" END="1069">بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="1063" END="1069">بينوشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1187" END="1193">بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="1187" END="1193">بينوشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1207" END="1207">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1207">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="969" END="989">هو "منفذ" هذه الجرائم</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="970">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="230" END="244">الجنرال بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="236">الجنرال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="238" END="244">بينوشيه</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="244">بينوشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-54" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="311" END="311">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="311">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E6-55" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="282" END="282">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="282">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيونشيه">
+      <charseq START="449" END="455">بيونشيه</charseq>
+    </name>
+    <name NAME="اوغوستو بينوشيه">
+      <charseq START="677" END="691">اوغوستو بينوشيه</charseq>
+    </name>
+    <name NAME="بينوشيه">
+      <charseq START="756" END="762">بينوشيه</charseq>
+    </name>
+    <name NAME="بينوشيه">
+      <charseq START="956" END="962">بينوشيه</charseq>
+    </name>
+    <name NAME="بينوشيه">
+      <charseq START="1063" END="1069">بينوشيه</charseq>
+    </name>
+    <name NAME="بينوشيه">
+      <charseq START="1187" END="1193">بينوشيه</charseq>
+    </name>
+    <name NAME="بينوشيه">
+      <charseq START="238" END="244">بينوشيه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E7" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001211.1400.0108-E7-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="792" END="810">المعتقلين السياسيين</charseq>
+    </extent>
+    <head>
+      <charseq START="792" END="800">المعتقلين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E7-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="809" END="810">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="810">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001211.1400.0108-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E8-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="887" END="922">وحدة عسكرية معروفة
+باسم "قافلة الموت</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="890">وحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E8-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="912" END="922">قافلة الموت</charseq>
+    </extent>
+    <head>
+      <charseq START="912" END="922">قافلة الموت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E8-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1010" END="1020">قافلة الموت</charseq>
+    </extent>
+    <head>
+      <charseq START="1010" END="1020">قافلة الموت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E8-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="856" END="856">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="856" END="856">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قافلة الموت">
+      <charseq START="912" END="922">قافلة الموت</charseq>
+    </name>
+    <name NAME="قافلة الموت">
+      <charseq START="1010" END="1020">قافلة الموت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E12-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1004" END="1050">قائد "قافلة الموت" الجنرال سيرجيو اريلانو ستراك</charseq>
+    </extent>
+    <head>
+      <charseq START="1004" END="1007">قائد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E12-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1023" END="1050">الجنرال سيرجيو اريلانو ستراك</charseq>
+    </extent>
+    <head>
+      <charseq START="1023" END="1029">الجنرال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E12-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1031" END="1050">سيرجيو اريلانو ستراك</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1050">سيرجيو اريلانو ستراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E12-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1072" END="1110">ضابطا منتدبا لدى رئاسة الحكومة العسكرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1072" END="1076">ضابطا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E12-39" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1113" END="1128">قائدا عاما للجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="1113" END="1117">قائدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سيرجيو اريلانو ستراك">
+      <charseq START="1031" END="1050">سيرجيو اريلانو ستراك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E14-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1124" END="1128">للجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="1124" END="1128">للجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001211.1400.0108-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E15-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="373" END="388">لمحكمة
+الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="388">لمحكمة
+الاستئناف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمحكمة الاستئناف">
+      <charseq START="373" END="388">لمحكمة
+الاستئناف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E16-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="126" END="145">سانتياغو 12-11 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="133">سانتياغو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سانتياغو">
+      <charseq START="126" END="133">سانتياغو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E17-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="142" END="145">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="145">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="142" END="145">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E18-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="156" END="167">مصادر قضائية</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="160">مصادر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E18-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="321" END="321">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="321">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E18-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="323" END="335">المصادر نفسها</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="329">المصادر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E18-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="331" END="335">نفسها</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="335">نفسها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001211.1400.0108-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E19-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="466" END="480">محكمة الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="480">محكمة الاستئناف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E19-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1140" END="1154">محكمة الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="1140" END="1154">محكمة الاستئناف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E19-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1159" END="1159">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1159" END="1159">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E19-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1138" END="1138">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1138" END="1138">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E19-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="172" END="193">محكمة استئناف سانتياغو</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="193">محكمة استئناف سانتياغو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E19-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="198" END="198">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="198">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة الاستئناف">
+      <charseq START="466" END="480">محكمة الاستئناف</charseq>
+    </name>
+    <name NAME="محكمة الاستئناف">
+      <charseq START="1140" END="1154">محكمة الاستئناف</charseq>
+    </name>
+    <name NAME="محكمة استئناف سانتياغو">
+      <charseq START="172" END="193">محكمة استئناف سانتياغو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001211.1400.0108-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E24-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="340" END="388">القضاة الثلاثة في الغرفة الخامسة لمحكمة
+الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="345">القضاة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001211.1400.0108-E24-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="394" END="395">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="395">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001211.1400.0108-E25" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="AFA20001211.1400.0108-E25-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="358" END="388">الغرفة الخامسة لمحكمة
+الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="363">الغرفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="AFA20001211.1400.0108-V1" TYPE="Job-Title">
+  <value_mention ID="AFA20001211.1400.0108-V1-1">
+    <extent>
+      <charseq START="230" END="236">الجنرال</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001211.1400.0108-V2" TYPE="Job-Title">
+  <value_mention ID="AFA20001211.1400.0108-V2-1">
+    <extent>
+      <charseq START="934" END="939">القاضي</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001211.1400.0108-V3" TYPE="Job-Title">
+  <value_mention ID="AFA20001211.1400.0108-V3-1">
+    <extent>
+      <charseq START="948" END="954">الجنرال</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001211.1400.0108-V4" TYPE="Job-Title">
+  <value_mention ID="AFA20001211.1400.0108-V4-1">
+    <extent>
+      <charseq START="1072" END="1128">ضابطا منتدبا لدى رئاسة الحكومة العسكرية وقائدا عاما للجيش</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001211.1400.0108-V5" TYPE="Job-Title">
+  <value_mention ID="AFA20001211.1400.0108-V5-1">
+    <extent>
+      <charseq START="614" END="619">القاضي</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001211.1400.0108-T1">
+  <timex2_mention ID="AFA20001211.1400.0108-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-11 17:48:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001211.1400.0108-T2">
+  <timex2_mention ID="AFA20001211.1400.0108-T2-1">
+    <extent>
+      <charseq START="135" END="139">12-11</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001211.1400.0108-T3">
+  <timex2_mention ID="AFA20001211.1400.0108-T3-1">
+    <extent>
+      <charseq START="200" END="212">اليوم الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001211.1400.0108-T4">
+  <timex2_mention ID="AFA20001211.1400.0108-T4-1">
+    <extent>
+      <charseq START="584" END="612">اول كانون الاول/ديسمبر الحالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001211.1400.0108-T5">
+  <timex2_mention ID="AFA20001211.1400.0108-T5-1">
+    <extent>
+      <charseq START="863" END="885">تشرين الاول/اكتوبر 1973</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001211.1400.0108-T6">
+  <timex2_mention ID="AFA20001211.1400.0108-T6-1">
+    <extent>
+      <charseq START="1161" END="1175">الثلاثاء الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001211.1400.0108-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001211.1400.0108-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001211.1400.0108-E16" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001211.1400.0108-T2" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001211.1400.0108-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="126" END="145">سانتياغو 12-11 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E17-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="142" END="145">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E16-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="126" END="145">سانتياغو 12-11 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="135" END="139">12-11</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001211.1400.0108-R2" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001211.1400.0108-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001211.1400.0108-E25" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001211.1400.0108-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="340" END="388">القضاة الثلاثة في الغرفة الخامسة لمحكمة
+الاستئناف</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E24-59" ROLE="Arg-1">
+      <extent>
+        <charseq START="340" END="388">القضاة الثلاثة في الغرفة الخامسة لمحكمة
+الاستئناف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E25-60" ROLE="Arg-2">
+      <extent>
+        <charseq START="358" END="388">الغرفة الخامسة لمحكمة
+الاستئناف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001211.1400.0108-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001211.1400.0108-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001211.1400.0108-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001211.1400.0108-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="358" END="388">الغرفة الخامسة لمحكمة
+الاستئناف</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E25-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="358" END="388">الغرفة الخامسة لمحكمة
+الاستئناف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E15-42" ROLE="Arg-2">
+      <extent>
+        <charseq START="373" END="388">لمحكمة
+الاستئناف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001211.1400.0108-R4" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001211.1400.0108-E6" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001211.1400.0108-E2" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001211.1400.0108-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="439" END="455">احد محامي بيونشيه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E6-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="449" END="455">بيونشيه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E2-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="443" END="455">محامي بيونشيه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001211.1400.0108-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001211.1400.0108-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001211.1400.0108-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001211.1400.0108-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="532" END="556">الديكتاتور التشيلي السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E6-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="532" END="556">الديكتاتور التشيلي السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E3-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="543" END="549">التشيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001211.1400.0108-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001211.1400.0108-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001211.1400.0108-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001211.1400.0108-R6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1113" END="1128">قائدا عاما للجيش</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E12-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="1113" END="1128">قائدا عاما للجيش</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001211.1400.0108-E14-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="1124" END="1128">للجيش</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001211.1400.0108-EV1" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001211.1400.0108-E19" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001211.1400.0108-E6" ROLE="Plaintiff"/>
+  <event_argument REFID="AFA20001211.1400.0108-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001211.1400.0108-EV1-1">
+    <extent>
+      <charseq START="172" END="244">محكمة استئناف سانتياغو
+قبلت اليوم الاثنين الطعن المقدم من الجنرال بينوشيه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="149" END="311">علم من مصادر قضائية ان محكمة استئناف سانتياغو
+قبلت اليوم الاثنين الطعن المقدم من الجنرال بينوشيه في قرار القاضي خوان
+غوسمان الذي يتهمه بالجرائم التي ارتكبت في عهده</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="214" END="218">الطعن</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E19-45" ROLE="Adjudicator">
+      <extent>
+        <charseq START="172" END="193">محكمة استئناف سانتياغو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E6-47" ROLE="Plaintiff">
+      <extent>
+        <charseq START="230" END="244">الجنرال بينوشيه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="200" END="212">اليوم الاثنين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001211.1400.0108-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001211.1400.0108-E5" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001211.1400.0108-E6" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001211.1400.0108-T4" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001211.1400.0108-EV2-1">
+    <extent>
+      <charseq START="526" END="700">اتهام الديكتاتور التشيلي السابق وتحديد اقامته قد اتخذه في
+اول كانون الاول/ديسمبر الحالي القاضي خوان غوسمان تابيا المكلف نظر
+الشكاوى ال190 التي قدمت ضد اوغوستو بينوشيه في تشيلي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="516" END="700">وكان قرار اتهام الديكتاتور التشيلي السابق وتحديد اقامته قد اتخذه في
+اول كانون الاول/ديسمبر الحالي القاضي خوان غوسمان تابيا المكلف نظر
+الشكاوى ال190 التي قدمت ضد اوغوستو بينوشيه في تشيلي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="526" END="530">اتهام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E5-10" ROLE="Adjudicator">
+      <extent>
+        <charseq START="614" END="700">القاضي خوان غوسمان تابيا المكلف نظر
+الشكاوى ال190 التي قدمت ضد اوغوستو بينوشيه في تشيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E6-7" ROLE="Defendant">
+      <extent>
+        <charseq START="532" END="556">الديكتاتور التشيلي السابق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="584" END="612">اول كانون الاول/ديسمبر الحالي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001211.1400.0108-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001211.1400.0108-E7" ROLE="Victim"/>
+  <event_argument REFID="AFA20001211.1400.0108-E8" ROLE="Agent"/>
+  <event_argument REFID="AFA20001211.1400.0108-T5" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001211.1400.0108-EV3-1">
+    <extent>
+      <charseq START="786" END="922">اعدام المعتقلين السياسيين بدون محاكمة التي بلغ عددها
+75 حالة والتي نفذتها في تشرين الاول/اكتوبر 1973 وحدة عسكرية معروفة
+باسم "قافلة الموت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="705" END="922">وقد اتخذ القاضي هذا القرار بعد ان اعتبر ان الجنرال بينوشيه امر
+بعمليات الاختطاف واعدام المعتقلين السياسيين بدون محاكمة التي بلغ عددها
+75 حالة والتي نفذتها في تشرين الاول/اكتوبر 1973 وحدة عسكرية معروفة
+باسم "قافلة الموت</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="786" END="790">اعدام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E7-17" ROLE="Victim">
+      <extent>
+        <charseq START="792" END="810">المعتقلين السياسيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E8-19" ROLE="Agent">
+      <extent>
+        <charseq START="887" END="922">وحدة عسكرية معروفة
+باسم "قافلة الموت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="863" END="885">تشرين الاول/اكتوبر 1973</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001211.1400.0108-EV4" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001211.1400.0108-E5" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001211.1400.0108-E6" ROLE="Defendant"/>
+  <event_mention ID="AFA20001211.1400.0108-EV4-1">
+    <extent>
+      <charseq START="929" END="962">يتهم القاضي غوسمان الجنرال بينوشيه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="928" END="1128">ويتهم القاضي غوسمان الجنرال بينوشيه بانه هو "منفذ" هذه الجرائم مشددا
+على ان قائد "قافلة الموت" الجنرال سيرجيو اريلانو ستراك عين من قبل
+بينوشيه "ضابطا منتدبا لدى رئاسة الحكومة العسكرية وقائدا عاما للجيش</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="929" END="932">يتهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E5-53" ROLE="Adjudicator">
+      <extent>
+        <charseq START="929" END="929">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E6-23" ROLE="Defendant">
+      <extent>
+        <charseq START="948" END="962">الجنرال بينوشيه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001211.1400.0108-EV5" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001211.1400.0108-E12" ROLE="Person"/>
+  <event_argument REFID="AFA20001211.1400.0108-V4" ROLE="Position"/>
+  <event_mention ID="AFA20001211.1400.0108-EV5-1">
+    <extent>
+      <charseq START="1004" END="1128">قائد "قافلة الموت" الجنرال سيرجيو اريلانو ستراك عين من قبل
+بينوشيه "ضابطا منتدبا لدى رئاسة الحكومة العسكرية وقائدا عاما للجيش</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="928" END="1128">ويتهم القاضي غوسمان الجنرال بينوشيه بانه هو "منفذ" هذه الجرائم مشددا
+على ان قائد "قافلة الموت" الجنرال سيرجيو اريلانو ستراك عين من قبل
+بينوشيه "ضابطا منتدبا لدى رئاسة الحكومة العسكرية وقائدا عاما للجيش</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1052" END="1054">عين</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E12-26" ROLE="Person">
+      <extent>
+        <charseq START="1004" END="1050">قائد "قافلة الموت" الجنرال سيرجيو اريلانو ستراك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-V4-1" ROLE="Position">
+      <extent>
+        <charseq START="1072" END="1128">ضابطا منتدبا لدى رئاسة الحكومة العسكرية وقائدا عاما للجيش</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001211.1400.0108-EV6" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001211.1400.0108-E19" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001211.1400.0108-E6" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001211.1400.0108-T6" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001211.1400.0108-EV6-1">
+    <extent>
+      <charseq START="1140" END="1193">محكمة الاستئناف جمدت الثلاثاء الماضي امر اتهام بينوشيه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1134" END="1207">وكانت محكمة الاستئناف جمدت الثلاثاء الماضي امر اتهام بينوشيه وتحديد
+اقامته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1181" END="1185">اتهام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E19-31" ROLE="Adjudicator">
+      <extent>
+        <charseq START="1140" END="1154">محكمة الاستئناف</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-E6-34" ROLE="Defendant">
+      <extent>
+        <charseq START="1187" END="1193">بينوشيه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001211.1400.0108-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1161" END="1175">الثلاثاء الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

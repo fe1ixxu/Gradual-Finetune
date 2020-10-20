@@ -1,0 +1,2626 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001018.0700.0021.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001018.0700.0021">
+<entity ID="ALH20001018.0700.0021-E1" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="518" END="538">شارع الثورة الاسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="538">شارع الثورة الاسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E1-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1841" END="1870">شارع الثورة الاسلامية
+في طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="1841" END="1861">شارع الثورة الاسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شارع الثورة الاسلامية">
+      <charseq START="1841" END="1861">شارع الثورة الاسلامية</charseq>
+    </name>
+    <name NAME="شارع الثورة الاسلامية">
+      <charseq START="518" END="538">شارع الثورة الاسلامية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E2" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="544" END="577">جامعة
+طهران  مقر اقامة صلاة الجمعة</charseq>
+    </extent>
+    <head>
+      <charseq START="544" END="554">جامعة
+طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جامعة طهران">
+      <charseq START="544" END="554">جامعة
+طهران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E3" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="557" END="577">مقر اقامة صلاة الجمعة</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="559">مقر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E4-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="592" END="604">معظم المكتبات</charseq>
+    </extent>
+    <head>
+      <charseq START="592" END="595">معظم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E5-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="597" END="604">المكتبات</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="604">المكتبات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E5-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1330" END="1337">المكتبات</charseq>
+    </extent>
+    <head>
+      <charseq START="1330" END="1337">المكتبات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E5-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1612" END="1619">المكتبات</charseq>
+    </extent>
+    <head>
+      <charseq START="1612" END="1619">المكتبات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E6-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="806" END="810">مكتبة</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="810">مكتبة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E6-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="816" END="817">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="816" END="817">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E7-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="883" END="922">الأدباء
+الأكثر عناداً في مواقفه السياسية</charseq>
+    </extent>
+    <head>
+      <charseq START="883" END="889">الأدباء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E8-15" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1089" END="1097">الايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1089" END="1097">الايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-55" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1950" END="1958">الايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1950" END="1958">الايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-74" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2266" END="2274">الايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="2266" END="2274">الايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-89" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2487" END="2491">ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="2487" END="2491">ايران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-98" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2656" END="2663">ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="2656" END="2663">ايرانيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-131" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="3528" END="3532">ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="3528" END="3532">ايران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-145" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="3727" END="3731">ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="3727" END="3731">ايران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-171" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="4350" END="4356">ايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="4350" END="4356">ايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-201" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2913" END="2920">الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="2913" END="2920">الايراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-206" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="117" END="124">الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="124">الايراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-209" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="231" END="238">الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="238">الايراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-210" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3845" END="3852">ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="3845" END="3852">ايرانيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E8-212" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="396" END="404">الايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="404">الايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الايرانية">
+      <charseq START="1089" END="1097">الايرانية</charseq>
+    </name>
+    <name NAME="الايرانية">
+      <charseq START="1950" END="1958">الايرانية</charseq>
+    </name>
+    <name NAME="الايرانية">
+      <charseq START="2266" END="2274">الايرانية</charseq>
+    </name>
+    <name NAME="ايران">
+      <charseq START="2487" END="2491">ايران</charseq>
+    </name>
+    <name NAME="ايرانيين">
+      <charseq START="2656" END="2663">ايرانيين</charseq>
+    </name>
+    <name NAME="ايران">
+      <charseq START="3528" END="3532">ايران</charseq>
+    </name>
+    <name NAME="ايران">
+      <charseq START="3727" END="3731">ايران</charseq>
+    </name>
+    <name NAME="ايرانية">
+      <charseq START="4350" END="4356">ايرانية</charseq>
+    </name>
+    <name NAME="الايراني">
+      <charseq START="2913" END="2920">الايراني</charseq>
+    </name>
+    <name NAME="الايراني">
+      <charseq START="117" END="124">الايراني</charseq>
+    </name>
+    <name NAME="الايراني">
+      <charseq START="231" END="238">الايراني</charseq>
+    </name>
+    <name NAME="ايرانيين">
+      <charseq START="3845" END="3852">ايرانيين</charseq>
+    </name>
+    <name NAME="الايرانية">
+      <charseq START="396" END="404">الايرانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E9" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E9-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1237" END="1237">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1237" END="1237">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E9-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1242" END="1246">البعض</charseq>
+    </extent>
+    <head>
+      <charseq START="1242" END="1246">البعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E10-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1372" END="1379">حزب الله</charseq>
+    </extent>
+    <head>
+      <charseq START="1372" END="1379">حزب الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حزب الله">
+      <charseq START="1372" END="1379">حزب الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E11" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E11-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1288" END="1315">آخرين مثل الروائي صادق هدايت</charseq>
+    </extent>
+    <head>
+      <charseq START="1288" END="1292">آخرين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E12-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1298" END="1315">الروائي صادق هدايت</charseq>
+    </extent>
+    <head>
+      <charseq START="1298" END="1304">الروائي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E12-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1306" END="1315">صادق هدايت</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1315">صادق هدايت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E12-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1543" END="1552">صادق هدايت</charseq>
+    </extent>
+    <head>
+      <charseq START="1543" END="1552">صادق هدايت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E12-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1671" END="1680">صادق هدايت</charseq>
+    </extent>
+    <head>
+      <charseq START="1671" END="1680">صادق هدايت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E12-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1894" END="1898">هدايت</charseq>
+    </extent>
+    <head>
+      <charseq START="1894" END="1898">هدايت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صادق هدايت">
+      <charseq START="1306" END="1315">صادق هدايت</charseq>
+    </name>
+    <name NAME="صادق هدايت">
+      <charseq START="1543" END="1552">صادق هدايت</charseq>
+    </name>
+    <name NAME="صادق هدايت">
+      <charseq START="1671" END="1680">صادق هدايت</charseq>
+    </name>
+    <name NAME="هدايت">
+      <charseq START="1894" END="1898">هدايت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E14-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1340" END="1345">البيوت</charseq>
+    </extent>
+    <head>
+      <charseq START="1340" END="1345">البيوت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E15-29" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1360" END="1412">مجموعات من »حزب الله وأنصار الولاية«
+في محافظة اصفهان</charseq>
+    </extent>
+    <head>
+      <charseq START="1360" END="1366">مجموعات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E15-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1418" END="1418">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1418" END="1418">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E16-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1382" END="1394">أنصار الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="1382" END="1394">أنصار الولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أنصار الولاية">
+      <charseq START="1382" END="1394">أنصار الولاية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E17-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1400" END="1412">محافظة اصفهان</charseq>
+    </extent>
+    <head>
+      <charseq START="1400" END="1412">محافظة اصفهان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محافظة اصفهان">
+      <charseq START="1400" END="1412">محافظة اصفهان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E18-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1447" END="1464">بعض
+مكتبات المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="1451" END="1456">مكتبات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E19-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2446" END="2459">سيرغي ايراتسوف</charseq>
+    </extent>
+    <head>
+      <charseq START="2446" END="2459">سيرغي ايراتسوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E19-35" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2432" END="2444">المخرج الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="2432" END="2437">المخرج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سيرغي ايراتسوف">
+      <charseq START="2446" END="2459">سيرغي ايراتسوف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E20-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1555" END="1567">سعيدي
+سيرجاني</charseq>
+    </extent>
+    <head>
+      <charseq START="1555" END="1567">سعيدي
+سيرجاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سعيدي سيرجاني">
+      <charseq START="1555" END="1567">سعيدي
+سيرجاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E21-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1579" END="1601">دار النشر قطرة في طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="1579" END="1592">دار النشر قطرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E21-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1606" END="1606">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1606" END="1606">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دار النشر قطرة">
+      <charseq START="1579" END="1592">دار النشر قطرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E22-21" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1458" END="1464">المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="1458" END="1464">المدينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-40" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1597" END="1601">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="1597" END="1601">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-51" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1866" END="1870">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="1866" END="1870">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-72" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2258" END="2274">العاصمة الايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="2258" END="2264">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-73" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="2256" END="2256">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2256" END="2256">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-78" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3928" END="3932">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="3928" END="3932">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-106" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2932" END="2936">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="2932" END="2936">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-121" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="3419" END="3423">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="3419" END="3423">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E22-122" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="3417" END="3417">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3417" END="3417">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طهران">
+      <charseq START="1597" END="1601">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="1866" END="1870">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="3928" END="3932">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="2932" END="2936">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="3419" END="3423">طهران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E23-45" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1784" END="1792">الاسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="1784" END="1792">الاسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسلامية">
+      <charseq START="1784" END="1792">الاسلامية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E24-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1808" END="1825">باعة للكتب متجولين</charseq>
+    </extent>
+    <head>
+      <charseq START="1808" END="1811">باعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E24-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1824" END="1825">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="1824" END="1825">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E24-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1832" END="1833">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1832" END="1833">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E24-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1880" END="1881">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1880" END="1881">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E25" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E25-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1835" END="1870">أرصفة شارع الثورة الاسلامية
+في طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="1835" END="1839">أرصفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E27-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1994" END="2022">للروائي التشيخي ميلان كونديرا</charseq>
+    </extent>
+    <head>
+      <charseq START="1994" END="2000">للروائي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2010" END="2022">ميلان كونديرا</charseq>
+    </extent>
+    <head>
+      <charseq START="2010" END="2022">ميلان كونديرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2048" END="2054">كونديرا</charseq>
+    </extent>
+    <head>
+      <charseq START="2048" END="2054">كونديرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-59" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2062" END="2062">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2062" END="2062">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-60" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2071" END="2071">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2071" END="2071">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2127" END="2127">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2127" END="2127">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-62" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2135" END="2135">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2135" END="2135">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-64" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2169" END="2169">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2169" END="2169">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2188" END="2188">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2188" END="2188">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E27-67" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2193" END="2193">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2193" END="2193">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميلان كونديرا">
+      <charseq START="2010" END="2022">ميلان كونديرا</charseq>
+    </name>
+    <name NAME="كونديرا">
+      <charseq START="2048" END="2054">كونديرا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E29-54" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="3909" END="3922">معظم المحافظات</charseq>
+    </extent>
+    <head>
+      <charseq START="3909" END="3912">معظم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E30" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E30-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2139" END="2144">القارئ</charseq>
+    </extent>
+    <head>
+      <charseq START="2139" END="2144">القارئ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E30-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2176" END="2176">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2176" END="2176">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E31" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E31-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2120" END="2120">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2120" END="2120">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E31-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2214" END="2214">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2214" END="2214">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E31-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2224" END="2224">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2224" END="2224">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E31-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2234" END="2234">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2234" END="2234">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E33-76" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2304" END="2360">ست دول هي روسيا، الهند، النمسا، بلجيكا، اليونان،
+وكرواتيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2307" END="2309">دول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E33-77" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2311" END="2312">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="2311" END="2312">هي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E34-75" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="3914" END="3922">المحافظات</charseq>
+    </extent>
+    <head>
+      <charseq START="3914" END="3922">المحافظات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E35-79" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2314" END="2318">روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2314" END="2318">روسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E35-87" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2439" END="2444">الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="2439" END="2444">الروسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="روسيا">
+      <charseq START="2314" END="2318">روسيا</charseq>
+    </name>
+    <name NAME="الروسي">
+      <charseq START="2439" END="2444">الروسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E36-80" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2321" END="2325">الهند</charseq>
+    </extent>
+    <head>
+      <charseq START="2321" END="2325">الهند</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الهند">
+      <charseq START="2321" END="2325">الهند</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E37-81" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2328" END="2333">النمسا</charseq>
+    </extent>
+    <head>
+      <charseq START="2328" END="2333">النمسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="النمسا">
+      <charseq START="2328" END="2333">النمسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E38-82" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2336" END="2341">بلجيكا</charseq>
+    </extent>
+    <head>
+      <charseq START="2336" END="2341">بلجيكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بلجيكا">
+      <charseq START="2336" END="2341">بلجيكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E39-83" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2344" END="2350">اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="2344" END="2350">اليونان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليونان">
+      <charseq START="2344" END="2350">اليونان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E40" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E40-84" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2354" END="2360">كرواتيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2354" END="2360">كرواتيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كرواتيا">
+      <charseq START="2354" END="2360">كرواتيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E41" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E41-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2413" END="2424">داخل القاعات</charseq>
+    </extent>
+    <head>
+      <charseq START="2418" END="2424">القاعات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E42-43" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="2002" END="2008">التشيخي</charseq>
+    </extent>
+    <head>
+      <charseq START="2002" END="2008">التشيخي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التشيخي">
+      <charseq START="2002" END="2008">التشيخي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E45" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E45-90" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2493" END="2578">مخرجون مثل عادل بزدوده وأصغر أحمدي
+ومهدي يوسفي، ومهران تيزكار والسيدة فريبا جوبان نجاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2493" END="2498">مخرجون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E46-91" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2504" END="2514">عادل بزدوده</charseq>
+    </extent>
+    <head>
+      <charseq START="2504" END="2514">عادل بزدوده</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عادل بزدوده">
+      <charseq START="2504" END="2514">عادل بزدوده</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E47-92" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2517" END="2526">أصغر أحمدي</charseq>
+    </extent>
+    <head>
+      <charseq START="2517" END="2526">أصغر أحمدي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أصغر أحمدي">
+      <charseq START="2517" END="2526">أصغر أحمدي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E48-93" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2529" END="2538">مهدي يوسفي</charseq>
+    </extent>
+    <head>
+      <charseq START="2529" END="2538">مهدي يوسفي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مهدي يوسفي">
+      <charseq START="2529" END="2538">مهدي يوسفي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E49-94" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2542" END="2553">مهران تيزكار</charseq>
+    </extent>
+    <head>
+      <charseq START="2542" END="2553">مهران تيزكار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مهران تيزكار">
+      <charseq START="2542" END="2553">مهران تيزكار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E50-95" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2556" END="2578">السيدة فريبا جوبان نجاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2556" END="2561">السيدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E50-96" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2563" END="2578">فريبا جوبان نجاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2563" END="2578">فريبا جوبان نجاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فريبا جوبان نجاد">
+      <charseq START="2563" END="2578">فريبا جوبان نجاد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E52-97" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2651" END="2670">نقاد ايرانيين وأجانب</charseq>
+    </extent>
+    <head>
+      <charseq START="2651" END="2654">نقاد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E54-100" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2820" END="2840">السيد مجيد شريف فدايي</charseq>
+    </extent>
+    <head>
+      <charseq START="2820" END="2824">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E54-101" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2779" END="2791">رئيس المهرجان</charseq>
+    </extent>
+    <head>
+      <charseq START="2779" END="2782">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E54-103" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2826" END="2840">مجيد شريف فدايي</charseq>
+    </extent>
+    <head>
+      <charseq START="2826" END="2840">مجيد شريف فدايي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E54-208" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2794" END="2818">رئيس مركز
+الفنون المسرحية</charseq>
+    </extent>
+    <head>
+      <charseq START="2794" END="2797">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجيد شريف فدايي">
+      <charseq START="2826" END="2840">مجيد شريف فدايي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E56-88" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4071" END="4074">دشتى</charseq>
+    </extent>
+    <head>
+      <charseq START="4071" END="4074">دشتى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-102" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4064" END="4074">الكاتب دشتى</charseq>
+    </extent>
+    <head>
+      <charseq START="4064" END="4069">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-157" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4076" END="4118">مؤلف كتاب
+»القاموس الجامع لخطب السيدة فاطمة</charseq>
+    </extent>
+    <head>
+      <charseq START="4076" END="4079">مؤلف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-160" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4189" END="4189">ل</charseq>
+    </extent>
+    <head>
+      <charseq START="4189" END="4189">ل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-161" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4195" END="4196">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="4195" END="4196">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-162" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4201" END="4202">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="4201" END="4202">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-163" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4204" END="4204">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="4204" END="4204">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-169" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4318" END="4318">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="4318" END="4318">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-184" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4515" END="4516">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="4515" END="4516">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-185" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4548" END="4551">دشتي</charseq>
+    </extent>
+    <head>
+      <charseq START="4548" END="4551">دشتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-188" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4634" END="4634">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="4634" END="4634">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-189" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4652" END="4652">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="4652" END="4652">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-192" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="4711" END="4714">دشتي</charseq>
+    </extent>
+    <head>
+      <charseq START="4711" END="4714">دشتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-193" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4719" END="4719">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="4719" END="4719">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-194" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4726" END="4726">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="4726" END="4726">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-195" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4748" END="4748">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="4748" END="4748">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-197" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4806" END="4808">نحن</charseq>
+    </extent>
+    <head>
+      <charseq START="4806" END="4808">نحن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E56-198" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="4836" END="4837">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="4836" END="4837">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دشتى">
+      <charseq START="4071" END="4074">دشتى</charseq>
+    </name>
+    <name NAME="دشتي">
+      <charseq START="4548" END="4551">دشتي</charseq>
+    </name>
+    <name NAME="دشتي">
+      <charseq START="4711" END="4714">دشتي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E57" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E57-104" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2799" END="2818">مركز
+الفنون المسرحية</charseq>
+    </extent>
+    <head>
+      <charseq START="2799" END="2818">مركز
+الفنون المسرحية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مركز الفنون المسرحية">
+      <charseq START="2799" END="2818">مركز
+الفنون المسرحية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E58-105" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2865" END="2878">مسؤولي الثقافة</charseq>
+    </extent>
+    <head>
+      <charseq START="2865" END="2870">مسؤولي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E59" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E59-200" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2906" END="2920">الشباب
+الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="2906" END="2911">الشباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E60-107" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3089" END="3098">لمونا
+زاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="3089" END="3098">لمونا
+زاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمونا زاهد">
+      <charseq START="3089" END="3098">لمونا
+زاهد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E61-108" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3115" END="3131">لصفورا أحمدي مقدم</charseq>
+    </extent>
+    <head>
+      <charseq START="3115" END="3131">لصفورا أحمدي مقدم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لصفورا أحمدي مقدم">
+      <charseq START="3115" END="3131">لصفورا أحمدي مقدم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E62-109" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3151" END="3165">لمجتبى آن سيدان</charseq>
+    </extent>
+    <head>
+      <charseq START="3151" END="3165">لمجتبى آن سيدان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمجتبى آن سيدان">
+      <charseq START="3151" END="3165">لمجتبى آن سيدان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E63-110" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3186" END="3201">لعلي زماني عصمتي</charseq>
+    </extent>
+    <head>
+      <charseq START="3186" END="3201">لعلي زماني عصمتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لعلي زماني عصمتي">
+      <charseq START="3186" END="3201">لعلي زماني عصمتي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E64-111" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3213" END="3227">لسودابه مراديان</charseq>
+    </extent>
+    <head>
+      <charseq START="3213" END="3227">لسودابه مراديان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لسودابه مراديان">
+      <charseq START="3213" END="3227">لسودابه مراديان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E65-112" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3240" END="3260">لعزيز الله حميد نثراد</charseq>
+    </extent>
+    <head>
+      <charseq START="3240" END="3260">لعزيز الله حميد نثراد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لعزيز الله حميد نثراد">
+      <charseq START="3240" END="3260">لعزيز الله حميد نثراد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E66-113" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3277" END="3289">لمزيدون شيردل</charseq>
+    </extent>
+    <head>
+      <charseq START="3277" END="3289">لمزيدون شيردل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمزيدون شيردل">
+      <charseq START="3277" END="3289">لمزيدون شيردل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E67-114" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3302" END="3317">لمحمد رضا رحماني</charseq>
+    </extent>
+    <head>
+      <charseq START="3302" END="3317">لمحمد رضا رحماني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمحمد رضا رحماني">
+      <charseq START="3302" END="3317">لمحمد رضا رحماني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E68-115" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3338" END="3355">لمهناز نور الهي فر</charseq>
+    </extent>
+    <head>
+      <charseq START="3338" END="3355">لمهناز نور الهي فر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمهناز نور الهي فر">
+      <charseq START="3338" END="3355">لمهناز نور الهي فر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E69" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E69-202" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3358" END="3411">المخرجون المذكورون
+خمسة رجال وأربع نساء من الجيل الشاب</charseq>
+    </extent>
+    <head>
+      <charseq START="3358" END="3365">المخرجون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E69-203" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3374" END="3375">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="3374" END="3375">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E70" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E70-118" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3955" END="3973">بعض الشعراء الآخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="3955" END="3957">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E71" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E71-117" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="812" END="812">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="812">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E71-120" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="829" END="829">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="829">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E71-199" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="843" END="843">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="843" END="843">ك</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E72" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E72-205" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3377" END="3411">خمسة رجال وأربع نساء من الجيل الشاب</charseq>
+    </extent>
+    <head>
+      <charseq START="3382" END="3385">رجال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E73" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E73-204" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3388" END="3411">أربع نساء من الجيل الشاب</charseq>
+    </extent>
+    <head>
+      <charseq START="3393" END="3396">نساء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E74-123" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3451" END="3557">للمصور الفنان
+فخرالدين فخرالديني الذي يعتبر من أشهر وأكبر مصوري البورتريه
+في ايران خلال الخمسين سنة الماضية</charseq>
+    </extent>
+    <head>
+      <charseq START="3451" END="3456">للمصور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-124" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3458" END="3557">الفنان
+فخرالدين فخرالديني الذي يعتبر من أشهر وأكبر مصوري البورتريه
+في ايران خلال الخمسين سنة الماضية</charseq>
+    </extent>
+    <head>
+      <charseq START="3458" END="3463">الفنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-125" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3465" END="3557">فخرالدين فخرالديني الذي يعتبر من أشهر وأكبر مصوري البورتريه
+في ايران خلال الخمسين سنة الماضية</charseq>
+    </extent>
+    <head>
+      <charseq START="3465" END="3482">فخرالدين فخرالديني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-126" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="3484" END="3487">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="3484" END="3487">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-127" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3489" END="3489">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3489" END="3489">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-128" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3498" END="3557">أشهر وأكبر مصوري البورتريه
+في ايران خلال الخمسين سنة الماضية</charseq>
+    </extent>
+    <head>
+      <charseq START="3498" END="3501">أشهر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-129" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3504" END="3557">أكبر مصوري البورتريه
+في ايران خلال الخمسين سنة الماضية</charseq>
+    </extent>
+    <head>
+      <charseq START="3504" END="3507">أكبر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-132" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3560" END="3568">فخرالديني</charseq>
+    </extent>
+    <head>
+      <charseq START="3560" END="3568">فخرالديني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-133" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3591" END="3591">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3591" END="3591">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-140" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3618" END="3618">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3618" END="3618">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-141" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3685" END="3685">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3685" END="3685">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-147" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3738" END="3738">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3738" END="3738">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-150" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3799" END="3807">فخرالديني</charseq>
+    </extent>
+    <head>
+      <charseq START="3799" END="3807">فخرالديني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E74-156" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="4017" END="4022">الفنان</charseq>
+    </extent>
+    <head>
+      <charseq START="4017" END="4022">الفنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فخرالدين فخرالديني">
+      <charseq START="3465" END="3482">فخرالدين فخرالديني</charseq>
+    </name>
+    <name NAME="فخرالديني">
+      <charseq START="3560" END="3568">فخرالديني</charseq>
+    </name>
+    <name NAME="فخرالديني">
+      <charseq START="3799" END="3807">فخرالديني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E79" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E79-130" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3509" END="3557">مصوري البورتريه
+في ايران خلال الخمسين سنة الماضية</charseq>
+    </extent>
+    <head>
+      <charseq START="3509" END="3513">مصوري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E80" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E80-134" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3601" END="3611">عائلة أدبية</charseq>
+    </extent>
+    <head>
+      <charseq START="3601" END="3605">عائلة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E81" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E81-86" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3614" END="3678">والده الشاعر علي محزون صاحب
+ديوان »الهجران المتعب« باللغة التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="3614" END="3617">والد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E81-135" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3620" END="3678">الشاعر علي محزون صاحب
+ديوان »الهجران المتعب« باللغة التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="3620" END="3625">الشاعر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E81-136" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3627" END="3678">علي محزون صاحب
+ديوان »الهجران المتعب« باللغة التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="3627" END="3635">علي محزون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E81-137" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3637" END="3678">صاحب
+ديوان »الهجران المتعب« باللغة التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="3637" END="3640">صاحب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علي محزون">
+      <charseq START="3627" END="3635">علي محزون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E84" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E84-138" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="3672" END="3678">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="3672" END="3678">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التركية">
+      <charseq START="3672" END="3678">التركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E85" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E85-139" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3681" END="3731">شقيقه من الرسامين
+والمينياتوريست المشهورين في ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="3681" END="3684">شقيق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E86" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E86-142" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3690" END="3731">الرسامين
+والمينياتوريست المشهورين في ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="3690" END="3697">الرسامين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E87" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E87-143" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3700" END="3731">المينياتوريست المشهورين في ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="3700" END="3712">المينياتوريست</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E88" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E88-144" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3721" END="3722">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="3721" END="3722">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E89" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E89-146" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3734" END="3791">شقيقه الآخر من المؤلفين
+الموسيقيين الأشهر في المدة الأخيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="3734" END="3737">شقيق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E90" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E90-148" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3749" END="3791">المؤلفين
+الموسيقيين الأشهر في المدة الأخيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="3749" END="3756">المؤلفين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E90-149" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3766" END="3767">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="3766" END="3767">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E91" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E91-151" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3817" END="3823">لفنانين</charseq>
+    </extent>
+    <head>
+      <charseq START="3817" END="3823">لفنانين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E92" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E92-152" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3826" END="3829">كتاب</charseq>
+    </extent>
+    <head>
+      <charseq START="3826" END="3829">كتاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E93" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E93-153" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3832" END="3836">شعراء</charseq>
+    </extent>
+    <head>
+      <charseq START="3832" END="3836">شعراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E94" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E94-154" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3839" END="3852">علماء
+ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="3839" END="3843">علماء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E95" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E95-119" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3959" END="3973">الشعراء الآخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="3959" END="3965">الشعراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E95-155" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3972" END="3973">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="3972" END="3973">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E98" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E98-158" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4167" END="4183">الشباب من الجنسين</charseq>
+    </extent>
+    <head>
+      <charseq START="4167" END="4172">الشباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E99" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E99-159" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4177" END="4183">الجنسين</charseq>
+    </extent>
+    <head>
+      <charseq START="4177" END="4183">الجنسين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E100" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E100-164" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4211" END="4224">الحدائق العامة</charseq>
+    </extent>
+    <head>
+      <charseq START="4211" END="4217">الحدائق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E101" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E101-165" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4226" END="4230">شبابا</charseq>
+    </extent>
+    <head>
+      <charseq START="4226" END="4230">شبابا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E101-166" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4237" END="4238">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="4237" END="4238">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E101-167" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4290" END="4291">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="4290" END="4291">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E102" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E102-168" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4310" END="4315">ممثلات</charseq>
+    </extent>
+    <head>
+      <charseq START="4310" END="4315">ممثلات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E102-170" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4330" END="4330">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="4330" END="4330">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E104" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E104-172" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4367" END="4371">شبابا</charseq>
+    </extent>
+    <head>
+      <charseq START="4367" END="4371">شبابا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E104-182" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4513" END="4514">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="4513" END="4514">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E104-183" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4399" END="4400">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="4399" END="4400">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E105" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E105-173" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4462" END="4476">ابن احد
+الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="4462" END="4464">ابن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E105-177" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4485" END="4485">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="4485" END="4485">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E105-178" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4457" END="4457">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="4457" END="4457">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E105-181" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="4500" END="4500">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="4500" END="4500">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E106" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E106-174" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4466" END="4476">احد
+الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="4466" END="4468">احد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E107" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E107-175" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4470" END="4476">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="4470" END="4476">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E108" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E108-176" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4481" END="4485">منزله</charseq>
+    </extent>
+    <head>
+      <charseq START="4481" END="4484">منزل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E109" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E109-179" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="4377" END="4379">بلد</charseq>
+    </extent>
+    <head>
+      <charseq START="4377" END="4379">بلد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E110" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E110-180" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4381" END="4392">٠٥٤ الف شهيد</charseq>
+    </extent>
+    <head>
+      <charseq START="4389" END="4392">شهيد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E111" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E111-186" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4584" END="4590">الفتيات</charseq>
+    </extent>
+    <head>
+      <charseq START="4584" END="4590">الفتيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E112" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E112-187" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4622" END="4627">الشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="4622" END="4627">الشباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E113" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E113-190" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4692" END="4695">شابا</charseq>
+    </extent>
+    <head>
+      <charseq START="4692" END="4695">شابا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E114" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001018.0700.0021-E114-191" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4701" END="4704">فتاة</charseq>
+    </extent>
+    <head>
+      <charseq START="4701" END="4704">فتاة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E115" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E115-196" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="4765" END="4775">الاستخبارات</charseq>
+    </extent>
+    <head>
+      <charseq START="4765" END="4775">الاستخبارات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E121" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ALH20001018.0700.0021-E121-211" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="319" END="325">الانسان</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="325">الانسان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E123" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E123-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="610" END="615">الشاعر</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="615">الشاعر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="657" END="657">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="657" END="657">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="702" END="706">شاملو</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="706">شاملو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="741" END="741">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="741" END="741">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="874" END="922">شاملو من الأدباء
+الأكثر عناداً في مواقفه السياسية</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="878">شاملو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="913" END="913">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="913">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1198" END="1198">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1198" END="1198">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1203" END="1203">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1203" END="1203">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1212" END="1212">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1212" END="1212">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1281" END="1285">شاملو</charseq>
+    </extent>
+    <head>
+      <charseq START="1281" END="1285">شاملو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1530" END="1540">لأحمد شاملو</charseq>
+    </extent>
+    <head>
+      <charseq START="1530" END="1540">لأحمد شاملو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-116" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3943" END="3952">أحمد شاملو</charseq>
+    </extent>
+    <head>
+      <charseq START="3943" END="3952">أحمد شاملو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-214" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="438" END="470">أبرز شعراء مدرسة الحداثة ومؤسسيها</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="441">أبرز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-215" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="472" END="481">أحمد شاملو</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="481">أحمد شاملو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E123-220" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="492" END="492">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="492">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شاملو">
+      <charseq START="702" END="706">شاملو</charseq>
+    </name>
+    <name NAME="شاملو">
+      <charseq START="874" END="878">شاملو</charseq>
+    </name>
+    <name NAME="شاملو">
+      <charseq START="1281" END="1285">شاملو</charseq>
+    </name>
+    <name NAME="لأحمد شاملو">
+      <charseq START="1530" END="1540">لأحمد شاملو</charseq>
+    </name>
+    <name NAME="أحمد شاملو">
+      <charseq START="3943" END="3952">أحمد شاملو</charseq>
+    </name>
+    <name NAME="أحمد شاملو">
+      <charseq START="472" END="481">أحمد شاملو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E125" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E125-216" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="443" END="470">شعراء مدرسة الحداثة ومؤسسيها</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="447">شعراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001018.0700.0021-E126" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E126-217" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="449" END="461">مدرسة الحداثة</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="461">مدرسة الحداثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001018.0700.0021-E126-219" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="469" END="470">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="470">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مدرسة الحداثة">
+      <charseq START="449" END="461">مدرسة الحداثة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001018.0700.0021-E127" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001018.0700.0021-E127-218" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="464" END="470">مؤسسيها</charseq>
+    </extent>
+    <head>
+      <charseq START="464" END="468">مؤسسي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ALH20001018.0700.0021-T1">
+  <timex2_mention ID="ALH20001018.0700.0021-T1-1">
+    <extent>
+      <charseq START="787" END="796">هذه الأيام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T2">
+  <timex2_mention ID="ALH20001018.0700.0021-T2-1">
+    <extent>
+      <charseq START="1060" END="1077">فترة ما قبل الثورة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T3">
+  <timex2_mention ID="ALH20001018.0700.0021-T3-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T4">
+  <timex2_mention ID="ALH20001018.0700.0021-T4-1">
+    <extent>
+      <charseq START="1083" END="1105">السنة الايرانية الماضية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T5">
+  <timex2_mention ID="ALH20001018.0700.0021-T5-1">
+    <extent>
+      <charseq START="1471" END="1490">نهار الاثنين ٨١٩٠٠٠٢</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T6">
+  <timex2_mention ID="ALH20001018.0700.0021-T6-1">
+    <extent>
+      <charseq START="2695" END="2699">يومية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T7">
+  <timex2_mention ID="ALH20001018.0700.0021-T7-1">
+    <extent>
+      <charseq START="1215" END="1223">بين عهدين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T8">
+  <timex2_mention ID="ALH20001018.0700.0021-T8-1">
+    <extent>
+      <charseq START="3042" END="3072">٩١و٢٢ تشرين الأول اكتوبر الجاري</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T9">
+  <timex2_mention ID="ALH20001018.0700.0021-T9-1">
+    <extent>
+      <charseq START="3534" END="3557">خلال الخمسين سنة الماضية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001018.0700.0021-T10">
+  <timex2_mention ID="ALH20001018.0700.0021-T10-1">
+    <extent>
+      <charseq START="3580" END="3587">سنة
+٢٣٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001018.0700.0021-R1" TYPE="ORG-AFF" SUBTYPE="Founder" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E127" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E126" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="464" END="470">مؤسسيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E127-218" ROLE="Arg-1">
+      <extent>
+        <charseq START="464" END="470">مؤسسيها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E126-219" ROLE="Arg-2">
+      <extent>
+        <charseq START="469" END="470">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E22" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E18" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001018.0700.0021-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1447" END="1464">بعض
+مكتبات المدينة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E22-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="1458" END="1464">المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E18-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="1447" END="1464">بعض
+مكتبات المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E22" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1579" END="1601">دار النشر قطرة في طهران</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E21-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="1579" END="1601">دار النشر قطرة في طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E22-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="1597" END="1601">طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E22" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1841" END="1870">شارع الثورة الاسلامية
+في طهران</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E1-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1841" END="1870">شارع الثورة الاسلامية
+في طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E22-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="1866" END="1870">طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2258" END="2274">العاصمة الايرانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E22-72" ROLE="Arg-1">
+      <extent>
+        <charseq START="2258" END="2274">العاصمة الايرانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E8-74" ROLE="Arg-2">
+      <extent>
+        <charseq START="2266" END="2274">الايرانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2432" END="2444">المخرج الروسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E19-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="2432" END="2444">المخرج الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E35-87" ROLE="Arg-2">
+      <extent>
+        <charseq START="2439" END="2444">الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E52" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2651" END="2670">نقاد ايرانيين وأجانب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E52-97" ROLE="Arg-1">
+      <extent>
+        <charseq START="2651" END="2670">نقاد ايرانيين وأجانب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E8-98" ROLE="Arg-2">
+      <extent>
+        <charseq START="2656" END="2663">ايرانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E54" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E57" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2794" END="2818">رئيس مركز
+الفنون المسرحية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E54-208" ROLE="Arg-1">
+      <extent>
+        <charseq START="2794" END="2818">رئيس مركز
+الفنون المسرحية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E57-104" ROLE="Arg-2">
+      <extent>
+        <charseq START="2799" END="2818">مركز
+الفنون المسرحية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E59" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2906" END="2920">الشباب
+الايراني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E59-200" ROLE="Arg-1">
+      <extent>
+        <charseq START="2906" END="2920">الشباب
+الايراني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E8-201" ROLE="Arg-2">
+      <extent>
+        <charseq START="2913" END="2920">الايراني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R10" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E85" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E74" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3681" END="3731">شقيقه من الرسامين
+والمينياتوريست المشهورين في ايران</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E85-139" ROLE="Arg-1">
+      <extent>
+        <charseq START="3681" END="3731">شقيقه من الرسامين
+والمينياتوريست المشهورين في ايران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E74-141" ROLE="Arg-2">
+      <extent>
+        <charseq START="3685" END="3685">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R11" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E89" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E74" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R11-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3734" END="3791">شقيقه الآخر من المؤلفين
+الموسيقيين الأشهر في المدة الأخيرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E89-146" ROLE="Arg-1">
+      <extent>
+        <charseq START="3734" END="3791">شقيقه الآخر من المؤلفين
+الموسيقيين الأشهر في المدة الأخيرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E74-147" ROLE="Arg-2">
+      <extent>
+        <charseq START="3738" END="3738">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R12" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E105" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E106" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R12-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="4462" END="4476">ابن احد
+الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E105-173" ROLE="Arg-1">
+      <extent>
+        <charseq START="4462" END="4476">ابن احد
+الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E106-174" ROLE="Arg-2">
+      <extent>
+        <charseq START="4466" END="4476">احد
+الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001018.0700.0021-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001018.0700.0021-E105" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001018.0700.0021-E108" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001018.0700.0021-R13-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="4481" END="4485">منزله</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E105-177" ROLE="Arg-1">
+      <extent>
+        <charseq START="4485" END="4485">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001018.0700.0021-E108-176" ROLE="Arg-2">
+      <extent>
+        <charseq START="4481" END="4485">منزله</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

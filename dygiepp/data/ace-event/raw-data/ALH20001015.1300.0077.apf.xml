@@ -1,0 +1,784 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001015.1300.0077.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001015.1300.0077">
+<entity ID="ALH20001015.1300.0077-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E1-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="437" END="447">هيكل سليمان</charseq>
+    </extent>
+    <head>
+      <charseq START="437" END="447">هيكل سليمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="هيكل سليمان">
+      <charseq START="437" END="447">هيكل سليمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E2-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="455" END="467">آلان شتاينبرغ</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="467">آلان شتاينبرغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E2-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="469" END="507">المدير التنفيذي للمؤتمر اليهودي العالمي</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="474">المدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آلان شتاينبرغ">
+      <charseq START="455" END="467">آلان شتاينبرغ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E3" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E3-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="319" END="342">الحائط الذي ورد
+في الرسم</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="324">الحائط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E3-9" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="326" END="329">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="329">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E3-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="382" END="392">حائط المبكى</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="392">حائط المبكى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E3-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="379" END="447">هو حائط المبكى
+في القدس الذي تزعم اسرائيل انه آخر جزء من »هيكل سليمان</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="380">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E3-49" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="403" END="406">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="406">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E3-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="271" END="274">حائط</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="274">حائط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E3-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="423" END="423">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="423">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E3-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="548" END="548">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="548">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حائط المبكى">
+      <charseq START="382" END="392">حائط المبكى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E4" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001015.1300.0077-E4-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="615" END="625">جماعات اخرى</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="620">جماعات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E4-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="672" END="673">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="673">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E4-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="613" END="613">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="613">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E4-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="644" END="644">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="644" END="644">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E5-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="676" END="695">مركز سايمون وايزنثال</charseq>
+    </extent>
+    <head>
+      <charseq START="676" END="695">مركز سايمون وايزنثال</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مركز سايمون وايزنثال">
+      <charseq START="676" END="695">مركز سايمون وايزنثال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E6-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="700" END="735">رابطـــة مكافحـــة تشويـــه
+السمعــة</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="735">رابطـــة مكافحـــة تشويـــه
+السمعــة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رابطـــة مكافحـــة تشويـــه السمعــة">
+      <charseq START="700" END="735">رابطـــة مكافحـــة تشويـــه
+السمعــة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E7" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001015.1300.0077-E7-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="809" END="814">القراء</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="814">القراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E8-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="847" END="859">مايكل
+راكيريز</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="859">مايكل
+راكيريز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E8-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="861" END="881">الفائز بجائزة بوليتزر</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="866">الفائز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E8-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="941" END="946">الرسام</charseq>
+    </extent>
+    <head>
+      <charseq START="941" END="946">الرسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E8-25" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="950" END="950">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="950" END="950">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مايكل راكيريز">
+      <charseq START="847" END="859">مايكل
+راكيريز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E10-2" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="408" END="408">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="408">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E10-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="413" END="419">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="413" END="419">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E10-23" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="923" END="934">الاسرائيليين</charseq>
+    </extent>
+    <head>
+      <charseq START="923" END="934">الاسرائيليين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E10-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1018" END="1022">يهودي</charseq>
+    </extent>
+    <head>
+      <charseq START="1018" END="1022">يهودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E10-57" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="143" END="148">يهودية</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="148">يهودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E10-64" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="245" END="250">يهوديا</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="250">يهوديا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسرائيل">
+      <charseq START="413" END="419">اسرائيل</charseq>
+    </name>
+    <name NAME="الاسرائيليين">
+      <charseq START="923" END="934">الاسرائيليين</charseq>
+    </name>
+    <name NAME="يهودي">
+      <charseq START="1018" END="1022">يهودي</charseq>
+    </name>
+    <name NAME="يهودية">
+      <charseq START="143" END="148">يهودية</charseq>
+    </name>
+    <name NAME="يهوديا">
+      <charseq START="245" END="250">يهوديا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E11-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="575" END="580">للمسيح</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="580">للمسيح</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للمسيح">
+      <charseq START="575" END="580">للمسيح</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E12" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E12-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="993" END="999">فلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="993" END="999">فلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E12-58" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="910" END="920">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="910" END="920">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E12-62" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="228" END="235">فلسطينيا</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="235">فلسطينيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلسطيني">
+      <charseq START="993" END="999">فلسطيني</charseq>
+    </name>
+    <name NAME="الفلسطينيين">
+      <charseq START="910" END="920">الفلسطينيين</charseq>
+    </name>
+    <name NAME="فلسطينيا">
+      <charseq START="228" END="235">فلسطينيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E14" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E14-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="485" END="507">للمؤتمر اليهودي العالمي</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="507">للمؤتمر اليهودي العالمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للمؤتمر اليهودي العالمي">
+      <charseq START="485" END="507">للمؤتمر اليهودي العالمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E15-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="587" END="588">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="588">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E15-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="547" END="547">و</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="547">و</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E15-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="557" END="558">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="558">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E15-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="565" END="566">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="565" END="566">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E15-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="513" END="514">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="514">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E16-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="361" END="362">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="362">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E16-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="969" END="973">شخصين</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="973">شخصين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E16-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="990" END="991">ما</charseq>
+    </extent>
+    <head>
+      <charseq START="990" END="991">ما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E16-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="215" END="219">شخصين</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="219">شخصين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E16-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="368" END="369">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="369">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E16-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="374" END="375">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="375">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E16-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="224" END="226">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="226">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E17-46" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="221" END="235">احدهما فلسطينيا</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="223">احد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E18-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="239" END="274">الآخر يهودياً متديناً يصلي امام حائط</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="243">الآخر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E18-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="261" END="261">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="261">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E19-48" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="986" END="1008">احدهما فلسطيني وهو ساجد</charseq>
+    </extent>
+    <head>
+      <charseq START="986" END="989">احده</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E19-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1002" END="1003">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1002" END="1003">هو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E20-45" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="109" END="127">لوس انجيليس  رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="119">لوس انجيليس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوس انجيليس">
+      <charseq START="109" END="119">لوس انجيليس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E21-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="122" END="127">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="127">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="122" END="127">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E22" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001015.1300.0077-E22-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="314" END="314">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="314">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E22-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="134" END="134">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="134">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E22-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="136" END="148">جماعات يهودية</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="141">جماعات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E23-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="741" END="741">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="741" END="741">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E23-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="743" END="749">الصحيفة</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="749">الصحيفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E23-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="770" END="771">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="771">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E23-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="776" END="776">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="776">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E23-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="780" END="781">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="780" END="781">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E23-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="786" END="786">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="786" END="786">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0077-E23-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="150" END="173">صحيفة »لوس
+انجيليس تايمز</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="173">صحيفة »لوس
+انجيليس تايمز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة »لوس انجيليس تايمز">
+      <charseq START="150" END="173">صحيفة »لوس
+انجيليس تايمز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0077-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E27-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1011" END="1022">الثاني يهودي</charseq>
+    </extent>
+    <head>
+      <charseq START="1011" END="1016">الثاني</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0077-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0077-E30-66" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="397" END="401">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="401">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="397" END="401">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001015.1300.0077-T1">
+  <timex2_mention ID="ALH20001015.1300.0077-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001015.1300.0077-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0077-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0077-E10" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0077-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="239" END="274">الآخر يهودياً متديناً يصلي امام حائط</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E18-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="239" END="274">الآخر يهودياً متديناً يصلي امام حائط</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E10-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="245" END="250">يهوديا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0077-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0077-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0077-E10" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0077-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1011" END="1022">الثاني يهودي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E27-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="1011" END="1022">الثاني يهودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E10-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="1018" END="1022">يهودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0077-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0077-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0077-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0077-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="986" END="1008">احدهما فلسطيني وهو ساجد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E19-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="986" END="1008">احدهما فلسطيني وهو ساجد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E12-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="993" END="999">فلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0077-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0077-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0077-E20" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0077-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="109" END="127">لوس انجيليس  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E21-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="122" END="127">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E20-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="109" END="127">لوس انجيليس  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0077-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0077-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0077-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0077-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="469" END="507">المدير التنفيذي للمؤتمر اليهودي العالمي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E2-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="469" END="507">المدير التنفيذي للمؤتمر اليهودي العالمي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E14-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="485" END="507">للمؤتمر اليهودي العالمي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0077-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0077-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0077-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0077-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="221" END="235">احدهما فلسطينيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E17-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="221" END="235">احدهما فلسطينيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0077-E12-62" ROLE="Arg-2">
+      <extent>
+        <charseq START="228" END="235">فلسطينيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

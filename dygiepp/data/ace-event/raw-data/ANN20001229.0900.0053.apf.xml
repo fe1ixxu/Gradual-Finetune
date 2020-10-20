@@ -1,0 +1,738 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ANN20001229.0900.0053.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001229.0900.0053">
+<entity ID="ANN20001229.0900.0053-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="432" END="453">وفود رسمية من الجانبين</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="435">وفود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E1-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="430" END="430">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="430">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E1-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="461" END="461">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="461">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E2-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="482" END="487">لاتراك</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="487">لاتراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E2-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="515" END="516">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="516">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="509" END="525">عائلاتهم في سوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="514">عائلات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E4-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="521" END="525">سوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="525">سوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سوريا">
+      <charseq START="521" END="525">سوريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001229.0900.0053-E5" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ANN20001229.0900.0053-E5-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="563" END="581">الناس في جيلانبينار</charseq>
+    </extent>
+    <head>
+      <charseq START="563" END="567">الناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E5-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="589" END="590">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="590">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E5-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="603" END="604">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="604">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E6" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ANN20001229.0900.0053-E6-14" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="600" END="602">بعض</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="602">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E7" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ANN20001229.0900.0053-E7-16" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="606" END="610">للبعض</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="610">للبعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E8-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="106" END="132">جيلانبينار ,تركيا, ­ رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="115">جيلانبينار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E8-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="572" END="581">جيلانبينار</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="581">جيلانبينار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E8-17" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="642" END="647">القرية</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="647">القرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E8-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="161" END="204">قرية
+جيلانبينار على الحدود التركية ­ السورية</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="175">قرية
+جيلانبينار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جيلانبينار">
+      <charseq START="106" END="115">جيلانبينار</charseq>
+    </name>
+    <name NAME="جيلانبينار">
+      <charseq START="572" END="581">جيلانبينار</charseq>
+    </name>
+    <name NAME="قرية جيلانبينار">
+      <charseq START="161" END="175">قرية
+جيلانبينار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001229.0900.0053-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E9-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="397" END="401">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="401">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E9-19" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="118" END="122">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="122">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E9-31" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="283" END="289">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="289">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E9-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="338" END="342">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="342">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تركيا">
+      <charseq START="397" END="401">تركيا</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="118" END="122">تركيا</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="283" END="289">التركية</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="338" END="342">تركيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001229.0900.0053-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E10-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="127" END="132">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="132">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="127" END="132">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001229.0900.0053-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E11-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="146" END="204">عائلات تعيش في قرية
+جيلانبينار على الحدود التركية ­ السورية</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="151">عائلات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E11-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="153" END="153">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="153">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E12" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E12-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="181" END="204">الحدود التركية ­ السورية</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="186">الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E12-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="240" END="245">الحدود</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="245">الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E12-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="386" END="391">الحدود</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="391">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E13-5" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="446" END="453">الجانبين</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="453">الجانبين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E13-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="653" END="660">الدولتين</charseq>
+    </extent>
+    <head>
+      <charseq START="653" END="660">الدولتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E13-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="188" END="204">التركية ­ السورية</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="204">التركية ­ السورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التركية ­ السورية">
+      <charseq START="188" END="204">التركية ­ السورية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001229.0900.0053-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E15-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="230" END="230">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="230">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E15-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="232" END="238">السلطات</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="238">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E15-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="273" END="273">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="273">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001229.0900.0053-E15-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="275" END="289">السلطات التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="281">السلطات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E17-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="291" END="297">لسوريين</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="297">لسوريين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001229.0900.0053-E18-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="329" END="342">اقارب في
+تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="333">اقارب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001229.0900.0053-E19" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ANN20001229.0900.0053-E19-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="349" END="367">نحو ثلاثة آلاف سوري</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="367">سوري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ANN20001229.0900.0053-T1">
+  <timex2_mention ID="ANN20001229.0900.0053-T1-1">
+    <extent>
+      <charseq START="489" END="500">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001229.0900.0053-T2">
+  <timex2_mention ID="ANN20001229.0900.0053-T2-1">
+    <extent>
+      <charseq START="418" END="422">يومين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001229.0900.0053-T3">
+  <timex2_mention ID="ANN20001229.0900.0053-T3-1">
+    <extent>
+      <charseq START="217" END="219">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001229.0900.0053-T4">
+  <timex2_mention ID="ANN20001229.0900.0053-T4-1">
+    <extent>
+      <charseq START="312" END="320">هذه السنة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001229.0900.0053-T5">
+  <timex2_mention ID="ANN20001229.0900.0053-T5-1">
+    <extent>
+      <charseq START="39" END="48">2000-12-29</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ANN20001229.0900.0053-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="106" END="132">جيلانبينار ,تركيا, ­ رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E10-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="127" END="132">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E8-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="106" END="132">جيلانبينار ,تركيا, ­ رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="106" END="132">جيلانبينار ,تركيا, ­ رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E8-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="106" END="132">جيلانبينار ,تركيا, ­ رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E9-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="118" END="122">تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="161" END="204">قرية
+جيلانبينار على الحدود التركية ­ السورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E8-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="161" END="204">قرية
+جيلانبينار على الحدود التركية ­ السورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E12-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="181" END="204">الحدود التركية ­ السورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R4" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="146" END="204">عائلات تعيش في قرية
+جيلانبينار على الحدود التركية ­ السورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E11-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="146" END="204">عائلات تعيش في قرية
+جيلانبينار على الحدود التركية ­ السورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E8-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="161" END="204">قرية
+جيلانبينار على الحدود التركية ­ السورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="181" END="204">الحدود التركية ­ السورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E12-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="181" END="204">الحدود التركية ­ السورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E13-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="188" END="204">التركية ­ السورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="275" END="289">السلطات التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E15-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="275" END="289">السلطات التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E9-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="283" END="289">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R7" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="329" END="342">اقارب في
+تركيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E18-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="329" END="342">اقارب في
+تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E9-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="338" END="342">تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="432" END="453">وفود رسمية من الجانبين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E1-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="432" END="453">وفود رسمية من الجانبين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E13-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="446" END="453">الجانبين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R9" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="509" END="525">عائلاتهم في سوريا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E3-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="509" END="525">عائلاتهم في سوريا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E2-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="515" END="516">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R10" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="509" END="525">عائلاتهم في سوريا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E3-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="509" END="525">عائلاتهم في سوريا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E4-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="521" END="525">سوريا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001229.0900.0053-R11" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001229.0900.0053-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001229.0900.0053-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001229.0900.0053-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="563" END="581">الناس في جيلانبينار</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E5-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="563" END="581">الناس في جيلانبينار</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001229.0900.0053-E8-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="572" END="581">جيلانبينار</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ANN20001229.0900.0053-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001229.0900.0053-E15" ROLE="Agent"/>
+  <event_argument REFID="ANN20001229.0900.0053-E9" ROLE="Destination"/>
+  <event_argument REFID="ANN20001229.0900.0053-E17" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001229.0900.0053-T4" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001229.0900.0053-EV1-1">
+    <extent>
+      <charseq START="275" END="401">السلطات التركية لسوريين للمرة الاولى هذه السنة بزيارة اقارب في
+تركيا وحصل نحو ثلاثة آلاف سوري على تصاريح لعبور الحدود الى تركيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="269" END="469">وسمحت السلطات التركية لسوريين للمرة الاولى هذه السنة بزيارة اقارب في
+تركيا وحصل نحو ثلاثة آلاف سوري على تصاريح لعبور الحدود الى تركيا في
+زيارة تستمر يومين. والتقت وفود رسمية من الجانبين وتبادلت الهدايا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="322" END="327">بزيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E15-30" ROLE="Agent">
+      <extent>
+        <charseq START="275" END="289">السلطات التركية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E9-2" ROLE="Destination">
+      <extent>
+        <charseq START="397" END="401">تركيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E17-32" ROLE="Artifact">
+      <extent>
+        <charseq START="291" END="297">لسوريين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="312" END="320">هذه السنة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001229.0900.0053-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ANN20001229.0900.0053-E15" ROLE="Agent"/>
+  <event_argument REFID="ANN20001229.0900.0053-E9" ROLE="Destination"/>
+  <event_argument REFID="ANN20001229.0900.0053-E12" ROLE="Origin"/>
+  <event_argument REFID="ANN20001229.0900.0053-E19" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001229.0900.0053-T2" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001229.0900.0053-EV2-1">
+    <extent>
+      <charseq START="275" END="422">السلطات التركية لسوريين للمرة الاولى هذه السنة بزيارة اقارب في
+تركيا وحصل نحو ثلاثة آلاف سوري على تصاريح لعبور الحدود الى تركيا في
+زيارة تستمر يومين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="269" END="469">وسمحت السلطات التركية لسوريين للمرة الاولى هذه السنة بزيارة اقارب في
+تركيا وحصل نحو ثلاثة آلاف سوري على تصاريح لعبور الحدود الى تركيا في
+زيارة تستمر يومين. والتقت وفود رسمية من الجانبين وتبادلت الهدايا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="380" END="384">لعبور</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E15-30" ROLE="Agent">
+      <extent>
+        <charseq START="275" END="289">السلطات التركية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E9-2" ROLE="Destination">
+      <extent>
+        <charseq START="397" END="401">تركيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E12-36" ROLE="Origin">
+      <extent>
+        <charseq START="386" END="391">الحدود</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E19-35" ROLE="Artifact">
+      <extent>
+        <charseq START="349" END="367">نحو ثلاثة آلاف سوري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="418" END="422">يومين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001229.0900.0053-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001229.0900.0053-E2" ROLE="Agent"/>
+  <event_argument REFID="ANN20001229.0900.0053-T1" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001229.0900.0053-EV3-1">
+    <extent>
+      <charseq START="482" END="507">لاتراك العام الماضي بزيارة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="473" END="660">وكان سمح لاتراك العام الماضي بزيارة عائلاتهم في سوريا علما انه في
+السنوات السابقة كان على الناس في جيلانبينار ان يرموا الهدايا بعضهم
+للبعض عبر الاسلاك الشائكة التي تقسم القرية بين الدولتين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="502" END="507">بزيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001229.0900.0053-E2-7" ROLE="Agent">
+      <extent>
+        <charseq START="482" END="487">لاتراك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001229.0900.0053-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="489" END="500">العام الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

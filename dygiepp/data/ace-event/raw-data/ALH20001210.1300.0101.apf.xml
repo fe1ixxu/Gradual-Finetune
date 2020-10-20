@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001210.1300.0101.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001210.1300.0101">
+<entity ID="ALH20001210.1300.0101-E1" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="365" END="375">جنوب
+اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="375">اوروبا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001210.1300.0101-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="381" END="385">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="385">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تركيا">
+      <charseq START="381" END="385">تركيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E3" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E3-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="540" END="574">حوض بركين الضخم في جنوب شرق
+الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="548">حوض بركين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حوض بركين">
+      <charseq START="540" END="548">حوض بركين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E4" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E4-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="559" END="574">جنوب شرق
+الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="574">الجزائر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001210.1300.0101-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E5-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="99" END="113">الجزائر  رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="105">الجزائر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزائر">
+      <charseq START="99" END="105">الجزائر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E6-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="108" END="113">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="113">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="108" END="113">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E7-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="120" END="131">مسؤول جزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="124">مسؤول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001210.1300.0101-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E8-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="126" END="131">جزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="131">جزائري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E8-16" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="156" END="164">الجزائرية</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="164">الجزائرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جزائري">
+      <charseq START="126" END="131">جزائري</charseq>
+    </name>
+    <name NAME="الجزائرية">
+      <charseq START="156" END="164">الجزائرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E9-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="416" END="423">سوناطراك</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="423">سوناطراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E9-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="140" END="164">شركة
+»سوناطراك« الجزائرية</charseq>
+    </extent>
+    <head>
+      <charseq START="140" END="153">شركة
+»سوناطراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E9-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="294" END="301">سوناطراك</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="301">سوناطراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة »سوناطراك">
+      <charseq START="140" END="153">شركة
+»سوناطراك</charseq>
+    </name>
+    <name NAME="سوناطراك">
+      <charseq START="294" END="301">سوناطراك</charseq>
+    </name>
+    <name NAME="سوناطراك">
+      <charseq START="416" END="423">سوناطراك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E10-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="426" END="431">كونوكو</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="431">كونوكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E10-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="459" END="459">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="459">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E10-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="461" END="466">كونوكو</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="466">كونوكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E10-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="167" END="189">شركة »كونوكو« الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="178">شركة »كونوكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E10-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="304" END="309">كونوكو</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="309">كونوكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كونوكو">
+      <charseq START="426" END="431">كونوكو</charseq>
+    </name>
+    <name NAME="كونوكو">
+      <charseq START="461" END="466">كونوكو</charseq>
+    </name>
+    <name NAME="شركة »كونوكو">
+      <charseq START="167" END="178">شركة »كونوكو</charseq>
+    </name>
+    <name NAME="كونوكو">
+      <charseq START="304" END="309">كونوكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E12-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="181" END="189">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="189">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركية">
+      <charseq START="181" END="189">الاميركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001210.1300.0101-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E13-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="194" END="195">تا</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="195">تا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001210.1300.0101-E14" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001210.1300.0101-E14-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="261" END="261">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="261">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001210.1300.0101-E14-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="313" END="313">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="313">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001210.1300.0101-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001210.1300.0101-E15-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="359" END="375">منطقة جنوب
+اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="363">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ALH20001210.1300.0101-T1">
+  <timex2_mention ID="ALH20001210.1300.0101-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-12-10</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001210.1300.0101-T2">
+  <timex2_mention ID="ALH20001210.1300.0101-T2-1">
+    <extent>
+      <charseq START="133" END="135">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001210.1300.0101-T3">
+  <timex2_mention ID="ALH20001210.1300.0101-T3-1">
+    <extent>
+      <charseq START="437" END="453">يوم الخميس
+الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001210.1300.0101-T4">
+  <timex2_mention ID="ALH20001210.1300.0101-T4-1">
+    <extent>
+      <charseq START="489" END="506">في بداية التسعينات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001210.1300.0101-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001210.1300.0101-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001210.1300.0101-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001210.1300.0101-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="99" END="113">الجزائر  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E6-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="108" END="113">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E5-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="99" END="113">الجزائر  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001210.1300.0101-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001210.1300.0101-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001210.1300.0101-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001210.1300.0101-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="120" END="131">مسؤول جزائري</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E7-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="120" END="131">مسؤول جزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E8-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="126" END="131">جزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001210.1300.0101-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001210.1300.0101-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001210.1300.0101-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001210.1300.0101-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="140" END="164">شركة
+»سوناطراك« الجزائرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E9-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="140" END="164">شركة
+»سوناطراك« الجزائرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E8-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="156" END="164">الجزائرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001210.1300.0101-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001210.1300.0101-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001210.1300.0101-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001210.1300.0101-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="167" END="189">شركة »كونوكو« الاميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E10-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="167" END="189">شركة »كونوكو« الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E12-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="181" END="189">الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001210.1300.0101-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001210.1300.0101-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001210.1300.0101-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001210.1300.0101-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="540" END="574">حوض بركين الضخم في جنوب شرق
+الجزائر</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E3-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="540" END="574">حوض بركين الضخم في جنوب شرق
+الجزائر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001210.1300.0101-E4-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="559" END="574">جنوب شرق
+الجزائر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

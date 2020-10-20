@@ -1,0 +1,944 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001019.1400.0116.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001019.1400.0116">
+<entity ID="AFA20001019.1400.0116-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E1-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="428" END="428">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="428">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E1-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="432" END="444">محكمة البداية</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="444">محكمة البداية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E1-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="870" END="882">محكمة البداية</charseq>
+    </extent>
+    <head>
+      <charseq START="870" END="882">محكمة البداية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة البداية">
+      <charseq START="432" END="444">محكمة البداية</charseq>
+    </name>
+    <name NAME="محكمة البداية">
+      <charseq START="870" END="882">محكمة البداية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E2-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="503" END="516">اروشا (تنزانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="503" END="507">اروشا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اروشا">
+      <charseq START="503" END="507">اروشا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E3-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="510" END="516">تنزانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="516">تنزانيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تنزانيا">
+      <charseq START="510" END="516">تنزانيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0116-E4-12" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="547" END="551">حكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="551">حكومة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E5-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="542" END="551">رئيس حكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="542" END="545">رئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E6-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1030" END="1030">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1030" END="1030">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E6-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1032" END="1079">المدعية العامة في محكمة الجزاء الدولية السويسرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1032" END="1038">المدعية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E6-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1081" END="1094">كارلا دل بونتي</charseq>
+    </extent>
+    <head>
+      <charseq START="1081" END="1094">كارلا دل بونتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E6-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1099" END="1099">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1099" END="1099">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كارلا دل بونتي">
+      <charseq START="1081" END="1094">كارلا دل بونتي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E8-33" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1071" END="1079">السويسرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1071" END="1079">السويسرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السويسرية">
+      <charseq START="1071" END="1079">السويسرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E9-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="992" END="1005">النيابة العامة</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="1005">النيابة العامة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="النيابة العامة">
+      <charseq START="992" END="1005">النيابة العامة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E10" TYPE="WEA" SUBTYPE="Underspecified" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0116-E10-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="775" END="781">الاسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="775" END="781">الاسلحة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E11-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="783" END="800">للميليشيات المدنية</charseq>
+    </extent>
+    <head>
+      <charseq START="783" END="792">للميليشيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E12" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0116-E12-39" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="815" END="857">مسؤولين
+ورؤساء بلديات كانوا يعارضون المجازر</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="821">مسؤولين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E13" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0116-E13-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="840" END="841">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="841">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E13-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="848" END="849">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="848" END="849">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E13-42" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="824" END="857">رؤساء بلديات كانوا يعارضون المجازر</charseq>
+    </extent>
+    <head>
+      <charseq START="824" END="828">رؤساء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="122" END="138">لاهاي 10-19 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="126">لاهاي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E14-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1170" END="1174">لاهاي</charseq>
+    </extent>
+    <head>
+      <charseq START="1170" END="1174">لاهاي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E14-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="180" END="184">لاهاي</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="184">لاهاي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لاهاي">
+      <charseq START="122" END="126">لاهاي</charseq>
+    </name>
+    <name NAME="لاهاي">
+      <charseq START="1170" END="1174">لاهاي</charseq>
+    </name>
+    <name NAME="لاهاي">
+      <charseq START="180" END="184">لاهاي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E15-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="449" END="467">رئيس الوزراء السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="452">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="523" END="570">جان كامبندا هو اول رئيس حكومة يدان بتهمة الابادة</charseq>
+    </extent>
+    <head>
+      <charseq START="523" END="533">جان كامبندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="535" END="536">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="535" END="536">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="689" END="707">رئيس الحكومة السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="692">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="553" END="553">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="553">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="581" END="622">كامبندا رئيسا للحكومة الانتقالية في رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="587">كامبندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="751" END="751">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="751">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-19" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="763" END="763">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="763" END="763">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="891" END="891">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="891">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="916" END="916">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="916" END="916">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="964" END="964">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="964" END="964">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1021" END="1021">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1021" END="1021">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1007" END="1007">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1007">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1149" END="1159">جان كامبندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1149" END="1159">جان كامبندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="538" END="570">اول رئيس حكومة يدان بتهمة الابادة</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="540">اول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-46" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="589" END="622">رئيسا للحكومة الانتقالية في رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="593">رئيسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="191" END="219">رئيس الوزراء السابق في رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="194">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="222" END="232">جان كامبندا</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="232">جان كامبندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E15-54" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="260" END="260">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="260">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جان كامبندا">
+      <charseq START="523" END="533">جان كامبندا</charseq>
+    </name>
+    <name NAME="كامبندا">
+      <charseq START="581" END="587">كامبندا</charseq>
+    </name>
+    <name NAME="جان كامبندا">
+      <charseq START="1149" END="1159">جان كامبندا</charseq>
+    </name>
+    <name NAME="جان كامبندا">
+      <charseq START="222" END="232">جان كامبندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E16-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="135" END="138">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="138">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="135" END="138">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E17-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1104" END="1118">محكمة الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1118">محكمة الاستئناف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E17-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="148" END="162">محكمة الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="162">محكمة الاستئناف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E17-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="146" END="146">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="146">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة الاستئناف">
+      <charseq START="1104" END="1118">محكمة الاستئناف</charseq>
+    </name>
+    <name NAME="محكمة الاستئناف">
+      <charseq START="148" END="162">محكمة الاستئناف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E20-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="454" END="460">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="454" END="460">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E20-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="196" END="202">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="202">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E21-15" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="595" END="622">للحكومة الانتقالية في رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="601">للحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E21-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="617" END="622">رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="622">رواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E21-17" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="694" END="700">الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="700">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E21-53" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="214" END="219">رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="219">رواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E21-60" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="396" END="401">رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="401">رواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رواندا">
+      <charseq START="617" END="622">رواندا</charseq>
+    </name>
+    <name NAME="رواندا">
+      <charseq START="214" END="219">رواندا</charseq>
+    </name>
+    <name NAME="رواندا">
+      <charseq START="396" END="401">رواندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E22" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0116-E22-55" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="296" END="343">500 الف الى 800 الف من التوتسي
+والهوتو المعتدلين</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="314">500 الف الى 800 الف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E23-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="319" END="325">التوتسي</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="325">التوتسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التوتسي">
+      <charseq START="319" END="325">التوتسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0116-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E24-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="328" END="343">الهوتو المعتدلين</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="333">الهوتو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0116-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0116-E26-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1050" END="1079">محكمة الجزاء الدولية السويسرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1050" END="1069">محكمة الجزاء الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E26-58" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="368" END="387">محكمة الجزاء الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="387">محكمة الجزاء الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0116-E26-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="366" END="366">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="366" END="366">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة الجزاء الدولية">
+      <charseq START="1050" END="1069">محكمة الجزاء الدولية</charseq>
+    </name>
+    <name NAME="محكمة الجزاء الدولية">
+      <charseq START="368" END="387">محكمة الجزاء الدولية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001019.1400.0116-T1">
+  <timex2_mention ID="AFA20001019.1400.0116-T1-1">
+    <extent>
+      <charseq START="648" END="658">نيسان/ابريل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0116-T2">
+  <timex2_mention ID="AFA20001019.1400.0116-T2-1">
+    <extent>
+      <charseq START="664" END="678">تموز/يوليو 1994</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0116-T3">
+  <timex2_mention ID="AFA20001019.1400.0116-T3-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-19 14:53:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0116-T4">
+  <timex2_mention ID="AFA20001019.1400.0116-T4-1">
+    <extent>
+      <charseq START="128" END="132">10-19</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0116-T5">
+  <timex2_mention ID="AFA20001019.1400.0116-T5-1">
+    <extent>
+      <charseq START="164" END="175">اليوم الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0116-T6">
+  <timex2_mention ID="AFA20001019.1400.0116-T6-1">
+    <extent>
+      <charseq START="345" END="352">عام 1994</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0116-T7">
+  <timex2_mention ID="AFA20001019.1400.0116-T7-1">
+    <extent>
+      <charseq START="472" END="498">الرابع من ايلول/سبتمبر
+1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0116-T8">
+  <timex2_mention ID="AFA20001019.1400.0116-T8-1">
+    <extent>
+      <charseq START="921" END="931">شباط/فبراير</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001019.1400.0116-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E14" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001019.1400.0116-T4" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001019.1400.0116-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="122" END="138">لاهاي 10-19 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E16-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="135" END="138">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E14-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="122" END="138">لاهاي 10-19 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="128" END="132">10-19</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0116-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0116-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="191" END="219">رئيس الوزراء السابق في رواندا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E15-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="191" END="219">رئيس الوزراء السابق في رواندا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E21-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="214" END="219">رواندا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001019.1400.0116-R2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="689" END="707">رئيس الحكومة السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E15-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="689" END="707">رئيس الحكومة السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E21-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="694" END="700">الحكومة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001019.1400.0116-R2-3" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="589" END="622">رئيسا للحكومة الانتقالية في رواندا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E15-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="589" END="622">رئيسا للحكومة الانتقالية في رواندا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E21-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="595" END="622">للحكومة الانتقالية في رواندا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0116-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0116-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="503" END="516">اروشا (تنزانيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E2-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="503" END="516">اروشا (تنزانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E3-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="510" END="516">تنزانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0116-R4" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0116-R4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="449" END="467">رئيس الوزراء السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E15-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="449" END="467">رئيس الوزراء السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E20-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="454" END="460">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0116-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E26" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E6" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001019.1400.0116-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1032" END="1079">المدعية العامة في محكمة الجزاء الدولية السويسرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E26-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="1050" END="1079">محكمة الجزاء الدولية السويسرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E6-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="1032" END="1079">المدعية العامة في محكمة الجزاء الدولية السويسرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0116-R7" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0116-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1149" END="1174">جان كامبندا معتقل في لاهاي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E15-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="1149" END="1159">جان كامبندا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E14-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="1170" END="1174">لاهاي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0116-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0116-R8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="542" END="551">رئيس حكومة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E5-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="542" END="551">رئيس حكومة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E4-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="547" END="551">حكومة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0116-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0116-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0116-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0116-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1050" END="1079">محكمة الجزاء الدولية السويسرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E26-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="1050" END="1079">محكمة الجزاء الدولية السويسرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0116-E8-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="1071" END="1079">السويسرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001019.1400.0116-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001019.1400.0116-E12" ROLE="Person"/>
+  <event_mention ID="AFA20001019.1400.0116-EV1-1">
+    <extent>
+      <charseq START="808" END="857">باقالة مسؤولين
+ورؤساء بلديات كانوا يعارضون المجازر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="683" END="857">واتهم رئيس الحكومة السابق بالتحريض على الحقد الاتني والابادة بخطاباته
+العامة وانه نظم تسليم الاسلحة للميليشيات المدنية، وامر باقالة مسؤولين
+ورؤساء بلديات كانوا يعارضون المجازر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="808" END="813">باقالة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0116-E12-39" ROLE="Person">
+      <extent>
+        <charseq START="815" END="857">مسؤولين
+ورؤساء بلديات كانوا يعارضون المجازر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0116-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0116-E15" ROLE="Defendant"/>
+  <event_mention ID="AFA20001019.1400.0116-EV2-1">
+    <extent>
+      <charseq START="553" END="556">يدان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="522" END="570">وجان كامبندا هو اول رئيس حكومة يدان بتهمة الابادة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="553" END="556">يدان</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0116-E15-13" ROLE="Defendant">
+      <extent>
+        <charseq START="553" END="553">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0116-EV3" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0116-E15" ROLE="Defendant"/>
+  <event_mention ID="AFA20001019.1400.0116-EV3-1">
+    <extent>
+      <charseq START="684" END="707">اتهم رئيس الحكومة السابق</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="683" END="857">واتهم رئيس الحكومة السابق بالتحريض على الحقد الاتني والابادة بخطاباته
+العامة وانه نظم تسليم الاسلحة للميليشيات المدنية، وامر باقالة مسؤولين
+ورؤساء بلديات كانوا يعارضون المجازر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="684" END="687">اتهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0116-E15-10" ROLE="Defendant">
+      <extent>
+        <charseq START="689" END="707">رئيس الحكومة السابق</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0116-EV4" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001019.1400.0116-E15" ROLE="Person"/>
+  <event_argument REFID="AFA20001019.1400.0116-E14" ROLE="Place"/>
+  <event_mention ID="AFA20001019.1400.0116-EV4-1">
+    <extent>
+      <charseq START="1149" END="1174">جان كامبندا معتقل في لاهاي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1148" END="1174">وجان كامبندا معتقل في لاهاي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1161" END="1165">معتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0116-E15-25" ROLE="Person">
+      <extent>
+        <charseq START="1149" END="1159">جان كامبندا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0116-E14-26" ROLE="Place">
+      <extent>
+        <charseq START="1170" END="1174">لاهاي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

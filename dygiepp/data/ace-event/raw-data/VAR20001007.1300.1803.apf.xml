@@ -1,0 +1,1500 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001007.1300.1803.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001007.1300.1803">
+<entity ID="VAR20001007.1300.1803-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="267" END="284">رئيس
+وزراء إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="270">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E1-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="480" END="484">باراك</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="484">باراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E1-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="461" END="478">رئيس وزراء إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="464">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E1-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="875" END="875">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="875" END="875">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E1-44" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="881" END="898">رئيس وزراء
+إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="881" END="884">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باراك">
+      <charseq START="480" END="484">باراك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="272" END="276">وزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="276">وزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E2-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="466" END="470">وزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="470">وزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E2-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="886" END="890">وزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="886" END="890">وزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E3-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="293" END="297">سوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="297">سوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سوريا">
+      <charseq START="293" END="297">سوريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E4-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="334" END="334">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="334">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E4-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="336" END="353">القوات
+الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="341">القوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E4-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="377" END="377">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="377">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E5-1" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="68" END="68">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="68" END="68">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="278" END="284">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="284">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="343" END="353">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="343" END="353">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="472" END="478">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="478">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="808" END="814">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="808" END="814">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-45" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="892" END="898">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="898">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-53" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="70" END="76">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="76">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-60" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="115" END="124">إسرائيليين</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="124">إسرائيليين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-63" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="185" END="191">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="191">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E5-67" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="215" END="223">إسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="223">إسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيل">
+      <charseq START="278" END="284">إسرائيل</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="343" END="353">الإسرائيلية</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="472" END="478">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="808" END="814">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="892" END="898">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="70" END="76">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيليين">
+      <charseq START="115" END="124">إسرائيليين</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="185" END="191">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيلية">
+      <charseq START="215" END="223">إسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E6" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="VAR20001007.1300.1803-E6-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="355" END="370">فلسطين على الأقل</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="360">فلسطين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E7" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001007.1300.1803-E7-12" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="379" END="400">أكثر من اثني عشر آخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="382">أكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E8-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="387" END="400">اثني عشر آخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="400">آخرين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E9-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="286" END="290">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="286" END="290">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E9-15" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="428" END="436">اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="436">اللبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E9-40" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="801" END="805">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="805">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E9-50" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="992" END="996">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="996">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E9-51" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1012" END="1015">هناك</charseq>
+    </extent>
+    <head>
+      <charseq START="1012" END="1015">هناك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E9-57" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="89" END="96">لبنانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="96">لبنانيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E9-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="178" END="182">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="182">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E9-69" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="255" END="259">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="259">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لبنان">
+      <charseq START="286" END="290">لبنان</charseq>
+    </name>
+    <name NAME="اللبنانية">
+      <charseq START="428" END="436">اللبنانية</charseq>
+    </name>
+    <name NAME="لبنان">
+      <charseq START="801" END="805">لبنان</charseq>
+    </name>
+    <name NAME="لبنان">
+      <charseq START="992" END="996">لبنان</charseq>
+    </name>
+    <name NAME="لبنانيين">
+      <charseq START="89" END="96">لبنانيين</charseq>
+    </name>
+    <name NAME="لبنان">
+      <charseq START="178" END="182">لبنان</charseq>
+    </name>
+    <name NAME="لبنان">
+      <charseq START="255" END="259">لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E10-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="450" END="456">كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="456">كلينتون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E10-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="443" END="456">الرئيس كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="448">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E10-55" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="438" END="438">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="438">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كلينتون">
+      <charseq START="450" END="456">كلينتون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E12" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E12-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="412" END="436">نقطة على الحدود اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="415">نقطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E14-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="504" END="508">عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="508">عرفات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E14-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="487" END="502">الزعيم الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="492">الزعيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عرفات">
+      <charseq START="504" END="508">عرفات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E16" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E16-27" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="494" END="502">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="502">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E16-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="851" END="868">الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="851" END="868">الأراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطيني">
+      <charseq START="494" END="502">الفلسطيني</charseq>
+    </name>
+    <name NAME="الأراضي الفلسطينية">
+      <charseq START="851" END="868">الأراضي الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E18" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E18-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="520" END="531">الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="531">الشرق الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق الأوسط">
+      <charseq START="520" END="531">الشرق الأوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E19-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="537" END="573">البرلمان
+الفدرالي الجديد في يوغسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="553">البرلمان
+الفدرالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E19-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="585" END="585">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="585" END="585">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البرلمان الفدرالي">
+      <charseq START="537" END="553">البرلمان
+الفدرالي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E20-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="565" END="573">يوغسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="565" END="573">يوغسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E20-35" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="599" END="604">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="604">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يوغسلافيا">
+      <charseq START="565" END="573">يوغسلافيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E21-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="613" END="629">فوتوسلاب كونتيتسا</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="629">فوتوسلاب كونتيتسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E21-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="594" END="611">رئيس البلاد الجديد</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="597">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فوتوسلاب كونتيتسا">
+      <charseq START="613" END="629">فوتوسلاب كونتيتسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E23" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001007.1300.1803-E23-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="635" END="651">30 شخصا على الأقل</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="641">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E24" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E24-37" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="656" END="682">إقليم إريان جابا الإندونيسي</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="671">إقليم إريان جابا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إقليم إريان جابا">
+      <charseq START="656" END="671">إقليم إريان جابا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E26-38" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="673" END="682">الإندونيسي</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="682">الإندونيسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإندونيسي">
+      <charseq START="673" END="682">الإندونيسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E27" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E27-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="734" END="734">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="734" END="734">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E27-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="970" END="971">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="971">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E27-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="982" END="982">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="982" END="982">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E28-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="965" END="980">مراسلنا في القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="965" END="969">مراسل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E29-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="976" END="980">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="976" END="980">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="976" END="980">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001007.1300.1803-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E30-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="235" END="250">لمقاتلي حزب الله</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="241">لمقاتلي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E31-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="81" END="96">مقاتلين لبنانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="87">مقاتلين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E31-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="101" END="102">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="102">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E34-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="104" END="124">ثلاثة جنود إسرائيليين</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="113">جنود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E36" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E36-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="153" END="161">بالمدفعية</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="161">بالمدفعية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E37" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E37-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="421" END="436">الحدود اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="426">الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E37-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="167" END="191">الحدود بين لبنان وإسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="172">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E38" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E38-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="197" END="197">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="197">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001007.1300.1803-E38-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="199" END="223">طائرات
+هليكوبتر إسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="204">طائرات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E40" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E40-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="229" END="259">أهداف لمقاتلي حزب الله في لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="233">أهداف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001007.1300.1803-E41" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001007.1300.1803-E41-70" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="243" END="250">حزب الله</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="250">حزب الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حزب الله">
+      <charseq START="243" END="250">حزب الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="VAR20001007.1300.1803-V1" TYPE="Job-Title">
+  <value_mention ID="VAR20001007.1300.1803-V1-1">
+    <extent>
+      <charseq START="594" END="611">رئيس البلاد الجديد</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="VAR20001007.1300.1803-T1">
+  <timex2_mention ID="VAR20001007.1300.1803-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/07/2000 13:30:03.73</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001007.1300.1803-T2">
+  <timex2_mention ID="VAR20001007.1300.1803-T2-1">
+    <extent>
+      <charseq START="707" END="718">لليوم الثاني</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001007.1300.1803-T3">
+  <timex2_mention ID="VAR20001007.1300.1803-T3-1">
+    <extent>
+      <charseq START="742" END="753">النصف الثاني</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001007.1300.1803-T4">
+  <timex2_mention ID="VAR20001007.1300.1803-T4-1">
+    <extent>
+      <charseq START="920" END="934">أقل من نصف ساعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001007.1300.1803-T5">
+  <timex2_mention ID="VAR20001007.1300.1803-T5-1">
+    <extent>
+      <charseq START="939" END="942">الآن</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001007.1300.1803-T6">
+  <timex2_mention ID="VAR20001007.1300.1803-T6-1">
+    <extent>
+      <charseq START="842" END="846">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001007.1300.1803-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E37" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E9" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="167" END="191">الحدود بين لبنان وإسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E37-62" ROLE="Arg-1">
+      <extent>
+        <charseq START="167" END="191">الحدود بين لبنان وإسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E9-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="178" END="182">لبنان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001007.1300.1803-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="421" END="436">الحدود اللبنانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E37-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="421" END="436">الحدود اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E9-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="428" END="436">اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E9" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="81" END="96">مقاتلين لبنانيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E31-56" ROLE="Arg-1">
+      <extent>
+        <charseq START="81" END="96">مقاتلين لبنانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E9-57" ROLE="Arg-2">
+      <extent>
+        <charseq START="89" END="96">لبنانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E5" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="104" END="124">ثلاثة جنود إسرائيليين</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E34-59" ROLE="Arg-1">
+      <extent>
+        <charseq START="104" END="124">ثلاثة جنود إسرائيليين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E5-60" ROLE="Arg-2">
+      <extent>
+        <charseq START="115" END="124">إسرائيليين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E38" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="199" END="223">طائرات
+هليكوبتر إسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E5-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="215" END="223">إسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E38-66" ROLE="Arg-2">
+      <extent>
+        <charseq START="199" END="223">طائرات
+هليكوبتر إسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R5" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E41" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="235" END="259">لمقاتلي حزب الله في لبنان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E30-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="235" END="250">لمقاتلي حزب الله</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E41-70" ROLE="Arg-2">
+      <extent>
+        <charseq START="243" END="250">حزب الله</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R6" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="267" END="284">رئيس
+وزراء إسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="267" END="284">رئيس
+وزراء إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E2-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="272" END="276">وزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001007.1300.1803-R6-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="461" END="478">رئيس وزراء إسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E1-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="461" END="478">رئيس وزراء إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E2-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="466" END="470">وزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001007.1300.1803-R6-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="881" END="898">رئيس وزراء
+إسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E1-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="881" END="898">رئيس وزراء
+إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E2-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="886" END="890">وزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E5" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="336" END="353">القوات
+الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E4-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="336" END="353">القوات
+الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E5-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="343" END="353">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="487" END="502">الزعيم الفلسطيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E14-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="487" END="502">الزعيم الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E16-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="494" END="502">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R11" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E20" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="537" END="573">البرلمان
+الفدرالي الجديد في يوغسلافيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E19-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="537" END="573">البرلمان
+الفدرالي الجديد في يوغسلافيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E20-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="565" END="573">يوغسلافيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E26" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="656" END="682">إقليم إريان جابا الإندونيسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E24-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="656" END="682">إقليم إريان جابا الإندونيسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E26-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="673" END="682">الإندونيسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R14" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E27" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R14-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="965" END="980">مراسلنا في القدس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E28-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="965" END="980">مراسلنا في القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E27-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="970" END="971">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R15" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E20" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R15-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="594" END="611">رئيس البلاد الجديد</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E21-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="594" END="611">رئيس البلاد الجديد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E20-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="599" END="604">البلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R16" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E9" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R16-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="235" END="259">لمقاتلي حزب الله في لبنان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E30-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="235" END="250">لمقاتلي حزب الله</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E9-69" ROLE="Arg-2">
+      <extent>
+        <charseq START="255" END="259">لبنان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R17" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E5" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R17-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="267" END="284">رئيس
+وزراء إسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E2-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="272" END="276">وزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E5-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="278" END="284">إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001007.1300.1803-R17-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="881" END="898">رئيس وزراء
+إسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E2-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="886" END="890">وزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E5-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="892" END="898">إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001007.1300.1803-R17-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="461" END="478">رئيس وزراء إسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E2-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="466" END="470">وزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E5-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="472" END="478">إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R18" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E37" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R18-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="412" END="436">نقطة على الحدود اللبنانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E12-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="412" END="436">نقطة على الحدود اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E37-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="421" END="436">الحدود اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R20" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E29" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R20-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="965" END="980">مراسلنا في القدس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E28-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="965" END="980">مراسلنا في القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E29-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="976" END="980">القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001007.1300.1803-R22" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001007.1300.1803-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001007.1300.1803-E40" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001007.1300.1803-R22-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="229" END="259">أهداف لمقاتلي حزب الله في لبنان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E30-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="235" END="250">لمقاتلي حزب الله</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001007.1300.1803-E40-68" ROLE="Arg-2">
+      <extent>
+        <charseq START="229" END="259">أهداف لمقاتلي حزب الله في لبنان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001007.1300.1803-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E40" ROLE="Target"/>
+  <event_argument REFID="VAR20001007.1300.1803-E38" ROLE="Instrument"/>
+  <event_mention ID="VAR20001007.1300.1803-EV1-1">
+    <extent>
+      <charseq START="193" END="259">أغارت طائرات
+هليكوبتر إسرائيلية على أهداف لمقاتلي حزب الله في لبنان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="193" END="259">أغارت طائرات
+هليكوبتر إسرائيلية على أهداف لمقاتلي حزب الله في لبنان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="193" END="197">أغارت</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E40-68" ROLE="Target">
+      <extent>
+        <charseq START="229" END="259">أهداف لمقاتلي حزب الله في لبنان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E38-65" ROLE="Instrument">
+      <extent>
+        <charseq START="197" END="197">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E6" ROLE="Victim"/>
+  <event_argument REFID="VAR20001007.1300.1803-E4" ROLE="Agent"/>
+  <event_mention ID="VAR20001007.1300.1803-EV2-1">
+    <extent>
+      <charseq START="331" END="370">قتلت القوات
+الإسرائيلية فلسطين على الأقل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="331" END="370">قتلت القوات
+الإسرائيلية فلسطين على الأقل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="331" END="334">قتلت</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E6-10" ROLE="Victim">
+      <extent>
+        <charseq START="355" END="370">فلسطين على الأقل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E4-7" ROLE="Agent">
+      <extent>
+        <charseq START="334" END="334">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E7" ROLE="Victim"/>
+  <event_argument REFID="VAR20001007.1300.1803-E4" ROLE="Agent"/>
+  <event_argument REFID="VAR20001007.1300.1803-E12" ROLE="Place"/>
+  <event_mention ID="VAR20001007.1300.1803-EV3-1">
+    <extent>
+      <charseq START="373" END="436">أصابت أكثر من اثني عشر آخرين بجراح عند
+نقطة على الحدود اللبنانية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="372" END="436">وأصابت أكثر من اثني عشر آخرين بجراح عند
+نقطة على الحدود اللبنانية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="373" END="377">أصابت</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E7-12" ROLE="Victim">
+      <extent>
+        <charseq START="379" END="400">أكثر من اثني عشر آخرين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E4-11" ROLE="Agent">
+      <extent>
+        <charseq START="377" END="377">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E12-16" ROLE="Place">
+      <extent>
+        <charseq START="412" END="436">نقطة على الحدود اللبنانية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E10" ROLE="Entity"/>
+  <event_argument REFID="VAR20001007.1300.1803-E1" ROLE="Entity"/>
+  <event_argument REFID="VAR20001007.1300.1803-E14" ROLE="Entity"/>
+  <event_mention ID="VAR20001007.1300.1803-EV4-1">
+    <extent>
+      <charseq START="438" END="502">تحدث الرئيس كلينتون مع رئيس وزراء إسرائيل
+باراك والزعيم الفلسطيني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="438" END="531">تحدث الرئيس كلينتون مع رئيس وزراء إسرائيل
+باراك والزعيم الفلسطيني عرفات لبحث أزمة الشرق الأوسط</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="438" END="441">تحدث</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E10-55" ROLE="Entity">
+      <extent>
+        <charseq START="438" END="438">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E1-23" ROLE="Entity">
+      <extent>
+        <charseq START="461" END="478">رئيس وزراء إسرائيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E14-26" ROLE="Entity">
+      <extent>
+        <charseq START="487" END="502">الزعيم الفلسطيني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV5" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E21" ROLE="Person"/>
+  <event_argument REFID="VAR20001007.1300.1803-E19" ROLE="Entity"/>
+  <event_argument REFID="VAR20001007.1300.1803-V1" ROLE="Position"/>
+  <event_mention ID="VAR20001007.1300.1803-EV5-1">
+    <extent>
+      <charseq START="585" END="611">ه لتنصيب رئيس البلاد الجديد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="533" END="629">عقد البرلمان
+الفدرالي الجديد في يوغسلافيا أول جلسة له لتنصيب رئيس البلاد الجديد
+فوتوسلاب كونتيتسا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="587" END="592">لتنصيب</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E21-34" ROLE="Person">
+      <extent>
+        <charseq START="594" END="611">رئيس البلاد الجديد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E19-31" ROLE="Entity">
+      <extent>
+        <charseq START="585" END="585">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-V1-1" ROLE="Position">
+      <extent>
+        <charseq START="594" END="611">رئيس البلاد الجديد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E23" ROLE="Victim"/>
+  <event_argument REFID="VAR20001007.1300.1803-E24" ROLE="Place"/>
+  <event_mention ID="VAR20001007.1300.1803-EV6-1">
+    <extent>
+      <charseq START="631" END="682">قتل 30 شخصا على الأقل في إقليم إريان جابا الإندونيسي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="631" END="730">قتل 30 شخصا على الأقل في إقليم إريان جابا الإندونيسي
+فيها تستمر أعمال العنف لليوم الثاني على التوالي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="631" END="633">قتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E23-36" ROLE="Victim">
+      <extent>
+        <charseq START="635" END="651">30 شخصا على الأقل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E24-37" ROLE="Place">
+      <extent>
+        <charseq START="656" END="682">إقليم إريان جابا الإندونيسي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E31" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001007.1300.1803-E34" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001007.1300.1803-E37" ROLE="Place"/>
+  <event_argument REFID="VAR20001007.1300.1803-E36" ROLE="Instrument"/>
+  <event_mention ID="VAR20001007.1300.1803-EV7-1">
+    <extent>
+      <charseq START="81" END="191">مقاتلين لبنانيين أسروا ثلاثة جنود إسرائيليين أثناء أول
+تبادل مكثف للقذف بالمدفعية على الحدود بين لبنان وإسرائيل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="191">قالت إسرائيل إن مقاتلين لبنانيين أسروا ثلاثة جنود إسرائيليين أثناء أول
+تبادل مكثف للقذف بالمدفعية على الحدود بين لبنان وإسرائيل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="147" END="151">للقذف</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E31-56" ROLE="Attacker">
+      <extent>
+        <charseq START="81" END="96">مقاتلين لبنانيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E34-59" ROLE="Attacker">
+      <extent>
+        <charseq START="104" END="124">ثلاثة جنود إسرائيليين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E37-62" ROLE="Place">
+      <extent>
+        <charseq START="167" END="191">الحدود بين لبنان وإسرائيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E36-61" ROLE="Instrument">
+      <extent>
+        <charseq START="153" END="161">بالمدفعية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Unspecified">
+  <event_mention ID="VAR20001007.1300.1803-EV8-1">
+    <extent>
+      <charseq START="304" END="310">الأعمال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="261" END="329">وطالب رئيس
+وزراء إسرائيل لبنان وسوريا بوقف الأعمال العدائية على الفور</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="304" END="310">الأعمال</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001007.1300.1803-T2" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001007.1300.1803-EV9-1">
+    <extent>
+      <charseq START="701" END="718">العنف لليوم الثاني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="631" END="730">قتل 30 شخصا على الأقل في إقليم إريان جابا الإندونيسي
+فيها تستمر أعمال العنف لليوم الثاني على التوالي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="701" END="705">العنف</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="707" END="718">لليوم الثاني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001007.1300.1803-E16" ROLE="Place"/>
+  <event_argument REFID="VAR20001007.1300.1803-T6" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001007.1300.1803-EV10-1">
+    <extent>
+      <charseq START="828" END="868">العنف الأخيرة اليوم في الأراضي الفلسطينية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="733" END="942">سنركز في النصف الثاني
+من هذه الجولة على أحدث التطورات في الموقف بين لبنان وإسرائيل وأيضا
+أحداث العنف الأخيرة اليوم في الأراضي الفلسطينية فيما يستعد رئيس وزراء
+إسرائيل لعقد مؤتمر صحفي بعد أقل من نصف ساعة من الآن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="828" END="832">العنف</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E16-42" ROLE="Place">
+      <extent>
+        <charseq START="851" END="868">الأراضي الفلسطينية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="842" END="846">اليوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001007.1300.1803-EV11" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="VAR20001007.1300.1803-E1" ROLE="Entity"/>
+  <event_argument REFID="VAR20001007.1300.1803-T4" ROLE="Time-After"/>
+  <event_mention ID="VAR20001007.1300.1803-EV11-1">
+    <extent>
+      <charseq START="881" END="934">رئيس وزراء
+إسرائيل لعقد مؤتمر صحفي بعد أقل من نصف ساعة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="733" END="942">سنركز في النصف الثاني
+من هذه الجولة على أحدث التطورات في الموقف بين لبنان وإسرائيل وأيضا
+أحداث العنف الأخيرة اليوم في الأراضي الفلسطينية فيما يستعد رئيس وزراء
+إسرائيل لعقد مؤتمر صحفي بعد أقل من نصف ساعة من الآن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="905" END="909">مؤتمر</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001007.1300.1803-E1-44" ROLE="Entity">
+      <extent>
+        <charseq START="881" END="898">رئيس وزراء
+إسرائيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001007.1300.1803-T4-1" ROLE="Time-After">
+      <extent>
+        <charseq START="920" END="934">أقل من نصف ساعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,556 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001006.1530.0102.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001006.1530.0102">
+<entity ID="NTV20001006.1530.0102-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E1-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="512" END="512">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="512">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="514" END="534">مصادر دبلوماسية عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="518">مصادر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001006.1530.0102-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E2-3" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="530" END="534">عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="534">عربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E2-4" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="549" END="555">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="549" END="555">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E2-33" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="414" END="420">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="420">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="414" END="420">العربية</charseq>
+    </name>
+    <name NAME="عربية">
+      <charseq START="530" END="534">عربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="549" END="555">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E4-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="626" END="637">الرئيس مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="626" END="631">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="633" END="637">مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="633" END="637">مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="283" END="283">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="283">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="380" END="380">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="380">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="191" END="218">السيد الرئيس
+محمد حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="195">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="197" END="202">الرئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="202">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="204" END="218">محمد حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="218">محمد حسني مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="275" END="280">الرئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="280">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="290" END="301">سيادة الرئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="301">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="382" END="398">الرئيس حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="387">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E4-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="389" END="398">حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="398">حسني مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد حسني مبارك">
+      <charseq START="204" END="218">محمد حسني مبارك</charseq>
+    </name>
+    <name NAME="حسني مبارك">
+      <charseq START="389" END="398">حسني مبارك</charseq>
+    </name>
+    <name NAME="مبارك">
+      <charseq START="633" END="637">مبارك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E5-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="681" END="690">ياسر عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="690">ياسر عرفات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E5-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="664" END="679">الرئيس الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="669">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ياسر عرفات">
+      <charseq START="681" END="690">ياسر عرفات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E7" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E7-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="671" END="679">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="671" END="679">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E7-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="757" END="774">الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="774">الأراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطيني">
+      <charseq START="671" END="679">الفلسطيني</charseq>
+    </name>
+    <name NAME="الأراضي الفلسطينية">
+      <charseq START="757" END="774">الأراضي الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E9-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="718" END="732">مادلين أولبرايت</charseq>
+    </extent>
+    <head>
+      <charseq START="718" END="732">مادلين أولبرايت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E9-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="693" END="716">وزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="697">وزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مادلين أولبرايت">
+      <charseq START="718" END="732">مادلين أولبرايت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E11-14" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="708" END="716">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="708" END="716">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكية">
+      <charseq START="708" END="716">الأمريكية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E12-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="699" END="706">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="699" END="706">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="699" END="706">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E13-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="133" END="133">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="133">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E13-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="249" END="249">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="249">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E13-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="103" END="121">لقناة النيل للأخبار</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="121">لقناة النيل للأخبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E13-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="138" END="155">قناة النيل للأخبار</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="155">قناة النيل للأخبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E13-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="257" END="257">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="257">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لقناة النيل للأخبار">
+      <charseq START="103" END="121">لقناة النيل للأخبار</charseq>
+    </name>
+    <name NAME="قناة النيل للأخبار">
+      <charseq START="138" END="155">قناة النيل للأخبار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001006.1530.0102-E17" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001006.1530.0102-E17-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="357" END="368">الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="368">الشرق الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E17-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="350" END="368">بمنطقة الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="355">بمنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E17-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="462" END="468">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="468">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001006.1530.0102-E17-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="494" END="505">الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="505">الشرق الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق الأوسط">
+      <charseq START="357" END="368">الشرق الأوسط</charseq>
+    </name>
+    <name NAME="الشرق الأوسط">
+      <charseq START="494" END="505">الشرق الأوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="NTV20001006.1530.0102-T1">
+  <timex2_mention ID="NTV20001006.1530.0102-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/06/2000 15:31:42.93</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001006.1530.0102-T2">
+  <timex2_mention ID="NTV20001006.1530.0102-T2-1">
+    <extent>
+      <charseq START="88" END="94">الصباحي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001006.1530.0102-T3">
+  <timex2_mention ID="NTV20001006.1530.0102-T3-1">
+    <extent>
+      <charseq START="96" END="101">اليومي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001006.1530.0102-T4">
+  <timex2_mention ID="NTV20001006.1530.0102-T4-1">
+    <extent>
+      <charseq START="157" END="162">الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001006.1530.0102-T5">
+  <timex2_mention ID="NTV20001006.1530.0102-T5-1">
+    <extent>
+      <charseq START="425" END="436">الشهر الجاري</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001006.1530.0102-T6">
+  <timex2_mention ID="NTV20001006.1530.0102-T6-1">
+    <extent>
+      <charseq START="565" END="583">يوم الثالث والعشرين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001006.1530.0102-T7">
+  <timex2_mention ID="NTV20001006.1530.0102-T7-1">
+    <extent>
+      <charseq START="588" END="619">الرابع والعشرين من أكتوبر
+الحالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001006.1530.0102-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001006.1530.0102-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001006.1530.0102-E2" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001006.1530.0102-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="514" END="534">مصادر دبلوماسية عربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001006.1530.0102-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="514" END="534">مصادر دبلوماسية عربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001006.1530.0102-E2-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="530" END="534">عربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001006.1530.0102-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001006.1530.0102-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001006.1530.0102-E12" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001006.1530.0102-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="693" END="716">وزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001006.1530.0102-E9-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="693" END="716">وزيرة الخارجية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001006.1530.0102-E12-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="699" END="706">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001006.1530.0102-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001006.1530.0102-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001006.1530.0102-E7" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001006.1530.0102-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="664" END="679">الرئيس الفلسطيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001006.1530.0102-E5-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="664" END="679">الرئيس الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001006.1530.0102-E7-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="671" END="679">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001006.1530.0102-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001006.1530.0102-E13" ROLE="Entity"/>
+  <event_argument REFID="NTV20001006.1530.0102-E4" ROLE="Entity"/>
+  <event_argument REFID="NTV20001006.1530.0102-T4" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001006.1530.0102-EV1-1">
+    <extent>
+      <charseq START="138" END="218">قناة النيل للأخبار الجمعة حوارا على الهواء مباشرة مع السيد الرئيس
+محمد حسني مبارك</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="133" END="280">تجري قناة النيل للأخبار الجمعة حوارا على الهواء مباشرة مع السيد الرئيس
+محمد حسني مبارك وذلك إلى جانب الحوار الذي كانت قد سجلته في وقت سابق مع
+الرئيس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="164" END="168">حوارا</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001006.1530.0102-E13-23" ROLE="Entity">
+      <extent>
+        <charseq START="138" END="155">قناة النيل للأخبار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001006.1530.0102-E4-24" ROLE="Entity">
+      <extent>
+        <charseq START="191" END="218">السيد الرئيس
+محمد حسني مبارك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001006.1530.0102-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="157" END="162">الجمعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001006.1530.0102-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001006.1530.0102-E13" ROLE="Entity"/>
+  <event_argument REFID="NTV20001006.1530.0102-E4" ROLE="Entity"/>
+  <event_mention ID="NTV20001006.1530.0102-EV2-1">
+    <extent>
+      <charseq START="138" END="239">قناة النيل للأخبار الجمعة حوارا على الهواء مباشرة مع السيد الرئيس
+محمد حسني مبارك وذلك إلى جانب الحوار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="133" END="280">تجري قناة النيل للأخبار الجمعة حوارا على الهواء مباشرة مع السيد الرئيس
+محمد حسني مبارك وذلك إلى جانب الحوار الذي كانت قد سجلته في وقت سابق مع
+الرئيس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="234" END="239">الحوار</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001006.1530.0102-E13-23" ROLE="Entity">
+      <extent>
+        <charseq START="138" END="155">قناة النيل للأخبار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001006.1530.0102-E4-24" ROLE="Entity">
+      <extent>
+        <charseq START="191" END="218">السيد الرئيس
+محمد حسني مبارك</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001006.1530.0102-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001006.1530.0102-E4" ROLE="Entity"/>
+  <event_argument REFID="NTV20001006.1530.0102-E9" ROLE="Entity"/>
+  <event_mention ID="NTV20001006.1530.0102-EV3-1">
+    <extent>
+      <charseq START="626" END="716">الرئيس مبارك قد عقد اجتماعا ثلاثيا مع الرئيس الفلسطيني
+ياسر عرفات ووزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="621" END="774">وكان الرئيس مبارك قد عقد اجتماعا ثلاثيا مع الرئيس الفلسطيني
+ياسر عرفات ووزيرة الخارجية الأمريكية مادلين أولبرايت لبحث تطورات
+الأوضاع في الأراضي الفلسطينية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="646" END="652">اجتماعا</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001006.1530.0102-E4-5" ROLE="Entity">
+      <extent>
+        <charseq START="626" END="637">الرئيس مبارك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001006.1530.0102-E9-13" ROLE="Entity">
+      <extent>
+        <charseq START="693" END="716">وزيرة الخارجية الأمريكية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

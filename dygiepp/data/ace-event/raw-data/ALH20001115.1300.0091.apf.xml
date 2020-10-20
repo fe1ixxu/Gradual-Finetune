@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001115.1300.0091.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001115.1300.0091">
+<entity ID="ALH20001115.1300.0091-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="343" END="355">ناقل
+مبارياته</charseq>
+    </extent>
+    <head>
+      <charseq START="343" END="346">ناقل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E1-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="357" END="382">شركة »اتش بي أو« الأميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="371">شركة »اتش بي أو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة »اتش بي أو">
+      <charseq START="357" END="371">شركة »اتش بي أو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E3-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="374" END="382">الأميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="382">الأميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E3-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="560" END="575">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="560" END="575">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E3-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="193" END="208">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="208">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأميركية">
+      <charseq START="374" END="382">الأميركية</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="560" END="575">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="193" END="208">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="439" END="447">المتحديين</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="447">المتحديين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E4-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="455" END="456">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="456">ان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0091-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E5-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="504" END="512">لاس فيغاس</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="512">لاس فيغاس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لاس فيغاس">
+      <charseq START="504" END="512">لاس فيغاس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E6-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="520" END="529">لوس انجليس</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="529">لوس انجليس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوس انجليس">
+      <charseq START="520" END="529">لوس انجليس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E7-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="596" END="602">نيويورك</charseq>
+    </extent>
+    <head>
+      <charseq START="596" END="602">نيويورك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نيويورك">
+      <charseq START="596" END="602">نيويورك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E8-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="605" END="617">أتلانتيك
+سيتي</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="617">أتلانتيك
+سيتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أتلانتيك سيتي">
+      <charseq START="605" END="617">أتلانتيك
+سيتي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E9-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="620" END="626">ديترويت</charseq>
+    </extent>
+    <head>
+      <charseq START="620" END="626">ديترويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ديترويت">
+      <charseq START="620" END="626">ديترويت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E10-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="629" END="636">كونيكتكت</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="636">كونيكتكت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كونيكتكت">
+      <charseq START="629" END="636">كونيكتكت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E11-28" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="160" END="188">المكسيكي ماركو انطونيو
+باريرا</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="167">المكسيكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المكسيكي">
+      <charseq START="160" END="167">المكسيكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E12-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="72" END="84">لندن  »الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="72" END="75">لندن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لندن">
+      <charseq START="72" END="75">لندن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E13-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="79" END="84">الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="79" END="84">الحياة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحياة">
+      <charseq START="79" END="84">الحياة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E14-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="355" END="355">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="355">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="551" END="555">لحميد</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="555">لحميد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="585" END="585">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="585" END="585">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="649" END="654">البرنس</charseq>
+    </extent>
+    <head>
+      <charseq START="649" END="654">البرنس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="89" END="89">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="89">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="94" END="123">الملاكم البريطاني اليمني الأصل</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="100">الملاكم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="125" END="141">نسيم حميد ٦٢ عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="133">نسيم حميد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="148" END="148">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="148">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="253" END="305">لحميد الذي تنازل عن حزام المنظمة العالمية
+لوزن الريشة</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="257">لحميد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-31" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="259" END="262">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="262">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="264" END="264">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="264">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="332" END="332">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="332">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E14-36" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="341" END="341">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="341">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لحميد">
+      <charseq START="551" END="555">لحميد</charseq>
+    </name>
+    <name NAME="نسيم حميد">
+      <charseq START="125" END="133">نسيم حميد</charseq>
+    </name>
+    <name NAME="لحميد">
+      <charseq START="253" END="257">لحميد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E15-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="102" END="110">البريطاني</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="110">البريطاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البريطاني">
+      <charseq START="102" END="110">البريطاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E16-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="112" END="123">اليمني الأصل</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="117">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمني">
+      <charseq START="112" END="117">اليمني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E18-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="395" END="400">باريرا</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="400">باريرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0091-E18-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="169" END="188">ماركو انطونيو
+باريرا</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="188">ماركو انطونيو
+باريرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باريرا">
+      <charseq START="395" END="400">باريرا</charseq>
+    </name>
+    <name NAME="ماركو انطونيو باريرا">
+      <charseq START="169" END="188">ماركو انطونيو
+باريرا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E20" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E20-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="278" END="305">المنظمة العالمية
+لوزن الريشة</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="305">المنظمة العالمية
+لوزن الريشة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المنظمة العالمية لوزن الريشة">
+      <charseq START="278" END="305">المنظمة العالمية
+لوزن الريشة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0091-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0091-E21-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="326" END="331">منافسي</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="331">منافسي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ALH20001115.1300.0091-T1">
+  <timex2_mention ID="ALH20001115.1300.0091-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0091-T2">
+  <timex2_mention ID="ALH20001115.1300.0091-T2-1">
+    <extent>
+      <charseq START="213" END="230">٣ آذار مارس المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0091-T3">
+  <timex2_mention ID="ALH20001115.1300.0091-T3-1">
+    <extent>
+      <charseq START="418" END="430">أكثر من عامين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001115.1300.0091-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0091-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0091-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0091-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="72" END="84">لندن  »الحياة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E13-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="79" END="84">الحياة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E12-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="72" END="84">لندن  »الحياة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0091-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0091-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0091-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0091-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="94" END="141">الملاكم البريطاني اليمني الأصل
+نسيم حميد ٦٢ عاما</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E14-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="94" END="123">الملاكم البريطاني اليمني الأصل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E15-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="102" END="110">البريطاني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0091-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0091-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0091-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0091-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="160" END="188">المكسيكي ماركو انطونيو
+باريرا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E18-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="169" END="188">ماركو انطونيو
+باريرا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E11-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="160" END="188">المكسيكي ماركو انطونيو
+باريرا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0091-R4" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0091-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0091-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0091-R4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="326" END="332">منافسيه</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E21-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="326" END="331">منافسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E14-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="332" END="332">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0091-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0091-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0091-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0091-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="357" END="382">شركة »اتش بي أو« الأميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E1-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="357" END="382">شركة »اتش بي أو« الأميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E3-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="374" END="382">الأميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0091-R6" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0091-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0091-E20" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0091-R6-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="253" END="305">لحميد الذي تنازل عن حزام المنظمة العالمية
+لوزن الريشة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E14-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="264" END="264">ت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0091-E20-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="278" END="305">المنظمة العالمية
+لوزن الريشة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001115.1300.0091-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001115.1300.0091-E3" ROLE="Place"/>
+  <event_argument REFID="ALH20001115.1300.0091-E14" ROLE="Entity"/>
+  <event_argument REFID="ALH20001115.1300.0091-E11" ROLE="Entity"/>
+  <event_argument REFID="ALH20001115.1300.0091-T2" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001115.1300.0091-EV1-1">
+    <extent>
+      <charseq START="144" END="230">لقاءه المقبل ضد المكسيكي ماركو انطونيو
+باريرا في الولايات المتحدة في ٣ آذار مارس المقبل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="72" END="230">لندن  »الحياة«  سيلعب الملاكم البريطاني اليمني الأصل
+نسيم حميد ٦٢ عاماً لقاءه المقبل ضد المكسيكي ماركو انطونيو
+باريرا في الولايات المتحدة في ٣ آذار مارس المقبل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="144" END="148">لقاءه</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001115.1300.0091-E3-29" ROLE="Place">
+      <extent>
+        <charseq START="193" END="208">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001115.1300.0091-E14-27" ROLE="Entity">
+      <extent>
+        <charseq START="148" END="148">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001115.1300.0091-E11-28" ROLE="Entity">
+      <extent>
+        <charseq START="160" END="188">المكسيكي ماركو انطونيو
+باريرا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001115.1300.0091-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="213" END="230">٣ آذار مارس المقبل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001115.1300.0091-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Unspecified">
+  <event_argument REFID="ALH20001115.1300.0091-E4" ROLE="Entity"/>
+  <event_mention ID="ALH20001115.1300.0091-EV2-1">
+    <extent>
+      <charseq START="385" END="447">اللقاء ضد باريرا طال انتظاره منذ أكثر من عامين كون أن
+المتحديين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="384" END="479">واللقاء ضد باريرا طال انتظاره منذ أكثر من عامين كون أن
+المتحديين يُعتبران من الأفضل في هذا الوزن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="385" END="390">اللقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001115.1300.0091-E4-7" ROLE="Entity">
+      <extent>
+        <charseq START="439" END="447">المتحديين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

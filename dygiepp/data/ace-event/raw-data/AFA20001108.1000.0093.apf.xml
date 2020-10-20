@@ -1,0 +1,1116 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001108.1000.0093.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001108.1000.0093">
+<entity ID="AFA20001108.1000.0093-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E1-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="356" END="359">علاء</charseq>
+    </extent>
+    <head>
+      <charseq START="356" END="359">علاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E1-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="174" END="183">احدهم معاق</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="176">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E1-53" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="344" END="368">بكره المعاق علاء (14
+عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="346">بكر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علاء">
+      <charseq START="356" END="359">علاء</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="372" END="408">ابنتيه غنوة (13 عاما) وايناس (8 اعوام</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="376">ابنتي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E3-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="395" END="399">ايناس</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="399">ايناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E3-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="652" END="656">ايناس</charseq>
+    </extent>
+    <head>
+      <charseq START="652" END="656">ايناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايناس">
+      <charseq START="395" END="399">ايناس</charseq>
+    </name>
+    <name NAME="ايناس">
+      <charseq START="652" END="656">ايناس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E4-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="379" END="382">غنوة</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="382">غنوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E4-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="646" END="649">غنوة</charseq>
+    </extent>
+    <head>
+      <charseq START="646" END="649">غنوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غنوة">
+      <charseq START="379" END="382">غنوة</charseq>
+    </name>
+    <name NAME="غنوة">
+      <charseq START="646" END="649">غنوة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E5" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="414" END="419">سيارته</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="418">سيارت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E5-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="506" END="512">بسيارته</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="511">بسيارت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E6" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E6-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="431" END="454">حرج
+العبادية (شرق بيروت)</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="442">حرج
+العبادية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حرج العبادية">
+      <charseq START="431" END="442">حرج
+العبادية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E7-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="445" END="453">شرق بيروت</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="453">بيروت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E8" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E8-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="518" END="543">طريق رويسة البلوط المجاورة</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="521">طريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E8-16" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="545" END="547">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="547">حيث</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E9" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E9-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="554" END="558">النار</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="558">النار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E10-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="595" END="595">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="595">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E10-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="597" END="610">عائلة العنداري</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="601">عائلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E10-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="622" END="622">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="622">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E11-30" TYPE="NOM" LDCTYPE="NOM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="661" END="697">ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="664">ميتم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E12-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="710" END="714">زوجته</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="713">زوجت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E13-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="139" END="142">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="142">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="139" END="142">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E14-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="127" END="142">بيروت 11-8 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="131">بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيروت">
+      <charseq START="127" END="131">بيروت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E15-40" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="523" END="543">رويسة البلوط المجاورة</charseq>
+    </extent>
+    <head>
+      <charseq START="523" END="534">رويسة البلوط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويسة البلوط">
+      <charseq START="523" END="534">رويسة البلوط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E16" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E16-23" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="682" END="685">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="682" END="685">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E16-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="696" END="697">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="697">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E16-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="666" END="697">للطائفة الدرزية التي ينتمي اليها</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="680">للطائفة الدرزية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للطائفة الدرزية">
+      <charseq START="666" END="680">للطائفة الدرزية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E17-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="461" END="462">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="462">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E17-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="158" END="171">اولاده الثلاثة</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="162">اولاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E17-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="177" END="178">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="177" END="178">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E18-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="377" END="377">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="377">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="419" END="419">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="419" END="419">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="501" END="504">عاطف</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="504">عاطف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="512" END="512">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="512">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="335" END="336">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="336">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="603" END="610">العنداري</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="610">العنداري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="631" END="697">عاطف، الذي وضع غنوة وايناس
+في ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="634">عاطف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-27" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="637" END="640">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="640">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="687" END="687">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="687" END="687">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="714" END="714">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="714">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="786" END="825">عاطف الذي درج
+على استخدام الحبوب المهدئة</charseq>
+    </extent>
+    <head>
+      <charseq START="786" END="789">عاطف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-35" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="791" END="794">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="791" END="794">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="567" END="567">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="567">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="151" END="156">لبناني</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="156">لبناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="163" END="163">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="163">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="226" END="226">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="226">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="309" END="330">عاطف العنداري (34 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="321">عاطف العنداري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E18-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="347" END="347">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="347">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عاطف">
+      <charseq START="501" END="504">عاطف</charseq>
+    </name>
+    <name NAME="العنداري">
+      <charseq START="603" END="610">العنداري</charseq>
+    </name>
+    <name NAME="عاطف">
+      <charseq START="786" END="789">عاطف</charseq>
+    </name>
+    <name NAME="عاطف العنداري">
+      <charseq START="309" END="321">عاطف العنداري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001108.1000.0093-E20" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E20-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="464" END="489">ببندقية صيد من عيار 12 ملم</charseq>
+    </extent>
+    <head>
+      <charseq START="464" END="470">ببندقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E20-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="572" END="585">البندقية ذاتها</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="579">البندقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E20-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="584" END="585">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="584" END="585">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E20-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="185" END="195">ببندقية صيد</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="191">ببندقية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E21-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="255" END="255">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="255">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001108.1000.0093-E21-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="257" END="271">الصحف
+اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="261">الصحف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001108.1000.0093-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001108.1000.0093-E22-51" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="263" END="271">اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="271">اللبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اللبنانية">
+      <charseq START="263" END="271">اللبنانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001108.1000.0093-T1">
+  <timex2_mention ID="AFA20001108.1000.0093-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-08 10:00:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001108.1000.0093-T2">
+  <timex2_mention ID="AFA20001108.1000.0093-T2-1">
+    <extent>
+      <charseq START="133" END="136">11-8</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001108.1000.0093-T3">
+  <timex2_mention ID="AFA20001108.1000.0093-T3-1">
+    <extent>
+      <charseq START="281" END="294">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001108.1000.0093-T4">
+  <timex2_mention ID="AFA20001108.1000.0093-T4-1">
+    <extent>
+      <charseq START="421" END="425">الاحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001108.1000.0093-R1" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E18" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E17" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001108.1000.0093-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="158" END="171">اولاده الثلاثة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="163" END="163">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E17-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="158" END="171">اولاده الثلاثة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E22" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="257" END="271">الصحف
+اللبنانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E21-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="257" END="271">الصحف
+اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E22-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="263" END="271">اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R3" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="597" END="610">عائلة العنداري</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E10-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="597" END="610">عائلة العنداري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="603" END="610">العنداري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="506" END="512">بسيارته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="512" END="512">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E5-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="506" END="512">بسيارته</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001108.1000.0093-R4-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="414" END="419">سيارته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="419" END="419">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E5-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="414" END="419">سيارته</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R6" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R6-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="372" END="408">ابنتيه غنوة (13 عاما) وايناس (8 اعوام</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="377" END="377">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E2-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="372" END="408">ابنتيه غنوة (13 عاما) وايناس (8 اعوام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="518" END="543">طريق رويسة البلوط المجاورة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E8-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="518" END="543">طريق رويسة البلوط المجاورة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E15-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="523" END="543">رويسة البلوط المجاورة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R8" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="344" END="368">بكره المعاق علاء (14
+عاما</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E1-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="344" END="368">بكره المعاق علاء (14
+عاما</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="347" END="347">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R9" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="710" END="715">زوجته،</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E12-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="710" END="714">زوجته</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="714" END="714">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R10-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="431" END="454">حرج
+العبادية (شرق بيروت)</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E6-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="431" END="454">حرج
+العبادية (شرق بيروت)</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E7-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="445" END="453">شرق بيروت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R11-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="127" END="142">بيروت 11-8 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E13-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="139" END="142">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E14-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="127" END="142">بيروت 11-8 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="661" END="697">ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E16-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="666" END="697">للطائفة الدرزية التي ينتمي اليها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E11-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="661" END="697">ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R13" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E16" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R13-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="666" END="697">للطائفة الدرزية التي ينتمي اليها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E18-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="687" END="687">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E16-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="696" END="697">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001108.1000.0093-R14" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001108.1000.0093-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001108.1000.0093-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001108.1000.0093-R14-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="174" END="183">احدهم معاق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E1-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="174" END="183">احدهم معاق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001108.1000.0093-E17-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="177" END="178">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001108.1000.0093-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E18" ROLE="Agent"/>
+  <event_argument REFID="AFA20001108.1000.0093-E20" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001108.1000.0093-E17" ROLE="Victim"/>
+  <event_mention ID="AFA20001108.1000.0093-EV1-1">
+    <extent>
+      <charseq START="147" END="195">قتل لبناني اولاده الثلاثة واحدهم معاق ببندقية صيد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="147" END="294">قتل لبناني اولاده الثلاثة واحدهم معاق ببندقية صيد
+ثم قضى منتحرا بسبب تردي اوضاعه الاقتصادية والنفسية كما ذكرت الصحف
+اللبنانية الصادرة اليوم الاربعاء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="147" END="149">قتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E18-42" ROLE="Agent">
+      <extent>
+        <charseq START="151" END="156">لبناني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E20-47" ROLE="Instrument">
+      <extent>
+        <charseq START="185" END="195">ببندقية صيد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E17-43" ROLE="Victim">
+      <extent>
+        <charseq START="158" END="171">اولاده الثلاثة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001108.1000.0093-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E5" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001108.1000.0093-E1" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001108.1000.0093-E2" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001108.1000.0093-E18" ROLE="Agent"/>
+  <event_argument REFID="AFA20001108.1000.0093-E6" ROLE="Destination"/>
+  <event_mention ID="AFA20001108.1000.0093-EV2-1">
+    <extent>
+      <charseq START="303" END="454">اصطحب عاطف العنداري (34 عاما)، وهو مطلق، بكره المعاق علاء (14
+عاما) وابنتيه غنوة (13 عاما) وايناس (8 اعوام) في سيارته الاحد الى حرج
+العبادية (شرق بيروت)</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="299" END="489">فقد اصطحب عاطف العنداري (34 عاما)، وهو مطلق، بكره المعاق علاء (14
+عاما) وابنتيه غنوة (13 عاما) وايناس (8 اعوام) في سيارته الاحد الى حرج
+العبادية (شرق بيروت) وارداهم ببندقية صيد من عيار 12 ملم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="303" END="307">اصطحب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E5-7" ROLE="Vehicle">
+      <extent>
+        <charseq START="414" END="419">سيارته</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E1-53" ROLE="Artifact">
+      <extent>
+        <charseq START="344" END="368">بكره المعاق علاء (14
+عاما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E2-2" ROLE="Artifact">
+      <extent>
+        <charseq START="372" END="408">ابنتيه غنوة (13 عاما) وايناس (8 اعوام</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E18-52" ROLE="Agent">
+      <extent>
+        <charseq START="309" END="330">عاطف العنداري (34 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E6-8" ROLE="Destination">
+      <extent>
+        <charseq START="431" END="454">حرج
+العبادية (شرق بيروت)</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001108.1000.0093-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E20" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001108.1000.0093-E18" ROLE="Victim"/>
+  <event_mention ID="AFA20001108.1000.0093-EV3-1">
+    <extent>
+      <charseq START="549" END="585">اطلق النار على
+نفسه من البندقية ذاتها</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="494" END="585">وانتقل عاطف بسيارته الى طريق رويسة البلوط المجاورة حيث اطلق النار على
+نفسه من البندقية ذاتها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="549" END="552">اطلق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E20-18" ROLE="Instrument">
+      <extent>
+        <charseq START="572" END="585">البندقية ذاتها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E18-39" ROLE="Victim">
+      <extent>
+        <charseq START="567" END="567">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001108.1000.0093-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E20" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001108.1000.0093-E17" ROLE="Victim"/>
+  <event_argument REFID="AFA20001108.1000.0093-E6" ROLE="Place"/>
+  <event_mention ID="AFA20001108.1000.0093-EV4-1">
+    <extent>
+      <charseq START="431" END="489">حرج
+العبادية (شرق بيروت) وارداهم ببندقية صيد من عيار 12 ملم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="299" END="489">فقد اصطحب عاطف العنداري (34 عاما)، وهو مطلق، بكره المعاق علاء (14
+عاما) وابنتيه غنوة (13 عاما) وايناس (8 اعوام) في سيارته الاحد الى حرج
+العبادية (شرق بيروت) وارداهم ببندقية صيد من عيار 12 ملم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="457" END="462">ارداهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E20-11" ROLE="Instrument">
+      <extent>
+        <charseq START="464" END="489">ببندقية صيد من عيار 12 ملم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E17-10" ROLE="Victim">
+      <extent>
+        <charseq START="461" END="462">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E6-8" ROLE="Place">
+      <extent>
+        <charseq START="431" END="454">حرج
+العبادية (شرق بيروت)</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001108.1000.0093-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E5" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001108.1000.0093-E18" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001108.1000.0093-E8" ROLE="Destination"/>
+  <event_mention ID="AFA20001108.1000.0093-EV5-1">
+    <extent>
+      <charseq START="495" END="543">انتقل عاطف بسيارته الى طريق رويسة البلوط المجاورة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="494" END="585">وانتقل عاطف بسيارته الى طريق رويسة البلوط المجاورة حيث اطلق النار على
+نفسه من البندقية ذاتها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="495" END="499">انتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E5-14" ROLE="Vehicle">
+      <extent>
+        <charseq START="506" END="512">بسيارته</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E18-12" ROLE="Artifact">
+      <extent>
+        <charseq START="501" END="504">عاطف</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E8-15" ROLE="Destination">
+      <extent>
+        <charseq START="518" END="543">طريق رويسة البلوط المجاورة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001108.1000.0093-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E4" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001108.1000.0093-E3" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001108.1000.0093-E18" ROLE="Agent"/>
+  <event_argument REFID="AFA20001108.1000.0093-E11" ROLE="Destination"/>
+  <event_mention ID="AFA20001108.1000.0093-EV6-1">
+    <extent>
+      <charseq START="631" END="697">عاطف، الذي وضع غنوة وايناس
+في ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="590" END="771">واصدرت عائلة العنداري بيانا اوضحت فيه ان عاطف، الذي وضع غنوة وايناس
+في ميتم للطائفة الدرزية التي ينتمي اليها بعد ان طلق زوجته، قام بما قام
+به "بدافع واقع انساني واقتصادي واجتماعي مر"</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="642" END="644">وضع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E4-28" ROLE="Artifact">
+      <extent>
+        <charseq START="646" END="649">غنوة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E3-29" ROLE="Artifact">
+      <extent>
+        <charseq START="652" END="656">ايناس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E18-26" ROLE="Agent">
+      <extent>
+        <charseq START="631" END="697">عاطف، الذي وضع غنوة وايناس
+في ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E11-30" ROLE="Destination">
+      <extent>
+        <charseq START="661" END="697">ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001108.1000.0093-EV7" TYPE="Life" SUBTYPE="Divorce" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E18" ROLE="Person"/>
+  <event_argument REFID="AFA20001108.1000.0093-E12" ROLE="Person"/>
+  <event_mention ID="AFA20001108.1000.0093-EV7-1">
+    <extent>
+      <charseq START="631" END="714">عاطف، الذي وضع غنوة وايناس
+في ميتم للطائفة الدرزية التي ينتمي اليها بعد ان طلق زوجته</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="590" END="771">واصدرت عائلة العنداري بيانا اوضحت فيه ان عاطف، الذي وضع غنوة وايناس
+في ميتم للطائفة الدرزية التي ينتمي اليها بعد ان طلق زوجته، قام بما قام
+به "بدافع واقع انساني واقتصادي واجتماعي مر"</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="706" END="708">طلق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E18-26" ROLE="Person">
+      <extent>
+        <charseq START="631" END="697">عاطف، الذي وضع غنوة وايناس
+في ميتم للطائفة الدرزية التي ينتمي اليها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E12-33" ROLE="Person">
+      <extent>
+        <charseq START="710" END="714">زوجته</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001108.1000.0093-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001108.1000.0093-E18" ROLE="Victim"/>
+  <event_mention ID="AFA20001108.1000.0093-EV8-1">
+    <extent>
+      <charseq START="151" END="209">لبناني اولاده الثلاثة واحدهم معاق ببندقية صيد
+ثم قضى منتحرا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="147" END="294">قتل لبناني اولاده الثلاثة واحدهم معاق ببندقية صيد
+ثم قضى منتحرا بسبب تردي اوضاعه الاقتصادية والنفسية كما ذكرت الصحف
+اللبنانية الصادرة اليوم الاربعاء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="204" END="209">منتحرا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001108.1000.0093-E18-42" ROLE="Victim">
+      <extent>
+        <charseq START="151" END="156">لبناني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

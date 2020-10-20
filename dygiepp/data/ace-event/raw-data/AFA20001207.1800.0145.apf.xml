@@ -1,0 +1,1702 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001207.1800.0145.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001207.1800.0145">
+<entity ID="AFA20001207.1800.0145-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E1-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="500" END="504">كابول</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="504">كابول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كابول">
+      <charseq START="500" END="504">كابول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E2" TYPE="LOC" SUBTYPE="Region-International" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1800.0145-E2-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="557" END="562">الخارج</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="562">الخارج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E2-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="686" END="691">الخارج</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="691">الخارج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E2-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1691" END="1696">الخارج</charseq>
+    </extent>
+    <head>
+      <charseq START="1691" END="1696">الخارج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E3-11" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="588" END="602">الاميركي الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="602">الاميركي الروسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركي الروسي">
+      <charseq START="588" END="602">الاميركي الروسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E4" TYPE="WEA" SUBTYPE="Underspecified" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1800.0145-E4-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="627" END="633">الاسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="633">الاسلحة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E4-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2045" END="2051">الاسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="2045" END="2051">الاسلحة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E5-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="662" END="691">مكاتب ممثليات طالبان في الخارج</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="666">مكاتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E6-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="668" END="681">ممثليات طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="674">ممثليات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E7-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="477" END="513">حركة طالبان الحاكمة في كابول منذ 1996</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="487">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="516" END="516">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="516">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="543" END="544">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="543" END="544">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-16" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="676" END="681">طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="676" END="681">طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="724" END="724">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="724" END="724">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="729" END="739">حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="729" END="739">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="770" END="787">الميليشيا الاصولية</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="778">الميليشيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="829" END="830">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="830">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1005" END="1015">حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="1005" END="1015">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="999" END="999">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="999" END="999">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1491" END="1501">حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="1491" END="1501">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1655" END="1665">حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="1655" END="1665">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-50" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1776" END="1786">حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="1776" END="1786">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-51" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1789" END="1789">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1789" END="1789">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-81" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1076" END="1076">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1076" END="1076">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-83" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1052" END="1052">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1052" END="1052">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-87" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1480" END="1480">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1480" END="1480">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-94" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2140" END="2150">حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="2140" END="2150">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-99" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="248" END="258">حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="258">حركة طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E7-100" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="266" END="267">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="267">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حركة طالبان">
+      <charseq START="477" END="487">حركة طالبان</charseq>
+    </name>
+    <name NAME="طالبان">
+      <charseq START="676" END="681">طالبان</charseq>
+    </name>
+    <name NAME="حركة طالبان">
+      <charseq START="729" END="739">حركة طالبان</charseq>
+    </name>
+    <name NAME="حركة طالبان">
+      <charseq START="1005" END="1015">حركة طالبان</charseq>
+    </name>
+    <name NAME="حركة طالبان">
+      <charseq START="1491" END="1501">حركة طالبان</charseq>
+    </name>
+    <name NAME="حركة طالبان">
+      <charseq START="1655" END="1665">حركة طالبان</charseq>
+    </name>
+    <name NAME="حركة طالبان">
+      <charseq START="1776" END="1786">حركة طالبان</charseq>
+    </name>
+    <name NAME="حركة طالبان">
+      <charseq START="2140" END="2150">حركة طالبان</charseq>
+    </name>
+    <name NAME="حركة طالبان">
+      <charseq START="248" END="258">حركة طالبان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E8-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="796" END="830">مخيمات تدريب الارهابيين على اراضيها</charseq>
+    </extent>
+    <head>
+      <charseq START="796" END="801">مخيمات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E9" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1800.0145-E9-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="809" END="818">الارهابيين</charseq>
+    </extent>
+    <head>
+      <charseq START="809" END="818">الارهابيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E10" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001207.1800.0145-E10-25" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="861" END="870">دبلوماسيون</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="870">دبلوماسيون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E11-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="372" END="372">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="372">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E11-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="354" END="365">سيرغي لافروف</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="365">سيرغي لافروف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E11-107" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="340" END="365">السفير الروسي سيرغي لافروف</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="345">السفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E11-109" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="367" END="370">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="370">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سيرغي لافروف">
+      <charseq START="354" END="365">سيرغي لافروف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E12" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E12-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1188" END="1202">افريقيا الشرقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1188" END="1202">افريقيا الشرقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="افريقيا الشرقية">
+      <charseq START="1188" END="1202">افريقيا الشرقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E13" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E13-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1314" END="1330">المدمرة الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1314" END="1320">المدمرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E13-40" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1332" END="1334">كول</charseq>
+    </extent>
+    <head>
+      <charseq START="1332" END="1334">كول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كول">
+      <charseq START="1332" END="1334">كول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E14-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="429" END="444">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="444">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E14-30" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1112" END="1127">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1127">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E14-31" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1107" END="1107">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1107" END="1107">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E14-35" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1182" END="1183">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1182" END="1183">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E14-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1322" END="1330">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1322" END="1330">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E14-96" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="156" END="171">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="171">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E14-97" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="154" END="154">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="154">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="429" END="444">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="1112" END="1127">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="1322" END="1330">الاميركية</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="156" END="171">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E16" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E16-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1339" END="1356">ميناء عدن في اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="1339" END="1347">ميناء عدن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميناء عدن">
+      <charseq START="1339" END="1347">ميناء عدن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E17-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1352" END="1356">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="1352" END="1356">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمن">
+      <charseq START="1352" END="1356">اليمن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E18" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E18-44" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1447" END="1450">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1447" END="1450">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E18-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1452" END="1452">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1452" END="1452">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E18-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1460" END="1460">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1460" END="1460">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E18-90" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1435" END="1501">كل الطائرات التي
+تقلع او تهبط على الجزء الذي تسيطر عليه حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="1435" END="1436">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E19-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1642" END="1665">المسؤولين في حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="1642" END="1650">المسؤولين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E20-52" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1885" END="1893">افغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="1885" END="1893">افغانستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-53" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1974" END="1982">افغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="1974" END="1982">افغانستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-54" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2008" END="2008">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2008" END="2008">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-55" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1972" END="1972">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1972" END="1972">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-56" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2026" END="2026">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="2026" END="2026">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-57" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="2251" END="2264">الشعب الافغاني</charseq>
+    </extent>
+    <head>
+      <charseq START="2251" END="2255">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-58" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2257" END="2264">الافغاني</charseq>
+    </extent>
+    <head>
+      <charseq START="2257" END="2264">الافغاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-62" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1908" END="1963">المنتج الاول والرئيسي لمادة الافيون
+في العالم مع 4600 طن</charseq>
+    </extent>
+    <head>
+      <charseq START="1908" END="1913">المنتج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-72" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1883" END="1883">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1883" END="1883">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E20-85" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1028" END="1042">اراضي افغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="1034" END="1042">افغانستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="افغانستان">
+      <charseq START="1885" END="1893">افغانستان</charseq>
+    </name>
+    <name NAME="افغانستان">
+      <charseq START="1974" END="1982">افغانستان</charseq>
+    </name>
+    <name NAME="الافغاني">
+      <charseq START="2257" END="2264">الافغاني</charseq>
+    </name>
+    <name NAME="افغانستان">
+      <charseq START="1034" END="1042">افغانستان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E22-61" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2135" END="2161">ممثل حركة طالبان في نيويورك</charseq>
+    </extent>
+    <head>
+      <charseq START="2135" END="2138">ممثل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E22-64" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2163" END="2178">عبد الحكيم مجاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="2163" END="2178">عبد الحكيم مجاهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد الحكيم مجاهد">
+      <charseq START="2163" END="2178">عبد الحكيم مجاهد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E24" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E24-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1534" END="1568">طائرات شركة الطيران الوطنية "اريانا</charseq>
+    </extent>
+    <head>
+      <charseq START="1534" END="1539">طائرات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E24-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1521" END="1521">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1521" END="1521">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E25-67" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1541" END="1568">شركة الطيران الوطنية "اريانا</charseq>
+    </extent>
+    <head>
+      <charseq START="1541" END="1560">شركة الطيران الوطنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E25-84" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1563" END="1568">اريانا</charseq>
+    </extent>
+    <head>
+      <charseq START="1563" END="1568">اريانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة الطيران الوطنية">
+      <charseq START="1541" END="1560">شركة الطيران الوطنية</charseq>
+    </name>
+    <name NAME="اريانا">
+      <charseq START="1563" END="1568">اريانا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E26-69" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1619" END="1621">مكة</charseq>
+    </extent>
+    <head>
+      <charseq START="1619" END="1621">مكة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مكة">
+      <charseq START="1619" END="1621">مكة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E27" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1800.0145-E27-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1681" END="1684">وزير</charseq>
+    </extent>
+    <head>
+      <charseq START="1681" END="1684">وزير</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E29" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E29-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1947" END="1952">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="1947" END="1952">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E30-75" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2064" END="2071">طرف واحد</charseq>
+    </extent>
+    <head>
+      <charseq START="2064" END="2066">طرف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E31" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E31-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2081" END="2096">المعارضة المسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="2081" END="2088">المعارضة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E31-77" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2115" END="2116">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2115" END="2116">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E31-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1054" END="1069">المعارضة
+المسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="1054" END="1061">المعارضة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E31-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1077" END="1078">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1077" END="1078">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E32" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E32-105" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="824" END="828">اراضي</charseq>
+    </extent>
+    <head>
+      <charseq START="824" END="828">اراضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E33" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001207.1800.0145-E33-78" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1252" END="1262">الاف الجرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="1252" END="1255">الاف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E34" TYPE="LOC" SUBTYPE="Region-General" CLASS="USP">
+  <entity_mention ID="AFA20001207.1800.0145-E34-82" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1084" END="1101">اقصى الشمال الشرقي</charseq>
+    </extent>
+    <head>
+      <charseq START="1089" END="1101">الشمال الشرقي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E35" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E35-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1489" END="1489">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1489" END="1489">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E35-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1469" END="1501">الجزء الذي تسيطر عليه حركة طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="1469" END="1473">الجزء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E35-92" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1475" END="1478">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="1475" END="1478">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E35-106" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1021" END="1042">90% من اراضي افغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="1021" END="1023">90%</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E36-86" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1237" END="1244">220 شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="1241" END="1244">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E37-63" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2155" END="2161">نيويورك</charseq>
+    </extent>
+    <head>
+      <charseq START="2155" END="2161">نيويورك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E37-65" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="112" END="118">نيويورك</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="118">نيويورك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نيويورك">
+      <charseq START="2155" END="2161">نيويورك</charseq>
+    </name>
+    <name NAME="نيويورك">
+      <charseq START="112" END="118">نيويورك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E38-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1176" END="1202">سفاراتها في افريقيا الشرقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1176" END="1181">سفارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E38-89" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1170" END="1170">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1170" END="1170">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سفارات">
+      <charseq START="1176" END="1181">سفارات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E39" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E39-93" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="121" END="133">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="133">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الامم المتحدة">
+      <charseq START="121" END="133">الامم المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E40" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E40-95" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="142" END="145">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="145">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="142" END="145">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E42" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E42-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="377" END="386">مجلس الامن</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="386">مجلس الامن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E42-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="875" END="884">مجلس الامن</charseq>
+    </extent>
+    <head>
+      <charseq START="875" END="884">مجلس الامن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E42-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="887" END="887">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="887">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E42-59" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2188" END="2197">مجلس الامن</charseq>
+    </extent>
+    <head>
+      <charseq START="2188" END="2197">مجلس الامن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E42-98" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="190" END="206">مجلس الامن الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="206">مجلس الامن الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلس الامن">
+      <charseq START="377" END="386">مجلس الامن</charseq>
+    </name>
+    <name NAME="مجلس الامن">
+      <charseq START="875" END="884">مجلس الامن</charseq>
+    </name>
+    <name NAME="مجلس الامن">
+      <charseq START="2188" END="2197">مجلس الامن</charseq>
+    </name>
+    <name NAME="مجلس الامن الدولي">
+      <charseq START="190" END="206">مجلس الامن الدولي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E44-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="647" END="653">بن لادن</charseq>
+    </extent>
+    <head>
+      <charseq START="647" END="653">بن لادن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E44-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="748" END="760">اسامة بن لادن</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="760">اسامة بن لادن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E44-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1129" END="1135">بن لادن</charseq>
+    </extent>
+    <head>
+      <charseq START="1129" END="1135">بن لادن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E44-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1285" END="1291">بن لادن</charseq>
+    </extent>
+    <head>
+      <charseq START="1285" END="1291">بن لادن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E44-101" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="279" END="308">الارهابي المحتمل اسامة بن لادن</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="286">الارهابي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E44-102" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="296" END="308">اسامة بن لادن</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="308">اسامة بن لادن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بن لادن">
+      <charseq START="647" END="653">بن لادن</charseq>
+    </name>
+    <name NAME="اسامة بن لادن">
+      <charseq START="748" END="760">اسامة بن لادن</charseq>
+    </name>
+    <name NAME="بن لادن">
+      <charseq START="1129" END="1135">بن لادن</charseq>
+    </name>
+    <name NAME="بن لادن">
+      <charseq START="1285" END="1291">بن لادن</charseq>
+    </name>
+    <name NAME="اسامة بن لادن">
+      <charseq START="296" END="308">اسامة بن لادن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0145-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E46-103" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="320" END="329">دبلوماسيون</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="329">دبلوماسيون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0145-E48" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0145-E48-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="414" END="418">روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="418">روسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E48-4" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="420" END="420">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="420">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0145-E48-108" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="347" END="352">الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="352">الروسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="روسيا">
+      <charseq START="414" END="418">روسيا</charseq>
+    </name>
+    <name NAME="الروسي">
+      <charseq START="347" END="352">الروسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001207.1800.0145-V1" TYPE="Sentence">
+  <value_mention ID="AFA20001207.1800.0145-V1-1">
+    <extent>
+      <charseq START="237" END="242">عقوبات</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001207.1800.0145-V2" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001207.1800.0145-V2-1">
+    <extent>
+      <charseq START="1021" END="1023">90%</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001207.1800.0145-T1">
+  <timex2_mention ID="AFA20001207.1800.0145-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-07 21:33:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T2">
+  <timex2_mention ID="AFA20001207.1800.0145-T2-1">
+    <extent>
+      <charseq START="136" END="139">12-7</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T3">
+  <timex2_mention ID="AFA20001207.1800.0145-T3-1">
+    <extent>
+      <charseq START="173" END="184">اليوم
+الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T4">
+  <timex2_mention ID="AFA20001207.1800.0145-T4-1">
+    <extent>
+      <charseq START="391" END="408">كانون
+الاول/ديسمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T5">
+  <timex2_mention ID="AFA20001207.1800.0145-T5-1">
+    <extent>
+      <charseq START="564" END="570">منذ سنة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T6">
+  <timex2_mention ID="AFA20001207.1800.0145-T6-1">
+    <extent>
+      <charseq START="840" END="850">ثلاثين يوما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T7">
+  <timex2_mention ID="AFA20001207.1800.0145-T7-1">
+    <extent>
+      <charseq START="893" END="906">الاسبوع المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T8">
+  <timex2_mention ID="AFA20001207.1800.0145-T8-1">
+    <extent>
+      <charseq START="962" END="964">شهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T9">
+  <timex2_mention ID="AFA20001207.1800.0145-T9-1">
+    <extent>
+      <charseq START="973" END="979">12 شهرا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T10">
+  <timex2_mention ID="AFA20001207.1800.0145-T10-1">
+    <extent>
+      <charseq START="1207" END="1219">آب/اغسطس 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T11">
+  <timex2_mention ID="AFA20001207.1800.0145-T11-1">
+    <extent>
+      <charseq START="1361" END="1378">تشرين الاول/اكتوبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T12">
+  <timex2_mention ID="AFA20001207.1800.0145-T12-1">
+    <extent>
+      <charseq START="1895" END="1906">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0145-T13">
+  <timex2_mention ID="AFA20001207.1800.0145-T13-1">
+    <extent>
+      <charseq START="506" END="513">منذ 1996</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001207.1800.0145-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="796" END="830">مخيمات تدريب الارهابيين على اراضيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E9-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="809" END="818">الارهابيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E8-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="796" END="830">مخيمات تدريب الارهابيين على اراضيها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E20" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E35" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001207.1800.0145-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1021" END="1042">90% من اراضي افغانستان</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E20-85" ROLE="Arg-2">
+      <extent>
+        <charseq START="1028" END="1042">اراضي افغانستان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E35-106" ROLE="Arg-1">
+      <extent>
+        <charseq START="1021" END="1042">90% من اراضي افغانستان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2135" END="2161">ممثل حركة طالبان في نيويورك</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E22-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="2135" END="2161">ممثل حركة طالبان في نيويورك</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E7-94" ROLE="Arg-2">
+      <extent>
+        <charseq START="2140" END="2150">حركة طالبان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R4" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1642" END="1665">المسؤولين في حركة طالبان</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E19-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="1642" END="1665">المسؤولين في حركة طالبان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E7-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="1655" END="1665">حركة طالبان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E24" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1534" END="1568">طائرات شركة الطيران الوطنية "اريانا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E25-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="1541" END="1568">شركة الطيران الوطنية "اريانا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E24-66" ROLE="Arg-2">
+      <extent>
+        <charseq START="1534" END="1568">طائرات شركة الطيران الوطنية "اريانا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E37" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001207.1800.0145-T2" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001207.1800.0145-R6-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="112" END="145">نيويورك (الامم المتحدة) 12-7 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E39-93" ROLE="Arg-1">
+      <extent>
+        <charseq START="121" END="133">الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E37-65" ROLE="Arg-2">
+      <extent>
+        <charseq START="112" END="118">نيويورك</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="136" END="139">12-7</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E40" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E37" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001207.1800.0145-T2" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001207.1800.0145-R7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="112" END="145">نيويورك (الامم المتحدة) 12-7 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E40-95" ROLE="Arg-1">
+      <extent>
+        <charseq START="142" END="145">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E37-65" ROLE="Arg-2">
+      <extent>
+        <charseq START="112" END="118">نيويورك</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="136" END="139">12-7</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E48" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="340" END="365">السفير الروسي سيرغي لافروف</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E11-107" ROLE="Arg-1">
+      <extent>
+        <charseq START="340" END="365">السفير الروسي سيرغي لافروف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E48-108" ROLE="Arg-2">
+      <extent>
+        <charseq START="347" END="352">الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="477" END="513">حركة طالبان الحاكمة في كابول منذ 1996</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E7-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="477" END="513">حركة طالبان الحاكمة في كابول منذ 1996</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E1-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="500" END="504">كابول</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R10-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="662" END="691">مكاتب ممثليات طالبان في الخارج</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E6-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="668" END="681">ممثليات طالبان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E5-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="662" END="691">مكاتب ممثليات طالبان في الخارج</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1339" END="1356">ميناء عدن في اليمن</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E16-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="1339" END="1356">ميناء عدن في اليمن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E17-42" ROLE="Arg-2">
+      <extent>
+        <charseq START="1352" END="1356">اليمن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E38" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R12-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1176" END="1202">سفاراتها في افريقيا الشرقية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E14-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="1182" END="1183">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E38-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="1176" END="1202">سفاراتها في افريقيا الشرقية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0145-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0145-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0145-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0145-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1314" END="1330">المدمرة الاميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E14-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="1322" END="1330">الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0145-E13-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="1314" END="1330">المدمرة الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001207.1800.0145-EV1" TYPE="Business" SUBTYPE="End-Org" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_mention ID="AFA20001207.1800.0145-EV1-1">
+    <extent>
+      <charseq START="656" END="660">اقفال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="575" END="691">وينص المشروع الاميركي الروسي خصوصا على فرض حصار على الاسلحة وتجميد
+اصول بن لادن واقفال مكاتب ممثليات طالبان في الخارج</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="656" END="660">اقفال</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0145-EV2" TYPE="Business" SUBTYPE="End-Org" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="AFA20001207.1800.0145-E8" ROLE="Place"/>
+  <event_argument REFID="AFA20001207.1800.0145-E7" ROLE="Org"/>
+  <event_mention ID="AFA20001207.1800.0145-EV2-1">
+    <extent>
+      <charseq START="729" END="830">حركة طالبان بتسليم اسامة بن لادن
+و"يأمر" الميليشيا الاصولية باقفال مخيمات تدريب الارهابيين على اراضيها</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="696" END="850">و"يشدد" مشروع القرار على ان تقوم حركة طالبان بتسليم اسامة بن لادن
+و"يأمر" الميليشيا الاصولية باقفال مخيمات تدريب الارهابيين على اراضيها
+في مهلة ثلاثين يوما</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="789" END="794">باقفال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E8-22" ROLE="Place">
+      <extent>
+        <charseq START="796" END="830">مخيمات تدريب الارهابيين على اراضيها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E7-19" ROLE="Org">
+      <extent>
+        <charseq START="729" END="739">حركة طالبان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0145-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001207.1800.0145-E44" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001207.1800.0145-E38" ROLE="Target"/>
+  <event_argument REFID="AFA20001207.1800.0145-T10" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001207.1800.0145-EV3-1">
+    <extent>
+      <charseq START="1129" END="1219">بن لادن بالوقوف وراء الاعتداءات التي تعرضت لها
+سفاراتها في افريقيا الشرقية في آب/اغسطس 1998</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1106" END="1262">وتتهم الولايات المتحدة بن لادن بالوقوف وراء الاعتداءات التي تعرضت لها
+سفاراتها في افريقيا الشرقية في آب/اغسطس 1998 ما ادى الى مقتل 220 شخصا
+ووقوع الاف الجرحى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1150" END="1159">الاعتداءات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E44-32" ROLE="Attacker">
+      <extent>
+        <charseq START="1129" END="1135">بن لادن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E38-89" ROLE="Target">
+      <extent>
+        <charseq START="1170" END="1170">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-T10-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1207" END="1219">آب/اغسطس 1998</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0145-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001207.1800.0145-E36" ROLE="Victim"/>
+  <event_argument REFID="AFA20001207.1800.0145-E44" ROLE="Agent"/>
+  <event_mention ID="AFA20001207.1800.0145-EV4-1">
+    <extent>
+      <charseq START="1129" END="1244">بن لادن بالوقوف وراء الاعتداءات التي تعرضت لها
+سفاراتها في افريقيا الشرقية في آب/اغسطس 1998 ما ادى الى مقتل 220 شخصا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1106" END="1262">وتتهم الولايات المتحدة بن لادن بالوقوف وراء الاعتداءات التي تعرضت لها
+سفاراتها في افريقيا الشرقية في آب/اغسطس 1998 ما ادى الى مقتل 220 شخصا
+ووقوع الاف الجرحى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1232" END="1235">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E36-86" ROLE="Victim">
+      <extent>
+        <charseq START="1237" END="1244">220 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E44-32" ROLE="Agent">
+      <extent>
+        <charseq START="1129" END="1135">بن لادن</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0145-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001207.1800.0145-E44" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001207.1800.0145-E16" ROLE="Place"/>
+  <event_argument REFID="AFA20001207.1800.0145-E13" ROLE="Target"/>
+  <event_mention ID="AFA20001207.1800.0145-EV5-1">
+    <extent>
+      <charseq START="1285" END="1356">بن لادن متورط في الاعتدء على المدمرة الاميركية كول
+في ميناء عدن في اليمن</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1267" END="1378">وتشتبه ايضا في ان بن لادن متورط في الاعتدء على المدمرة الاميركية كول
+في ميناء عدن في اليمن في تشرين الاول/اكتوبر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1302" END="1308">الاعتدء</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E44-36" ROLE="Attacker">
+      <extent>
+        <charseq START="1285" END="1291">بن لادن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E16-41" ROLE="Place">
+      <extent>
+        <charseq START="1339" END="1356">ميناء عدن في اليمن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E13-38" ROLE="Target">
+      <extent>
+        <charseq START="1314" END="1330">المدمرة الاميركية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0145-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001207.1800.0145-E19" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001207.1800.0145-E2" ROLE="Destination"/>
+  <event_mention ID="AFA20001207.1800.0145-EV6-1">
+    <extent>
+      <charseq START="1638" END="1696">سفر المسؤولين في حركة طالبان حتى حدود رتبة وزير، الى
+الخارج</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1627" END="1745">ويحظر ايضا سفر المسؤولين في حركة طالبان حتى حدود رتبة وزير، الى
+الخارج، الا اذا كان سبب السفر يتعلق باجراء مفاوضات سلام</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1638" END="1640">سفر</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E19-48" ROLE="Artifact">
+      <extent>
+        <charseq START="1642" END="1665">المسؤولين في حركة طالبان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E2-71" ROLE="Destination">
+      <extent>
+        <charseq START="1691" END="1696">الخارج</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0145-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001207.1800.0145-E7" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001207.1800.0145-E31" ROLE="Target"/>
+  <event_mention ID="AFA20001207.1800.0145-EV7-1">
+    <extent>
+      <charseq START="1050" END="1069">صدت المعارضة
+المسلحة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="998" END="1101">وتسيطر حركة طالبان على 90% من اراضي افغانستان بعدما صدت المعارضة
+المسلحة وابعدتها الى اقصى الشمال الشرقي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1050" END="1052">صدت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E7-83" ROLE="Attacker">
+      <extent>
+        <charseq START="1052" END="1052">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E31-79" ROLE="Target">
+      <extent>
+        <charseq START="1054" END="1069">المعارضة
+المسلحة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0145-EV8" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001207.1800.0145-E33" ROLE="Victim"/>
+  <event_argument REFID="AFA20001207.1800.0145-E44" ROLE="Agent"/>
+  <event_argument REFID="AFA20001207.1800.0145-T10" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001207.1800.0145-EV8-1">
+    <extent>
+      <charseq START="1129" END="1262">بن لادن بالوقوف وراء الاعتداءات التي تعرضت لها
+سفاراتها في افريقيا الشرقية في آب/اغسطس 1998 ما ادى الى مقتل 220 شخصا
+ووقوع الاف الجرحى</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1106" END="1262">وتتهم الولايات المتحدة بن لادن بالوقوف وراء الاعتداءات التي تعرضت لها
+سفاراتها في افريقيا الشرقية في آب/اغسطس 1998 ما ادى الى مقتل 220 شخصا
+ووقوع الاف الجرحى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1257" END="1262">الجرحى</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E33-78" ROLE="Victim">
+      <extent>
+        <charseq START="1252" END="1262">الاف الجرحى</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-E44-32" ROLE="Agent">
+      <extent>
+        <charseq START="1129" END="1135">بن لادن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0145-T10-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1207" END="1219">آب/اغسطس 1998</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

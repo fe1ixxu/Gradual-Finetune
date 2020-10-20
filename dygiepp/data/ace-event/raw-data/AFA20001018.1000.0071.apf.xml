@@ -1,0 +1,645 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001018.1000.0071.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001018.1000.0071">
+<entity ID="AFA20001018.1000.0071-E1" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="393" END="415">المدخل الشمالي لبيت لحم</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="398">المدخل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E2" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="436" END="457">بالرصاص المغلف بالمطاط</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="442">بالرصاص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="462" END="480">قرية حوسان المجاورة</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="471">قرية حوسان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قرية حوسان">
+      <charseq START="462" END="471">قرية حوسان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001018.1000.0071-E4" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="AFA20001018.1000.0071-E4-6" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="488" END="491">ثالث</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="491">ثالث</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E5-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="496" END="504">قرية تقوع</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="504">قرية تقوع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قرية تقوع">
+      <charseq START="496" END="504">قرية تقوع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001018.1000.0071-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E6-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="267" END="290">ضواحيها في الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="271">ضواحي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E7" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E7-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="337" END="343">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="343">الحجارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E8-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="426" END="434">فلسطينيان</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="434">فلسطينيان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E9-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="119" END="153">بيت لحم (الضفة الغربية) 10-18 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="125">بيت لحم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001018.1000.0071-E9-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="408" END="415">لبيت لحم</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="415">لبيت لحم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001018.1000.0071-E9-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="252" END="264">مدينة بيت لحم</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="264">مدينة بيت لحم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001018.1000.0071-E9-19" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="272" END="273">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="273">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيت لحم">
+      <charseq START="119" END="125">بيت لحم</charseq>
+    </name>
+    <name NAME="لبيت لحم">
+      <charseq START="408" END="415">لبيت لحم</charseq>
+    </name>
+    <name NAME="مدينة بيت لحم">
+      <charseq START="252" END="264">مدينة بيت لحم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001018.1000.0071-E10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E10-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="128" END="140">الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="140">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001018.1000.0071-E10-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="278" END="290">الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="290">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الضفة الغربية">
+      <charseq START="128" END="140">الضفة الغربية</charseq>
+    </name>
+    <name NAME="الضفة الغربية">
+      <charseq START="278" END="290">الضفة الغربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001018.1000.0071-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E11-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="150" END="153">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="153">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="150" END="153">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001018.1000.0071-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E12-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="162" END="170">شهود عيان</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="165">شهود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E13-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="331" END="355">راشقي الحجارة الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="335">راشقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001018.1000.0071-E13-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="217" END="225">فلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="225">فلسطينيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E14-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="232" END="247">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="236">الجيش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001018.1000.0071-E14-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="358" END="373">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="362">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E15-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="238" END="247">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="247">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001018.1000.0071-E15-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="364" END="373">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="373">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسرائيلي">
+      <charseq START="238" END="247">الاسرائيلي</charseq>
+    </name>
+    <name NAME="الاسرائيلي">
+      <charseq START="364" END="373">الاسرائيلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001018.1000.0071-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E16-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="298" END="307">ثلاثة جرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="302">ثلاثة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001018.1000.0071-E17" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E17-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="345" END="355">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="355">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينيين">
+      <charseq START="345" END="355">الفلسطينيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001018.1000.0071-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001018.1000.0071-E19-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="375" END="415">قرب
+قبر راحيل عند المدخل الشمالي لبيت لحم</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="387">قبر راحيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قبر راحيل">
+      <charseq START="379" END="387">قبر راحيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001018.1000.0071-T1">
+  <timex2_mention ID="AFA20001018.1000.0071-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-18 11:58:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001018.1000.0071-T2">
+  <timex2_mention ID="AFA20001018.1000.0071-T2-1">
+    <extent>
+      <charseq START="143" END="147">10-18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001018.1000.0071-T3">
+  <timex2_mention ID="AFA20001018.1000.0071-T3-1">
+    <extent>
+      <charseq START="190" END="211">بعد ظهر اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001018.1000.0071-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001018.1000.0071-E1" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001018.1000.0071-E19" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001018.1000.0071-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="375" END="415">قرب
+قبر راحيل عند المدخل الشمالي لبيت لحم</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E1-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="393" END="415">المدخل الشمالي لبيت لحم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E19-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="375" END="415">قرب
+قبر راحيل عند المدخل الشمالي لبيت لحم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001018.1000.0071-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001018.1000.0071-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001018.1000.0071-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001018.1000.0071-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="119" END="153">بيت لحم (الضفة الغربية) 10-18 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E9-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="119" END="153">بيت لحم (الضفة الغربية) 10-18 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E10-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="128" END="140">الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001018.1000.0071-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001018.1000.0071-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001018.1000.0071-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001018.1000.0071-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="119" END="153">بيت لحم (الضفة الغربية) 10-18 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E11-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="150" END="153">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E9-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="119" END="153">بيت لحم (الضفة الغربية) 10-18 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001018.1000.0071-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001018.1000.0071-E17" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001018.1000.0071-E13" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001018.1000.0071-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="331" END="355">راشقي الحجارة الفلسطينيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E17-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="345" END="355">الفلسطينيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E13-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="331" END="355">راشقي الحجارة الفلسطينيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001018.1000.0071-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001018.1000.0071-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001018.1000.0071-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001018.1000.0071-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="358" END="373">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E14-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="358" END="373">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E15-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="364" END="373">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001018.1000.0071-R5-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="232" END="247">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E14-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="232" END="247">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E15-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="238" END="247">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001018.1000.0071-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001018.1000.0071-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001018.1000.0071-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001018.1000.0071-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="393" END="415">المدخل الشمالي لبيت لحم</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="393" END="415">المدخل الشمالي لبيت لحم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E9-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="408" END="415">لبيت لحم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001018.1000.0071-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001018.1000.0071-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001018.1000.0071-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001018.1000.0071-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="267" END="290">ضواحيها في الضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E6-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="267" END="290">ضواحيها في الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001018.1000.0071-E9-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="272" END="273">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001018.1000.0071-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001018.1000.0071-E16" ROLE="Victim"/>
+  <event_argument REFID="AFA20001018.1000.0071-E14" ROLE="Agent"/>
+  <event_argument REFID="AFA20001018.1000.0071-E9" ROLE="Place"/>
+  <event_argument REFID="AFA20001018.1000.0071-E6" ROLE="Place"/>
+  <event_argument REFID="AFA20001018.1000.0071-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001018.1000.0071-EV1-1">
+    <extent>
+      <charseq START="190" END="307">بعد ظهر اليوم الاربعاء بين فلسطينيين وبين الجيش الاسرائيلي في
+مدينة بيت لحم وضواحيها في الضفة الغربية موقعة ثلاثة جرحى</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="119" END="307">بيت لحم (الضفة الغربية) 10-18 (اف ب) - ذكر شهود عيان ان مواجهات
+اندلعت بعد ظهر اليوم الاربعاء بين فلسطينيين وبين الجيش الاسرائيلي في
+مدينة بيت لحم وضواحيها في الضفة الغربية موقعة ثلاثة جرحى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="304" END="307">جرحى</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E16-21" ROLE="Victim">
+      <extent>
+        <charseq START="298" END="307">ثلاثة جرحى</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E14-16" ROLE="Agent">
+      <extent>
+        <charseq START="232" END="247">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E9-18" ROLE="Place">
+      <extent>
+        <charseq START="252" END="264">مدينة بيت لحم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E6-8" ROLE="Place">
+      <extent>
+        <charseq START="267" END="290">ضواحيها في الضفة الغربية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="190" END="211">بعد ظهر اليوم الاربعاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001018.1000.0071-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001018.1000.0071-E13" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001018.1000.0071-E14" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001018.1000.0071-E9" ROLE="Place"/>
+  <event_argument REFID="AFA20001018.1000.0071-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001018.1000.0071-EV2-1">
+    <extent>
+      <charseq START="175" END="264">مواجهات
+اندلعت بعد ظهر اليوم الاربعاء بين فلسطينيين وبين الجيش الاسرائيلي في
+مدينة بيت لحم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="158" END="307">ذكر شهود عيان ان مواجهات
+اندلعت بعد ظهر اليوم الاربعاء بين فلسطينيين وبين الجيش الاسرائيلي في
+مدينة بيت لحم وضواحيها في الضفة الغربية موقعة ثلاثة جرحى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="175" END="181">مواجهات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E13-15" ROLE="Attacker">
+      <extent>
+        <charseq START="217" END="225">فلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E14-16" ROLE="Attacker">
+      <extent>
+        <charseq START="232" END="247">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E9-18" ROLE="Place">
+      <extent>
+        <charseq START="252" END="264">مدينة بيت لحم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="190" END="211">بعد ظهر اليوم الاربعاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001018.1000.0071-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001018.1000.0071-E13" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001018.1000.0071-E19" ROLE="Place"/>
+  <event_argument REFID="AFA20001018.1000.0071-E14" ROLE="Target"/>
+  <event_mention ID="AFA20001018.1000.0071-EV3-1">
+    <extent>
+      <charseq START="318" END="415">الصدامات بين راشقي الحجارة الفلسطينيين والجيش الاسرائيلي قرب
+قبر راحيل عند المدخل الشمالي لبيت لحم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="312" END="415">ووقعت الصدامات بين راشقي الحجارة الفلسطينيين والجيش الاسرائيلي قرب
+قبر راحيل عند المدخل الشمالي لبيت لحم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="318" END="325">الصدامات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E13-11" ROLE="Attacker">
+      <extent>
+        <charseq START="331" END="355">راشقي الحجارة الفلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E19-25" ROLE="Place">
+      <extent>
+        <charseq START="375" END="415">قرب
+قبر راحيل عند المدخل الشمالي لبيت لحم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E14-23" ROLE="Target">
+      <extent>
+        <charseq START="358" END="373">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001018.1000.0071-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001018.1000.0071-E2" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001018.1000.0071-E8" ROLE="Victim"/>
+  <event_argument REFID="AFA20001018.1000.0071-E3" ROLE="Place"/>
+  <event_mention ID="AFA20001018.1000.0071-EV4-1">
+    <extent>
+      <charseq START="421" END="480">اصيب فلسطينيان بالرصاص المغلف بالمطاط في قرية حوسان المجاورة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="420" END="480">واصيب فلسطينيان بالرصاص المغلف بالمطاط في قرية حوسان المجاورة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="421" END="424">اصيب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E2-4" ROLE="Instrument">
+      <extent>
+        <charseq START="436" END="457">بالرصاص المغلف بالمطاط</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E8-10" ROLE="Victim">
+      <extent>
+        <charseq START="426" END="434">فلسطينيان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E3-5" ROLE="Place">
+      <extent>
+        <charseq START="462" END="480">قرية حوسان المجاورة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001018.1000.0071-EV5" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001018.1000.0071-E4" ROLE="Victim"/>
+  <event_argument REFID="AFA20001018.1000.0071-E5" ROLE="Place"/>
+  <event_mention ID="AFA20001018.1000.0071-EV5-1">
+    <extent>
+      <charseq START="483" END="504">اصيب
+ثالث في قرية تقوع</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="482" END="504">واصيب
+ثالث في قرية تقوع</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="483" END="486">اصيب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E4-6" ROLE="Victim">
+      <extent>
+        <charseq START="488" END="491">ثالث</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001018.1000.0071-E5-7" ROLE="Place">
+      <extent>
+        <charseq START="496" END="504">قرية تقوع</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

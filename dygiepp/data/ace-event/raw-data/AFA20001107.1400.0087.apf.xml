@@ -1,0 +1,819 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001107.1400.0087.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001107.1400.0087">
+<entity ID="AFA20001107.1400.0087-E1" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="309" END="316">زيمبابوي</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="316">زيمبابوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E1-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="396" END="403">زيمبابوي</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="403">زيمبابوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="زيمبابوي">
+      <charseq START="309" END="316">زيمبابوي</charseq>
+    </name>
+    <name NAME="زيمبابوي">
+      <charseq START="396" END="403">زيمبابوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E2" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E2-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="418" END="426">الافريقية</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="426">الافريقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الافريقية">
+      <charseq START="418" END="426">الافريقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E3-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="445" END="458">كوريا الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="458">كوريا الجنوبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوريا الجنوبية">
+      <charseq START="445" END="458">كوريا الجنوبية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E4-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="461" END="467">اليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="467">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليابان">
+      <charseq START="461" END="467">اليابان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E5-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="505" END="514">ملعب هراري</charseq>
+    </extent>
+    <head>
+      <charseq START="505" END="514">ملعب هراري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="555" END="560">الملعب</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="560">الملعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ملعب هراري">
+      <charseq START="505" END="514">ملعب هراري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E6-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="551" END="560">ارض الملعب</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="553">ارض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001107.1400.0087-E7" TYPE="WEA" SUBTYPE="Sharp" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E7-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="530" END="545">الزجاجات الفارغة</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="537">الزجاجات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001107.1400.0087-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="623" END="631">13 متفرجا</charseq>
+    </extent>
+    <head>
+      <charseq START="626" END="631">متفرجا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001107.1400.0087-E9" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001107.1400.0087-E9-15" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="634" END="670">عددا كبيرا من الجرحى وقعوا ضحية
+الدهس</charseq>
+    </extent>
+    <head>
+      <charseq START="634" END="637">عددا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E9-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="658" END="659">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="658" END="659">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001107.1400.0087-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E10-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="648" END="653">الجرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="648" END="653">الجرحى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001107.1400.0087-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E11-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="684" END="689">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="689">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E11-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="682" END="682">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="682" END="682">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001107.1400.0087-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E12-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="744" END="749">زملائه</charseq>
+    </extent>
+    <head>
+      <charseq START="744" END="748">زملائ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001107.1400.0087-E13" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E13-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="778" END="789">بوركينا
+فاسو</charseq>
+    </extent>
+    <head>
+      <charseq START="778" END="789">بوركينا
+فاسو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بوركينا فاسو">
+      <charseq START="778" END="789">بوركينا
+فاسو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E14-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="792" END="797">مالاوي</charseq>
+    </extent>
+    <head>
+      <charseq START="792" END="797">مالاوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مالاوي">
+      <charseq START="792" END="797">مالاوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E15-30" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="858" END="863">سويسري</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="863">سويسري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سويسري">
+      <charseq START="858" END="863">سويسري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E16-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="95" END="111">مدريد 11-7 (أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="99">مدريد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مدريد">
+      <charseq START="95" END="99">مدريد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E17-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="107" END="111">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="111">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="107" END="111">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E18" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E18-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="120" END="150">الاتحاد الدولي لكرة القدم (فيفا</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="144">الاتحاد الدولي لكرة القدم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E18-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="147" END="150">فيفا</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="150">فيفا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاتحاد الدولي لكرة القدم">
+      <charseq START="120" END="144">الاتحاد الدولي لكرة القدم</charseq>
+    </name>
+    <name NAME="فيفا">
+      <charseq START="147" END="150">فيفا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E19-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="352" END="358">ماكارثي</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="358">ماكارثي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E19-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="727" END="733">ماكارثي</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="733">ماكارثي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E19-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="720" END="720">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="720">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E19-25" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="749" END="749">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="749" END="749">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E19-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="840" END="840">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="840">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E19-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="153" END="201">مهاجم منتخب
+جنوب افريقيا وفريق سلتا فيغو الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="157">مهاجم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E19-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="203" END="217">بنيديكت ماكارثي</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="217">بنيديكت ماكارثي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E19-41" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="234" END="234">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="234">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ماكارثي">
+      <charseq START="352" END="358">ماكارثي</charseq>
+    </name>
+    <name NAME="ماكارثي">
+      <charseq START="727" END="733">ماكارثي</charseq>
+    </name>
+    <name NAME="بنيديكت ماكارثي">
+      <charseq START="203" END="217">بنيديكت ماكارثي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E21" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E21-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="295" END="306">جنوب
+افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="306">جنوب
+افريقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E21-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="762" END="773">جنوب افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="762" END="773">جنوب افريقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E21-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="159" END="176">منتخب
+جنوب افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="176">منتخب
+جنوب افريقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جنوب افريقيا">
+      <charseq START="295" END="306">جنوب
+افريقيا</charseq>
+    </name>
+    <name NAME="جنوب افريقيا">
+      <charseq START="762" END="773">جنوب افريقيا</charseq>
+    </name>
+    <name NAME="منتخب جنوب افريقيا">
+      <charseq START="159" END="176">منتخب
+جنوب افريقيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E22" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E22-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="179" END="201">فريق سلتا فيغو الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="192">فريق سلتا فيغو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فريق سلتا فيغو">
+      <charseq START="179" END="192">فريق سلتا فيغو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E23-40" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="194" END="201">الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="201">الاسباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسباني">
+      <charseq START="194" END="201">الاسباني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001107.1400.0087-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001107.1400.0087-E24-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="485" END="514">نحو 60 الف متفرج في ملعب هراري</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="500">متفرج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E24-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="520" END="521">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="521">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E24-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="698" END="705">الجماهير</charseq>
+    </extent>
+    <head>
+      <charseq START="698" END="705">الجماهير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E24-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="696" END="696">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="696">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001107.1400.0087-E24-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="271" END="277">الجمهور</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="277">الجمهور</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="AFA20001107.1400.0087-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001107.1400.0087-V1-1">
+    <extent>
+      <charseq START="848" END="863">2500
+فرنك سويسري</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001107.1400.0087-V2" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001107.1400.0087-V2-1">
+    <extent>
+      <charseq START="866" END="879">نحو 1500 دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001107.1400.0087-T1">
+  <timex2_mention ID="AFA20001107.1400.0087-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-07 15:22:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001107.1400.0087-T2">
+  <timex2_mention ID="AFA20001107.1400.0087-T2-1">
+    <extent>
+      <charseq START="101" END="104">11-7</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001107.1400.0087-T3">
+  <timex2_mention ID="AFA20001107.1400.0087-T3-1">
+    <extent>
+      <charseq START="321" END="339">9 تموز/يوليو الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001107.1400.0087-T4">
+  <timex2_mention ID="AFA20001107.1400.0087-T4-1">
+    <extent>
+      <charseq START="437" END="440">2002</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001107.1400.0087-T5">
+  <timex2_mention ID="AFA20001107.1400.0087-T5-1">
+    <extent>
+      <charseq START="580" END="592">في الدقيقة 82</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001107.1400.0087-T6">
+  <timex2_mention ID="AFA20001107.1400.0087-T6-1">
+    <extent>
+      <charseq START="799" END="815">مطلع العام المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001107.1400.0087-R1" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001107.1400.0087-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001107.1400.0087-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001107.1400.0087-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="485" END="514">نحو 60 الف متفرج في ملعب هراري</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E24-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="485" END="514">نحو 60 الف متفرج في ملعب هراري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E5-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="505" END="514">ملعب هراري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001107.1400.0087-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001107.1400.0087-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001107.1400.0087-E16" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001107.1400.0087-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="95" END="111">مدريد 11-7 (أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E17-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="107" END="111">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E16-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="95" END="111">مدريد 11-7 (أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001107.1400.0087-R3" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001107.1400.0087-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001107.1400.0087-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001107.1400.0087-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="153" END="201">مهاجم منتخب
+جنوب افريقيا وفريق سلتا فيغو الاسباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E19-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="153" END="201">مهاجم منتخب
+جنوب افريقيا وفريق سلتا فيغو الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E21-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="159" END="176">منتخب
+جنوب افريقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001107.1400.0087-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001107.1400.0087-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001107.1400.0087-E23" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001107.1400.0087-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="179" END="201">فريق سلتا فيغو الاسباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E22-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="179" END="201">فريق سلتا فيغو الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E23-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="194" END="201">الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001107.1400.0087-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001107.1400.0087-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001107.1400.0087-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001107.1400.0087-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="551" END="560">ارض الملعب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E6-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="551" END="560">ارض الملعب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E5-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="555" END="560">الملعب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001107.1400.0087-R6" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001107.1400.0087-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001107.1400.0087-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001107.1400.0087-R6-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="744" END="749">زملائه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E12-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="744" END="749">زملائه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001107.1400.0087-E19-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="749" END="749">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001107.1400.0087-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001107.1400.0087-E24" ROLE="Artifact"/>
+  <event_mention ID="AFA20001107.1400.0087-EV1-1">
+    <extent>
+      <charseq START="698" END="711">الجماهير الهرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="597" END="711">وادت احداث الشغب الى مصرع 13 متفرجا وعددا كبيرا من الجرحى وقعوا ضحية
+الدهس عندما تدخلت الشرطة وحاولت الجماهير الهرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="707" END="711">الهرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E24-20" ROLE="Artifact">
+      <extent>
+        <charseq START="698" END="705">الجماهير</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001107.1400.0087-EV2" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001107.1400.0087-E19" ROLE="Person"/>
+  <event_argument REFID="AFA20001107.1400.0087-E18" ROLE="Entity"/>
+  <event_argument REFID="AFA20001107.1400.0087-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001107.1400.0087-EV2-1">
+    <extent>
+      <charseq START="115" END="339">اوقف الاتحاد الدولي لكرة القدم (فيفا) مهاجم منتخب
+جنوب افريقيا وفريق سلتا فيغو الاسباني بنيديكت ماكارثي مباراتين لتوجيهه
+اشارات منافية للاخلاق الرياضية الى الجمهور في المباراة بين جنوب
+افريقيا وزيمبابوي في 9 تموز/يوليو الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="115" END="339">اوقف الاتحاد الدولي لكرة القدم (فيفا) مهاجم منتخب
+جنوب افريقيا وفريق سلتا فيغو الاسباني بنيديكت ماكارثي مباراتين لتوجيهه
+اشارات منافية للاخلاق الرياضية الى الجمهور في المباراة بين جنوب
+افريقيا وزيمبابوي في 9 تموز/يوليو الماضي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="115" END="118">اوقف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E19-36" ROLE="Person">
+      <extent>
+        <charseq START="153" END="201">مهاجم منتخب
+جنوب افريقيا وفريق سلتا فيغو الاسباني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E18-33" ROLE="Entity">
+      <extent>
+        <charseq START="120" END="150">الاتحاد الدولي لكرة القدم (فيفا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001107.1400.0087-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="321" END="339">9 تموز/يوليو الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001107.1400.0087-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001107.1400.0087-E24" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001107.1400.0087-E6" ROLE="Place"/>
+  <event_argument REFID="AFA20001107.1400.0087-E7" ROLE="Instrument"/>
+  <event_mention ID="AFA20001107.1400.0087-EV3-1">
+    <extent>
+      <charseq START="520" END="560">وا بالقاء الزجاجات الفارغة
+على ارض الملعب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="344" END="592">وقد وجه ماكارثي هذه الاشارات بعدما سجل هدفا في مرمى زيمبابوي ضمن
+التصفيات الافريقية لمونديال 2002 في كوريا الجنوبية واليابان، مما اثار
+حفيظة نحو 60 الف متفرج في ملعب هراري فبدأوا بالقاء الزجاجات الفارغة
+على ارض الملعب ثم توقفت المباراة في الدقيقة 82</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="523" END="528">بالقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E24-10" ROLE="Attacker">
+      <extent>
+        <charseq START="520" END="521">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E6-11" ROLE="Place">
+      <extent>
+        <charseq START="551" END="560">ارض الملعب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E7-13" ROLE="Instrument">
+      <extent>
+        <charseq START="530" END="545">الزجاجات الفارغة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001107.1400.0087-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001107.1400.0087-E8" ROLE="Victim"/>
+  <event_mention ID="AFA20001107.1400.0087-EV4-1">
+    <extent>
+      <charseq START="618" END="631">مصرع 13 متفرجا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="597" END="711">وادت احداث الشغب الى مصرع 13 متفرجا وعددا كبيرا من الجرحى وقعوا ضحية
+الدهس عندما تدخلت الشرطة وحاولت الجماهير الهرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="618" END="621">مصرع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E8-14" ROLE="Victim">
+      <extent>
+        <charseq START="623" END="631">13 متفرجا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001107.1400.0087-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001107.1400.0087-EV5-1">
+    <extent>
+      <charseq START="602" END="606">احداث</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="597" END="711">وادت احداث الشغب الى مصرع 13 متفرجا وعددا كبيرا من الجرحى وقعوا ضحية
+الدهس عندما تدخلت الشرطة وحاولت الجماهير الهرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="602" END="606">احداث</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001107.1400.0087-EV6" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001107.1400.0087-E19" ROLE="Entity"/>
+  <event_argument REFID="AFA20001107.1400.0087-V1" ROLE="Money"/>
+  <event_argument REFID="AFA20001107.1400.0087-V2" ROLE="Money"/>
+  <event_mention ID="AFA20001107.1400.0087-EV6-1">
+    <extent>
+      <charseq START="840" END="879">ه غرامة 2500
+فرنك سويسري (نحو 1500 دولار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="831" END="880">وفرضت عليه غرامة 2500
+فرنك سويسري (نحو 1500 دولار)</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="842" END="846">غرامة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001107.1400.0087-E19-29" ROLE="Entity">
+      <extent>
+        <charseq START="840" END="840">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001107.1400.0087-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="848" END="863">2500
+فرنك سويسري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001107.1400.0087-V2-1" ROLE="Money">
+      <extent>
+        <charseq START="866" END="879">نحو 1500 دولار</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,450 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001021.1000.0111.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001021.1000.0111">
+<entity ID="AFA20001021.1000.0111-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="489" END="497">صدام حسين</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="497">صدام حسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="482" END="497">الرئيس صدام حسين</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="487">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صدام حسين">
+      <charseq START="489" END="497">صدام حسين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E2-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="574" END="579">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="574" END="579">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E2-6" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="197" END="204">العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="204">العراقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العراق">
+      <charseq START="574" END="579">العراق</charseq>
+    </name>
+    <name NAME="العراقية">
+      <charseq START="197" END="204">العراقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E4-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="601" END="640">القوات
+الاسرائيلية في الاراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="601" END="606">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0111-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E5-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="608" END="618">الاسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="608" END="618">الاسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسرائيلية">
+      <charseq START="608" END="618">الاسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E6-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="311" END="322">وزير التجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="314">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E6-16" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="339" END="342">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="342">الذي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0111-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E7-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="133" END="149">بغداد 10-21 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="137">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E7-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="247" END="251">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="251">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="133" END="137">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="247" END="251">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E8-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="146" END="149">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="149">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="146" END="149">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E9" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E9-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="387" END="420">43 شاحنة محملة بمواد غذائية متنوعة</charseq>
+    </extent>
+    <head>
+      <charseq START="390" END="394">شاحنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E9-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="158" END="158">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="158">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E9-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="160" END="216">قافلة من الشاحنات المحملة بالمساعدات
+العراقية للفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="164">قافلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E9-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="363" END="369">القافلة</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="369">القافلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E9-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="375" END="381">القافلة</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="381">القافلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E9-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="383" END="383">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="383">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0111-E10" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E10-4" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="548" END="558">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="558">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E10-7" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="582" END="583">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="582" END="583">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E10-8" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="595" END="596">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="596">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E10-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="623" END="640">الاراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="640">الاراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0111-E10-17" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="206" END="216">للفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="216">للفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاراضي الفلسطينية">
+      <charseq START="623" END="640">الاراضي الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E11-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="276" END="281">الاردن</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="281">الاردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاردن">
+      <charseq START="276" END="281">الاردن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E12-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="296" END="304">للصحافيين</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="304">للصحافيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0111-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E13-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="316" END="322">التجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="322">التجارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التجارة">
+      <charseq START="316" END="322">التجارة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0111-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0111-E14-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="465" END="471">الاطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="471">الاطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001021.1000.0111-T1">
+  <timex2_mention ID="AFA20001021.1000.0111-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-21 13:19:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0111-T2">
+  <timex2_mention ID="AFA20001021.1000.0111-T2-1">
+    <extent>
+      <charseq START="139" END="143">10-21</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0111-T3">
+  <timex2_mention ID="AFA20001021.1000.0111-T3-1">
+    <extent>
+      <charseq START="235" END="244">ثلاثة ايام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0111-T4">
+  <timex2_mention ID="AFA20001021.1000.0111-T4-1">
+    <extent>
+      <charseq START="253" END="263">اليوم السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0111-T5">
+  <timex2_mention ID="AFA20001021.1000.0111-T5-1">
+    <extent>
+      <charseq START="503" END="516">الاسبوع الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001021.1000.0111-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001021.1000.0111-E7" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001021.1000.0111-E8" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001021.1000.0111-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="133" END="149">بغداد 10-21 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001021.1000.0111-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="146" END="149">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0111-E7-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="133" END="149">بغداد 10-21 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001021.1000.0111-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001021.1000.0111-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001021.1000.0111-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001021.1000.0111-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="601" END="640">القوات
+الاسرائيلية في الاراضي الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001021.1000.0111-E4-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="601" END="640">القوات
+الاسرائيلية في الاراضي الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0111-E5-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="608" END="618">الاسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001021.1000.0111-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001021.1000.0111-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001021.1000.0111-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001021.1000.0111-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="311" END="322">وزير التجارة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001021.1000.0111-E6-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="311" END="322">وزير التجارة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0111-E13-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="316" END="322">التجارة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001021.1000.0111-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001021.1000.0111-E7" ROLE="Origin"/>
+  <event_argument REFID="AFA20001021.1000.0111-E9" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001021.1000.0111-E11" ROLE="Destination"/>
+  <event_argument REFID="AFA20001021.1000.0111-T4" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001021.1000.0111-EV1-1">
+    <extent>
+      <charseq START="154" END="281">غادرت قافلة من الشاحنات المحملة بالمساعدات
+العراقية للفلسطينيين، هي الثانية خلال ثلاثة ايام، بغداد اليوم السبت
+متوجهة الى الاردن</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="154" END="281">غادرت قافلة من الشاحنات المحملة بالمساعدات
+العراقية للفلسطينيين، هي الثانية خلال ثلاثة ايام، بغداد اليوم السبت
+متوجهة الى الاردن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="154" END="158">غادرت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001021.1000.0111-E7-15" ROLE="Origin">
+      <extent>
+        <charseq START="247" END="251">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001021.1000.0111-E9-19" ROLE="Vehicle">
+      <extent>
+        <charseq START="158" END="158">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001021.1000.0111-E11-21" ROLE="Destination">
+      <extent>
+        <charseq START="276" END="281">الاردن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001021.1000.0111-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="253" END="263">اليوم السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001021.1000.0111-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001021.1000.0111-E10" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001021.1000.0111-E10" ROLE="Target"/>
+  <event_mention ID="AFA20001021.1000.0111-EV2-1">
+    <extent>
+      <charseq START="548" END="596">الفلسطينيين تعبيرا عن دعم العراق لهم في مواجهاتهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="477" END="640">وكان الرئيس صدام حسين امر الاسبوع الماضي بارسال مواد غذائية وادوية
+الى الفلسطينيين تعبيرا عن دعم العراق لهم في مواجهاتهم مع القوات
+الاسرائيلية في الاراضي الفلسطينية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="588" END="596">مواجهاتهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001021.1000.0111-E10-8" ROLE="Attacker">
+      <extent>
+        <charseq START="595" END="596">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001021.1000.0111-E10-4" ROLE="Target">
+      <extent>
+        <charseq START="548" END="558">الفلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

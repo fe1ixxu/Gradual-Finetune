@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001021.1300.0654.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001021.1300.0654">
+<entity ID="VAR20001021.1300.0654-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E1-2" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="320" END="320">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="320">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E1-3" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="322" END="326">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="322" END="326">بغداد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E2-6" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="402" END="408">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="408">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E2-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="446" END="453">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="453">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E2-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="534" END="540">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="540">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E2-20" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="112" END="117">سعوديا</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="117">سعوديا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E2-28" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="219" END="225">سعوديون</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="225">سعوديون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودي">
+      <charseq START="402" END="408">السعودي</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="446" END="453">السعودية</charseq>
+    </name>
+    <name NAME="السعودي">
+      <charseq START="534" END="540">السعودي</charseq>
+    </name>
+    <name NAME="سعوديا">
+      <charseq START="112" END="117">سعوديا</charseq>
+    </name>
+    <name NAME="سعوديون">
+      <charseq START="219" END="225">سعوديون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001021.1300.0654-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E3-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="427" END="453">مسئولون من العراق والسعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="433">مسئولون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E4-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="455" END="475">بمسئولي الصليب
+الأحمر</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="461">بمسئولي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E6-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="542" END="553">جنوبي العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="553">العراق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E7" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E7-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="141" END="146">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="146">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="141" END="146">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001021.1300.0654-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E8-1" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="69" END="69">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="69">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E8-16" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="71" END="82">حكومة الرياض</charseq>
+    </extent>
+    <head>
+      <charseq START="71" END="75">حكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E8-18" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="90" END="91">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="91">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E9-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="77" END="82">الرياض</charseq>
+    </extent>
+    <head>
+      <charseq START="77" END="82">الرياض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E10-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="395" END="408">الطيار
+السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="400">الطيار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E10-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="522" END="540">رفات الطيار
+السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="532">الطيار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E10-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="106" END="117">طيارا سعوديا</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="110">طيارا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E10-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="130" END="130">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="130">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E13" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E13-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="377" END="388">حطام الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="388">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E13-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="123" END="123">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="123">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E13-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="125" END="129">طائرت</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="129">طائرت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E14-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="190" END="204">السجون
+العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="195">السجون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="VAR20001021.1300.0654-E15-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="186" END="204">أحد السجون
+العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="188">أحد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E16-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="438" END="443">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="443">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E16-26" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="197" END="204">العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="204">العراقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العراق">
+      <charseq START="438" END="443">العراق</charseq>
+    </name>
+    <name NAME="العراقية">
+      <charseq START="197" END="204">العراقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001021.1300.0654-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E18-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="211" END="225">مسئولون سعوديون</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="217">مسئولون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E20" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001021.1300.0654-E20-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="230" END="243">بعض أسرى الحرب</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="237">أسرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E20-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="251" END="252">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="252">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001021.1300.0654-E21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001021.1300.0654-E21-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="463" END="475">الصليب
+الأحمر</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="475">الصليب
+الأحمر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001021.1300.0654-E21-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="289" END="314">لجنة الصليب الأحمر الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="314">لجنة الصليب الأحمر الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الصليب الأحمر">
+      <charseq START="463" END="475">الصليب
+الأحمر</charseq>
+    </name>
+    <name NAME="لجنة الصليب الأحمر الدولية">
+      <charseq START="289" END="314">لجنة الصليب الأحمر الدولية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001021.1300.0654-T1">
+  <timex2_mention ID="VAR20001021.1300.0654-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/21/2000 13:10:54.97</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001021.1300.0654-T2">
+  <timex2_mention ID="VAR20001021.1300.0654-T2-1">
+    <extent>
+      <charseq START="148" END="153">عام 91</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001021.1300.0654-T3">
+  <timex2_mention ID="VAR20001021.1300.0654-T3-1">
+    <extent>
+      <charseq START="410" END="415">عام 97</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001021.1300.0654-T4">
+  <timex2_mention ID="VAR20001021.1300.0654-T4-1">
+    <extent>
+      <charseq START="477" END="493">يوم الخميس الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001021.1300.0654-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001021.1300.0654-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001021.1300.0654-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001021.1300.0654-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="106" END="117">طيارا سعوديا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E10-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="106" END="117">طيارا سعوديا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E2-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="112" END="117">سعوديا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001021.1300.0654-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="395" END="408">الطيار
+السعودي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E10-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="395" END="408">الطيار
+السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E2-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="402" END="408">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001021.1300.0654-R1-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="522" END="540">رفات الطيار
+السعودي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E10-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="522" END="540">رفات الطيار
+السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E2-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="534" END="540">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001021.1300.0654-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001021.1300.0654-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001021.1300.0654-E13" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001021.1300.0654-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="125" END="130">طائرته</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E10-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="130" END="130">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E13-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="125" END="129">طائرت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001021.1300.0654-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001021.1300.0654-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001021.1300.0654-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001021.1300.0654-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="190" END="204">السجون
+العراقية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E14-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="190" END="204">السجون
+العراقية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E16-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="197" END="204">العراقية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001021.1300.0654-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001021.1300.0654-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001021.1300.0654-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001021.1300.0654-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="211" END="225">مسئولون سعوديون</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E18-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="211" END="225">مسئولون سعوديون</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E2-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="219" END="225">سعوديون</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001021.1300.0654-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001021.1300.0654-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001021.1300.0654-E21" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001021.1300.0654-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="455" END="475">بمسئولي الصليب
+الأحمر</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E4-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="455" END="475">بمسئولي الصليب
+الأحمر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E21-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="463" END="475">الصليب
+الأحمر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001021.1300.0654-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001021.1300.0654-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001021.1300.0654-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001021.1300.0654-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="427" END="453">مسئولون من العراق والسعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E3-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="427" END="453">مسئولون من العراق والسعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E16-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="438" END="443">العراق</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001021.1300.0654-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001021.1300.0654-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001021.1300.0654-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001021.1300.0654-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="427" END="453">مسئولون من العراق والسعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E3-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="427" END="453">مسئولون من العراق والسعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001021.1300.0654-E2-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="446" END="453">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001021.1300.0654-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001021.1300.0654-E10" ROLE="Victim"/>
+  <event_mention ID="VAR20001021.1300.0654-EV1-1">
+    <extent>
+      <charseq START="106" END="174">طيارا سعوديا أسقطت طائرته
+خلال حرب الخليج عام 91 مازال على قيد الحياة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="204">أعلنت حكومة الرياض أن لديها دليلا على أن طيارا سعوديا أسقطت طائرته
+خلال حرب الخليج عام 91 مازال على قيد الحياة وموجود في أحد السجون
+العراقية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="169" END="174">الحياة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001021.1300.0654-E10-19" ROLE="Victim">
+      <extent>
+        <charseq START="106" END="117">طيارا سعوديا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001021.1300.0654-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001021.1300.0654-E10" ROLE="Target"/>
+  <event_argument REFID="VAR20001021.1300.0654-T2" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001021.1300.0654-EV2-1">
+    <extent>
+      <charseq START="106" END="153">طيارا سعوديا أسقطت طائرته
+خلال حرب الخليج عام 91</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="204">أعلنت حكومة الرياض أن لديها دليلا على أن طيارا سعوديا أسقطت طائرته
+خلال حرب الخليج عام 91 مازال على قيد الحياة وموجود في أحد السجون
+العراقية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="119" END="122">أسقط</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001021.1300.0654-E10-19" ROLE="Target">
+      <extent>
+        <charseq START="106" END="117">طيارا سعوديا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001021.1300.0654-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="148" END="153">عام 91</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001021.1300.0654-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001021.1300.0654-E3" ROLE="Entity"/>
+  <event_argument REFID="VAR20001021.1300.0654-E4" ROLE="Entity"/>
+  <event_argument REFID="VAR20001021.1300.0654-T4" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001021.1300.0654-EV3-1">
+    <extent>
+      <charseq START="421" END="493">إلتقى مسئولون من العراق والسعودية بمسئولي الصليب
+الأحمر يوم الخميس الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="417" END="553">وقد إلتقى مسئولون من العراق والسعودية بمسئولي الصليب
+الأحمر يوم الخميس الماضي لتنظيم عملية بحث مشتركة عن رفات الطيار
+السعودي جنوبي العراق</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="421" END="425">إلتقى</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001021.1300.0654-E3-7" ROLE="Entity">
+      <extent>
+        <charseq START="427" END="453">مسئولون من العراق والسعودية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001021.1300.0654-E4-10" ROLE="Entity">
+      <extent>
+        <charseq START="455" END="475">بمسئولي الصليب
+الأحمر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001021.1300.0654-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="477" END="493">يوم الخميس الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

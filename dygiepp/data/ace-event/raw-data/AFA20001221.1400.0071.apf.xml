@@ -1,0 +1,1902 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001221.1400.0071.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001221.1400.0071">
+<entity ID="AFA20001221.1400.0071-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="373" END="387">القضاء الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="378">القضاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E1-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1842" END="1847">القضاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1842" END="1847">القضاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E2-2" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="380" END="387">الايراني</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="387">الايراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E2-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="780" END="784">ايران</charseq>
+    </extent>
+    <head>
+      <charseq START="780" END="784">ايران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E2-111" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="208" END="215">ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="215">ايرانيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الايراني">
+      <charseq START="380" END="387">الايراني</charseq>
+    </name>
+    <name NAME="ايران">
+      <charseq START="780" END="784">ايران</charseq>
+    </name>
+    <name NAME="ايرانيين">
+      <charseq START="208" END="215">ايرانيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="460" END="465">القاضي</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="465">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E3-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="468" END="468">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="468">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E4-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="513" END="543">المعارض العلماني داريوش فوروهار</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="519">المعارض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E4-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="530" END="543">داريوش فوروهار</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="543">داريوش فوروهار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E4-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="550" END="550">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="550">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="داريوش فوروهار">
+      <charseq START="530" END="543">داريوش فوروهار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E6-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="560" END="610">الكتاب الثلاثة
+ماجد شريف ومحمد مختاري ومحمد بوياندة</charseq>
+    </extent>
+    <head>
+      <charseq START="560" END="565">الكتاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E6-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="617" END="618">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="618">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E8-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="575" END="583">ماجد شريف</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="583">ماجد شريف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ماجد شريف">
+      <charseq START="575" END="583">ماجد شريف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E9-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="586" END="596">محمد مختاري</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="596">محمد مختاري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد مختاري">
+      <charseq START="586" END="596">محمد مختاري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E10-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="599" END="610">محمد بوياندة</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="610">محمد بوياندة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد بوياندة">
+      <charseq START="599" END="610">محمد بوياندة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E11-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="676" END="686">مسؤول قضائي</charseq>
+    </extent>
+    <head>
+      <charseq START="676" END="680">مسؤول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E12-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="691" END="723">18 شخصا متهمون في اطار هذه القضية</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="697">شخصا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E12-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="703" END="704">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="703" END="704">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E13-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="823" END="864">الاصلاحيين الذين يساندون الرئيس محمد خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="832">الاصلاحيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E13-20" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="834" END="838">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="834" END="838">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E13-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="845" END="846">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="845" END="846">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E14-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="848" END="864">الرئيس محمد خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="848" END="853">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E14-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="855" END="864">محمد خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="864">محمد خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد خاتمي">
+      <charseq START="855" END="864">محمد خاتمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E16-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="867" END="926">المحافظين الذين يشكلون غالبية في المؤسسات الاساسية في النظام</charseq>
+    </extent>
+    <head>
+      <charseq START="867" END="875">المحافظين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E16-25" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="877" END="881">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="881">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E16-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="887" END="888">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="888">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E17-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="900" END="926">المؤسسات الاساسية في النظام</charseq>
+    </extent>
+    <head>
+      <charseq START="900" END="907">المؤسسات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E17-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1375" END="1387">مؤسسات النظام</charseq>
+    </extent>
+    <head>
+      <charseq START="1375" END="1380">مؤسسات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E18-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="937" END="961">حجة الاسلام عباس علي زاده</charseq>
+    </extent>
+    <head>
+      <charseq START="937" END="939">حجة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E18-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="949" END="961">عباس علي زاده</charseq>
+    </extent>
+    <head>
+      <charseq START="949" END="961">عباس علي زاده</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E18-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="963" END="992">الرجل الثاني في النظام القضائي</charseq>
+    </extent>
+    <head>
+      <charseq START="963" END="967">الرجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عباس علي زاده">
+      <charseq START="949" END="961">عباس علي زاده</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E21-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2148" END="2160">معارضين آخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="2148" END="2154">معارضين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E21-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2159" END="2160">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="2159" END="2160">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E21-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2167" END="2168">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="2167" END="2168">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E22-33" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1007" END="1028">ثلاثة من المتهمين ال18</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1011">ثلاثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E22-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1036" END="1037">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1037">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E22-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1044" END="1045">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="1044" END="1045">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E22-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1052" END="1053">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="1052" END="1053">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E23-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1016" END="1028">المتهمين ال18</charseq>
+    </extent>
+    <head>
+      <charseq START="1016" END="1023">المتهمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E24" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001221.1400.0071-E24-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1067" END="1080">الاخرون كشركاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1067" END="1073">الاخرون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E24-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1075" END="1080">كشركاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1075" END="1080">كشركاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E25-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1091" END="1100">مصدر قضائي</charseq>
+    </extent>
+    <head>
+      <charseq START="1091" END="1094">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E26-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1204" END="1242">هو مسؤول رفيع سابق
+في وزارة الاستخبارات</charseq>
+    </extent>
+    <head>
+      <charseq START="1204" END="1205">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E26-98" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1106" END="1117">العقل المدبر</charseq>
+    </extent>
+    <head>
+      <charseq START="1106" END="1110">العقل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E26-99" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1134" END="1134">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1134" END="1134">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E26-100" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1149" END="1149">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1149" END="1149">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E26-102" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1163" END="1190">المتهم الرئيسي في هذه القضية</charseq>
+    </extent>
+    <head>
+      <charseq START="1163" END="1168">المتهم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E26-103" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1192" END="1201">سعيد امامي</charseq>
+    </extent>
+    <head>
+      <charseq START="1192" END="1201">سعيد امامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E26-104" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1207" END="1242">مسؤول رفيع سابق
+في وزارة الاستخبارات</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1211">مسؤول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سعيد امامي">
+      <charseq START="1192" END="1201">سعيد امامي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E27-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1226" END="1242">وزارة الاستخبارات</charseq>
+    </extent>
+    <head>
+      <charseq START="1226" END="1242">وزارة الاستخبارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E27-95" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1370" END="1387">احدى مؤسسات النظام</charseq>
+    </extent>
+    <head>
+      <charseq START="1370" END="1373">احدى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وزارة الاستخبارات">
+      <charseq START="1226" END="1242">وزارة الاستخبارات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E28-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1248" END="1252">السجن</charseq>
+    </extent>
+    <head>
+      <charseq START="1248" END="1252">السجن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E29-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1359" END="1364">منفذيه</charseq>
+    </extent>
+    <head>
+      <charseq START="1359" END="1364">منفذيه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E30-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1456" END="1474">القاضي احمد البشيري</charseq>
+    </extent>
+    <head>
+      <charseq START="1456" END="1461">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E30-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1463" END="1474">احمد البشيري</charseq>
+    </extent>
+    <head>
+      <charseq START="1463" END="1474">احمد البشيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E30-54" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1476" END="1512">محامي عائلة الكاتب المنشق محمد مختاري</charseq>
+    </extent>
+    <head>
+      <charseq START="1476" END="1480">محامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E30-65" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1685" END="1691">البشيري</charseq>
+    </extent>
+    <head>
+      <charseq START="1685" END="1691">البشيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E30-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1696" END="1696">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1696" END="1696">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E30-105" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1768" END="1773">المصدر</charseq>
+    </extent>
+    <head>
+      <charseq START="1768" END="1773">المصدر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E30-106" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1825" END="1825">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1825" END="1825">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E30-107" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1822" END="1823">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1822" END="1823">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="احمد البشيري">
+      <charseq START="1463" END="1474">احمد البشيري</charseq>
+    </name>
+    <name NAME="البشيري">
+      <charseq START="1685" END="1691">البشيري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E33-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1482" END="1512">عائلة الكاتب المنشق محمد مختاري</charseq>
+    </extent>
+    <head>
+      <charseq START="1482" END="1486">عائلة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E34-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1488" END="1512">الكاتب المنشق محمد مختاري</charseq>
+    </extent>
+    <head>
+      <charseq START="1488" END="1493">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E34-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1502" END="1512">محمد مختاري</charseq>
+    </extent>
+    <head>
+      <charseq START="1502" END="1512">محمد مختاري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد مختاري">
+      <charseq START="1502" END="1512">محمد مختاري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E36" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E36-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1639" END="1667">صحيفة "دوران امروز" الاصلاحية</charseq>
+    </extent>
+    <head>
+      <charseq START="1639" END="1656">صحيفة "دوران امروز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E36-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1637" END="1637">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1637" END="1637">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة دوران امروز">
+      <charseq START="1639" END="1656">صحيفة "دوران امروز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E37-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2205" END="2220">رجال دين محافظون</charseq>
+    </extent>
+    <head>
+      <charseq START="2205" END="2208">رجال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E37-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2219" END="2220">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="2219" END="2220">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E38-96" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="546" END="549">زوجت</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="549">زوجت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E38-97" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="552" END="557">بروانة</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="557">بروانة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بروانة">
+      <charseq START="552" END="557">بروانة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E39" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E39-72" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="170" END="173">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="170" END="173">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="170" END="173">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E40-75" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1968" END="1998">احد المحامين القاضي ناصر زرفشان</charseq>
+    </extent>
+    <head>
+      <charseq START="1968" END="1970">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-76" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1981" END="1998">القاضي ناصر زرفشان</charseq>
+    </extent>
+    <head>
+      <charseq START="1981" END="1986">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1988" END="1998">ناصر زرفشان</charseq>
+    </extent>
+    <head>
+      <charseq START="1988" END="1998">ناصر زرفشان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-78" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2045" END="2045">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2045" END="2045">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-79" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2075" END="2075">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2075" END="2075">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-82" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2106" END="2106">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2106" END="2106">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-83" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2110" END="2110">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2110" END="2110">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-84" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2123" END="2123">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2123" END="2123">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E40-85" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2131" END="2131">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2131" END="2131">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ناصر زرفشان">
+      <charseq START="1988" END="1998">ناصر زرفشان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E42-80" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2100" END="2105">اقرباؤ</charseq>
+    </extent>
+    <head>
+      <charseq START="2100" END="2105">اقرباؤ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E42-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2095" END="2095">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2095" END="2095">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E43-86" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1852" END="1871">محامي عائلات الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="1852" END="1856">محامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1879" END="1880">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1879" END="1880">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1905" END="1906">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1905" END="1906">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-89" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1930" END="1931">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1930" END="1931">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="330" END="331">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="331">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1972" END="1979">المحامين</charseq>
+    </extent>
+    <head>
+      <charseq START="1972" END="1979">المحامين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-92" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="314" END="338">المحامين المنتدبين للدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="321">المحامين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-93" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1701" END="1706">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1701" END="1706">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E43-94" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1605" END="1612">المحامين</charseq>
+    </extent>
+    <head>
+      <charseq START="1605" END="1612">المحامين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E47" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E47-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="439" END="443">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="443">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E47-108" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="157" END="173">طهران 12-21 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="161">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E47-114" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="275" END="279">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="279">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طهران">
+      <charseq START="439" END="443">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="157" END="161">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="275" END="279">طهران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001221.1400.0071-E48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E48-109" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="183" END="233">المتهمون باغتيال معارضين ايرانيين في نهاية
+عام 1998</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="190">المتهمون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E48-112" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="178" END="178">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="178">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E49-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1417" END="1423">الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="1417" END="1423">الضحايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E49-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1865" END="1871">الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="1865" END="1871">الضحايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E49-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="200" END="215">معارضين ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="206">معارضين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E49-117" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="302" END="308">الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="302" END="308">الضحايا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E52" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E52-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="419" END="443">المحكمة العسكرية
+في طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="419" END="425">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E52-113" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="259" END="279">محكمة عسكرية في طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="263">محكمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001221.1400.0071-E53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001221.1400.0071-E53-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1410" END="1423">عائلات الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="1410" END="1415">عائلات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1408" END="1408">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1408" END="1408">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1521" END="1528">العائلات</charseq>
+    </extent>
+    <head>
+      <charseq START="1521" END="1528">العائلات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1532" END="1533">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1532" END="1533">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1515" END="1515">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1515" END="1515">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1538" END="1538">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1538" END="1538">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1590" END="1590">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1590" END="1590">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="342" END="342">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="342">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1858" END="1871">عائلات الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="1858" END="1863">عائلات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-115" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="295" END="308">عائلات الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="300">عائلات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001221.1400.0071-E53-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="293" END="293">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="293">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="AFA20001221.1400.0071-V1" TYPE="Crime">
+  <value_mention ID="AFA20001221.1400.0071-V1-1">
+    <extent>
+      <charseq START="192" END="215">باغتيال معارضين ايرانيين</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001221.1400.0071-V2" TYPE="Crime">
+  <value_mention ID="AFA20001221.1400.0071-V2-1">
+    <extent>
+      <charseq START="1039" END="1064">كمخططين رئيسيين للاغتيالات</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001221.1400.0071-V3" TYPE="Crime">
+  <value_mention ID="AFA20001221.1400.0071-V3-1">
+    <extent>
+      <charseq START="1075" END="1080">كشركاء</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001221.1400.0071-V4" TYPE="Crime">
+  <value_mention ID="AFA20001221.1400.0071-V4-1">
+    <extent>
+      <charseq START="2125" END="2220">لاعلانه على ما يبدو ان معارضين آخرين
+اغتيلوا وان الجرائم ارتكبت اثر فتوى اصدرها رجال دين محافظون</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001221.1400.0071-T1">
+  <timex2_mention ID="AFA20001221.1400.0071-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-21 14:01:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T2">
+  <timex2_mention ID="AFA20001221.1400.0071-T2-1">
+    <extent>
+      <charseq START="163" END="167">12-21</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T3">
+  <timex2_mention ID="AFA20001221.1400.0071-T3-1">
+    <extent>
+      <charseq START="220" END="233">نهاية
+عام 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T4">
+  <timex2_mention ID="AFA20001221.1400.0071-T4-1">
+    <extent>
+      <charseq START="248" END="252">السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T5">
+  <timex2_mention ID="AFA20001221.1400.0071-T5-1">
+    <extent>
+      <charseq START="408" END="412">السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T6">
+  <timex2_mention ID="AFA20001221.1400.0071-T6-1">
+    <extent>
+      <charseq START="623" END="641">تشرين الثاني/نوفمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T7">
+  <timex2_mention ID="AFA20001221.1400.0071-T7-1">
+    <extent>
+      <charseq START="644" END="666">كانون الاول/ديسمبر 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T8">
+  <timex2_mention ID="AFA20001221.1400.0071-T8-1">
+    <extent>
+      <charseq START="1257" END="1273">حزيران/يونيو 1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T9">
+  <timex2_mention ID="AFA20001221.1400.0071-T9-1">
+    <extent>
+      <charseq START="1669" END="1680">اليوم الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T10">
+  <timex2_mention ID="AFA20001221.1400.0071-T10-1">
+    <extent>
+      <charseq START="1952" END="1956">السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T11">
+  <timex2_mention ID="AFA20001221.1400.0071-T11-1">
+    <extent>
+      <charseq START="2011" END="2021">هذا الاسبوع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001221.1400.0071-T12">
+  <timex2_mention ID="AFA20001221.1400.0071-T12-1">
+    <extent>
+      <charseq START="2050" END="2070">14 كانون الاول/ديسمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001221.1400.0071-R1" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E49" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E53" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1858" END="1871">عائلات الضحايا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E49-74" ROLE="Arg-1">
+      <extent>
+        <charseq START="1865" END="1871">الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E53-73" ROLE="Arg-2">
+      <extent>
+        <charseq START="1858" END="1871">عائلات الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001221.1400.0071-R1-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="295" END="308">عائلات الضحايا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E53-115" ROLE="Arg-2">
+      <extent>
+        <charseq START="295" END="308">عائلات الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E49-117" ROLE="Arg-1">
+      <extent>
+        <charseq START="302" END="308">الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001221.1400.0071-R1-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1410" END="1423">عائلات الضحايا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E53-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="1410" END="1423">عائلات الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E49-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1417" END="1423">الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E47" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="157" END="173">طهران 12-21 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E39-72" ROLE="Arg-1">
+      <extent>
+        <charseq START="170" END="173">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E47-108" ROLE="Arg-2">
+      <extent>
+        <charseq START="157" END="173">طهران 12-21 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E49" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="200" END="215">معارضين ايرانيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E49-110" ROLE="Arg-1">
+      <extent>
+        <charseq START="200" END="215">معارضين ايرانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E2-111" ROLE="Arg-2">
+      <extent>
+        <charseq START="208" END="215">ايرانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E52" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E47" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="259" END="279">محكمة عسكرية في طهران</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E52-113" ROLE="Arg-1">
+      <extent>
+        <charseq START="259" END="279">محكمة عسكرية في طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E47-114" ROLE="Arg-2">
+      <extent>
+        <charseq START="275" END="279">طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001221.1400.0071-R4-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="419" END="443">المحكمة العسكرية
+في طهران</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E52-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="419" END="443">المحكمة العسكرية
+في طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E47-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="439" END="443">طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R5" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E34" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1482" END="1512">عائلة الكاتب المنشق محمد مختاري</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E33-55" ROLE="Arg-1">
+      <extent>
+        <charseq START="1482" END="1512">عائلة الكاتب المنشق محمد مختاري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E34-56" ROLE="Arg-2">
+      <extent>
+        <charseq START="1488" END="1512">الكاتب المنشق محمد مختاري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="373" END="387">القضاء الايراني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E1-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="373" END="387">القضاء الايراني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E2-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="380" END="387">الايراني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R9" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="546" END="550">زوجته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E38-96" ROLE="Arg-1">
+      <extent>
+        <charseq START="546" END="549">زوجت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E4-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="550" END="550">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R10" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="867" END="926">المحافظين الذين يشكلون غالبية في المؤسسات الاساسية في النظام</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E16-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="867" END="926">المحافظين الذين يشكلون غالبية في المؤسسات الاساسية في النظام</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E17-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="900" END="926">المؤسسات الاساسية في النظام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R11" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E27" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1207" END="1242">مسؤول رفيع سابق
+في وزارة الاستخبارات</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E26-104" ROLE="Arg-1">
+      <extent>
+        <charseq START="1207" END="1242">مسؤول رفيع سابق
+في وزارة الاستخبارات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E27-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="1226" END="1242">وزارة الاستخبارات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R12" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E17" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E27" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001221.1400.0071-R12-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1370" END="1387">احدى مؤسسات النظام</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E17-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="1375" END="1387">مؤسسات النظام</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E27-95" ROLE="Arg-1">
+      <extent>
+        <charseq START="1370" END="1387">احدى مؤسسات النظام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R14" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E33" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R14-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1476" END="1512">محامي عائلة الكاتب المنشق محمد مختاري</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E30-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="1476" END="1512">محامي عائلة الكاتب المنشق محمد مختاري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E33-55" ROLE="Arg-2">
+      <extent>
+        <charseq START="1482" END="1512">عائلة الكاتب المنشق محمد مختاري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R15" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E53" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E43" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001221.1400.0071-R15-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1852" END="1871">محامي عائلات الضحايا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E53-73" ROLE="Arg-2">
+      <extent>
+        <charseq START="1858" END="1871">عائلات الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E43-86" ROLE="Arg-1">
+      <extent>
+        <charseq START="1852" END="1871">محامي عائلات الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R16" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E40" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E43" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R16-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1968" END="1998">احد المحامين القاضي ناصر زرفشان</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E40-75" ROLE="Arg-1">
+      <extent>
+        <charseq START="1968" END="1998">احد المحامين القاضي ناصر زرفشان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E43-91" ROLE="Arg-2">
+      <extent>
+        <charseq START="1972" END="1979">المحامين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001221.1400.0071-R17" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001221.1400.0071-E42" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001221.1400.0071-E40" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001221.1400.0071-R17-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2100" END="2106">اقرباؤه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E42-80" ROLE="Arg-1">
+      <extent>
+        <charseq START="2100" END="2105">اقرباؤ</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001221.1400.0071-E40-82" ROLE="Arg-2">
+      <extent>
+        <charseq START="2106" END="2106">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001221.1400.0071-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001221.1400.0071-E48" ROLE="Entity"/>
+  <event_argument REFID="AFA20001221.1400.0071-E52" ROLE="Entity"/>
+  <event_argument REFID="AFA20001221.1400.0071-T4" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001221.1400.0071-EV1-1">
+    <extent>
+      <charseq START="177" END="279">سيمثل المتهمون باغتيال معارضين ايرانيين في نهاية
+عام 1998   اعتبارا من السبت امام محكمة عسكرية في طهران</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="177" END="362">سيمثل المتهمون باغتيال معارضين ايرانيين في نهاية
+عام 1998   اعتبارا من السبت امام محكمة عسكرية في طهران في حين اعترضت
+عائلات الضحايا على المحامين المنتدبين للدفاع وستقاطع الجلسات احتجاجا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="177" END="181">سيمثل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E48-112" ROLE="Entity">
+      <extent>
+        <charseq START="178" END="178">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E52-113" ROLE="Entity">
+      <extent>
+        <charseq START="259" END="279">محكمة عسكرية في طهران</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T4-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="248" END="252">السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001221.1400.0071-E11" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001221.1400.0071-E12" ROLE="Defendant"/>
+  <event_mention ID="AFA20001221.1400.0071-EV2-1">
+    <extent>
+      <charseq START="676" END="704">مسؤول قضائي ان 18 شخصا متهمون</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="671" END="723">واكد مسؤول قضائي ان 18 شخصا متهمون في اطار هذه القضية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="699" END="704">متهمون</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E11-15" ROLE="Adjudicator">
+      <extent>
+        <charseq START="676" END="686">مسؤول قضائي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E12-17" ROLE="Defendant">
+      <extent>
+        <charseq START="703" END="704">ون</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E40" ROLE="Person"/>
+  <event_argument REFID="AFA20001221.1400.0071-T11" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001221.1400.0071-EV3-1">
+    <extent>
+      <charseq START="1968" END="2021">احد المحامين القاضي ناصر زرفشان اوقف
+مجددا هذا الاسبوع</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1936" END="2089">وستبدأ المحاكمة السبت في حين ان احد المحامين القاضي ناصر زرفشان اوقف
+مجددا هذا الاسبوع قبل ايام من الافراج عنه في 14 كانون الاول/ديسمبر
+وانه ما زال معتقلا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2000" END="2003">اوقف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E40-75" ROLE="Person">
+      <extent>
+        <charseq START="1968" END="1998">احد المحامين القاضي ناصر زرفشان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T11-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="2011" END="2021">هذا الاسبوع</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E21" ROLE="Victim"/>
+  <event_mention ID="AFA20001221.1400.0071-EV4-1">
+    <extent>
+      <charseq START="2162" END="2168">اغتيلوا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2094" END="2220">ويؤكد اقرباؤه انه اعيد اعتقاله لاعلانه على ما يبدو ان معارضين آخرين
+اغتيلوا وان الجرائم ارتكبت اثر فتوى اصدرها رجال دين محافظون</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2162" END="2168">اغتيلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E21-42" ROLE="Victim">
+      <extent>
+        <charseq START="2167" END="2168">وا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E49" ROLE="Victim"/>
+  <event_argument REFID="AFA20001221.1400.0071-E48" ROLE="Agent"/>
+  <event_argument REFID="AFA20001221.1400.0071-T3" ROLE="Time-At-End"/>
+  <event_mention ID="AFA20001221.1400.0071-EV5-1">
+    <extent>
+      <charseq START="183" END="233">المتهمون باغتيال معارضين ايرانيين في نهاية
+عام 1998</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="177" END="362">سيمثل المتهمون باغتيال معارضين ايرانيين في نهاية
+عام 1998   اعتبارا من السبت امام محكمة عسكرية في طهران في حين اعترضت
+عائلات الضحايا على المحامين المنتدبين للدفاع وستقاطع الجلسات احتجاجا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="192" END="198">باغتيال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E49-110" ROLE="Victim">
+      <extent>
+        <charseq START="200" END="215">معارضين ايرانيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E48-109" ROLE="Agent">
+      <extent>
+        <charseq START="183" END="233">المتهمون باغتيال معارضين ايرانيين في نهاية
+عام 1998</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T3-1" ROLE="Time-At-End">
+      <extent>
+        <charseq START="220" END="233">نهاية
+عام 1998</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV6" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001221.1400.0071-E52" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001221.1400.0071-T5" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001221.1400.0071-EV6-1">
+    <extent>
+      <charseq START="393" END="443">المحاكمة ستبدأ السبت امام المحكمة العسكرية
+في طهران</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="367" END="502">واعلن القضاء الايراني ان "المحاكمة ستبدأ السبت امام المحكمة العسكرية
+في طهران" مشيرا الى ان "القاضي سيتخذ قرارا حول سرية او علنية الجلسة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="393" END="400">المحاكمة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E52-3" ROLE="Adjudicator">
+      <extent>
+        <charseq START="419" END="443">المحكمة العسكرية
+في طهران</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T5-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="408" END="412">السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E6" ROLE="Victim"/>
+  <event_argument REFID="AFA20001221.1400.0071-T6" ROLE="Time-Within"/>
+  <event_argument REFID="AFA20001221.1400.0071-T7" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001221.1400.0071-EV7-1">
+    <extent>
+      <charseq START="612" END="666">اغتيلوا في تشرين الثاني/نوفمبر
+وكانون الاول/ديسمبر 1998</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="508" END="666">وكان المعارض العلماني داريوش فوروهار وزوجته بروانة والكتاب الثلاثة
+ماجد شريف ومحمد مختاري ومحمد بوياندة اغتيلوا في تشرين الثاني/نوفمبر
+وكانون الاول/ديسمبر 1998</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="612" END="618">اغتيلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E6-14" ROLE="Victim">
+      <extent>
+        <charseq START="617" END="618">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="623" END="641">تشرين الثاني/نوفمبر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T7-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="644" END="666">كانون الاول/ديسمبر 1998</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV8" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001221.1400.0071-E22" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001221.1400.0071-E24" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001221.1400.0071-E18" ROLE="Prosecutor"/>
+  <event_argument REFID="AFA20001221.1400.0071-V2" ROLE="Crime"/>
+  <event_argument REFID="AFA20001221.1400.0071-V3" ROLE="Crime"/>
+  <event_mention ID="AFA20001221.1400.0071-EV8-1">
+    <extent>
+      <charseq START="937" END="1080">حجة الاسلام عباس علي زاده الرجل الثاني في النظام القضائي قبل
+فترة ان "ثلاثة من المتهمين ال18 سيحاكمون كمخططين رئيسيين للاغتيالات
+والاخرون كشركاء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="931" END="1080">واعلن حجة الاسلام عباس علي زاده الرجل الثاني في النظام القضائي قبل
+فترة ان "ثلاثة من المتهمين ال18 سيحاكمون كمخططين رئيسيين للاغتيالات
+والاخرون كشركاء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1030" END="1037">سيحاكمون</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E22-35" ROLE="Defendant">
+      <extent>
+        <charseq START="1036" END="1037">ون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E24-38" ROLE="Defendant">
+      <extent>
+        <charseq START="1067" END="1080">الاخرون كشركاء</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E18-29" ROLE="Prosecutor">
+      <extent>
+        <charseq START="937" END="961">حجة الاسلام عباس علي زاده</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-V2-1" ROLE="Crime">
+      <extent>
+        <charseq START="1039" END="1064">كمخططين رئيسيين للاغتيالات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-V3-1" ROLE="Crime">
+      <extent>
+        <charseq START="1075" END="1080">كشركاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E28" ROLE="Place"/>
+  <event_argument REFID="AFA20001221.1400.0071-T8" ROLE="Time-Within"/>
+  <event_argument REFID="AFA20001221.1400.0071-E26" ROLE="Victim"/>
+  <event_mention ID="AFA20001221.1400.0071-EV9-1">
+    <extent>
+      <charseq START="1157" END="1273">انتحر المتهم الرئيسي في هذه القضية سعيد امامي وهو مسؤول رفيع سابق
+في وزارة الاستخبارات، في السجن في حزيران/يونيو 1999</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1153" END="1273">فقد انتحر المتهم الرئيسي في هذه القضية سعيد امامي وهو مسؤول رفيع سابق
+في وزارة الاستخبارات، في السجن في حزيران/يونيو 1999</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1157" END="1161">انتحر</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E28-45" ROLE="Place">
+      <extent>
+        <charseq START="1248" END="1252">السجن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T8-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1257" END="1273">حزيران/يونيو 1999</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E26-102" ROLE="Victim">
+      <extent>
+        <charseq START="1163" END="1190">المتهم الرئيسي في هذه القضية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV10" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E26" ROLE="Victim"/>
+  <event_mention ID="AFA20001221.1400.0071-EV10-1">
+    <extent>
+      <charseq START="1145" END="1149">وفاته</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1086" END="1149">وقال مصدر قضائي ان "العقل المدبر" لهذه الجرائم سيحاكم "بعد وفاته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1145" END="1149">وفاته</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E26-100" ROLE="Victim">
+      <extent>
+        <charseq START="1149" END="1149">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV11" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001221.1400.0071-E26" ROLE="Defendant"/>
+  <event_mention ID="AFA20001221.1400.0071-EV11-1">
+    <extent>
+      <charseq START="1133" END="1138">سيحاكم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1086" END="1149">وقال مصدر قضائي ان "العقل المدبر" لهذه الجرائم سيحاكم "بعد وفاته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1133" END="1138">سيحاكم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E26-99" ROLE="Defendant">
+      <extent>
+        <charseq START="1134" END="1134">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV12" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E40" ROLE="Person"/>
+  <event_argument REFID="AFA20001221.1400.0071-T12" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001221.1400.0071-EV12-1">
+    <extent>
+      <charseq START="1968" END="2070">احد المحامين القاضي ناصر زرفشان اوقف
+مجددا هذا الاسبوع قبل ايام من الافراج عنه في 14 كانون الاول/ديسمبر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1936" END="2089">وستبدأ المحاكمة السبت في حين ان احد المحامين القاضي ناصر زرفشان اوقف
+مجددا هذا الاسبوع قبل ايام من الافراج عنه في 14 كانون الاول/ديسمبر
+وانه ما زال معتقلا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2035" END="2041">الافراج</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E40-75" ROLE="Person">
+      <extent>
+        <charseq START="1968" END="1998">احد المحامين القاضي ناصر زرفشان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001221.1400.0071-T12-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="2050" END="2070">14 كانون الاول/ديسمبر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV13" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001221.1400.0071-E40" ROLE="Person"/>
+  <event_mention ID="AFA20001221.1400.0071-EV13-1">
+    <extent>
+      <charseq START="2117" END="2123">اعتقاله</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2094" END="2220">ويؤكد اقرباؤه انه اعيد اعتقاله لاعلانه على ما يبدو ان معارضين آخرين
+اغتيلوا وان الجرائم ارتكبت اثر فتوى اصدرها رجال دين محافظون</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2117" END="2123">اعتقاله</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001221.1400.0071-E40-84" ROLE="Person">
+      <extent>
+        <charseq START="2123" END="2123">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001221.1400.0071-EV14" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Other" POLARITY="Negative" GENERICITY="Generic" TENSE="Past">
+  <event_mention ID="AFA20001221.1400.0071-EV14-1">
+    <extent>
+      <charseq START="1292" END="1299">للمحاكمة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1278" END="1399">واحيط الاعداد للمحاكمة، التي تتعلق باغتيالات سياسية لم يسبق لها مثيل
+بسبب انتماء منفذيه الى احدى مؤسسات النظام، بسرية تامة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1292" END="1299">للمحاكمة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+</document>
+</source_file>

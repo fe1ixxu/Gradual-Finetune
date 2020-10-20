@@ -1,0 +1,1389 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001126.1100.1489.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001126.1100.1489">
+<entity ID="VAR20001126.1100.1489-E1" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E1-86" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="377" END="390">سيارات الإسعاف</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="382">سيارات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="393" END="455">السائقين الذين
+يتحملون مخاطر جمة خلال نقل الجرحى إلى المستشفيات</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="400">السائقين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E2-3" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="402" END="406">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="406">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E2-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="413" END="414">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="413" END="414">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E3" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001126.1100.1489-E3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="435" END="440">الجرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="440">الجرحى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E4-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="491" END="525">نائب مدير مستشفى الشفا في مدينة غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="491" END="494">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E4-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="530" END="530">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="530">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E4-66" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="472" END="489">الدكتور مروان هندي</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="478">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E4-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="480" END="489">مروان هندي</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="489">مروان هندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مروان هندي">
+      <charseq START="480" END="489">مروان هندي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E6-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="496" END="525">مدير مستشفى الشفا في مدينة غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="499">مدير</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E7-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="501" END="525">مستشفى الشفا في مدينة غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="512">مستشفى الشفا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E7-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="541" END="548">المستشفى</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="548">المستشفى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مستشفى الشفا">
+      <charseq START="501" END="512">مستشفى الشفا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E8-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="517" END="525">مدينة غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="525">مدينة غزة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مدينة غزة">
+      <charseq START="517" END="525">مدينة غزة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E9-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="535" END="548">إدارة
+المستشفى</charseq>
+    </extent>
+    <head>
+      <charseq START="535" END="539">إدارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E9-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="554" END="554">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="554">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E10-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="568" END="579">جميع الأطباء</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="579">الأطباء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E11" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001126.1100.1489-E11-18" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="631" END="657">الأعداد الهائلة من المصابين</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="637">الأعداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E11-20" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="688" END="696">هذا العدد</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="696">العدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E12-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="650" END="657">المصابين</charseq>
+    </extent>
+    <head>
+      <charseq START="650" END="657">المصابين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E13-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="702" END="721">الجراحين الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="709">الجراحين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E13-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="728" END="729">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="728" END="729">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E13-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="752" END="753">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="753">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E14" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E14-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="711" END="721">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="721">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E14-59" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1466" END="1475">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1466" END="1475">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E14-63" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1591" END="1599">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="1591" END="1599">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E14-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="147" END="164">الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="164">الأراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E14-65" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1620" END="1636">الدولة
+الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1620" END="1625">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E14-80" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="241" END="250">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="250">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينيين">
+      <charseq START="711" END="721">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="1466" END="1475">الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="1591" END="1599">الفلسطيني</charseq>
+    </name>
+    <name NAME="الأراضي الفلسطينية">
+      <charseq START="147" END="164">الأراضي الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="241" END="250">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E15-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="748" END="751">مرضا</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="751">مرضا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E15-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="760" END="761">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="760" END="761">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E15-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="882" END="886">المرض</charseq>
+    </extent>
+    <head>
+      <charseq START="882" END="886">المرض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E16-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="911" END="928">الدكتور حسام جوهري</charseq>
+    </extent>
+    <head>
+      <charseq START="911" END="917">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E16-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="930" END="956">مدير مستشفى الرافدية بنابلس</charseq>
+    </extent>
+    <head>
+      <charseq START="930" END="933">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E16-36" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="961" END="961">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="961" END="961">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E16-68" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="919" END="928">حسام جوهري</charseq>
+    </extent>
+    <head>
+      <charseq START="919" END="928">حسام جوهري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حسام جوهري">
+      <charseq START="919" END="928">حسام جوهري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E18" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E18-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="935" END="956">مستشفى الرافدية بنابلس</charseq>
+    </extent>
+    <head>
+      <charseq START="935" END="949">مستشفى الرافدية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مستشفى الرافدية">
+      <charseq START="935" END="949">مستشفى الرافدية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E19-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="951" END="956">بنابلس</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="956">بنابلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بنابلس">
+      <charseq START="951" END="956">بنابلس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E20-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="70" END="83">صحيفة بلتمرسيز</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="83">صحيفة بلتمرسيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة بلتمرسيز">
+      <charseq START="70" END="83">صحيفة بلتمرسيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E21" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E21-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="985" END="998">سيارات الإسعاف</charseq>
+    </extent>
+    <head>
+      <charseq START="985" END="990">سيارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E21-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1086" END="1087">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1086" END="1087">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E21-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1284" END="1297">سيارات
+الإسعاف</charseq>
+    </extent>
+    <head>
+      <charseq START="1284" END="1289">سيارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E21-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="978" END="978">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="978">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E22-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1103" END="1113">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1103" END="1113">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E22-44" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1161" END="1171">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1171">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E22-57" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1374" END="1384">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1374" END="1384">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإسرائيلية">
+      <charseq START="1103" END="1113">الإسرائيلية</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="1161" END="1171">الإسرائيلية</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="1374" END="1384">الإسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E23-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1130" END="1138">شلومو دور</charseq>
+    </extent>
+    <head>
+      <charseq START="1130" END="1138">شلومو دور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E23-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1140" END="1194">الناطق بلسان السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1140" END="1145">الناطق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E23-47" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1199" END="1199">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1199" END="1199">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شلومو دور">
+      <charseq START="1130" END="1138">شلومو دور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E25-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1153" END="1159">السلطات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E27" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E27-45" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1173" END="1186">بالضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1173" END="1186">بالضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالضفة الغربية">
+      <charseq START="1173" END="1186">بالضفة الغربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E28" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E28-46" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1189" END="1194">القطاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1189" END="1194">القطاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القطاع">
+      <charseq START="1189" END="1194">القطاع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E29" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001126.1100.1489-E29-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1260" END="1270">للفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1260" END="1270">للفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E29-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1281" END="1282">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1281" END="1282">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E30" TYPE="WEA" SUBTYPE="Underspecified" CLASS="GEN">
+  <entity_mention ID="VAR20001126.1100.1489-E30-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1306" END="1312">الأسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1312">الأسلحة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E31" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E31-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1315" END="1329">القنابل الحارقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1315" END="1321">القنابل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E32" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001126.1100.1489-E32-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1335" END="1350">مئات الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1340" END="1350">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E32-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1356" END="1357">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1356" END="1357">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E33-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1363" END="1384">المستشفيات الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1363" END="1372">المستشفيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E36-61" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1584" END="1599">الرئيس الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="1584" END="1589">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E36-62" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1601" END="1610">ياسر عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="1601" END="1610">ياسر عرفات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E36-73" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1579" END="1579">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1579" END="1579">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ياسر عرفات">
+      <charseq START="1601" END="1610">ياسر عرفات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E41" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E41-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1089" END="1113">بنقاط
+التفتيش الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1089" END="1093">بنقاط</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E42" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E42-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="126" END="126">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="126">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E42-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="133" END="164">المستشفيات في الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="142">المستشفيات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E42-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="230" END="250">المستشفيات الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="239">المستشفيات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E42-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="252" END="252">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="252">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E43" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E43-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="182" END="187">الأقصى</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="187">الأقصى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأقصى">
+      <charseq START="182" END="187">الأقصى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E44-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="462" END="467">الكاتب</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="467">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E44-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="846" END="851">الكاتب</charseq>
+    </extent>
+    <head>
+      <charseq START="846" END="851">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E44-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1120" END="1125">الكاتب</charseq>
+    </extent>
+    <head>
+      <charseq START="1120" END="1125">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E44-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="91" END="102">لمارت ماتيوس</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="102">لمارت ماتيوس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E44-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1427" END="1432">الكاتب</charseq>
+    </extent>
+    <head>
+      <charseq START="1427" END="1432">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E44-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="220" END="225">الكاتب</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="225">الكاتب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمارت ماتيوس">
+      <charseq START="91" END="102">لمارت ماتيوس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001126.1100.1489-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E47-82" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="281" END="287">الأطباء</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="287">الأطباء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E47-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="275" END="275">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="275">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E48" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001126.1100.1489-E48-84" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="337" END="362">عدد
+العاملين في المستشفيات</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="348">العاملين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E49" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E49-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="773" END="782">عيارات حيه</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="778">عيارات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001126.1100.1489-E50" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="VAR20001126.1100.1489-E50-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="446" END="455">المستشفيات</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="455">المستشفيات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E50-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="892" END="901">المستشفيات</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="901">المستشفيات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E50-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1019" END="1026">المستشفى</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1026">المستشفى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E50-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="667" END="674">المستشفى</charseq>
+    </extent>
+    <head>
+      <charseq START="667" END="674">المستشفى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001126.1100.1489-E50-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="353" END="362">المستشفيات</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="362">المستشفيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="VAR20001126.1100.1489-T1">
+  <timex2_mention ID="VAR20001126.1100.1489-T1-1">
+    <extent>
+      <charseq START="39" END="60">11/26/2000 11:24:49.74</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001126.1100.1489-T2">
+  <timex2_mention ID="VAR20001126.1100.1489-T2-1">
+    <extent>
+      <charseq START="198" END="214">منذ
+ثمانية أسابيع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001126.1100.1489-T3">
+  <timex2_mention ID="VAR20001126.1100.1489-T3-1">
+    <extent>
+      <charseq START="602" END="621">سبعة أيام
+في الأسبوع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001126.1100.1489-T4">
+  <timex2_mention ID="VAR20001126.1100.1489-T4-1">
+    <extent>
+      <charseq START="1051" END="1058">ربع ساعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001126.1100.1489-T5">
+  <timex2_mention ID="VAR20001126.1100.1489-T5-1">
+    <extent>
+      <charseq START="1070" END="1075">ساعتين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001126.1100.1489-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E7" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="535" END="548">إدارة
+المستشفى</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E9-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="535" END="548">إدارة
+المستشفى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E7-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="541" END="548">المستشفى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E41" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1089" END="1113">بنقاط
+التفتيش الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E22-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="1103" END="1113">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E41-71" ROLE="Arg-2">
+      <extent>
+        <charseq START="1089" END="1113">بنقاط
+التفتيش الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E25" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1140" END="1194">الناطق بلسان السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E23-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="1140" END="1194">الناطق بلسان السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E25-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E28" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E25-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E28-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="1189" END="1194">القطاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E22" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E25-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E22-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="1161" END="1171">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E42" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E14" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="133" END="164">المستشفيات في الأراضي الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E42-76" ROLE="Arg-1">
+      <extent>
+        <charseq START="133" END="164">المستشفيات في الأراضي الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E14-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="147" END="164">الأراضي الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001126.1100.1489-R6-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="230" END="250">المستشفيات الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E42-79" ROLE="Arg-1">
+      <extent>
+        <charseq START="230" END="250">المستشفيات الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E14-80" ROLE="Arg-2">
+      <extent>
+        <charseq START="241" END="250">الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R8" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E48" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E50" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="337" END="362">عدد
+العاملين في المستشفيات</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E48-84" ROLE="Arg-1">
+      <extent>
+        <charseq START="337" END="362">عدد
+العاملين في المستشفيات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E50-85" ROLE="Arg-2">
+      <extent>
+        <charseq START="353" END="362">المستشفيات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R9" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E50" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="435" END="455">الجرحى إلى المستشفيات</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E3-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="435" END="440">الجرحى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E50-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="446" END="455">المستشفيات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E7" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="491" END="525">نائب مدير مستشفى الشفا في مدينة غزة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E6-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="496" END="525">مدير مستشفى الشفا في مدينة غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E7-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="501" END="525">مستشفى الشفا في مدينة غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E8" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="501" END="525">مستشفى الشفا في مدينة غزة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E7-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="501" END="525">مستشفى الشفا في مدينة غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E8-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="517" END="525">مدينة غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R12" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E14" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="702" END="721">الجراحين الفلسطينيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E13-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="702" END="721">الجراحين الفلسطينيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E14-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="711" END="721">الفلسطينيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E18" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="930" END="956">مدير مستشفى الرافدية بنابلس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E16-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="930" END="956">مدير مستشفى الرافدية بنابلس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E18-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="935" END="956">مستشفى الرافدية بنابلس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R14" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E19" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="935" END="956">مستشفى الرافدية بنابلس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E18-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="935" END="956">مستشفى الرافدية بنابلس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E19-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="951" END="956">بنابلس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R15" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E22" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1363" END="1384">المستشفيات الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E33-56" ROLE="Arg-1">
+      <extent>
+        <charseq START="1363" END="1384">المستشفيات الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E22-57" ROLE="Arg-2">
+      <extent>
+        <charseq START="1374" END="1384">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R16" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E14" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1584" END="1599">الرئيس الفلسطيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E36-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="1584" END="1599">الرئيس الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E14-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="1591" END="1599">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R17" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E27" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E25-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1153" END="1194">السلطات
+الإسرائيلية بالضفة الغربية والقطاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E27-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="1173" END="1186">بالضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001126.1100.1489-R18" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001126.1100.1489-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001126.1100.1489-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001126.1100.1489-R18-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="491" END="525">نائب مدير مستشفى الشفا في مدينة غزة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E4-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="491" END="525">نائب مدير مستشفى الشفا في مدينة غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001126.1100.1489-E6-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="496" END="525">مدير مستشفى الشفا في مدينة غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001126.1100.1489-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_mention ID="VAR20001126.1100.1489-EV1-1">
+    <extent>
+      <charseq START="1497" END="1505">الانتفاضة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1421" END="1636">أختتم
+الكاتب مقالة مشيرا إلى أن النظام الصحي الفلسطينية لم يفاجئ عند اندلاع
+الانتفاضة بسبب تخزين المضادات الحيوية وأدوية التخدير مخافة اندلاع
+أعمال عنف عندما يعلن الرئيس الفلسطيني ياسر عرفات عن قيام الدولة
+الفلسطينية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1497" END="1505">الانتفاضة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="VAR20001126.1100.1489-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001126.1100.1489-E21" ROLE="Vehicle"/>
+  <event_argument REFID="VAR20001126.1100.1489-E30" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001126.1100.1489-E31" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001126.1100.1489-E29" ROLE="Agent"/>
+  <event_mention ID="VAR20001126.1100.1489-EV2-1">
+    <extent>
+      <charseq START="1260" END="1329">للفلسطينيين أن استخدموا سيارات
+الإسعاف لتهريب الأسلحة والقنابل الحارقة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1116" END="1418">نقل الكاتب عن شلومو دور الناطق بلسان السلطات
+الإسرائيلية بالضفة الغربية والقطاع قوله إن الوقت المستغرق لتنفيذ
+إجراءات الأمن له ما يبرره حيث سبق للفلسطينيين أن استخدموا سيارات
+الإسعاف لتهريب الأسلحة والقنابل الحارقة وأن مئات الفلسطينيين أدخلوا
+إلى المستشفيات الإسرائيلية لتلقى العلاج منذ اندلاع الانتفاضة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1299" END="1304">لتهريب</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E21-50" ROLE="Vehicle">
+      <extent>
+        <charseq START="1284" END="1297">سيارات
+الإسعاف</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E30-52" ROLE="Artifact">
+      <extent>
+        <charseq START="1306" END="1312">الأسلحة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E31-53" ROLE="Artifact">
+      <extent>
+        <charseq START="1315" END="1329">القنابل الحارقة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E29-48" ROLE="Agent">
+      <extent>
+        <charseq START="1260" END="1270">للفلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001126.1100.1489-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001126.1100.1489-E32" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001126.1100.1489-E33" ROLE="Destination"/>
+  <event_mention ID="VAR20001126.1100.1489-EV3-1">
+    <extent>
+      <charseq START="1352" END="1384">أدخلوا
+إلى المستشفيات الإسرائيلية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1116" END="1418">نقل الكاتب عن شلومو دور الناطق بلسان السلطات
+الإسرائيلية بالضفة الغربية والقطاع قوله إن الوقت المستغرق لتنفيذ
+إجراءات الأمن له ما يبرره حيث سبق للفلسطينيين أن استخدموا سيارات
+الإسعاف لتهريب الأسلحة والقنابل الحارقة وأن مئات الفلسطينيين أدخلوا
+إلى المستشفيات الإسرائيلية لتلقى العلاج منذ اندلاع الانتفاضة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1352" END="1357">أدخلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E32-55" ROLE="Artifact">
+      <extent>
+        <charseq START="1356" END="1357">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E33-56" ROLE="Destination">
+      <extent>
+        <charseq START="1363" END="1384">المستشفيات الإسرائيلية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001126.1100.1489-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001126.1100.1489-E1" ROLE="Vehicle"/>
+  <event_argument REFID="VAR20001126.1100.1489-E3" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001126.1100.1489-E50" ROLE="Destination"/>
+  <event_argument REFID="VAR20001126.1100.1489-E2" ROLE="Agent"/>
+  <event_mention ID="VAR20001126.1100.1489-EV4-1">
+    <extent>
+      <charseq START="377" END="455">سيارات الإسعاف والسائقين الذين
+يتحملون مخاطر جمة خلال نقل الجرحى إلى المستشفيات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="216" END="455">قال الكاتب إن المستشفيات الفلسطينية تعاني من مصاعب جمة
+حيث يواجه الأطباء إصابات معقدة وأحداثا مأساوية بشكل يومي ونقصا في عدد
+العاملين في المستشفيات وعدد الأسرة وسيارات الإسعاف والسائقين الذين
+يتحملون مخاطر جمة خلال نقل الجرحى إلى المستشفيات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="431" END="433">نقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E1-86" ROLE="Vehicle">
+      <extent>
+        <charseq START="377" END="390">سيارات الإسعاف</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E3-5" ROLE="Artifact">
+      <extent>
+        <charseq START="435" END="440">الجرحى</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E50-6" ROLE="Destination">
+      <extent>
+        <charseq START="446" END="455">المستشفيات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E2-2" ROLE="Agent">
+      <extent>
+        <charseq START="393" END="455">السائقين الذين
+يتحملون مخاطر جمة خلال نقل الجرحى إلى المستشفيات</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001126.1100.1489-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001126.1100.1489-E50" ROLE="Destination"/>
+  <event_argument REFID="VAR20001126.1100.1489-E21" ROLE="Vehicle"/>
+  <event_mention ID="VAR20001126.1100.1489-EV5-1">
+    <extent>
+      <charseq START="966" END="1026">الرحلة التي تقطعها سيارات الإسعاف من مكان الحادث إلى المستشفى</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="903" END="1113">فنقل عن الدكتور حسام جوهري مدير مستشفى الرافدية بنابلس
+قوله إن الرحلة التي تقطعها سيارات الإسعاف من مكان الحادث إلى المستشفى
+والتي تستغرق في العادة ربع ساعة قد تستغرق ساعتين بسبب مرورها بنقاط
+التفتيش الإسرائيلية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="966" END="971">الرحلة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E50-29" ROLE="Destination">
+      <extent>
+        <charseq START="1019" END="1026">المستشفى</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001126.1100.1489-E21-37" ROLE="Vehicle">
+      <extent>
+        <charseq START="985" END="998">سيارات الإسعاف</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

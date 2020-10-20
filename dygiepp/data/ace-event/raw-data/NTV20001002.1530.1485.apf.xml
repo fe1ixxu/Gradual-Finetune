@@ -1,0 +1,1441 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001002.1530.1485.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001002.1530.1485">
+<entity ID="NTV20001002.1530.1485-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E1-7" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="400" END="407">الأسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="400" END="407">الأسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E1-95" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="323" END="330">الأسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="330">الأسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأسيوية">
+      <charseq START="400" END="407">الأسيوية</charseq>
+    </name>
+    <name NAME="الأسيوية">
+      <charseq START="323" END="330">الأسيوية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E2-2" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="342" END="358">ست دول في المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="347">دول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E3" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="352" END="358">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="358">المنطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E5-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="409" END="429">لوزير الدفاع الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="413">لوزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="431" END="441">وليام كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="441">وليام كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="527" END="531">كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="531">كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="549" END="549">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="549" END="549">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="731" END="750">وزير الدفاع
+الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="734">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-41" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="878" END="878">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="878" END="878">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-46" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1008" END="1012">كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="1008" END="1012">كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-47" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1000" END="1000">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1000">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1226" END="1230">كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="1226" END="1230">كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-58" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1031" END="1031">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1031">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-74" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1527" END="1531">كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="1527" END="1531">كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-78" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="70" END="89">وزير الدفاع الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="73">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-79" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="91" END="101">وليام كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="101">وليام كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-89" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="259" END="263">كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="263">كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E5-94" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="317" END="321">كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="321">كوهين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وليام كوهين">
+      <charseq START="431" END="441">وليام كوهين</charseq>
+    </name>
+    <name NAME="كوهين">
+      <charseq START="527" END="531">كوهين</charseq>
+    </name>
+    <name NAME="كوهين">
+      <charseq START="1008" END="1012">كوهين</charseq>
+    </name>
+    <name NAME="كوهين">
+      <charseq START="1226" END="1230">كوهين</charseq>
+    </name>
+    <name NAME="كوهين">
+      <charseq START="1527" END="1531">كوهين</charseq>
+    </name>
+    <name NAME="وليام كوهين">
+      <charseq START="91" END="101">وليام كوهين</charseq>
+    </name>
+    <name NAME="كوهين">
+      <charseq START="259" END="263">كوهين</charseq>
+    </name>
+    <name NAME="كوهين">
+      <charseq START="317" END="321">كوهين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E6-12" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="422" END="429">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="429">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E6-30" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="662" END="669">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="669">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E6-35" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="743" END="750">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="750">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E6-37" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="783" END="791">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="783" END="791">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E6-50" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1207" END="1222">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1222">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E6-70" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1425" END="1440">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1425" END="1440">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E6-81" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="82" END="89">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="89">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكي">
+      <charseq START="422" END="429">الأمريكي</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="662" END="669">الأمريكي</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="743" END="750">الأمريكي</charseq>
+    </name>
+    <name NAME="الأمريكية">
+      <charseq START="783" END="791">الأمريكية</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="1207" END="1222">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="1425" END="1440">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="82" END="89">الأمريكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E7-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="466" END="525">كلا
+من الفلبين وسنغافورة وإندونيسيا وتايلاند وكوريا الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="467">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E8-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="473" END="479">الفلبين</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="479">الفلبين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلبين">
+      <charseq START="473" END="479">الفلبين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E9-16" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="482" END="489">سنغافورة</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="489">سنغافورة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سنغافورة">
+      <charseq START="482" END="489">سنغافورة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E10-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="492" END="500">إندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="500">إندونيسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إندونيسيا">
+      <charseq START="492" END="500">إندونيسيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E11-18" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="503" END="509">تايلاند</charseq>
+    </extent>
+    <head>
+      <charseq START="503" END="509">تايلاند</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تايلاند">
+      <charseq START="503" END="509">تايلاند</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E12-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="512" END="525">كوريا الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="525">كوريا الجنوبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E12-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="674" END="687">كوريا
+الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="674" END="687">كوريا
+الجنوبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E12-40" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="822" END="835">كوريا الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="822" END="835">كوريا الجنوبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E12-49" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1191" END="1204">كوريا الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="1191" END="1204">كوريا الجنوبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوريا الجنوبية">
+      <charseq START="512" END="525">كوريا الجنوبية</charseq>
+    </name>
+    <name NAME="كوريا الجنوبية">
+      <charseq START="674" END="687">كوريا
+الجنوبية</charseq>
+    </name>
+    <name NAME="كوريا الجنوبية">
+      <charseq START="822" END="835">كوريا الجنوبية</charseq>
+    </name>
+    <name NAME="كوريا الجنوبية">
+      <charseq START="1191" END="1204">كوريا الجنوبية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E13-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="803" END="835">بقوتها
+الموجودة في كوريا الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="803" END="806">بقوت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E14-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="558" END="579">برئيس الوزراء الياباني</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="562">برئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E14-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="581" END="591">يوشيرو موري</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="591">يوشيرو موري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يوشيرو موري">
+      <charseq START="581" END="591">يوشيرو موري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E16-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="564" END="570">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="570">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E17-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="367" END="441">اليابان هي المحطة الأخيرة للجولة
+الأسيوية لوزير الدفاع الأمريكي وليام كوهين</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="373">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E17-5" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="365" END="365">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="365">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E17-6" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="375" END="376">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="376">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E17-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="458" END="464">اليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="458" END="464">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E17-28" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="572" END="579">الياباني</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="579">الياباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E17-48" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1182" END="1188">اليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="1182" END="1188">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E17-69" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1416" END="1422">اليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="1416" END="1422">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E17-93" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="274" END="282">اليابانية</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="282">اليابانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليابان">
+      <charseq START="367" END="373">اليابان</charseq>
+    </name>
+    <name NAME="اليابان">
+      <charseq START="458" END="464">اليابان</charseq>
+    </name>
+    <name NAME="الياباني">
+      <charseq START="572" END="579">الياباني</charseq>
+    </name>
+    <name NAME="اليابان">
+      <charseq START="1182" END="1188">اليابان</charseq>
+    </name>
+    <name NAME="اليابان">
+      <charseq START="1416" END="1422">اليابان</charseq>
+    </name>
+    <name NAME="اليابانية">
+      <charseq START="274" END="282">اليابانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E18-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="600" END="600">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="600">ا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E20-32" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="721" END="727">البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="721" END="727">البلدين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E22-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="775" END="791">الإدارة الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="775" END="781">الإدارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E22-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="797" END="797">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="797">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E22-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="807" END="808">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="808">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E24-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="843" END="872">بأكثر من سبعة وثلاثين ألف جندي</charseq>
+    </extent>
+    <head>
+      <charseq START="869" END="872">جندي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E26" TYPE="WEA" SUBTYPE="Chemical" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E26-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1379" END="1406">أسلحتها الكيماوية والبيلوجية</charseq>
+    </extent>
+    <head>
+      <charseq START="1379" END="1383">أسلحت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E27" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E27-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="620" END="638">شبه الجزيرة الكورية</charseq>
+    </extent>
+    <head>
+      <charseq START="620" END="622">شبه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E27-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1092" END="1110">شبه الجزيرة الكورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1092" END="1094">شبه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E27-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1627" END="1645">شبه الجزيرة الكورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1627" END="1629">شبه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E28-57" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="632" END="638">الكورية</charseq>
+    </extent>
+    <head>
+      <charseq START="632" END="638">الكورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E28-65" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1104" END="1110">الكورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1110">الكورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E28-77" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1639" END="1645">الكورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1639" END="1645">الكورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكورية">
+      <charseq START="632" END="638">الكورية</charseq>
+    </name>
+    <name NAME="الكورية">
+      <charseq START="1104" END="1110">الكورية</charseq>
+    </name>
+    <name NAME="الكورية">
+      <charseq START="1639" END="1645">الكورية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E29" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001002.1530.1485-E29-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="838" END="838">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="838" END="838">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E29-60" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="843" END="872">بأكثر من سبعة وثلاثين ألف جندي</charseq>
+    </extent>
+    <head>
+      <charseq START="843" END="847">بأكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E30-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1051" END="1060">بيونج يانج</charseq>
+    </extent>
+    <head>
+      <charseq START="1051" END="1060">بيونج يانج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيونج يانج">
+      <charseq START="1051" END="1060">بيونج يانج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E31" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E31-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1086" END="1110">منطقة شبه الجزيرة الكورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1086" END="1090">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E33-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1274" END="1279">قواتها</charseq>
+    </extent>
+    <head>
+      <charseq START="1274" END="1277">قوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E34" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E34-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1290" END="1316">قرب
+المنطقة المنزوعة السلاح</charseq>
+    </extent>
+    <head>
+      <charseq START="1294" END="1300">المنطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E35" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E35-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1338" END="1357">الصواريخ بعيدة المدى</charseq>
+    </extent>
+    <head>
+      <charseq START="1338" END="1345">الصواريخ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E36" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E36-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1562" END="1575">العالم الخارجي</charseq>
+    </extent>
+    <head>
+      <charseq START="1562" END="1567">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001002.1530.1485-E39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E39-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="415" END="420">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="420">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E39-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="736" END="741">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="736" END="741">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E39-80" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="75" END="80">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="80">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الدفاع">
+      <charseq START="415" END="420">الدفاع</charseq>
+    </name>
+    <name NAME="الدفاع">
+      <charseq START="736" END="741">الدفاع</charseq>
+    </name>
+    <name NAME="الدفاع">
+      <charseq START="75" END="80">الدفاع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E42-43" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="887" END="900">كوريا الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="900">كوريا الشمالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-44" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="905" END="905">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="905" END="905">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-45" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="914" END="915">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="915">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-51" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1134" END="1147">كوريا الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="1134" END="1147">كوريا الشمالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-54" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1278" END="1279">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1278" END="1279">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-55" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1384" END="1385">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1384" END="1385">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-71" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1471" END="1485">لكوريا
+الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="1471" END="1485">لكوريا
+الشمالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-72" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1499" END="1500">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1499" END="1500">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-73" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1543" END="1556">كوريا
+الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="1543" END="1556">كوريا
+الشمالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-82" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="110" END="123">كوريا الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="123">كوريا الشمالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-83" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="142" END="142">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="142">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-84" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="176" END="176">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="176">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E42-85" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="178" END="178">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="178">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوريا الشمالية">
+      <charseq START="887" END="900">كوريا الشمالية</charseq>
+    </name>
+    <name NAME="كوريا الشمالية">
+      <charseq START="1134" END="1147">كوريا الشمالية</charseq>
+    </name>
+    <name NAME="لكوريا الشمالية">
+      <charseq START="1471" END="1485">لكوريا
+الشمالية</charseq>
+    </name>
+    <name NAME="كوريا الشمالية">
+      <charseq START="1543" END="1556">كوريا
+الشمالية</charseq>
+    </name>
+    <name NAME="كوريا الشمالية">
+      <charseq START="110" END="123">كوريا الشمالية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E43-86" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="211" END="213">سول</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="213">سول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سول">
+      <charseq START="211" END="213">سول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E44-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="551" END="556">لطوكيو</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="556">لطوكيو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E44-61" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1036" END="1040">طوكيو</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1040">طوكيو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E44-87" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="216" END="220">طوكيو</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="220">طوكيو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E44-91" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="265" END="282">بالعاصمة اليابانية</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="272">بالعاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E44-92" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="284" END="288">طوكيو</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="288">طوكيو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001002.1530.1485-E44-96" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="291" END="292">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="292">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لطوكيو">
+      <charseq START="551" END="556">لطوكيو</charseq>
+    </name>
+    <name NAME="طوكيو">
+      <charseq START="1036" END="1040">طوكيو</charseq>
+    </name>
+    <name NAME="طوكيو">
+      <charseq START="216" END="220">طوكيو</charseq>
+    </name>
+    <name NAME="طوكيو">
+      <charseq START="284" END="288">طوكيو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001002.1530.1485-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001002.1530.1485-E45-88" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="223" END="228">واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="228">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="223" END="228">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="NTV20001002.1530.1485-T1">
+  <timex2_mention ID="NTV20001002.1530.1485-T1-1">
+    <extent>
+      <charseq START="930" END="941">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001002.1530.1485-T2">
+  <timex2_mention ID="NTV20001002.1530.1485-T2-1">
+    <extent>
+      <charseq START="39" END="60">10/02/2000 15:54:45.69</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001002.1530.1485-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E39" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="70" END="89">وزير الدفاع الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E5-78" ROLE="Arg-1">
+      <extent>
+        <charseq START="70" END="89">وزير الدفاع الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E39-80" ROLE="Arg-2">
+      <extent>
+        <charseq START="75" END="80">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001002.1530.1485-R1-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="409" END="429">لوزير الدفاع الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E5-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="409" END="429">لوزير الدفاع الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E39-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="415" END="420">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001002.1530.1485-R1-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="731" END="750">وزير الدفاع
+الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E5-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="731" END="750">وزير الدفاع
+الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E39-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="736" END="741">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E44" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E17" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="265" END="282">بالعاصمة اليابانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E44-91" ROLE="Arg-1">
+      <extent>
+        <charseq START="265" END="282">بالعاصمة اليابانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E17-93" ROLE="Arg-2">
+      <extent>
+        <charseq START="274" END="282">اليابانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E3" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="342" END="358">ست دول في المنطقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E2-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="342" END="358">ست دول في المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E3-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="352" END="358">المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E17" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="558" END="579">برئيس الوزراء الياباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E14-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="558" END="579">برئيس الوزراء الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E17-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="572" END="579">الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E6" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="70" END="89">وزير الدفاع الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E5-78" ROLE="Arg-1">
+      <extent>
+        <charseq START="70" END="89">وزير الدفاع الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E6-81" ROLE="Arg-2">
+      <extent>
+        <charseq START="82" END="89">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001002.1530.1485-R7-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="409" END="429">لوزير الدفاع الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E5-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="409" END="429">لوزير الدفاع الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E6-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="422" END="429">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E28" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1092" END="1110">شبه الجزيرة الكورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E27-64" ROLE="Arg-1">
+      <extent>
+        <charseq START="1092" END="1110">شبه الجزيرة الكورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E28-65" ROLE="Arg-2">
+      <extent>
+        <charseq START="1104" END="1110">الكورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001002.1530.1485-R8-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="620" END="638">شبه الجزيرة الكورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E27-56" ROLE="Arg-1">
+      <extent>
+        <charseq START="620" END="638">شبه الجزيرة الكورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E28-57" ROLE="Arg-2">
+      <extent>
+        <charseq START="632" END="638">الكورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001002.1530.1485-R8-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1627" END="1645">شبه الجزيرة الكورية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E27-76" ROLE="Arg-1">
+      <extent>
+        <charseq START="1627" END="1645">شبه الجزيرة الكورية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E28-77" ROLE="Arg-2">
+      <extent>
+        <charseq START="1639" END="1645">الكورية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E42" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E26" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1379" END="1406">أسلحتها الكيماوية والبيلوجية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E42-55" ROLE="Arg-1">
+      <extent>
+        <charseq START="1384" END="1385">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E26-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="1379" END="1406">أسلحتها الكيماوية والبيلوجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R11" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E22" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R11-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="803" END="835">بقوتها
+الموجودة في كوريا الجنوبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E13-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="803" END="835">بقوتها
+الموجودة في كوريا الجنوبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E22-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="807" END="808">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E42" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R13-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1274" END="1279">قواتها</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E33-66" ROLE="Arg-1">
+      <extent>
+        <charseq START="1274" END="1279">قواتها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E42-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="1278" END="1279">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R14" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E16" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R14-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="558" END="579">برئيس الوزراء الياباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E14-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="558" END="579">برئيس الوزراء الياباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E16-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="564" END="570">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R15" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E6" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="775" END="791">الإدارة الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E22-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="775" END="791">الإدارة الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E6-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="783" END="791">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R16" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E12" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R16-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="803" END="835">بقوتها
+الموجودة في كوريا الجنوبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E13-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="803" END="835">بقوتها
+الموجودة في كوريا الجنوبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E12-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="822" END="835">كوريا الجنوبية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R18" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E17" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R18-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="367" END="441">اليابان هي المحطة الأخيرة للجولة
+الأسيوية لوزير الدفاع الأمريكي وليام كوهين</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E5-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="409" END="429">لوزير الدفاع الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E17-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="367" END="441">اليابان هي المحطة الأخيرة للجولة
+الأسيوية لوزير الدفاع الأمريكي وليام كوهين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001002.1530.1485-R19" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001002.1530.1485-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001002.1530.1485-E6" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001002.1530.1485-R19-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="736" END="750">الدفاع
+الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E39-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="736" END="741">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001002.1530.1485-E6-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="743" END="750">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001002.1530.1485-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001002.1530.1485-E44" ROLE="Place"/>
+  <event_argument REFID="NTV20001002.1530.1485-E5" ROLE="Entity"/>
+  <event_argument REFID="NTV20001002.1530.1485-E14" ROLE="Entity"/>
+  <event_mention ID="NTV20001002.1530.1485-EV1-1">
+    <extent>
+      <charseq START="544" END="579">زيارته لطوكيو برئيس الوزراء الياباني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="527" END="727">كوهين التقى
+خلال زيارته لطوكيو برئيس الوزراء الياباني يوشيرو موري حيث بحثا تطورات
+الأوضاع في شبه الجزيرة الكورية ومسألة الوجود العسكري الأمريكي في كوريا
+الجنوبية علاوة على العلاقات الثنائية بين البلدين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="544" END="549">زيارته</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001002.1530.1485-E44-23" ROLE="Place">
+      <extent>
+        <charseq START="551" END="556">لطوكيو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001002.1530.1485-E5-21" ROLE="Entity">
+      <extent>
+        <charseq START="549" END="549">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001002.1530.1485-E14-25" ROLE="Entity">
+      <extent>
+        <charseq START="558" END="579">برئيس الوزراء الياباني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001002.1530.1485-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001002.1530.1485-E44" ROLE="Place"/>
+  <event_argument REFID="NTV20001002.1530.1485-E5" ROLE="Entity"/>
+  <event_argument REFID="NTV20001002.1530.1485-E14" ROLE="Entity"/>
+  <event_mention ID="NTV20001002.1530.1485-EV2-1">
+    <extent>
+      <charseq START="527" END="591">كوهين التقى
+خلال زيارته لطوكيو برئيس الوزراء الياباني يوشيرو موري</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="527" END="727">كوهين التقى
+خلال زيارته لطوكيو برئيس الوزراء الياباني يوشيرو موري حيث بحثا تطورات
+الأوضاع في شبه الجزيرة الكورية ومسألة الوجود العسكري الأمريكي في كوريا
+الجنوبية علاوة على العلاقات الثنائية بين البلدين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="533" END="537">التقى</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001002.1530.1485-E44-23" ROLE="Place">
+      <extent>
+        <charseq START="551" END="556">لطوكيو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001002.1530.1485-E5-20" ROLE="Entity">
+      <extent>
+        <charseq START="527" END="531">كوهين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001002.1530.1485-E14-26" ROLE="Entity">
+      <extent>
+        <charseq START="581" END="591">يوشيرو موري</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

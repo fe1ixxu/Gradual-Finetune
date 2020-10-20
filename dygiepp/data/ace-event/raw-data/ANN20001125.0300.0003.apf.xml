@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ANN20001125.0300.0003.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001125.0300.0003">
+<entity ID="ANN20001125.0300.0003-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E1-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="378" END="401">ناطق باسم المحكمة العليا</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="381">ناطق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E2-5" TYPE="PRO" LDCTYPE="PTV" ROLE="LOC">
+    <extent>
+      <charseq START="551" END="575">اثنتين من مقاطعات الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="556">اثنتين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="610" END="628">قضاة المحكمة التسعة</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="613">قضاة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E4-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="841" END="867">الناخبين الكبار من كل ولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="848">الناخبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E5-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1038" END="1044">اتلانتا</charseq>
+    </extent>
+    <head>
+      <charseq START="1038" END="1044">اتلانتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اتلانتا">
+      <charseq START="1038" END="1044">اتلانتا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E6-21" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="860" END="867">كل ولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="861">كل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E6-22" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="863" END="867">ولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="867">ولاية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E7-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="891" END="907">الهيئة الاشتراعية</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="896">الهيئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E7-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="911" END="924">كونغرس الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="911" END="916">كونغرس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E7-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="888" END="889">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="888" END="889">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E9-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="143" END="148">واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="148">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="143" END="148">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E10" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E10-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="665" END="681">بمقاطعة بالم بيتش</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="681">بمقاطعة بالم بيتش</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بمقاطعة بالم بيتش">
+      <charseq START="665" END="681">بمقاطعة بالم بيتش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E11-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1007" END="1044">محكمة الاستئناف الفيديرالية في اتلانتا</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1033">محكمة الاستئناف الفيديرالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة الاستئناف الفيديرالية">
+      <charseq START="1007" END="1033">محكمة الاستئناف الفيديرالية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E12-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="410" END="411">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="410" END="411">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="464" END="465">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="464" END="465">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="615" END="621">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="621">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="933" END="933">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="933" END="933">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="935" END="941">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="935" END="941">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="123" END="123">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="123">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="262" END="262">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="262">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="125" END="148">المحكمة العليا في واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="138">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E12-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="388" END="401">المحكمة العليا</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="401">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المحكمة العليا">
+      <charseq START="388" END="401">المحكمة العليا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E13-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="695" END="697">بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="695" END="697">بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E13-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="706" END="706">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="706" END="706">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E13-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="244" END="257">جورج دبليو بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="257">جورج دبليو بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E13-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="199" END="242">المرشح الجمهوري للرئاسة الاميركية حاكم تكساس</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="204">المرشح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E13-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="233" END="242">حاكم تكساس</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="236">حاكم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بوش">
+      <charseq START="695" END="697">بوش</charseq>
+    </name>
+    <name NAME="جورج دبليو بوش">
+      <charseq START="244" END="257">جورج دبليو بوش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E14-35" TYPE="NOM" LDCTYPE="NOMPRE">
+    <extent>
+      <charseq START="206" END="213">الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="213">الجمهوري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E16-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="223" END="231">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="231">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركية">
+      <charseq START="223" END="231">الاميركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E18" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E18-38" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="238" END="242">تكساس</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="242">تكساس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تكساس">
+      <charseq START="238" END="242">تكساس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E19-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="278" END="302">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="291">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E19-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="720" END="744">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="733">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E19-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="312" END="312">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="312">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E19-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="321" END="322">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="322">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E20" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E20-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="514" END="520">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="520">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E20-6" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="569" END="575">الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="569" END="575">الولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E20-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="738" END="744">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="738" END="744">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E20-20" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="918" END="924">الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="918" END="924">الولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E20-39" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="296" END="302">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="302">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E20-43" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="363" END="369">الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="369">الولاية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلوريدا">
+      <charseq START="514" END="520">فلوريدا</charseq>
+    </name>
+    <name NAME="فلوريدا">
+      <charseq START="738" END="744">فلوريدا</charseq>
+    </name>
+    <name NAME="فلوريدا">
+      <charseq START="296" END="302">فلوريدا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001125.0300.0003-E21" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E21-42" TYPE="PRO" LDCTYPE="PTV" ROLE="LOC">
+    <extent>
+      <charseq START="351" END="369">بعض مقاطعات الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="353">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001125.0300.0003-E22" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ANN20001125.0300.0003-E22-7" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="561" END="575">مقاطعات الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="567">مقاطعات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001125.0300.0003-E22-44" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="355" END="369">مقاطعات الولاية</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="361">مقاطعات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ANN20001125.0300.0003-T1">
+  <timex2_mention ID="ANN20001125.0300.0003-T1-1">
+    <extent>
+      <charseq START="780" END="793">6 تشرين الثاني</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001125.0300.0003-T2">
+  <timex2_mention ID="ANN20001125.0300.0003-T2-1">
+    <extent>
+      <charseq START="419" END="448">في الاول من كانون الاول
+المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001125.0300.0003-T3">
+  <timex2_mention ID="ANN20001125.0300.0003-T3-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-25</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ANN20001125.0300.0003-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1007" END="1044">محكمة الاستئناف الفيديرالية في اتلانتا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E11-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="1007" END="1044">محكمة الاستئناف الفيديرالية في اتلانتا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E5-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="1038" END="1044">اتلانتا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R2" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="199" END="242">المرشح الجمهوري للرئاسة الاميركية حاكم تكساس</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E13-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="199" END="242">المرشح الجمهوري للرئاسة الاميركية حاكم تكساس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E14-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="206" END="213">الجمهوري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E18" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="233" END="242">حاكم تكساس</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E13-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="233" END="242">حاكم تكساس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E18-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="238" END="242">تكساس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E20" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="355" END="369">مقاطعات الولاية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E22-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="355" END="369">مقاطعات الولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E20-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="363" END="369">الولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001125.0300.0003-R4-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="561" END="575">مقاطعات الولاية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E22-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="561" END="575">مقاطعات الولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E20-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="569" END="575">الولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="610" END="628">قضاة المحكمة التسعة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E3-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="610" END="628">قضاة المحكمة التسعة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E12-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="615" END="621">المحكمة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R7" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E6" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="841" END="867">الناخبين الكبار من كل ولاية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E4-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="841" END="867">الناخبين الكبار من كل ولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E6-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="860" END="867">كل ولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E20" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="911" END="924">كونغرس الولاية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E7-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="911" END="924">كونغرس الولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E20-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="918" END="924">الولاية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="125" END="148">المحكمة العليا في واشنطن</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E12-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="125" END="148">المحكمة العليا في واشنطن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E9-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="143" END="148">واشنطن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E20" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="278" END="302">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E19-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="278" END="302">المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E20-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="296" END="302">فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001125.0300.0003-R10-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="720" END="744">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E19-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="720" END="744">المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E20-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="738" END="744">فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001125.0300.0003-R12" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001125.0300.0003-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001125.0300.0003-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001125.0300.0003-R12-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="378" END="401">ناطق باسم المحكمة العليا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E1-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="378" END="401">ناطق باسم المحكمة العليا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001125.0300.0003-E12-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="388" END="401">المحكمة العليا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ANN20001125.0300.0003-EV1" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001125.0300.0003-E12" ROLE="Adjudicator"/>
+  <event_argument REFID="ANN20001125.0300.0003-E13" ROLE="Plaintiff"/>
+  <event_mention ID="ANN20001125.0300.0003-EV1-1">
+    <extent>
+      <charseq START="125" END="242">المحكمة العليا في واشنطن على النظر في احدى دعويي
+الاستئناف اللتين اقامهما المرشح الجمهوري للرئاسة الاميركية حاكم تكساس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="119" END="257">وافقت المحكمة العليا في واشنطن على النظر في احدى دعويي
+الاستئناف اللتين اقامهما المرشح الجمهوري للرئاسة الاميركية حاكم تكساس
+جورج دبليو بوش</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="174" END="182">الاستئناف</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001125.0300.0003-E12-28" ROLE="Adjudicator">
+      <extent>
+        <charseq START="125" END="148">المحكمة العليا في واشنطن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001125.0300.0003-E13-34" ROLE="Plaintiff">
+      <extent>
+        <charseq START="199" END="242">المرشح الجمهوري للرئاسة الاميركية حاكم تكساس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001125.0300.0003-EV2" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001125.0300.0003-E12" ROLE="Adjudicator"/>
+  <event_mention ID="ANN20001125.0300.0003-EV2-1">
+    <extent>
+      <charseq START="935" END="971">المحكمة في هذه المرحلة دعوى الاستئناف</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="929" END="1044">ورفضت المحكمة في هذه المرحلة دعوى الاستئناف الاخرى, لان شكوى مماثلة
+تنظر فيها محكمة الاستئناف الفيديرالية في اتلانتا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="963" END="971">الاستئناف</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001125.0300.0003-E12-17" ROLE="Adjudicator">
+      <extent>
+        <charseq START="935" END="941">المحكمة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001125.0300.0003-EV3" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001125.0300.0003-E13" ROLE="Plaintiff"/>
+  <event_mention ID="ANN20001125.0300.0003-EV3-1">
+    <extent>
+      <charseq START="702" END="706">دعواه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="685" END="924">وقد استند بوش في دعواه الى ان قرار المحكمة العليا في فلوريدا السماح
+باستمرار الفرز اليدوي حتى 26 تشرين الثاني, يخالف المادة 11 من الدستور
+التي تقضي باختيار الناخبين الكبار من كل ولاية ,بالطريقة التي تقررها
+الهيئة الاشتراعية, ,كونغرس الولاية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="702" END="706">دعواه</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001125.0300.0003-E13-13" ROLE="Plaintiff">
+      <extent>
+        <charseq START="706" END="706">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001125.0300.0003-EV4" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001125.0300.0003-E19" ROLE="Adjudicator"/>
+  <event_mention ID="ANN20001125.0300.0003-EV4-1">
+    <extent>
+      <charseq START="715" END="744">قرار المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="685" END="924">وقد استند بوش في دعواه الى ان قرار المحكمة العليا في فلوريدا السماح
+باستمرار الفرز اليدوي حتى 26 تشرين الثاني, يخالف المادة 11 من الدستور
+التي تقضي باختيار الناخبين الكبار من كل ولاية ,بالطريقة التي تقررها
+الهيئة الاشتراعية, ,كونغرس الولاية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="715" END="718">قرار</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001125.0300.0003-E19-24" ROLE="Adjudicator">
+      <extent>
+        <charseq START="720" END="744">المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001125.0300.0003-EV5" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001125.0300.0003-E3" ROLE="Adjudicator"/>
+  <event_mention ID="ANN20001125.0300.0003-EV5-1">
+    <extent>
+      <charseq START="593" END="628">الدعوى التي وافق قضاة المحكمة التسعة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="592" END="681">والدعوى التي وافق قضاة المحكمة التسعة على النظر فيها هي
+المتعلقة تحديداً بمقاطعة بالم بيتش</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="593" END="598">الدعوى</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001125.0300.0003-E3-8" ROLE="Adjudicator">
+      <extent>
+        <charseq START="610" END="628">قضاة المحكمة التسعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

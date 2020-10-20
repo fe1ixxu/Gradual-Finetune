@@ -1,0 +1,714 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001120.0700.0043.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001120.0700.0043">
+<entity ID="ALH20001120.0700.0043-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E1-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="250" END="250">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="250">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E1-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="353" END="358">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="358">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E1-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="394" END="399">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="399">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E1-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="254" END="274">شرطة الحدود البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="257">شرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E2-2" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="266" END="274">البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="274">البلغارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E2-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="292" END="298">بلغاريا</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="298">بلغاريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E2-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="123" END="131">البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="131">البلغارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البلغارية">
+      <charseq START="266" END="274">البلغارية</charseq>
+    </name>
+    <name NAME="بلغاريا">
+      <charseq START="292" END="298">بلغاريا</charseq>
+    </name>
+    <name NAME="البلغارية">
+      <charseq START="123" END="131">البلغارية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E3-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="312" END="346">سكان بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="315">سكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E4-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="388" END="399">عناصر الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="392">عناصر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E5" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E5-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="401" END="408">بالحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="408">بالحجارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E6" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001120.0700.0043-E6-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="427" END="430">جرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="430">جرحى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E7-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="317" END="346">بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="329">بلدة مادريتزا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بلدة مادريتزا">
+      <charseq START="317" END="329">بلدة مادريتزا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E8-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="331" END="346">قرب ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="346">ايفايلوفغراد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايفايلوفغراد">
+      <charseq START="335" END="346">ايفايلوفغراد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E9-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="88" END="99">صوفيا  أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="88" END="92">صوفيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صوفيا">
+      <charseq START="88" END="92">صوفيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E10-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="95" END="99">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="99">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="95" END="99">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E11-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="108" END="131">وزارة الداخلية البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="121">وزارة الداخلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E11-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="106" END="106">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="106">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وزارة الداخلية">
+      <charseq START="108" END="121">وزارة الداخلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E14-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="202" END="210">العراقيون</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="210">العراقيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="215" END="216">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="216">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="251" END="252">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="252">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="285" END="286">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="286">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="305" END="306">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="306">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="370" END="371">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="371">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="378" END="386">العراقيون</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="386">العراقيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="424" END="425">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="425">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E14-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="139" END="154">٤٧
+مهاجرا عراقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="147">مهاجرا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E15-26" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="149" END="154">عراقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="154">عراقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عراقيا">
+      <charseq START="149" END="154">عراقيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E16" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E16-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="259" END="274">الحدود البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="264">الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E16-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="170" END="195">الحدود اليونانية البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="170" END="175">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E17-28" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="177" END="195">اليونانية البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="177" END="195">اليونانية البلغارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليونانية البلغارية">
+      <charseq START="177" END="195">اليونانية البلغارية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E18-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="308" END="346">احد
+سكان بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="310">احد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001120.0700.0043-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E19-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="221" END="225">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="225">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001120.0700.0043-E19-31" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="230" END="231">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="231">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تركيا">
+      <charseq START="221" END="225">تركيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001120.0700.0043-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001120.0700.0043-E20-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="237" END="243">اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="243">اليونان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليونان">
+      <charseq START="237" END="243">اليونان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001120.0700.0043-T1">
+  <timex2_mention ID="ALH20001120.0700.0043-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-20</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001120.0700.0043-T2">
+  <timex2_mention ID="ALH20001120.0700.0043-T2-1">
+    <extent>
+      <charseq START="156" END="164">ليل السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001120.0700.0043-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="88" END="99">صوفيا  أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E10-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="95" END="99">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E9-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="88" END="99">صوفيا  أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="108" END="131">وزارة الداخلية البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E11-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="108" END="131">وزارة الداخلية البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E2-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="123" END="131">البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="139" END="154">٤٧
+مهاجرا عراقيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E14-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="139" END="154">٤٧
+مهاجرا عراقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E15-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="149" END="154">عراقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="170" END="195">الحدود اليونانية البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E16-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="170" END="195">الحدود اليونانية البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E17-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="177" END="195">اليونانية البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E16" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="254" END="274">شرطة الحدود البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E1-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="254" END="274">شرطة الحدود البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E16-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="259" END="274">الحدود البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="259" END="274">الحدود البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E16-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="259" END="274">الحدود البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E2-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="266" END="274">البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="388" END="399">عناصر الشرطة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E4-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="388" END="399">عناصر الشرطة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E1-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="394" END="399">الشرطة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E7" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="312" END="346">سكان بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E3-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="312" END="346">سكان بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E7-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="317" END="346">بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001120.0700.0043-R9" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001120.0700.0043-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001120.0700.0043-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001120.0700.0043-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="317" END="346">بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E7-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="317" END="346">بلدة مادريتزا قرب ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001120.0700.0043-E8-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="331" END="346">قرب ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001120.0700.0043-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001120.0700.0043-E14" ROLE="Person"/>
+  <event_argument REFID="ALH20001120.0700.0043-E16" ROLE="Place"/>
+  <event_argument REFID="ALH20001120.0700.0043-E11" ROLE="Agent"/>
+  <event_argument REFID="ALH20001120.0700.0043-T2" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001120.0700.0043-EV1-1">
+    <extent>
+      <charseq START="108" END="195">وزارة الداخلية البلغارية توقيف ٤٧
+مهاجرا عراقيا ليل السبت على الحدود اليونانية البلغارية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="102" END="195">اعلنت وزارة الداخلية البلغارية توقيف ٤٧
+مهاجرا عراقيا ليل السبت على الحدود اليونانية البلغارية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="133" END="137">توقيف</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E14-25" ROLE="Person">
+      <extent>
+        <charseq START="139" END="154">٤٧
+مهاجرا عراقيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E16-27" ROLE="Place">
+      <extent>
+        <charseq START="170" END="195">الحدود اليونانية البلغارية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E11-22" ROLE="Agent">
+      <extent>
+        <charseq START="108" END="131">وزارة الداخلية البلغارية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="156" END="164">ليل السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001120.0700.0043-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001120.0700.0043-E14" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001120.0700.0043-E2" ROLE="Destination"/>
+  <event_mention ID="ALH20001120.0700.0043-EV2-1">
+    <extent>
+      <charseq START="282" END="298">دخلوا الى بلغاريا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="245" END="298">واوقفتهم
+شرطة الحدود البلغارية بعدما دخلوا الى بلغاريا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="282" END="286">دخلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E14-8" ROLE="Artifact">
+      <extent>
+        <charseq START="285" END="286">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E2-16" ROLE="Destination">
+      <extent>
+        <charseq START="292" END="298">بلغاريا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001120.0700.0043-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001120.0700.0043-E14" ROLE="Attacker"/>
+  <event_argument REFID="ALH20001120.0700.0043-E4" ROLE="Target"/>
+  <event_argument REFID="ALH20001120.0700.0043-E5" ROLE="Instrument"/>
+  <event_mention ID="ALH20001120.0700.0043-EV3-1">
+    <extent>
+      <charseq START="374" END="408">رشق العراقيون عناصر الشرطة بالحجارة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="360" END="430">ولدى توقيفهم، رشق العراقيون عناصر الشرطة بالحجارة من دون ان
+يوقعوا جرحى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="374" END="376">رشق</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E14-11" ROLE="Attacker">
+      <extent>
+        <charseq START="378" END="386">العراقيون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E4-12" ROLE="Target">
+      <extent>
+        <charseq START="388" END="399">عناصر الشرطة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E5-13" ROLE="Instrument">
+      <extent>
+        <charseq START="401" END="408">بالحجارة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001120.0700.0043-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001120.0700.0043-E14" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001120.0700.0043-E20" ROLE="Destination"/>
+  <event_argument REFID="ALH20001120.0700.0043-E19" ROLE="Origin"/>
+  <event_mention ID="ALH20001120.0700.0043-EV4-1">
+    <extent>
+      <charseq START="212" END="243">قدموا من تركيا ومنها الى اليونان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="197" END="243">وكان العراقيون قدموا من تركيا ومنها الى اليونان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="212" END="216">قدموا</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E14-6" ROLE="Artifact">
+      <extent>
+        <charseq START="215" END="216">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E20-32" ROLE="Destination">
+      <extent>
+        <charseq START="237" END="243">اليونان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E19-30" ROLE="Origin">
+      <extent>
+        <charseq START="221" END="225">تركيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001120.0700.0043-EV5" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001120.0700.0043-E14" ROLE="Person"/>
+  <event_argument REFID="ALH20001120.0700.0043-E1" ROLE="Agent"/>
+  <event_mention ID="ALH20001120.0700.0043-EV5-1">
+    <extent>
+      <charseq START="246" END="252">اوقفتهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="245" END="298">واوقفتهم
+شرطة الحدود البلغارية بعدما دخلوا الى بلغاريا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="246" END="252">اوقفتهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E14-7" ROLE="Person">
+      <extent>
+        <charseq START="251" END="252">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001120.0700.0043-E1-3" ROLE="Agent">
+      <extent>
+        <charseq START="250" END="250">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

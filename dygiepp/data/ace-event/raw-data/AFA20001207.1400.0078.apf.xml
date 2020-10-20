@@ -1,0 +1,952 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001207.1400.0078.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001207.1400.0078">
+<entity ID="AFA20001207.1400.0078-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E1-2" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="504" END="529">للايرانية فيوليت رازق بانه</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="512">للايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للايرانية">
+      <charseq START="504" END="512">للايرانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E2-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="538" END="539">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="539">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E3-6" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="600" END="606">58 بلدا</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="606">بلدا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="701" END="712">مقر اليونسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="701" END="703">مقر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E5" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E5-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="384" END="390">الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="390">الأطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E6-8" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="841" END="848">بالعربية</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="848">بالعربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالعربية">
+      <charseq START="841" END="848">بالعربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E7-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="850" END="872">للبنانية نجلا نصير بشور</charseq>
+    </extent>
+    <head>
+      <charseq START="850" END="857">للبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للبنانية">
+      <charseq START="850" END="857">للبنانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E8-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="859" END="872">نجلا نصير بشور</charseq>
+    </extent>
+    <head>
+      <charseq START="859" END="872">نجلا نصير بشور</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نجلا نصير بشور">
+      <charseq START="859" END="872">نجلا نصير بشور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E9" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E9-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="884" END="891">المعاقين</charseq>
+    </extent>
+    <head>
+      <charseq START="884" END="891">المعاقين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E10-12" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1068" END="1075">الفارسية</charseq>
+    </extent>
+    <head>
+      <charseq START="1068" END="1075">الفارسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفارسية">
+      <charseq START="1068" END="1075">الفارسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E11-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="514" END="524">فيوليت رازق</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="524">فيوليت رازق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فيوليت رازق">
+      <charseq START="514" END="524">فيوليت رازق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E12-16" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="1493" END="1498">الشعوب</charseq>
+    </extent>
+    <head>
+      <charseq START="1493" END="1498">الشعوب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E12-17" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="1507" END="1508">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1507" END="1508">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E13" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="AFA20001207.1400.0078-E13-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1534" END="1534">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1534" END="1534">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E13-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1581" END="1581">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1581" END="1581">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E13-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1539" END="1553">الفائز بالجائزة</charseq>
+    </extent>
+    <head>
+      <charseq START="1539" END="1544">الفائز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E14-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="287" END="308">الفائزين بجائزةالمنظمة</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="294">الفائزين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E15" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E15-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="966" END="968">طفل</charseq>
+    </extent>
+    <head>
+      <charseq START="966" END="968">طفل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E15-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="970" END="970">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="970">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E16" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E16-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1010" END="1012">احد</charseq>
+    </extent>
+    <head>
+      <charseq START="1010" END="1012">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E16-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1006" END="1006">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1006" END="1006">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E16-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1014" END="1014">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1014" END="1014">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E17-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1089" END="1098">خمسة أولاد</charseq>
+    </extent>
+    <head>
+      <charseq START="1094" END="1098">أولاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E17-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1103" END="1104">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1103" END="1104">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E17-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1131" END="1132">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1131" END="1132">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E17-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1168" END="1180">هؤلاء الاطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="1174" END="1180">الاطفال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E17-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1200" END="1201">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1200" END="1201">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E17-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1206" END="1207">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1206" END="1207">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E17-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1162" END="1162">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1162">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E18" TYPE="GPE" SUBTYPE="Continent" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E18-33" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1186" END="1197">قارات مختلفة</charseq>
+    </extent>
+    <head>
+      <charseq START="1186" END="1190">قارات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E19" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001207.1400.0078-E19-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1212" END="1235">عائلات عانت ويلات الحروب</charseq>
+    </extent>
+    <head>
+      <charseq START="1212" END="1217">عائلات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E20-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="133" END="148">باريس 12-7 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="137">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E20-57" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="251" END="264">باريس مقرا لها</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="255">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E20-58" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="257" END="264">مقرا لها</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="260">مقرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باريس">
+      <charseq START="133" END="137">باريس</charseq>
+    </name>
+    <name NAME="باريس">
+      <charseq START="251" END="255">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E21" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E21-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1155" END="1157">مير</charseq>
+    </extent>
+    <head>
+      <charseq START="1155" END="1157">مير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مير">
+      <charseq START="1155" END="1157">مير</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E22-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="680" END="689">لجنة دولية</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="683">لجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E22-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="696" END="696">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="696">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E22-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="779" END="779">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="779" END="779">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E22-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="781" END="786">اللجنة</charseq>
+    </extent>
+    <head>
+      <charseq START="781" END="786">اللجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E23-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="903" END="931">لفئة
+الثلاثة شعر عاما وما دون</charseq>
+    </extent>
+    <head>
+      <charseq START="903" END="906">لفئة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E24" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E24-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1222" END="1222">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1222" END="1222">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E25-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="145" END="148">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="148">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="145" END="148">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E26-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="156" END="170">كويشيرو ماتسورا</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="170">كويشيرو ماتسورا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E26-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="173" END="235">مدير عام منظمة الأمم المتحدة
+للتربية والثقافة والعلوم (اليونسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="176">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كويشيرو ماتسورا">
+      <charseq START="156" END="170">كويشيرو ماتسورا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E28-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="302" END="308">المنظمة</charseq>
+    </extent>
+    <head>
+      <charseq START="302" END="308">المنظمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="580" END="587">اليونسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="587">اليونسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1259" END="1266">اليونسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="1259" END="1266">اليونسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="705" END="712">اليونسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="712">اليونسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1520" END="1526">المنظمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1520" END="1526">المنظمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="228" END="235">اليونسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="235">اليونسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="182" END="235">منظمة الأمم المتحدة
+للتربية والثقافة والعلوم (اليونسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="225">منظمة الأمم المتحدة
+للتربية والثقافة والعلوم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="238" END="241">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="241">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="243" END="243">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="243">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E28-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="263" END="264">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="264">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليونسكو">
+      <charseq START="580" END="587">اليونسكو</charseq>
+    </name>
+    <name NAME="اليونسكو">
+      <charseq START="1259" END="1266">اليونسكو</charseq>
+    </name>
+    <name NAME="اليونسكو">
+      <charseq START="705" END="712">اليونسكو</charseq>
+    </name>
+    <name NAME="اليونسكو">
+      <charseq START="228" END="235">اليونسكو</charseq>
+    </name>
+    <name NAME="منظمة الأمم المتحدة للتربية والثقافة والعلوم">
+      <charseq START="182" END="225">منظمة الأمم المتحدة
+للتربية والثقافة والعلوم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E29-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1391" END="1397">الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="1391" END="1397">الأطفال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E29-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="393" END="414">من هم في سن 13 وما دون</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="394">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E29-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="396" END="397">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="397">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1400.0078-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E30-60" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="416" END="437">للفرنسية أناييس
+فوغلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="423">للفرنسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للفرنسية">
+      <charseq START="416" END="423">للفرنسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1400.0078-E31-61" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="425" END="437">أناييس
+فوغلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="437">أناييس
+فوغلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E31-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="447" END="448">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="448">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أناييس فوغلاد">
+      <charseq START="425" END="437">أناييس
+فوغلاد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1400.0078-E32" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001207.1400.0078-E32-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1380" END="1388">للمراهقين</charseq>
+    </extent>
+    <head>
+      <charseq START="1380" END="1388">للمراهقين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1400.0078-E32-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="486" END="502">من بين 13 و18
+سنة</charseq>
+    </extent>
+    <head>
+      <charseq START="486" END="487">من</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="AFA20001207.1400.0078-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001207.1400.0078-V1-1">
+    <extent>
+      <charseq START="1564" END="1573">8000 دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001207.1400.0078-T1">
+  <timex2_mention ID="AFA20001207.1400.0078-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-07 14:24:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1400.0078-T2">
+  <timex2_mention ID="AFA20001207.1400.0078-T2-1">
+    <extent>
+      <charseq START="139" END="142">12-7</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1400.0078-T3">
+  <timex2_mention ID="AFA20001207.1400.0078-T3-1">
+    <extent>
+      <charseq START="267" END="278">اليوم
+الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1400.0078-T4">
+  <timex2_mention ID="AFA20001207.1400.0078-T4-1">
+    <extent>
+      <charseq START="310" END="319">للعام 2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1400.0078-T5">
+  <timex2_mention ID="AFA20001207.1400.0078-T5-1">
+    <extent>
+      <charseq START="717" END="741">4 و 5 كانون الأول (ديسمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1400.0078-T6">
+  <timex2_mention ID="AFA20001207.1400.0078-T6-1">
+    <extent>
+      <charseq START="1330" END="1337">عام 1997</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1400.0078-T7">
+  <timex2_mention ID="AFA20001207.1400.0078-T7-1">
+    <extent>
+      <charseq START="1352" END="1359">كل عامين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1400.0078-T8">
+  <timex2_mention ID="AFA20001207.1400.0078-T8-1">
+    <extent>
+      <charseq START="1586" END="1611">شهر نيسان
+(ابريل) عام 2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001207.1400.0078-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1400.0078-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1400.0078-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1400.0078-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="133" END="148">باريس 12-7 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E25-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="145" END="148">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E20-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="133" END="148">باريس 12-7 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1400.0078-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1400.0078-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1400.0078-E28" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1400.0078-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="173" END="235">مدير عام منظمة الأمم المتحدة
+للتربية والثقافة والعلوم (اليونسكو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E26-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="173" END="235">مدير عام منظمة الأمم المتحدة
+للتربية والثقافة والعلوم (اليونسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E28-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="182" END="235">منظمة الأمم المتحدة
+للتربية والثقافة والعلوم (اليونسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1400.0078-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1400.0078-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1400.0078-E30" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1400.0078-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="416" END="437">للفرنسية أناييس
+فوغلاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E31-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="425" END="437">أناييس
+فوغلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E30-60" ROLE="Arg-2">
+      <extent>
+        <charseq START="416" END="437">للفرنسية أناييس
+فوغلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1400.0078-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1400.0078-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1400.0078-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1400.0078-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="504" END="529">للايرانية فيوليت رازق بانه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E11-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="514" END="524">فيوليت رازق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E1-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="504" END="529">للايرانية فيوليت رازق بانه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1400.0078-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1400.0078-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1400.0078-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1400.0078-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="701" END="712">مقر اليونسكو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E28-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="705" END="712">اليونسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E4-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="701" END="712">مقر اليونسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1400.0078-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1400.0078-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1400.0078-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1400.0078-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="850" END="872">للبنانية نجلا نصير بشور</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E8-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="859" END="872">نجلا نصير بشور</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E7-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="850" END="872">للبنانية نجلا نصير بشور</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1400.0078-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1400.0078-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1400.0078-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1400.0078-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="257" END="264">مقرا لها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E28-56" ROLE="Arg-1">
+      <extent>
+        <charseq START="263" END="264">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1400.0078-E20-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="257" END="264">مقرا لها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001207.1400.0078-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001207.1400.0078-E4" ROLE="Place"/>
+  <event_argument REFID="AFA20001207.1400.0078-E22" ROLE="Entity"/>
+  <event_argument REFID="AFA20001207.1400.0078-T5" ROLE="Time-Holds"/>
+  <event_mention ID="AFA20001207.1400.0078-EV1-1">
+    <extent>
+      <charseq START="691" END="741">اجتمعت في
+مقر اليونسكو في 4 و 5 كانون الأول (ديسمبر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="564" END="769">وشارك في مسابقة اليونسكو 309 كتب من 58 بلدا، كتبت ب 35 لغة مختلفة.
+وتم اختيار 44 كتابا في تصفية اولية، تم عرضها على لجنة دولية اجتمعت في
+مقر اليونسكو في 4 و 5 كانون الأول (ديسمبر) قبل اعلان النتيجة النهائية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="691" END="696">اجتمعت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1400.0078-E4-7" ROLE="Place">
+      <extent>
+        <charseq START="701" END="712">مقر اليونسكو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1400.0078-E22-40" ROLE="Entity">
+      <extent>
+        <charseq START="696" END="696">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1400.0078-T5-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="717" END="741">4 و 5 كانون الأول (ديسمبر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1400.0078-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001207.1400.0078-E13" ROLE="Beneficiary"/>
+  <event_argument REFID="AFA20001207.1400.0078-V1" ROLE="Money"/>
+  <event_argument REFID="AFA20001207.1400.0078-E13" ROLE="Recipient"/>
+  <event_mention ID="AFA20001207.1400.0078-EV2-1">
+    <extent>
+      <charseq START="1539" END="1578">الفائز بالجائزة على مبلغ 8000 دولار تسلم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1532" END="1611">وسيحصل الفائز بالجائزة على مبلغ 8000 دولار تسلم له في شهر نيسان
+(ابريل) عام 2001</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1575" END="1578">تسلم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1400.0078-E13-47" ROLE="Beneficiary">
+      <extent>
+        <charseq START="1539" END="1553">الفائز بالجائزة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1400.0078-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="1564" END="1573">8000 دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1400.0078-E13-47" ROLE="Recipient">
+      <extent>
+        <charseq START="1539" END="1553">الفائز بالجائزة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1400.0078-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="AFA20001207.1400.0078-E17" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001207.1400.0078-E21" ROLE="Destination"/>
+  <event_mention ID="AFA20001207.1400.0078-EV3-1">
+    <extent>
+      <charseq START="1089" END="1157">خمسة أولاد ربحوا في مسابقة علمية وتمت دعوتهم للمشاركة في
+رحلة الى مير</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1042" END="1157">أما الكتاب المنشور باللغة الفارسية
+فيروي تجربة خمسة أولاد ربحوا في مسابقة علمية وتمت دعوتهم للمشاركة في
+رحلة الى مير</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1146" END="1149">رحلة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1400.0078-E17-27" ROLE="Artifact">
+      <extent>
+        <charseq START="1089" END="1098">خمسة أولاد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1400.0078-E21-37" ROLE="Destination">
+      <extent>
+        <charseq START="1155" END="1157">مير</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

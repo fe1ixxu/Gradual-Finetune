@@ -1,0 +1,1492 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001206.1800.0141.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001206.1800.0141">
+<entity ID="AFA20001206.1800.0141-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1582" END="1588">اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="1582" END="1588">اليونان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E1-63" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1431" END="1436">يوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1431" END="1436">يوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليونان">
+      <charseq START="1582" END="1588">اليونان</charseq>
+    </name>
+    <name NAME="يوناني">
+      <charseq START="1431" END="1436">يوناني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E2-6" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="468" END="494">الطرف القبرصي
+اليوناني وحده</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="472">الطرف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E2-54" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="1206" END="1228">الجانب القبرصي اليوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1206" END="1211">الجانب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E3-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="411" END="415">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="411" END="415">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-35" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="380" END="387">التركسية</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="387">التركسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-49" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="948" END="954">الاتراك</charseq>
+    </extent>
+    <head>
+      <charseq START="948" END="954">الاتراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-60" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="983" END="989">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="983" END="989">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-62" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1396" END="1402">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1396" END="1402">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-64" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1449" END="1452">تركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1449" END="1452">تركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-65" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1481" END="1487">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1481" END="1487">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-89" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="660" END="665">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="660" END="665">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E3-93" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1034" END="1040">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1034" END="1040">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تركيا">
+      <charseq START="411" END="415">تركيا</charseq>
+    </name>
+    <name NAME="التركسية">
+      <charseq START="380" END="387">التركسية</charseq>
+    </name>
+    <name NAME="الاتراك">
+      <charseq START="948" END="954">الاتراك</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="983" END="989">التركية</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="1396" END="1402">التركية</charseq>
+    </name>
+    <name NAME="تركي">
+      <charseq START="1449" END="1452">تركي</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="1481" END="1487">التركية</charseq>
+    </name>
+    <name NAME="التركي">
+      <charseq START="660" END="665">التركي</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="1034" END="1040">التركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E4-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="425" END="426">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="426">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="262" END="340">قوة الامم المتحدة لحفظ السلام في جزيرة قبرص المقسومة التي ستمدد
+مهمتها ستة اشهر</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="264">قوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="439" END="494">قوة السلام التي تعمل بموافقة الطرف القبرصي
+اليوناني وحده</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="441">قوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-13" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="450" END="453">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="453">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="455" END="455">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="455">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="584" END="609">لقوة الامم المتحدة في قبرص</charseq>
+    </extent>
+    <head>
+      <charseq START="584" END="587">لقوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-18" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="315" END="318">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="318">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="330" END="331">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="331">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="648" END="649">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="648" END="649">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1088" END="1106">لقوات الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1088" END="1092">لقوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="798" END="822">قوة الامم المتحدة في قبرص</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="800">قوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="913" END="929">قوة الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="915">قوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="908" END="908">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="908" END="908">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1609" END="1625">قوة الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1609" END="1611">قوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1603" END="1625">افراد قوة الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1603" END="1607">افراد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1641" END="1642">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1641" END="1642">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E5-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1649" END="1650">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1649" END="1650">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E6-15" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1213" END="1228">القبرصي اليوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1213" END="1228">القبرصي اليوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E6-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="474" END="489">القبرصي
+اليوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="489">القبرصي
+اليوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القبرصي اليوناني">
+      <charseq START="1213" END="1228">القبرصي اليوناني</charseq>
+    </name>
+    <name NAME="القبرصي اليوناني">
+      <charseq START="474" END="489">القبرصي
+اليوناني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E9-8" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="389" END="392">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="392">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-9" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="404" END="405">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="405">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="606" END="609">قبرص</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="609">قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="819" END="822">قبرص</charseq>
+    </extent>
+    <head>
+      <charseq START="819" END="822">قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-41" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1117" END="1123">الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1117" END="1123">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-42" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="965" END="989">جمهورية شمال قبرص
+التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="965" END="981">جمهورية شمال قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-52" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="1654" END="1655">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1654" END="1655">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-53" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="295" END="313">جزيرة قبرص المقسومة</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="304">جزيرة قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-55" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1377" END="1402">بجمهورية شمال قبرص التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1377" END="1394">بجمهورية شمال قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-57" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1344" END="1350">الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1344" END="1350">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-61" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1408" END="1411">قبرص</charseq>
+    </extent>
+    <head>
+      <charseq START="1408" END="1411">قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-67" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1570" END="1576">الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1570" END="1576">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-70" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1323" END="1326">دولة</charseq>
+    </extent>
+    <head>
+      <charseq START="1323" END="1326">دولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-71" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="1329" END="1339">حكومة
+موحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1329" END="1333">حكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-72" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1630" END="1633">قبرص</charseq>
+    </extent>
+    <head>
+      <charseq START="1630" END="1633">قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-82" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="362" END="415">جمهورية شمال قبرص التركسية التي لا تعترف بها سوى
+تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="378">جمهورية شمال قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E9-94" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="397" END="397">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="397">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قبرص">
+      <charseq START="606" END="609">قبرص</charseq>
+    </name>
+    <name NAME="قبرص">
+      <charseq START="819" END="822">قبرص</charseq>
+    </name>
+    <name NAME="جمهورية شمال قبرص">
+      <charseq START="965" END="981">جمهورية شمال قبرص</charseq>
+    </name>
+    <name NAME="جزيرة قبرص">
+      <charseq START="295" END="304">جزيرة قبرص</charseq>
+    </name>
+    <name NAME="بجمهورية شمال قبرص">
+      <charseq START="1377" END="1394">بجمهورية شمال قبرص</charseq>
+    </name>
+    <name NAME="قبرص">
+      <charseq START="1408" END="1411">قبرص</charseq>
+    </name>
+    <name NAME="قبرص">
+      <charseq START="1630" END="1633">قبرص</charseq>
+    </name>
+    <name NAME="جمهورية شمال قبرص">
+      <charseq START="362" END="378">جمهورية شمال قبرص</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E10-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1027" END="1040">القوات التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1027" END="1032">القوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E10-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1474" END="1487">القوات التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1474" END="1479">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E11" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E11-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="654" END="665">الشطر التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="654" END="658">الشطر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E12-27" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="712" END="727">القبرصية التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="712" END="727">القبرصية التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E12-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1009" END="1024">القبرصية التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1024">القبرصية التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E12-85" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="156" END="169">القبرصي-التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="169">القبرصي-التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القبرصية التركية">
+      <charseq START="712" END="727">القبرصية التركية</charseq>
+    </name>
+    <name NAME="القبرصية التركية">
+      <charseq START="1009" END="1024">القبرصية التركية</charseq>
+    </name>
+    <name NAME="القبرصي-التركي">
+      <charseq START="156" END="169">القبرصي-التركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E13-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="704" END="727">السلطات القبرصية التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="704" END="710">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E13-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="730" END="730">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="730" END="730">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E13-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="742" END="743">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="742" END="743">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E13-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1001" END="1024">السلطات القبرصية التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1001" END="1007">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E13-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="996" END="996">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="996" END="996">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E14" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E14-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1492" END="1503">شمال الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1497" END="1503">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E15-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="125" END="141">نيوسيا 12-6 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="130">نيوسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نيوسيا">
+      <charseq START="125" END="130">نيوسيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E16-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="939" END="954">القبارصة الاتراك</charseq>
+    </extent>
+    <head>
+      <charseq START="939" END="946">القبارصة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E19-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1069" END="1123">بأربع، نقاط العبور لقوات الامم المتحدة بين شطري الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1076" END="1079">نقاط</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E20-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1112" END="1123">شطري الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1115">شطري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E26-68" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1560" END="1564">اثينا</charseq>
+    </extent>
+    <head>
+      <charseq START="1560" END="1564">اثينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اثينا">
+      <charseq START="1560" END="1564">اثينا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E27-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1545" END="1555">الكولونيلات</charseq>
+    </extent>
+    <head>
+      <charseq START="1545" END="1555">الكولونيلات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E28" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E28-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1441" END="1446">الجنوب</charseq>
+    </extent>
+    <head>
+      <charseq START="1441" END="1446">الجنوب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E29-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="350" END="355">دنكطاش</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="355">دنكطاش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1165" END="1170">دنكطاس</charseq>
+    </extent>
+    <head>
+      <charseq START="1165" END="1170">دنكطاس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-45" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="783" END="788">دنكطاش</charseq>
+    </extent>
+    <head>
+      <charseq START="783" END="788">دنكطاش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1287" END="1287">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1287" END="1287">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-58" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1364" END="1365">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1364" END="1365">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-59" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1358" END="1358">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1358" END="1358">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-73" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="149" END="169">الزعيم القبرصي-التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="154">الزعيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-76" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="357" END="415">رئيس جمهورية شمال قبرص التركسية التي لا تعترف بها سوى
+تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="360">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E29-83" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="171" END="181">رؤوف دنكطاش</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="181">رؤوف دنكطاش</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دنكطاش">
+      <charseq START="350" END="355">دنكطاش</charseq>
+    </name>
+    <name NAME="دنكطاس">
+      <charseq START="1165" END="1170">دنكطاس</charseq>
+    </name>
+    <name NAME="دنكطاش">
+      <charseq START="783" END="788">دنكطاش</charseq>
+    </name>
+    <name NAME="رؤوف دنكطاش">
+      <charseq START="171" END="181">رؤوف دنكطاش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E30" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E30-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1457" END="1462">الشمال</charseq>
+    </extent>
+    <head>
+      <charseq START="1457" END="1462">الشمال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1800.0141-E32" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E32-74" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="138" END="141">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="141">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="138" END="141">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E36-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="525" END="528">انان</charseq>
+    </extent>
+    <head>
+      <charseq START="525" END="528">انان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E36-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1300" END="1303">انان</charseq>
+    </extent>
+    <head>
+      <charseq START="1300" END="1303">انان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E36-87" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="241" END="249">كوفي انان</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="249">كوفي انان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E36-88" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="214" END="239">الامين العام للامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="219">الامين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E36-92" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="681" END="681">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="681">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انان">
+      <charseq START="525" END="528">انان</charseq>
+    </name>
+    <name NAME="انان">
+      <charseq START="1300" END="1303">انان</charseq>
+    </name>
+    <name NAME="كوفي انان">
+      <charseq START="241" END="249">كوفي انان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1800.0141-E38" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1800.0141-E38-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1240" END="1252">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1240" END="1252">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E38-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="917" END="929">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="917" END="929">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E38-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="589" END="601">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="601">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E38-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="802" END="814">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="802" END="814">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E38-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1094" END="1106">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1094" END="1106">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E38-90" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="227" END="239">للامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="239">للامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E38-91" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="266" END="278">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="278">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1800.0141-E38-95" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1613" END="1625">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1613" END="1625">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الامم المتحدة">
+      <charseq START="1240" END="1252">الامم المتحدة</charseq>
+    </name>
+    <name NAME="الامم المتحدة">
+      <charseq START="917" END="929">الامم المتحدة</charseq>
+    </name>
+    <name NAME="الامم المتحدة">
+      <charseq START="589" END="601">الامم المتحدة</charseq>
+    </name>
+    <name NAME="الامم المتحدة">
+      <charseq START="802" END="814">الامم المتحدة</charseq>
+    </name>
+    <name NAME="الامم المتحدة">
+      <charseq START="1094" END="1106">الامم المتحدة</charseq>
+    </name>
+    <name NAME="للامم المتحدة">
+      <charseq START="227" END="239">للامم المتحدة</charseq>
+    </name>
+    <name NAME="الامم المتحدة">
+      <charseq START="266" END="278">الامم المتحدة</charseq>
+    </name>
+    <name NAME="الامم المتحدة">
+      <charseq START="1613" END="1625">الامم المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001206.1800.0141-T1">
+  <timex2_mention ID="AFA20001206.1800.0141-T1-1">
+    <extent>
+      <charseq START="501" END="517">مساء امس الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T2">
+  <timex2_mention ID="AFA20001206.1800.0141-T2-1">
+    <extent>
+      <charseq START="764" END="771">حتى الان</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T3">
+  <timex2_mention ID="AFA20001206.1800.0141-T3-1">
+    <extent>
+      <charseq START="1042" END="1067">منذ 30 حزيران/يونيو
+الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T4">
+  <timex2_mention ID="AFA20001206.1800.0141-T4-1">
+    <extent>
+      <charseq START="1264" END="1270">قبل سنة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T5">
+  <timex2_mention ID="AFA20001206.1800.0141-T5-1">
+    <extent>
+      <charseq START="1505" END="1511">في 1974</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T6">
+  <timex2_mention ID="AFA20001206.1800.0141-T6-1">
+    <extent>
+      <charseq START="1657" END="1664">منذ
+1964</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T7">
+  <timex2_mention ID="AFA20001206.1800.0141-T7-1">
+    <extent>
+      <charseq START="544" END="557">ستة اشهر جديدة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T8">
+  <timex2_mention ID="AFA20001206.1800.0141-T8-1">
+    <extent>
+      <charseq START="559" END="582">حتى 15
+حزيران/يونيو 2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T9">
+  <timex2_mention ID="AFA20001206.1800.0141-T9-1">
+    <extent>
+      <charseq START="1129" END="1159">في الرابع من كانون الاول/ديسمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T10">
+  <timex2_mention ID="AFA20001206.1800.0141-T10-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-06 22:24:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T11">
+  <timex2_mention ID="AFA20001206.1800.0141-T11-1">
+    <extent>
+      <charseq START="132" END="135">12-6</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T12">
+  <timex2_mention ID="AFA20001206.1800.0141-T12-1">
+    <extent>
+      <charseq START="183" END="195">اليوم
+الابعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1800.0141-T13">
+  <timex2_mention ID="AFA20001206.1800.0141-T13-1">
+    <extent>
+      <charseq START="333" END="340">ستة اشهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001206.1800.0141-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E38" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="584" END="609">لقوة الامم المتحدة في قبرص</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E5-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="584" END="609">لقوة الامم المتحدة في قبرص</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E38-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="589" END="601">الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1800.0141-R1-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1603" END="1625">افراد قوة الامم المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E5-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="1609" END="1625">قوة الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E38-95" ROLE="Arg-2">
+      <extent>
+        <charseq START="1613" END="1625">الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1800.0141-R1-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="798" END="822">قوة الامم المتحدة في قبرص</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E5-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="798" END="822">قوة الامم المتحدة في قبرص</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E38-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="802" END="814">الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1800.0141-R1-4" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="913" END="929">قوة الامم المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E5-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="913" END="929">قوة الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E38-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="917" END="929">الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1800.0141-R1-5" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1088" END="1106">لقوات الامم المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E5-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="1088" END="1106">لقوات الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E38-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="1094" END="1106">الامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R2" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="584" END="609">لقوة الامم المتحدة في قبرص</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E5-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="584" END="609">لقوة الامم المتحدة في قبرص</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E9-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="606" END="609">قبرص</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1800.0141-R2-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="798" END="822">قوة الامم المتحدة في قبرص</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E5-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="798" END="822">قوة الامم المتحدة في قبرص</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E9-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="819" END="822">قبرص</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1112" END="1123">شطري الجزيرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E20-51" ROLE="Arg-1">
+      <extent>
+        <charseq START="1112" END="1123">شطري الجزيرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E9-41" ROLE="Arg-2">
+      <extent>
+        <charseq START="1117" END="1123">الجزيرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E3" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E16" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001206.1800.0141-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="939" END="954">القبارصة الاتراك</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E3-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="948" END="954">الاتراك</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E16-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="939" END="954">القبارصة الاتراك</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R6-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="125" END="141">نيوسيا 12-6 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E32-74" ROLE="Arg-1">
+      <extent>
+        <charseq START="138" END="141">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E15-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="125" END="141">نيوسيا 12-6 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="149" END="169">الزعيم القبرصي-التركي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E29-73" ROLE="Arg-1">
+      <extent>
+        <charseq START="149" END="169">الزعيم القبرصي-التركي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E12-85" ROLE="Arg-2">
+      <extent>
+        <charseq START="156" END="169">القبرصي-التركي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E38" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="214" END="239">الامين العام للامم المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E36-88" ROLE="Arg-1">
+      <extent>
+        <charseq START="214" END="239">الامين العام للامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E38-90" ROLE="Arg-2">
+      <extent>
+        <charseq START="227" END="239">للامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="357" END="415">رئيس جمهورية شمال قبرص التركسية التي لا تعترف بها سوى
+تركيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E29-76" ROLE="Arg-1">
+      <extent>
+        <charseq START="357" END="415">رئيس جمهورية شمال قبرص التركسية التي لا تعترف بها سوى
+تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E9-82" ROLE="Arg-2">
+      <extent>
+        <charseq START="362" END="415">جمهورية شمال قبرص التركسية التي لا تعترف بها سوى
+تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="704" END="727">السلطات القبرصية التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E13-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="704" END="727">السلطات القبرصية التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E12-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="712" END="727">القبرصية التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1800.0141-R10-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1001" END="1024">السلطات القبرصية التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E13-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="1001" END="1024">السلطات القبرصية التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E12-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="1009" END="1024">القبرصية التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="654" END="665">الشطر التركي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E11-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="654" END="665">الشطر التركي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E3-89" ROLE="Arg-2">
+      <extent>
+        <charseq START="660" END="665">التركي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R16" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1027" END="1040">القوات التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E10-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="1027" END="1040">القوات التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E3-93" ROLE="Arg-2">
+      <extent>
+        <charseq START="1034" END="1040">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1800.0141-R16-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1474" END="1487">القوات التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E10-66" ROLE="Arg-1">
+      <extent>
+        <charseq START="1474" END="1487">القوات التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E3-65" ROLE="Arg-2">
+      <extent>
+        <charseq START="1481" END="1487">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1800.0141-R19" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1800.0141-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1800.0141-E26" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1800.0141-R19-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1545" END="1564">الكولونيلات في اثينا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E27-69" ROLE="Arg-1">
+      <extent>
+        <charseq START="1545" END="1555">الكولونيلات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1800.0141-E26-68" ROLE="Arg-2">
+      <extent>
+        <charseq START="1560" END="1564">اثينا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001206.1800.0141-EV1" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001206.1800.0141-E36" ROLE="Agent"/>
+  <event_argument REFID="AFA20001206.1800.0141-E9" ROLE="Place"/>
+  <event_mention ID="AFA20001206.1800.0141-EV1-1">
+    <extent>
+      <charseq START="1300" END="1350">انان التي تنص على قيام دولة وحكومة
+موحدة في الجزيرة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1128" END="1402">وفي الرابع من كانون الاول/ديسمبر رفض دنكطاس استئناف المفاوضات غير
+المباشرة مع الجانب القبرصي اليوناني تحت اشراف الامم المتحدة التي بدأت
+قبل سنة معربا عن استيائه من مقترحات انان التي تنص على قيام دولة وحكومة
+موحدة في الجزيرة، فيما يطالب هو بالاعتراف بجمهورية شمال قبرص التركية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1318" END="1321">قيام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1800.0141-E36-56" ROLE="Agent">
+      <extent>
+        <charseq START="1300" END="1303">انان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1800.0141-E9-57" ROLE="Place">
+      <extent>
+        <charseq START="1344" END="1350">الجزيرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1800.0141-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1800.0141-E10" ROLE="Agent"/>
+  <event_argument REFID="AFA20001206.1800.0141-T5" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001206.1800.0141-EV2-1">
+    <extent>
+      <charseq START="1469" END="1511">تدخل
+القوات التركية في شمال الجزيرة في 1974</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1407" END="1588">وقبرص مقسومة الى شطرين، يوناني في الجنوب وتركي في الشمال، منذ تدخل
+القوات التركية في شمال الجزيرة في 1974 ردا على الانقلاب الذي نفذه نظام
+الكولونيلات في اثينا لضم الجزيرة الى اليونان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1469" END="1472">تدخل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1800.0141-E10-66" ROLE="Agent">
+      <extent>
+        <charseq START="1474" END="1487">القوات التركية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1800.0141-T5-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="1505" END="1511">في 1974</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1800.0141-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1800.0141-E9" ROLE="Place"/>
+  <event_mention ID="AFA20001206.1800.0141-EV3-1">
+    <extent>
+      <charseq START="1521" END="1576">الانقلاب الذي نفذه نظام
+الكولونيلات في اثينا لضم الجزيرة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1407" END="1588">وقبرص مقسومة الى شطرين، يوناني في الجنوب وتركي في الشمال، منذ تدخل
+القوات التركية في شمال الجزيرة في 1974 ردا على الانقلاب الذي نفذه نظام
+الكولونيلات في اثينا لضم الجزيرة الى اليونان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1521" END="1528">الانقلاب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1800.0141-E9-67" ROLE="Place">
+      <extent>
+        <charseq START="1570" END="1576">الجزيرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1800.0141-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1800.0141-E5" ROLE="Agent"/>
+  <event_argument REFID="AFA20001206.1800.0141-E9" ROLE="Destination"/>
+  <event_argument REFID="AFA20001206.1800.0141-T6" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001206.1800.0141-EV4-1">
+    <extent>
+      <charseq START="1630" END="1664">قبرص 1210 وهم منتشرون فيها منذ
+1964</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1593" END="1664">ويبلغ عدد افراد قوة الامم المتحدة في قبرص 1210 وهم منتشرون فيها منذ
+1964</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1644" END="1650">منتشرون</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1800.0141-E5-80" ROLE="Agent">
+      <extent>
+        <charseq START="1649" END="1650">ون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1800.0141-E9-72" ROLE="Destination">
+      <extent>
+        <charseq START="1630" END="1633">قبرص</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1800.0141-T6-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="1657" END="1664">منذ
+1964</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

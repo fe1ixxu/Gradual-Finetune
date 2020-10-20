@@ -1,0 +1,602 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001116.1100.1830.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001116.1100.1830">
+<entity ID="VAR20001116.1100.1830-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E1-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="467" END="522">هذا حازم
+بيضين إذاعة العراق الحر إذاعة أوروبا الحرة عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="480">حازم
+بيضين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حازم بيضين">
+      <charseq START="471" END="480">حازم
+بيضين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E2-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="482" END="498">إذاعة العراق الحر</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="498">إذاعة العراق الحر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إذاعة العراق الحر">
+      <charseq START="482" END="498">إذاعة العراق الحر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E3-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="500" END="517">إذاعة أوروبا الحرة</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="517">إذاعة أوروبا الحرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إذاعة أوروبا الحرة">
+      <charseq START="500" END="517">إذاعة أوروبا الحرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E4-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="95" END="101">بالعراق</charseq>
+    </extent>
+    <head>
+      <charseq START="95" END="101">بالعراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالعراق">
+      <charseq START="95" END="101">بالعراق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E5-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="319" END="319">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="319">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E5-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="107" END="124">محكمة استئناف عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="124">محكمة استئناف عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E5-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="321" END="335">محكمة الاستئناف</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="335">محكمة الاستئناف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E5-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="129" END="129">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="129">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة استئناف عمان">
+      <charseq START="107" END="124">محكمة استئناف عمان</charseq>
+    </name>
+    <name NAME="محكمة الاستئناف">
+      <charseq START="321" END="335">محكمة الاستئناف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E6-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="519" END="522">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="522">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمان">
+      <charseq START="519" END="522">عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E7-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="151" END="170">محكمة نداء جزاء عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="170">محكمة نداء جزاء عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E7-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="387" END="406">محكمة نداء جزاء عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="406">محكمة نداء جزاء عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E7-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="413" END="413">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="413" END="413">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E7-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="415" END="425">هذه المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="419" END="425">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة نداء جزاء عمان">
+      <charseq START="151" END="170">محكمة نداء جزاء عمان</charseq>
+    </name>
+    <name NAME="محكمة نداء جزاء عمان">
+      <charseq START="387" END="406">محكمة نداء جزاء عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E8-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="242" END="246">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="246">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="242" END="246">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E9-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="292" END="292">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="292">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E9-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="350" END="355">للطيار</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="355">للطيار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E9-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="370" END="370">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="370">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E9-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="180">التيار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E9-20" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="191" END="194">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="194">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001116.1100.1830-E9-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="262" END="262">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="262">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001116.1100.1830-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E10-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="182" END="189">الإيطالي</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="189">الإيطالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإيطالي">
+      <charseq START="182" END="189">الإيطالي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001116.1100.1830-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001116.1100.1830-E11-21" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="216" END="223">الأردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="223">الأردنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأردنية">
+      <charseq START="216" END="223">الأردنية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="VAR20001116.1100.1830-V1" TYPE="Crime">
+  <value_mention ID="VAR20001116.1100.1830-V1-1">
+    <extent>
+      <charseq START="200" END="223">باختراق الأجواء الأردنية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="VAR20001116.1100.1830-V2" TYPE="Sentence">
+  <value_mention ID="VAR20001116.1100.1830-V2-1">
+    <extent>
+      <charseq START="264" END="284">بالحبس
+مدة ثلاث سنوات</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="VAR20001116.1100.1830-V3" TYPE="Sentence">
+  <value_mention ID="VAR20001116.1100.1830-V3-1">
+    <extent>
+      <charseq START="287" END="313">تغريمه عشرة مبلغ آلاف دينار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="VAR20001116.1100.1830-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="VAR20001116.1100.1830-V4-1">
+    <extent>
+      <charseq START="294" END="313">عشرة مبلغ آلاف دينار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="VAR20001116.1100.1830-T1">
+  <timex2_mention ID="VAR20001116.1100.1830-T1-1">
+    <extent>
+      <charseq START="225" END="236">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001116.1100.1830-T2">
+  <timex2_mention ID="VAR20001116.1100.1830-T2-1">
+    <extent>
+      <charseq START="39" END="60">11/16/2000 11:30:30.78</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001116.1100.1830-R1" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001116.1100.1830-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001116.1100.1830-E8" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001116.1100.1830-R1-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E9-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E8-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="242" END="246">بغداد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001116.1100.1830-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001116.1100.1830-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001116.1100.1830-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001116.1100.1830-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="467" END="522">هذا حازم
+بيضين إذاعة العراق الحر إذاعة أوروبا الحرة عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E1-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="467" END="522">هذا حازم
+بيضين إذاعة العراق الحر إذاعة أوروبا الحرة عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E2-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="482" END="498">إذاعة العراق الحر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001116.1100.1830-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001116.1100.1830-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001116.1100.1830-E10" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001116.1100.1830-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E9-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E10-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="182" END="189">الإيطالي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001116.1100.1830-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001116.1100.1830-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001116.1100.1830-E3" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001116.1100.1830-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="467" END="522">هذا حازم
+بيضين إذاعة العراق الحر إذاعة أوروبا الحرة عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E1-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="467" END="522">هذا حازم
+بيضين إذاعة العراق الحر إذاعة أوروبا الحرة عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001116.1100.1830-E3-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="500" END="517">إذاعة أوروبا الحرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001116.1100.1830-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001116.1100.1830-E9" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001116.1100.1830-E8" ROLE="Destination"/>
+  <event_argument REFID="VAR20001116.1100.1830-E11" ROLE="Origin"/>
+  <event_argument REFID="VAR20001116.1100.1830-T1" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001116.1100.1830-EV1-1">
+    <extent>
+      <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="313">من ناحية ثانية وعلى صعيد متصل بالعراق فإن محكمة استئناف عمان كشفت
+الحكم الصادر من قبل محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس
+مدة ثلاث سنوات وتغريمه عشرة مبلغ آلاف دينار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="200" END="206">باختراق</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E9-12" ROLE="Artifact">
+      <extent>
+        <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E8-18" ROLE="Destination">
+      <extent>
+        <charseq START="242" END="246">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E11-21" ROLE="Origin">
+      <extent>
+        <charseq START="216" END="223">الأردنية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="225" END="236">العام الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001116.1100.1830-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001116.1100.1830-E9" ROLE="Person"/>
+  <event_argument REFID="VAR20001116.1100.1830-E7" ROLE="Agent"/>
+  <event_argument REFID="VAR20001116.1100.1830-V1" ROLE="Crime"/>
+  <event_mention ID="VAR20001116.1100.1830-EV2-1">
+    <extent>
+      <charseq START="151" END="269">محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="313">من ناحية ثانية وعلى صعيد متصل بالعراق فإن محكمة استئناف عمان كشفت
+الحكم الصادر من قبل محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس
+مدة ثلاث سنوات وتغريمه عشرة مبلغ آلاف دينار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="264" END="269">بالحبس</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E9-12" ROLE="Person">
+      <extent>
+        <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E7-13" ROLE="Agent">
+      <extent>
+        <charseq START="151" END="170">محكمة نداء جزاء عمان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="200" END="223">باختراق الأجواء الأردنية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001116.1100.1830-EV3" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001116.1100.1830-E7" ROLE="Adjudicator"/>
+  <event_argument REFID="VAR20001116.1100.1830-E9" ROLE="Defendant"/>
+  <event_argument REFID="VAR20001116.1100.1830-V1" ROLE="Crime"/>
+  <event_mention ID="VAR20001116.1100.1830-EV3-1">
+    <extent>
+      <charseq START="131" END="246">الحكم الصادر من قبل محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="313">من ناحية ثانية وعلى صعيد متصل بالعراق فإن محكمة استئناف عمان كشفت
+الحكم الصادر من قبل محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس
+مدة ثلاث سنوات وتغريمه عشرة مبلغ آلاف دينار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="131" END="135">الحكم</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E7-13" ROLE="Adjudicator">
+      <extent>
+        <charseq START="151" END="170">محكمة نداء جزاء عمان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E9-12" ROLE="Defendant">
+      <extent>
+        <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="200" END="223">باختراق الأجواء الأردنية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001116.1100.1830-EV4" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001116.1100.1830-E9" ROLE="Entity"/>
+  <event_argument REFID="VAR20001116.1100.1830-E7" ROLE="Adjudicator"/>
+  <event_argument REFID="VAR20001116.1100.1830-V4" ROLE="Money"/>
+  <event_argument REFID="VAR20001116.1100.1830-V1" ROLE="Crime"/>
+  <event_mention ID="VAR20001116.1100.1830-EV4-1">
+    <extent>
+      <charseq START="151" END="313">محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس
+مدة ثلاث سنوات وتغريمه عشرة مبلغ آلاف دينار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="313">من ناحية ثانية وعلى صعيد متصل بالعراق فإن محكمة استئناف عمان كشفت
+الحكم الصادر من قبل محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس
+مدة ثلاث سنوات وتغريمه عشرة مبلغ آلاف دينار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="287" END="292">تغريمه</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E9-2" ROLE="Entity">
+      <extent>
+        <charseq START="292" END="292">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E7-13" ROLE="Adjudicator">
+      <extent>
+        <charseq START="151" END="170">محكمة نداء جزاء عمان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-V4-1" ROLE="Money">
+      <extent>
+        <charseq START="294" END="313">عشرة مبلغ آلاف دينار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="200" END="223">باختراق الأجواء الأردنية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001116.1100.1830-EV5" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001116.1100.1830-E7" ROLE="Adjudicator"/>
+  <event_argument REFID="VAR20001116.1100.1830-E9" ROLE="Defendant"/>
+  <event_argument REFID="VAR20001116.1100.1830-V2" ROLE="Sentence"/>
+  <event_argument REFID="VAR20001116.1100.1830-V3" ROLE="Sentence"/>
+  <event_argument REFID="VAR20001116.1100.1830-V1" ROLE="Crime"/>
+  <event_mention ID="VAR20001116.1100.1830-EV5-1">
+    <extent>
+      <charseq START="151" END="313">محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس
+مدة ثلاث سنوات وتغريمه عشرة مبلغ آلاف دينار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="313">من ناحية ثانية وعلى صعيد متصل بالعراق فإن محكمة استئناف عمان كشفت
+الحكم الصادر من قبل محكمة نداء جزاء عمان حق التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد والقاضي بإدانته بالحبس
+مدة ثلاث سنوات وتغريمه عشرة مبلغ آلاف دينار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="256" END="262">بإدانته</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E7-13" ROLE="Adjudicator">
+      <extent>
+        <charseq START="151" END="170">محكمة نداء جزاء عمان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E9-12" ROLE="Defendant">
+      <extent>
+        <charseq START="175" END="246">التيار الإيطالي الذي قام
+باختراق الأجواء الأردنية العام الماضي إلى بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-E9-22" ROLE="Defendant">
+      <extent>
+        <charseq START="262" END="262">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-V2-1" ROLE="Sentence">
+      <extent>
+        <charseq START="264" END="284">بالحبس
+مدة ثلاث سنوات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-V3-1" ROLE="Sentence">
+      <extent>
+        <charseq START="287" END="313">تغريمه عشرة مبلغ آلاف دينار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001116.1100.1830-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="200" END="223">باختراق الأجواء الأردنية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

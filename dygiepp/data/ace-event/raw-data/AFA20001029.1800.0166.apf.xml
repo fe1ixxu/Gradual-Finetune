@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001029.1800.0166.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001029.1800.0166">
+<entity ID="AFA20001029.1800.0166-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="329" END="353">الامير نايف بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="334">الامير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="355" END="375">وزير الداخلية السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="358">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E1-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="336" END="353">نايف بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="353">نايف بن عبد العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E1-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="382" END="382">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="382">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E1-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="540" END="553">الوزير السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="545">الوزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E1-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="558" END="558">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="558">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E1-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="616" END="616">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="616" END="616">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نايف بن عبد العزيز">
+      <charseq START="336" END="353">نايف بن عبد العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E4-6" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="369" END="375">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="375">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E4-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="547" END="553">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="553">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E4-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="738" END="745">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="738" END="745">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E4-41" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="171" END="178">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="178">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودي">
+      <charseq START="369" END="375">السعودي</charseq>
+    </name>
+    <name NAME="السعودي">
+      <charseq START="547" END="553">السعودي</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="738" END="745">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="171" END="178">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E5-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="378" END="389">نظيره اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="381">نظير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E5-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="391" END="398">حسين عرب</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="398">حسين عرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حسين عرب">
+      <charseq START="391" END="398">حسين عرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E7-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="384" END="389">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="389">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E7-29" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="770" END="774">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="774">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E7-42" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="181" END="187">اليمنية</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="187">اليمنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمني">
+      <charseq START="384" END="389">اليمني</charseq>
+    </name>
+    <name NAME="اليمن">
+      <charseq START="770" END="774">اليمن</charseq>
+    </name>
+    <name NAME="اليمنية">
+      <charseq START="181" END="187">اليمنية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E9-16" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="601" END="609">الالمانية</charseq>
+    </extent>
+    <head>
+      <charseq START="601" END="609">الالمانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E9-23" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="712" END="720">الالمانية</charseq>
+    </extent>
+    <head>
+      <charseq START="712" END="720">الالمانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E9-44" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="229" END="237">الالمانية</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="237">الالمانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الالمانية">
+      <charseq START="601" END="609">الالمانية</charseq>
+    </name>
+    <name NAME="الالمانية">
+      <charseq START="712" END="720">الالمانية</charseq>
+    </name>
+    <name NAME="الالمانية">
+      <charseq START="229" END="237">الالمانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E10-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="672" END="684">اللجنة الفنية</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="677">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E10-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="663" END="663">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="663" END="663">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E12" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E12-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="727" END="774">الحدود بين السعودية وسلطنة عمان وبين عمان
+واليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="732">الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E12-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="875" END="880">الحدود</charseq>
+    </extent>
+    <head>
+      <charseq START="875" END="880">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E13-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="748" END="757">سلطنة عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="757">سلطنة عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E13-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="764" END="767">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="767">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سلطنة عمان">
+      <charseq START="748" END="757">سلطنة عمان</charseq>
+    </name>
+    <name NAME="عمان">
+      <charseq START="764" END="767">عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E14-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="795" END="833">اللجنة العسكرية المكلفة اعداد جدول زمني</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="800">اللجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E15-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="849" END="863">القوات العسكرية</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="854">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E16-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="869" END="880">جانبي الحدود</charseq>
+    </extent>
+    <head>
+      <charseq START="869" END="873">جانبي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E17-37" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="135" END="152">الرياض 10-29 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="140">الرياض</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياض">
+      <charseq START="135" END="140">الرياض</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E18" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E18-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="149" END="152">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="152">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="149" END="152">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E19-34" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="914" END="920">البلدان</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="920">البلدان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E19-35" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="949" END="951">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="949" END="951">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E19-36" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="983" END="983">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="983" END="983">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E19-39" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="161" END="187">الحكومتان السعودية واليمنية</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="169">الحكومتان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E19-40" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="159" END="159">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="159">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E19-46" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="283" END="285">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="285">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E19-49" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="312" END="318">البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="318">البلدين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E24-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="594" END="609">الشركة
+الالمانية</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="599">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E24-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="689" END="694">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="694">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E24-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="703" END="703">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="703" END="703">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E24-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="705" END="720">الشركة الالمانية</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="710">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E24-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="725" END="725">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="725">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E24-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="207" END="237">شركة "هانزالوفت بيلد" الالمانية</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="226">شركة "هانزالوفت بيلد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة هانزالوفت بيلد">
+      <charseq START="207" END="226">شركة "هانزالوفت بيلد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001029.1800.0166-E26" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E26-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="260" END="285">طول الحدود
+المشتركة بينهما</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="269">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E27-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="299" END="318">وزيرا داخلية البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="303">وزيرا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001029.1800.0166-E28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001029.1800.0166-E28-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="360" END="367">الداخلية</charseq>
+    </extent>
+    <head>
+      <charseq START="360" END="367">الداخلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001029.1800.0166-E28-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="305" END="318">داخلية البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="310">داخلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الداخلية">
+      <charseq START="360" END="367">الداخلية</charseq>
+    </name>
+    <name NAME="داخلية">
+      <charseq START="305" END="310">داخلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001029.1800.0166-T1">
+  <timex2_mention ID="AFA20001029.1800.0166-T1-1">
+    <extent>
+      <charseq START="452" END="456">يومين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001029.1800.0166-T2">
+  <timex2_mention ID="AFA20001029.1800.0166-T2-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-29 19:24:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001029.1800.0166-T3">
+  <timex2_mention ID="AFA20001029.1800.0166-T3-1">
+    <extent>
+      <charseq START="142" END="146">10-29</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001029.1800.0166-T4">
+  <timex2_mention ID="AFA20001029.1800.0166-T4-1">
+    <extent>
+      <charseq START="189" END="199">اليوم الاحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001029.1800.0166-T5">
+  <timex2_mention ID="AFA20001029.1800.0166-T5-1">
+    <extent>
+      <charseq START="510" END="528">حزيران/يونيو الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001029.1800.0166-T6">
+  <timex2_mention ID="AFA20001029.1800.0166-T6-1">
+    <extent>
+      <charseq START="886" END="907">في حزيران/يونيو الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001029.1800.0166-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="135" END="152">الرياض 10-29 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E18-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="149" END="152">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E17-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="135" END="152">الرياض 10-29 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="207" END="237">شركة "هانزالوفت بيلد" الالمانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E24-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="207" END="237">شركة "هانزالوفت بيلد" الالمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E9-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="229" END="237">الالمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001029.1800.0166-R2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="594" END="609">الشركة
+الالمانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E24-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="594" END="609">الشركة
+الالمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E9-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="601" END="609">الالمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001029.1800.0166-R2-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="705" END="720">الشركة الالمانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E24-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="705" END="720">الشركة الالمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E9-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="712" END="720">الالمانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E28" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="299" END="318">وزيرا داخلية البلدين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E27-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="299" END="318">وزيرا داخلية البلدين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E28-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="305" END="318">داخلية البلدين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="299" END="318">وزيرا داخلية البلدين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E28-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="305" END="318">داخلية البلدين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E19-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="312" END="318">البلدين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E28" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="355" END="375">وزير الداخلية السعودي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E1-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="355" END="375">وزير الداخلية السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E28-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="360" END="367">الداخلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R6" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="378" END="389">نظيره اليمني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E5-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="378" END="389">نظيره اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E1-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="382" END="382">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="540" END="553">الوزير السعودي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E1-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="540" END="553">الوزير السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E4-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="547" END="553">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="727" END="774">الحدود بين السعودية وسلطنة عمان وبين عمان
+واليمن</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E12-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="727" END="774">الحدود بين السعودية وسلطنة عمان وبين عمان
+واليمن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E4-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="738" END="745">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001029.1800.0166-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001029.1800.0166-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001029.1800.0166-E16" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001029.1800.0166-R11-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="869" END="880">جانبي الحدود</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E12-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="875" END="880">الحدود</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001029.1800.0166-E16-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="869" END="880">جانبي الحدود</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001029.1800.0166-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001029.1800.0166-E1" ROLE="Entity"/>
+  <event_argument REFID="AFA20001029.1800.0166-E5" ROLE="Entity"/>
+  <event_argument REFID="AFA20001029.1800.0166-T1" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001029.1800.0166-EV1-1">
+    <extent>
+      <charseq START="329" END="456">الامير نايف بن عبد العزيز وزير الداخلية السعودي ونظيره اليمني
+حسين عرب القرار خلال مؤتمر صحافي مشترك في اعقاب اجتماع استمر يومين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="323" END="528">واعلن الامير نايف بن عبد العزيز وزير الداخلية السعودي ونظيره اليمني
+حسين عرب القرار خلال مؤتمر صحافي مشترك في اعقاب اجتماع استمر يومين تمت
+خلاله تسوية آلية تطبيق اتفاق حدودي تم توقيعه في حزيران/يونيو الماضي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="439" END="444">اجتماع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001029.1800.0166-E1-2" ROLE="Entity">
+      <extent>
+        <charseq START="329" END="353">الامير نايف بن عبد العزيز</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001029.1800.0166-E5-8" ROLE="Entity">
+      <extent>
+        <charseq START="378" END="389">نظيره اليمني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001029.1800.0166-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="452" END="456">يومين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

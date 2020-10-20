@@ -1,0 +1,1166 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001206.1000.0064.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001206.1000.0064">
+<entity ID="AFA20001206.1000.0064-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E1-3" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="424" END="433">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="433">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E1-7" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="652" END="661">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="652" END="661">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E1-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="743" END="752">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="752">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E1-11" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="885" END="894">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="885" END="894">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E1-44" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="212" END="221">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="221">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E1-54" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="403" END="409">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="409">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسرائيلي">
+      <charseq START="424" END="433">الاسرائيلي</charseq>
+    </name>
+    <name NAME="الاسرائيلي">
+      <charseq START="652" END="661">الاسرائيلي</charseq>
+    </name>
+    <name NAME="الاسرائيلي">
+      <charseq START="743" END="752">الاسرائيلي</charseq>
+    </name>
+    <name NAME="الاسرائيلي">
+      <charseq START="885" END="894">الاسرائيلي</charseq>
+    </name>
+    <name NAME="الاسرائيلي">
+      <charseq START="212" END="221">الاسرائيلي</charseq>
+    </name>
+    <name NAME="اسرائيل">
+      <charseq START="403" END="409">اسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E2-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="568" END="572">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="572">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="568" END="572">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E3-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="583" END="590">قطاع غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="590">قطاع غزة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قطاع غزة">
+      <charseq START="583" END="590">قطاع غزة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E7-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="545" END="557">الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="557">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E7-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="131" END="143">الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="143">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E7-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1036" END="1049">بالضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1049">بالضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الضفة الغربية">
+      <charseq START="545" END="557">الضفة الغربية</charseq>
+    </name>
+    <name NAME="الضفة الغربية">
+      <charseq START="131" END="143">الضفة الغربية</charseq>
+    </name>
+    <name NAME="بالضفة الغربية">
+      <charseq START="1036" END="1049">بالضفة الغربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E8" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E8-16" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="252" END="266">الاراضي المحتلة</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="258">الاراضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E8-18" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="385" END="393">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="393">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E8-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1069" END="1076">فلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1069" END="1076">فلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطيني">
+      <charseq START="385" END="393">الفلسطيني</charseq>
+    </name>
+    <name NAME="فلسطينية">
+      <charseq START="1069" END="1076">فلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E9-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="482" END="503">اطفال دون الثامنة عشرة</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="486">اطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E10-21" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="541" END="572">مدن الضفة الغربية بما فيها القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="543">مدن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E10-22" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="565" END="566">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="565" END="566">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E11-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="980" END="995">ثمانية فلسطينسين</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="995">فلسطينسين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E12-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1000" END="1049">قرية
+المغير شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1010">قرية
+المغير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قرية المغير">
+      <charseq START="1000" END="1010">قرية
+المغير</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E13-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1012" END="1049">شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1021" END="1034">مدينة رام الله</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E14-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1063" END="1076">مصادر
+فلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1063" END="1067">مصادر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E14-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1061" END="1061">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1061" END="1061">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E16-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1097" END="1098">لا</charseq>
+    </extent>
+    <head>
+      <charseq START="1097" END="1098">لا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E16-36" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="1081" END="1091">اثنين اخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="1081" END="1085">اثنين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E17-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1103" END="1151">قرية عقريا القريبة من نابلس في شمال
+الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1103" END="1112">قرية عقريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قرية عقريا">
+      <charseq START="1103" END="1112">قرية عقريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E18-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1125" END="1151">نابلس في شمال
+الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1125" END="1129">نابلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نابلس">
+      <charseq START="1125" END="1129">نابلس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E19-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="122" END="155">بيت لحم (الضفة الغربية) 12-6 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="128">بيت لحم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيت لحم">
+      <charseq START="122" END="128">بيت لحم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E20-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="627" END="661">المناطق الخاضعة
+للاحتلال الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="633">المناطق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E21-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="727" END="731">قراقع</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="731">قراقع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E21-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="346" END="409">رئيس المؤسسة التي تعني بشؤون المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="349">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E21-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="335" END="344">عيسى قراقع</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="344">عيسى قراقع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قراقع">
+      <charseq START="727" END="731">قراقع</charseq>
+    </name>
+    <name NAME="عيسى قراقع">
+      <charseq START="335" END="344">عيسى قراقع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E23-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="375" END="409">المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="383">المعتقلين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E24" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E24-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="152" END="155">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="155">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="152" END="155">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E25-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="351" END="409">المؤسسة التي تعني بشؤون المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="357">المؤسسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E25-52" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="359" END="362">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="362">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E25-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="364" END="364">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="364">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E26-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="418" END="433">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="422">الجيش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E26-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="737" END="752">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="741">الجيش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E26-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="879" END="894">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="879" END="883">الجيش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E26-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="945" END="949">الجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="949">الجيش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E26-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="874" END="874">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="874">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E26-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="962" END="962">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="962" END="962">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E26-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="972" END="972">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="972" END="972">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E26-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="206" END="221">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="210">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E29-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="435" END="443">500 فلسطي</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="443">فلسطي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E29-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="479" END="480">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="480">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E29-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="801" END="802">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="802">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E29-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="237" END="266">500 فلسطيني في
+الاراضي المحتلة</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="247">فلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1000.0064-E29-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="785" END="790">لهؤلاء</charseq>
+    </extent>
+    <head>
+      <charseq START="785" END="790">لهؤلاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E30" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001206.1000.0064-E30-45" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="229" END="266">اكثر من 500 فلسطيني في
+الاراضي المحتلة</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="232">اكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E31-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="691" END="708">لوحدات عسكرية خاصة</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="696">لوحدات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E33" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E33-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1134" END="1151">شمال
+الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1139" END="1151">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1000.0064-E34" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E34-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="185">نادي الاسير الفسلطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="185">نادي الاسير الفسلطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نادي الاسير الفسلطيني">
+      <charseq START="165" END="185">نادي الاسير الفسلطيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1000.0064-E35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1000.0064-E35-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="398" END="409">سجون اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="401">سجون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001206.1000.0064-T1">
+  <timex2_mention ID="AFA20001206.1000.0064-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-06 13:28:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1000.0064-T2">
+  <timex2_mention ID="AFA20001206.1000.0064-T2-1">
+    <extent>
+      <charseq START="146" END="149">12-6</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1000.0064-T3">
+  <timex2_mention ID="AFA20001206.1000.0064-T3-1">
+    <extent>
+      <charseq START="297" END="325">اواخر شهر ايلول/سبتمبر
+الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1000.0064-T4">
+  <timex2_mention ID="AFA20001206.1000.0064-T4-1">
+    <extent>
+      <charseq START="964" END="968">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1000.0064-T5">
+  <timex2_mention ID="AFA20001206.1000.0064-T5-1">
+    <extent>
+      <charseq START="188" END="201">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001206.1000.0064-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="206" END="221">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E26-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="206" END="221">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E1-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="212" END="221">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1000.0064-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="418" END="433">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E26-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="418" END="433">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E1-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="424" END="433">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1000.0064-R1-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="737" END="752">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E26-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="752">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E1-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="743" END="752">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1000.0064-R1-4" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="879" END="894">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E26-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="879" END="894">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E1-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="885" END="894">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="122" END="155">بيت لحم (الضفة الغربية) 12-6 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E24-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="152" END="155">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E19-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="122" END="155">بيت لحم (الضفة الغربية) 12-6 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="122" END="155">بيت لحم (الضفة الغربية) 12-6 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E19-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="122" END="155">بيت لحم (الضفة الغربية) 12-6 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E7-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="131" END="143">الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R4" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E8" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E29" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001206.1000.0064-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="237" END="266">500 فلسطيني في
+الاراضي المحتلة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E8-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="252" END="266">الاراضي المحتلة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E29-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="237" END="266">500 فلسطيني في
+الاراضي المحتلة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="541" END="572">مدن الضفة الغربية بما فيها القدس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E10-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="541" END="572">مدن الضفة الغربية بما فيها القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E7-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="545" END="557">الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R9" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1000" END="1049">قرية
+المغير شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E12-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="1000" END="1049">قرية
+المغير شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E13-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="1012" END="1049">شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R10" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1103" END="1151">قرية عقريا القريبة من نابلس في شمال
+الضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E17-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="1103" END="1151">قرية عقريا القريبة من نابلس في شمال
+الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E18-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="1125" END="1151">نابلس في شمال
+الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E33" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1125" END="1151">نابلس في شمال
+الضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E18-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="1125" END="1151">نابلس في شمال
+الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E33-50" ROLE="Arg-2">
+      <extent>
+        <charseq START="1134" END="1151">شمال
+الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R12" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1063" END="1076">مصادر
+فلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E14-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="1063" END="1076">مصادر
+فلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E8-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="1069" END="1076">فلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E25" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R13-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="346" END="409">رئيس المؤسسة التي تعني بشؤون المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E21-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="346" END="409">رئيس المؤسسة التي تعني بشؤون المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E25-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="351" END="409">المؤسسة التي تعني بشؤون المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R14" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="375" END="409">المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E23-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="375" END="409">المعتقلين الفلسطيني في
+سجون اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E8-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="385" END="393">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R15" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E35" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="398" END="409">سجون اسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E1-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="403" END="409">اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E35-55" ROLE="Arg-2">
+      <extent>
+        <charseq START="398" END="409">سجون اسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1000.0064-R16" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1000.0064-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1000.0064-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1000.0064-R16-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1012" END="1049">شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E13-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="1012" END="1049">شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1000.0064-E7-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="1036" END="1049">بالضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001206.1000.0064-EV1" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-E26" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001206.1000.0064-E29" ROLE="Defendant"/>
+  <event_mention ID="AFA20001206.1000.0064-EV1-1">
+    <extent>
+      <charseq START="737" END="802">الجيش الاسرائيلي "عقد محاكمات سريعة غير
+قانونية لهؤلاء واصدر بحقهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="714" END="864">واستنادا الى قراقع فان الجيش الاسرائيلي "عقد محاكمات سريعة غير
+قانونية لهؤلاء واصدر بحقهم احكاما شديدة اضيف اليها غرامات مالية باهظة
+في كثير من الحالات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="759" END="765">محاكمات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E26-9" ROLE="Adjudicator">
+      <extent>
+        <charseq START="737" END="752">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E29-35" ROLE="Defendant">
+      <extent>
+        <charseq START="801" END="802">هم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001206.1000.0064-EV2-1">
+    <extent>
+      <charseq START="279" END="325">الانتفاضة الحالية اواخر شهر ايلول/سبتمبر
+الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="160" END="325">اكد "نادي الاسير الفسلطيني"
+اليوم الاربعاء ان الجيش الاسرائيلي اعتقل اكثر من 500 فلسطيني في
+الاراضي المحتلة منذ اندلاع الانتفاضة الحالية اواخر شهر ايلول/سبتمبر
+الماضي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="279" END="287">الانتفاضة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="297" END="325">اواخر شهر ايلول/سبتمبر
+الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-E30" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1000.0064-E26" ROLE="Agent"/>
+  <event_mention ID="AFA20001206.1000.0064-EV3-1">
+    <extent>
+      <charseq START="206" END="266">الجيش الاسرائيلي اعتقل اكثر من 500 فلسطيني في
+الاراضي المحتلة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="160" END="325">اكد "نادي الاسير الفسلطيني"
+اليوم الاربعاء ان الجيش الاسرائيلي اعتقل اكثر من 500 فلسطيني في
+الاراضي المحتلة منذ اندلاع الانتفاضة الحالية اواخر شهر ايلول/سبتمبر
+الماضي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="223" END="227">اعتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E30-45" ROLE="Person">
+      <extent>
+        <charseq START="229" END="266">اكثر من 500 فلسطيني في
+الاراضي المحتلة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E26-43" ROLE="Agent">
+      <extent>
+        <charseq START="206" END="221">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV4" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-E26" ROLE="Agent"/>
+  <event_argument REFID="AFA20001206.1000.0064-E29" ROLE="Person"/>
+  <event_mention ID="AFA20001206.1000.0064-EV4-1">
+    <extent>
+      <charseq START="412" END="443">اعتقل الجيش الاسرائيلي 500 فلسطي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="330" END="503">وقال عيسى قراقع رئيس المؤسسة التي تعني بشؤون المعتقلين الفلسطيني في
+سجون اسرائيل "اعتقل الجيش الاسرائيلي 500 فلسطي على الاقل منذ اندلاع
+الانتفاضة نصفهم اطفال دون الثامنة عشرة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="412" END="416">اعتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E26-2" ROLE="Agent">
+      <extent>
+        <charseq START="418" END="433">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E29-4" ROLE="Person">
+      <extent>
+        <charseq START="435" END="443">500 فلسطي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV5" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-E10" ROLE="Place"/>
+  <event_mention ID="AFA20001206.1000.0064-EV5-1">
+    <extent>
+      <charseq START="525" END="572">الاعتقال جرت في مدن الضفة الغربية بما فيها القدس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="509" END="708">واوضح ان عمليات الاعتقال جرت في مدن الضفة الغربية بما فيها القدس
+وايضا في قطاع غزة مضيفا "تمت معظم عمليات الاعتقال في المناطق الخاضعة
+للاحتلال الاسرائيلي اوعبر حواجز عسكرية او مهمات لوحدات عسكرية خاصة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="525" END="532">الاعتقال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E10-21" ROLE="Place">
+      <extent>
+        <charseq START="541" END="572">مدن الضفة الغربية بما فيها القدس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-E20" ROLE="Place"/>
+  <event_mention ID="AFA20001206.1000.0064-EV6-1">
+    <extent>
+      <charseq START="615" END="661">الاعتقال في المناطق الخاضعة
+للاحتلال الاسرائيلي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="509" END="708">واوضح ان عمليات الاعتقال جرت في مدن الضفة الغربية بما فيها القدس
+وايضا في قطاع غزة مضيفا "تمت معظم عمليات الاعتقال في المناطق الخاضعة
+للاحتلال الاسرائيلي اوعبر حواجز عسكرية او مهمات لوحدات عسكرية خاصة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="615" END="622">الاعتقال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E20-37" ROLE="Place">
+      <extent>
+        <charseq START="627" END="661">المناطق الخاضعة
+للاحتلال الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001206.1000.0064-EV7-1">
+    <extent>
+      <charseq START="923" END="930">الاعتقال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="870" END="934">ولم يعلن الجيش الاسرائيلي سوى عن عدد محدود من عمليات الاعتقال هذه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="923" END="930">الاعتقال</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV8" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-E26" ROLE="Agent"/>
+  <event_argument REFID="AFA20001206.1000.0064-E11" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1000.0064-E12" ROLE="Place"/>
+  <event_mention ID="AFA20001206.1000.0064-EV8-1">
+    <extent>
+      <charseq START="972" END="1049">ه اعتقل ثمانية فلسطينسين في قرية
+المغير شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="940" END="1049">وقال الجيش في بيان وزعه اليوم انه اعتقل ثمانية فلسطينسين في قرية
+المغير شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="974" END="978">اعتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E26-33" ROLE="Agent">
+      <extent>
+        <charseq START="972" END="972">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E11-24" ROLE="Person">
+      <extent>
+        <charseq START="980" END="995">ثمانية فلسطينسين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E12-25" ROLE="Place">
+      <extent>
+        <charseq START="1000" END="1049">قرية
+المغير شمال شرق مدينة رام الله بالضفة الغربية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001206.1000.0064-EV9" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001206.1000.0064-E16" ROLE="Person"/>
+  <event_argument REFID="AFA20001206.1000.0064-E17" ROLE="Place"/>
+  <event_mention ID="AFA20001206.1000.0064-EV9-1">
+    <extent>
+      <charseq START="1081" END="1151">اثنين اخرين اعتقلا في قرية عقريا القريبة من نابلس في شمال
+الضفة الغربية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1051" END="1151">في حين قالت مصادر
+فلسطينية ان اثنين اخرين اعتقلا في قرية عقريا القريبة من نابلس في شمال
+الضفة الغربية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1093" END="1097">اعتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E16-36" ROLE="Person">
+      <extent>
+        <charseq START="1081" END="1091">اثنين اخرين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1000.0064-E17-31" ROLE="Place">
+      <extent>
+        <charseq START="1103" END="1151">قرية عقريا القريبة من نابلس في شمال
+الضفة الغربية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

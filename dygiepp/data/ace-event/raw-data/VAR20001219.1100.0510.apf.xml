@@ -1,0 +1,1116 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001219.1100.0510.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001219.1100.0510">
+<entity ID="VAR20001219.1100.0510-E1" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="149" END="171">الحدود مع دولة الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="154">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E2-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="415" END="418">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="418">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E2-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1523" END="1526">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1523" END="1526">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمان">
+      <charseq START="415" END="418">عمان</charseq>
+    </name>
+    <name NAME="عمان">
+      <charseq START="1523" END="1526">عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E3-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="446" END="453">الإيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="453">الإيراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-10" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="470" END="473">بلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="473">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-12" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="476" END="476">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="476">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="517" END="521">إيران</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="521">إيران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-24" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="662" END="666">إيران</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="666">إيران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-25" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="669" END="669">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="669">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-42" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1046" END="1053">الإيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="1046" END="1053">الإيراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-67" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="126" END="130">إيران</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="130">إيران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-68" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="76" END="83">الإيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="76" END="83">الإيراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-69" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="146" END="147">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="147">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-72" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="132" END="132">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="132">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E3-73" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="186" END="186">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="186">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإيراني">
+      <charseq START="446" END="453">الإيراني</charseq>
+    </name>
+    <name NAME="إيران">
+      <charseq START="517" END="521">إيران</charseq>
+    </name>
+    <name NAME="إيران">
+      <charseq START="662" END="666">إيران</charseq>
+    </name>
+    <name NAME="الإيراني">
+      <charseq START="1046" END="1053">الإيراني</charseq>
+    </name>
+    <name NAME="إيران">
+      <charseq START="126" END="130">إيران</charseq>
+    </name>
+    <name NAME="الإيراني">
+      <charseq START="76" END="83">الإيراني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E4-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="439" END="453">الرئيس الإيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="444">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="455" END="464">محمد خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="464">محمد خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="474" END="474">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="474">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1457" END="1457">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1457" END="1457">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="609" END="613">خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="609" END="613">خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="602" END="613">الرئيس خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="607">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="709" END="709">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="709" END="709">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="706" END="706">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="706" END="706">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1039" END="1053">الرئيس الإيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="1039" END="1044">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1193" END="1204">الرئيس خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="1193" END="1198">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1200" END="1204">خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="1200" END="1204">خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-53" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1371" END="1371">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1371" END="1371">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-65" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="69" END="83">الرئيس الإيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="74">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-66" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="85" END="94">محمد خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="94">محمد خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-74" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="258" END="262">خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="262">خاتمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E4-75" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="251" END="262">الرئيس خاتمي</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="256">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد خاتمي">
+      <charseq START="455" END="464">محمد خاتمي</charseq>
+    </name>
+    <name NAME="خاتمي">
+      <charseq START="609" END="613">خاتمي</charseq>
+    </name>
+    <name NAME="خاتمي">
+      <charseq START="1200" END="1204">خاتمي</charseq>
+    </name>
+    <name NAME="محمد خاتمي">
+      <charseq START="85" END="94">محمد خاتمي</charseq>
+    </name>
+    <name NAME="خاتمي">
+      <charseq START="258" END="262">خاتمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E6-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="625" END="643">صحيفة الشرق القطرية</charseq>
+    </extent>
+    <head>
+      <charseq START="625" END="643">صحيفة الشرق القطرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E6-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="648" END="648">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="648" END="648">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة الشرق القطرية">
+      <charseq START="625" END="643">صحيفة الشرق القطرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E7-27" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="717" END="723">أبو ظبي</charseq>
+    </extent>
+    <head>
+      <charseq START="717" END="723">أبو ظبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E7-28" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="735" END="735">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="735" END="735">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E8-21" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="969" END="969">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="969">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E8-29" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="737" END="741">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="741">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E8-37" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="940" END="940">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="940" END="940">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E8-38" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="942" END="946">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="946">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E8-39" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="958" END="959">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="958" END="959">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طهران">
+      <charseq START="942" END="946">طهران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E9-30" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="771" END="773">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="771" END="773">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E10" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E10-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="820" END="830">تومب الصغرى</charseq>
+    </extent>
+    <head>
+      <charseq START="820" END="830">تومب الصغرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تومب الصغرى">
+      <charseq START="820" END="830">تومب الصغرى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E11" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E11-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="833" END="863">تومب الكبرى الاستراتيجية الموقع</charseq>
+    </extent>
+    <head>
+      <charseq START="833" END="843">تومب الكبرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تومب الكبرى">
+      <charseq START="833" END="843">تومب الكبرى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E12" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E12-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="806" END="817">جزر أبو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="817">جزر أبو موسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جزر أبو موسى">
+      <charseq START="806" END="817">جزر أبو موسى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E13" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E13-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="873" END="878">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="873" END="878">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="873" END="878">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E14-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="901" END="928">محكمة العدل الدولية في لاهاي</charseq>
+    </extent>
+    <head>
+      <charseq START="901" END="919">محكمة العدل الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة العدل الدولية">
+      <charseq START="901" END="919">محكمة العدل الدولية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E15-36" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="924" END="928">لاهاي</charseq>
+    </extent>
+    <head>
+      <charseq START="924" END="928">لاهاي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لاهاي">
+      <charseq START="924" END="928">لاهاي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E18-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="403" END="418">مراسلتنا
+في عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="408">مراسلت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E18-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="420" END="432">جمانة التميمي</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="432">جمانة التميمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E18-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1484" END="1526">جمانة التميمي مكتب صوت أمريكا الإقليمي عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1484" END="1496">جمانة التميمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جمانة التميمي">
+      <charseq START="420" END="432">جمانة التميمي</charseq>
+    </name>
+    <name NAME="جمانة التميمي">
+      <charseq START="1484" END="1496">جمانة التميمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E20-44" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1081" END="1087">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1081" END="1087">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E20-49" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1215" END="1219">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="1215" END="1219">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E20-59" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1466" END="1470">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="1466" END="1470">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E20-77" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="289" END="295">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="295">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="1081" END="1087">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="289" END="295">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E22-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1222" END="1229">المسلمين</charseq>
+    </extent>
+    <head>
+      <charseq START="1222" END="1229">المسلمين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E22-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1473" END="1480">المسلمين</charseq>
+    </extent>
+    <head>
+      <charseq START="1473" END="1480">المسلمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E23-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1261" END="1262">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1261" END="1262">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E24-16" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1413" END="1414">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1413" END="1414">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E24-54" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1355" END="1407">أمريكا حسب
+تعبيره، التي اتهمها بدعم إسرائيل بشكل كبير</charseq>
+    </extent>
+    <head>
+      <charseq START="1355" END="1360">أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E24-55" TYPE="PRO" LDCTYPE="WHQ" ROLE="ORG">
+    <extent>
+      <charseq START="1374" END="1377">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1374" END="1377">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E24-56" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1383" END="1384">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1383" END="1384">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أمريكا">
+      <charseq START="1355" END="1360">أمريكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E25-57" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1391" END="1397">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1391" END="1397">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E25-58" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1180" END="1186">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1180" END="1186">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E25-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="373" END="379">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="379">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيل">
+      <charseq START="1391" END="1397">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1180" END="1186">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="373" END="379">إسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E26" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E26-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1498" END="1526">مكتب صوت أمريكا الإقليمي عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1498" END="1521">مكتب صوت أمريكا الإقليمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مكتب صوت أمريكا الإقليمي">
+      <charseq START="1498" END="1521">مكتب صوت أمريكا الإقليمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E27" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E27-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="409" END="410">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="410">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E31-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="524" END="552">دولة الإمارات العربية
+المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="552">دولة الإمارات العربية
+المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E31-70" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="159" END="171">دولة الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="171">دولة الإمارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دولة الإمارات العربية المتحدة">
+      <charseq START="524" END="552">دولة الإمارات العربية
+المتحدة</charseq>
+    </name>
+    <name NAME="دولة الإمارات">
+      <charseq START="159" END="171">دولة الإمارات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0510-E32" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E32-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="564" END="568">الجزر</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="568">الجزر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E32-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="177" END="184">ثلاث جزر</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="184">جزر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E34-43" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1075" END="1087">الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1075" END="1079">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E34-76" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="283" END="295">الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="287">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0510-E37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0510-E37-45" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1164" END="1186">الدول التي تدعم إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1164" END="1168">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E37-46" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="1170" END="1173">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1170" END="1173">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E37-78" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="357" END="379">الدول التي تدعم إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="361">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E37-79" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="363" END="366">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="366">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E37-80" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="368" END="368">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="368">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0510-E37-81" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1175" END="1175">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1175" END="1175">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="VAR20001219.1100.0510-T1">
+  <timex2_mention ID="VAR20001219.1100.0510-T1-1">
+    <extent>
+      <charseq START="39" END="60">12/19/2000 11:08:30.25</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001219.1100.0510-T2">
+  <timex2_mention ID="VAR20001219.1100.0510-T2-1">
+    <extent>
+      <charseq START="117" END="121">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001219.1100.0510-T3">
+  <timex2_mention ID="VAR20001219.1100.0510-T3-1">
+    <extent>
+      <charseq START="650" END="657">الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001219.1100.0510-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E3" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="69" END="83">الرئيس الإيراني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E4-65" ROLE="Arg-1">
+      <extent>
+        <charseq START="69" END="83">الرئيس الإيراني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E3-68" ROLE="Arg-2">
+      <extent>
+        <charseq START="76" END="83">الإيراني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001219.1100.0510-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="439" END="453">الرئيس الإيراني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E4-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="439" END="453">الرئيس الإيراني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E3-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="446" END="453">الإيراني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001219.1100.0510-R1-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1039" END="1053">الرئيس الإيراني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E4-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="1039" END="1053">الرئيس الإيراني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E3-42" ROLE="Arg-2">
+      <extent>
+        <charseq START="1046" END="1053">الإيراني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0510-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E31" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="149" END="171">الحدود مع دولة الإمارات</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E1-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="149" END="171">الحدود مع دولة الإمارات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E31-70" ROLE="Arg-2">
+      <extent>
+        <charseq START="159" END="171">دولة الإمارات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0510-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E27" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="403" END="432">مراسلتنا
+في عمان جمانة التميمي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E18-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="403" END="418">مراسلتنا
+في عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E27-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="409" END="410">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0510-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E15" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="901" END="928">محكمة العدل الدولية في لاهاي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E14-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="901" END="928">محكمة العدل الدولية في لاهاي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E15-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="924" END="928">لاهاي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0510-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E26" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1484" END="1526">جمانة التميمي مكتب صوت أمريكا الإقليمي عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E18-62" ROLE="Arg-1">
+      <extent>
+        <charseq START="1484" END="1526">جمانة التميمي مكتب صوت أمريكا الإقليمي عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E26-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="1498" END="1526">مكتب صوت أمريكا الإقليمي عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0510-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R8-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1484" END="1526">جمانة التميمي مكتب صوت أمريكا الإقليمي عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E26-63" ROLE="Arg-1">
+      <extent>
+        <charseq START="1498" END="1526">مكتب صوت أمريكا الإقليمي عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E2-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="1523" END="1526">عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0510-R9" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E34" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="283" END="295">الدول العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E20-77" ROLE="Arg-1">
+      <extent>
+        <charseq START="289" END="295">العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E34-76" ROLE="Arg-2">
+      <extent>
+        <charseq START="283" END="295">الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001219.1100.0510-R9-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1075" END="1087">الدول العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E20-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="1081" END="1087">العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E34-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="1075" END="1087">الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0510-R10" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0510-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0510-E2" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0510-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="403" END="432">مراسلتنا
+في عمان جمانة التميمي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E18-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="403" END="418">مراسلتنا
+في عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0510-E2-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="415" END="418">عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001219.1100.0510-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0510-E4" ROLE="Entity"/>
+  <event_argument REFID="VAR20001219.1100.0510-T2" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001219.1100.0510-EV1-1">
+    <extent>
+      <charseq START="69" END="121">الرئيس الإيراني محمد خاتمي في مقابلة صحيفة نشرت اليوم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="242">قال الرئيس الإيراني محمد خاتمي في مقابلة صحيفة نشرت اليوم إن إيران
+تفضل حل خلافاتها الحدود مع دولة الإمارات حول ثلاث جزر تفضل إذن حل هذه
+المشكلة عبر المفاوضات المباشرة ودون وسطاء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="99" END="104">مقابلة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0510-E4-65" ROLE="Entity">
+      <extent>
+        <charseq START="69" END="83">الرئيس الإيراني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0510-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="117" END="121">اليوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0510-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0510-E4" ROLE="Entity"/>
+  <event_mention ID="VAR20001219.1100.0510-EV2-1">
+    <extent>
+      <charseq START="1039" END="1065">الرئيس الإيراني في المقابلة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1021" END="1186">من ناحية
+أخرى دعا الرئيس الإيراني في المقابلة الصحفية الدول العربية إلى توخى
+الحذر إلى اتخاذ أي قرار بفرض مقاطعة بترولية أو عقوبات اقتصادية ضد
+الدول التي تدعم إسرائيل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1058" END="1065">المقابلة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0510-E4-40" ROLE="Entity">
+      <extent>
+        <charseq START="1039" END="1053">الرئيس الإيراني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0510-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0510-E4" ROLE="Entity"/>
+  <event_argument REFID="VAR20001219.1100.0510-E6" ROLE="Entity"/>
+  <event_mention ID="VAR20001219.1100.0510-EV3-1">
+    <extent>
+      <charseq START="602" END="643">الرئيس خاتمي
+مقابلة مع صحيفة الشرق القطرية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="596" END="706">وأضاف الرئيس خاتمي
+مقابلة مع صحيفة الشرق القطرية نشرت الثلاثاء أن إيران ستنتج في التوصل
+لحلول مناسبة حسب تعبيره</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="615" END="620">مقابلة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0510-E4-19" ROLE="Entity">
+      <extent>
+        <charseq START="602" END="613">الرئيس خاتمي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0510-E6-20" ROLE="Entity">
+      <extent>
+        <charseq START="625" END="643">صحيفة الشرق القطرية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

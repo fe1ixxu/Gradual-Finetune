@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="DIGRESSING_20050213.0942.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="DIGRESSING_20050213.0942">
+<entity ID="DIGRESSING_20050213.0942-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="354" END="365">فلاحو الموصل</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="358">فلاحو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="360" END="365">الموصل</charseq>
+    </extent>
+    <head>
+      <charseq START="360" END="365">الموصل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E2-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="418" END="423">الموصل</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="423">الموصل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الموصل">
+      <charseq START="360" END="365">الموصل</charseq>
+    </name>
+    <name NAME="الموصل">
+      <charseq START="418" END="423">الموصل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E3-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="370" END="379">الاقطاعيين</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="379">الاقطاعيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E4-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="382" END="399">جنود
+اللواء الخامس</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="385">جنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E4-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="408" END="409">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="409">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E5-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="387" END="399">اللواء الخامس</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="399">اللواء الخامس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اللواء الخامس">
+      <charseq START="387" END="399">اللواء الخامس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E6-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="404" END="409">ضباطهم</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="407">ضباط</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="412" END="423">أطراف الموصل</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="416">أطراف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E8-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="428" END="433">المركز</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="433">المركز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E9-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="436" END="462">فقراء حي المكاوي و وادي
+هجر</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="440">فقراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E10" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E10-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="455" END="462">وادي
+هجر</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="462">وادي
+هجر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وادي هجر">
+      <charseq START="455" END="462">وادي
+هجر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E11" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E11-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="442" END="451">حي المكاوي</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="451">حي المكاوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حي المكاوي">
+      <charseq START="442" END="451">حي المكاوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E12-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="467" END="486">ارستقراطية حي الدواش</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="476">ارستقراطية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E13-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="478" END="486">حي الدواش</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="486">حي الدواش</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حي الدواش">
+      <charseq START="478" END="486">حي الدواش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E14-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="489" END="494">آل رجب</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="494">آل رجب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آل رجب">
+      <charseq START="489" END="494">آل رجب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E15-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="499" END="505">الأغوات</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="505">الأغوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأغوات">
+      <charseq START="499" END="505">الأغوات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E16" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050213.0942-E16-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="508" END="514">الأبناء</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="514">الأبناء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E17" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050213.0942-E17-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="519" END="524">الآباء</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="524">الآباء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E18-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="532" END="539">القوميين</charseq>
+    </extent>
+    <head>
+      <charseq START="532" END="539">القوميين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القوميين">
+      <charseq START="532" END="539">القوميين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E19-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="544" END="552">الشيوعيين</charseq>
+    </extent>
+    <head>
+      <charseq START="544" END="552">الشيوعيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشيوعيين">
+      <charseq START="544" END="552">الشيوعيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E20" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E20-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="622" END="626">كركوك</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="626">كركوك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كركوك">
+      <charseq START="622" END="626">كركوك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E21-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="644" END="652">صدام حسين</charseq>
+    </extent>
+    <head>
+      <charseq START="644" END="652">صدام حسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صدام حسين">
+      <charseq START="644" END="652">صدام حسين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E22-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="656" END="664">مهدي حيدر</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="664">مهدي حيدر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مهدي حيدر">
+      <charseq START="656" END="664">مهدي حيدر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E23-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="667" END="679">منشورات الجمل</charseq>
+    </extent>
+    <head>
+      <charseq START="667" END="679">منشورات الجمل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منشورات الجمل">
+      <charseq START="667" END="679">منشورات الجمل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E24" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E24-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="700" END="713">الشمال العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="705">الشمال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E25-28" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="707" END="713">العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="707" END="713">العراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E25-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="947" END="952">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="952">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E25-34" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1107" END="1112">للعراق</charseq>
+    </extent>
+    <head>
+      <charseq START="1107" END="1112">للعراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E25-36" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1004" END="1012">العراقيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1004" END="1012">العراقيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العراقي">
+      <charseq START="707" END="713">العراقي</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="947" END="952">العراق</charseq>
+    </name>
+    <name NAME="للعراق">
+      <charseq START="1107" END="1112">للعراق</charseq>
+    </name>
+    <name NAME="العراقيين">
+      <charseq START="1004" END="1012">العراقيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E27-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="920" END="920">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="920" END="920">أ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E28-31" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="971" END="978">الأمريكى</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="978">الأمريكى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكى">
+      <charseq START="971" END="978">الأمريكى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E29" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050213.0942-E29-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="151" END="154">الكل</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="154">الكل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E29-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="156" END="156">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="156">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E29-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="162" END="165">الكل</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="165">الكل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E30-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="882" END="885">Mimi</charseq>
+    </extent>
+    <head>
+      <charseq START="882" END="885">Mimi</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Mimi">
+      <charseq START="882" END="885">Mimi</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E31-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1075" END="1075">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1075" END="1075">أ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E32-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="247" END="255">المسيحيون</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="255">المسيحيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المسيحيون">
+      <charseq START="247" END="255">المسيحيون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E33-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1043" END="1047">Dr. R</charseq>
+    </extent>
+    <head>
+      <charseq START="1043" END="1047">Dr. R</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Dr. R">
+      <charseq START="1043" END="1047">Dr. R</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E34-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="199" END="203">الكرد</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="203">الكرد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E34-54" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="328" END="334">الكردية</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="334">الكردية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكرد">
+      <charseq START="199" END="203">الكرد</charseq>
+    </name>
+    <name NAME="الكردية">
+      <charseq START="328" END="334">الكردية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E35" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050213.0942-E35-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="207" END="215">اليزيديون</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="215">اليزيديون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليزيديون">
+      <charseq START="207" END="215">اليزيديون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E36-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="220" END="224">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="224">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E36-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="260" END="273">العرب المسلمين</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="264">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E36-51" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="FALSE">
+    <extent>
+      <charseq START="286" END="292">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="286" END="292">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E36-53" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="303" END="307">عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="307">عربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العرب">
+      <charseq START="220" END="224">العرب</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="286" END="292">العربية</charseq>
+    </name>
+    <name NAME="عربية">
+      <charseq START="303" END="307">عربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E37" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050213.0942-E37-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="227" END="233">السريان</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="233">السريان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السريان">
+      <charseq START="227" END="233">السريان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E38" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="DIGRESSING_20050213.0942-E38-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="237" END="245">الآراميون</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="245">الآراميون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الآراميون">
+      <charseq START="237" END="245">الآراميون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E39-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="75" END="82">Mohammed</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="82">Mohammed</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Mohammed">
+      <charseq START="75" END="82">Mohammed</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E40-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="276" END="292">قبيلة شمر العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="284">قبيلة شمر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قبيلة شمر">
+      <charseq START="276" END="284">قبيلة شمر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E42" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="DIGRESSING_20050213.0942-E42-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="297" END="312">قبيلة عربية أخرى</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="301">قبيلة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E44-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="339" END="351">القبيلة ذاتها</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="345">القبيلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E44-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="350" END="351">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="351">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="DIGRESSING_20050213.0942-E44-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="315" END="334">قبيلة غرغرية الكردية</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="326">قبيلة غرغرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قبيلة غرغرية">
+      <charseq START="315" END="326">قبيلة غرغرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="DIGRESSING_20050213.0942-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="DIGRESSING_20050213.0942-E46-55" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="766" END="772">Shurouq</charseq>
+    </extent>
+    <head>
+      <charseq START="766" END="772">Shurouq</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Shurouq">
+      <charseq START="766" END="772">Shurouq</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="DIGRESSING_20050213.0942-T1">
+  <timex2_mention ID="DIGRESSING_20050213.0942-T1-1">
+    <extent>
+      <charseq START="86" END="104">2005-02-13T09:42:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050213.0942-T2">
+  <timex2_mention ID="DIGRESSING_20050213.0942-T2-1">
+    <extent>
+      <charseq START="129" END="137">أربع ليال</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050213.0942-T3">
+  <timex2_mention ID="DIGRESSING_20050213.0942-T3-1">
+    <extent>
+      <charseq START="776" END="794">2005-02-14T11:50:42</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050213.0942-T4">
+  <timex2_mention ID="DIGRESSING_20050213.0942-T4-1">
+    <extent>
+      <charseq START="889" END="907">2005-02-14T12:28:11</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050213.0942-T5">
+  <timex2_mention ID="DIGRESSING_20050213.0942-T5-1">
+    <extent>
+      <charseq START="1051" END="1069">2005-02-14T05:52:57</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="DIGRESSING_20050213.0942-T6">
+  <timex2_mention ID="DIGRESSING_20050213.0942-T6-1">
+    <extent>
+      <charseq START="40" END="58">2005-02-13T09:42:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="DIGRESSING_20050213.0942-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050213.0942-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050213.0942-E2" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050213.0942-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="354" END="365">فلاحو الموصل</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="354" END="365">فلاحو الموصل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E2-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="360" END="365">الموصل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050213.0942-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050213.0942-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050213.0942-E2" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050213.0942-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="412" END="423">أطراف الموصل</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E7-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="412" END="423">أطراف الموصل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E2-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="418" END="423">الموصل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050213.0942-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050213.0942-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050213.0942-E4" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050213.0942-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="404" END="409">ضباطهم</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E6-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="404" END="409">ضباطهم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E4-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="408" END="409">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050213.0942-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050213.0942-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050213.0942-E11" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050213.0942-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="436" END="462">فقراء حي المكاوي و وادي
+هجر</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E9-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="436" END="462">فقراء حي المكاوي و وادي
+هجر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E11-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="442" END="451">حي المكاوي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050213.0942-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050213.0942-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050213.0942-E10" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050213.0942-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="436" END="462">فقراء حي المكاوي و وادي
+هجر</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E9-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="436" END="462">فقراء حي المكاوي و وادي
+هجر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E10-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="455" END="462">وادي
+هجر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050213.0942-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050213.0942-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050213.0942-E13" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050213.0942-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="467" END="486">ارستقراطية حي الدواش</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E12-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="467" END="486">ارستقراطية حي الدواش</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E13-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="478" END="486">حي الدواش</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="DIGRESSING_20050213.0942-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="DIGRESSING_20050213.0942-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="DIGRESSING_20050213.0942-E25" ROLE="Arg-2"/>
+  <relation_mention ID="DIGRESSING_20050213.0942-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="700" END="713">الشمال العراقي</charseq>
+    </extent>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E24-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="700" END="713">الشمال العراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="DIGRESSING_20050213.0942-E25-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="707" END="713">العراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="DIGRESSING_20050213.0942-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="DIGRESSING_20050213.0942-E29" ROLE="Attacker"/>
+  <event_mention ID="DIGRESSING_20050213.0942-EV1-1">
+    <extent>
+      <charseq START="156" END="160">يقاتل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="151" END="179">الكل يقاتل الكل تحت ستار
+واحد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="156" END="160">يقاتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="DIGRESSING_20050213.0942-E29-39" ROLE="Attacker">
+      <extent>
+        <charseq START="156" END="156">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

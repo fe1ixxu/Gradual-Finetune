@@ -1,0 +1,1290 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001024.0700.0048.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001024.0700.0048">
+<entity ID="ALH20001024.0700.0048-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="ALH20001024.0700.0048-E1-4" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="678" END="704">دولة »ليست
+الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="678" END="681">دولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E1-5" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="687" END="687">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="687" END="687">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E2-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="689" END="704">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="704">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E2-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="800" END="815">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="800" END="815">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="689" END="704">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="800" END="815">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E3-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="720" END="730">الاسكتلندية</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="730">الاسكتلندية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E3-43" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1438" END="1445">اسكتلندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1438" END="1445">اسكتلندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسكتلندية">
+      <charseq START="720" END="730">الاسكتلندية</charseq>
+    </name>
+    <name NAME="اسكتلندا">
+      <charseq START="1438" END="1445">اسكتلندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="746" END="787">ستة أشخاص منهم خمسة يعيشون في دولة اوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="750" END="754">أشخاص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E5-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="758" END="759">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="758" END="759">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E5-19" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="871" END="881">هؤلاء الستة</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="881">الستة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E5-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1060" END="1065">بالستة</charseq>
+    </extent>
+    <head>
+      <charseq START="1060" END="1065">بالستة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E5-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1141" END="1145">الستة</charseq>
+    </extent>
+    <head>
+      <charseq START="1141" END="1145">الستة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E5-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="841" END="842">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="842">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E6-12" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="761" END="787">خمسة يعيشون في دولة اوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="761" END="764">خمسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E6-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="770" END="771">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="771">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E7-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="776" END="787">دولة اوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="779">دولة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E8" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001024.0700.0048-E8-15" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="790" END="815">السادس في
+الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="795">السادس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E9-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="889" END="905">قضاة هيئة المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="889" END="892">قضاة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E10-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="899" END="905">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="905">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E10-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1225" END="1231">للمحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1225" END="1231">للمحكمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E11" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001024.0700.0048-E11-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1125" END="1145">اشخاص آخرين غير
+الستة</charseq>
+    </extent>
+    <head>
+      <charseq START="1125" END="1129">اشخاص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="ALH20001024.0700.0048-E12-35" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="1281" END="1309">حكومة اجنبية »ذات اهمية كبيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1281" END="1285">حكومة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E13-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1356" END="1370">جماعات فلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1356" END="1361">جماعات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E13-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1616" END="1661">جماعتين فلسطينيتين متشددتين مسؤولتان
+عن الحادث</charseq>
+    </extent>
+    <head>
+      <charseq START="1616" END="1622">جماعتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E13-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1641" END="1642">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="1641" END="1642">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E13-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1650" END="1651">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="1650" END="1651">ان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E14" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E14-38" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1363" END="1370">فلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1363" END="1370">فلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E14-55" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1624" END="1633">فلسطينيتين</charseq>
+    </extent>
+    <head>
+      <charseq START="1624" END="1633">فلسطينيتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E14-79" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="521" END="529">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="529">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلسطينية">
+      <charseq START="1363" END="1370">فلسطينية</charseq>
+    </name>
+    <name NAME="فلسطينيتين">
+      <charseq START="1624" END="1633">فلسطينيتين</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="521" END="529">الفلسطيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E15" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E15-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1381" END="1419">طائرة الركاب التابعة لشركة »بان اميركان</charseq>
+    </extent>
+    <head>
+      <charseq START="1381" END="1385">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E15-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1586" END="1592">الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1586" END="1592">الطائرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E16-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1387" END="1392">الركاب</charseq>
+    </extent>
+    <head>
+      <charseq START="1387" END="1392">الركاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E17-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1402" END="1419">لشركة »بان اميركان</charseq>
+    </extent>
+    <head>
+      <charseq START="1402" END="1419">لشركة »بان اميركان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لشركة »بان اميركان">
+      <charseq START="1402" END="1419">لشركة »بان اميركان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E18" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E18-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="781" END="787">اوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="781" END="787">اوروبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوروبية">
+      <charseq START="781" END="787">اوروبية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E19-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1473" END="1480">٠٧٢ شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="1477" END="1480">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E20-45" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1498" END="1505">الليبيان</charseq>
+    </extent>
+    <head>
+      <charseq START="1498" END="1505">الليبيان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الليبيان">
+      <charseq START="1498" END="1505">الليبيان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E21-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1522" END="1538">عبدالباسط المقرحي</charseq>
+    </extent>
+    <head>
+      <charseq START="1522" END="1538">عبدالباسط المقرحي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبدالباسط المقرحي">
+      <charseq START="1522" END="1538">عبدالباسط المقرحي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E22-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1541" END="1558">الامين خليفة فحيمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1541" END="1558">الامين خليفة فحيمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الامين خليفة فحيمة">
+      <charseq START="1541" END="1558">الامين خليفة فحيمة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E23-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="183" END="189">الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="189">الادعاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E23-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="320" END="326">الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="326">الادعاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E25-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1426" END="1445">بلدة
+لوكربي اسكتلندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1426" END="1436">بلدة
+لوكربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E25-53" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="201" END="206">لوكربي</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="206">لوكربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E25-65" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1515" END="1520">لوكربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1515" END="1520">لوكربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بلدة لوكربي">
+      <charseq START="1426" END="1436">بلدة
+لوكربي</charseq>
+    </name>
+    <name NAME="لوكربي">
+      <charseq START="201" END="206">لوكربي</charseq>
+    </name>
+    <name NAME="لوكربي">
+      <charseq START="1515" END="1520">لوكربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E26-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="713" END="730">الشرطة الاسكتلندية</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="718">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E26-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="711" END="711">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="711">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E27-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1565" END="1567">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="1565" END="1567">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E27-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1484" END="1484">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1484" END="1484">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E27-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1489" END="1558">المتهمان الليبيان في قضية لوكربي عبدالباسط المقرحي
+والامين خليفة فحيمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1489" END="1496">المتهمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E27-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1609" END="1611">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="1609" END="1611">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E28-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="975" END="980">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="975" END="980">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E28-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1085" END="1090">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1085" END="1090">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E28-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="285" END="290">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="290">الدفاع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E29-70" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="146" END="170">كامب زايست هولندا  رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="155">كامب زايست</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كامب زايست">
+      <charseq START="146" END="155">كامب زايست</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E30-71" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="157" END="162">هولندا</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="162">هولندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="هولندا">
+      <charseq START="157" END="162">هولندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E31" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E31-72" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="165" END="170">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="170">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="165" END="170">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E32-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="660" END="666">الإدعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="660" END="666">الإدعاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E32-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1017" END="1023">الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1017" END="1023">الادعاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E32-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1027" END="1027">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1027" END="1027">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E32-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1030" END="1030">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1030" END="1030">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E32-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1270" END="1276">الإدعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1270" END="1276">الإدعاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E32-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="177" END="189">ممثلو الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="177" END="181">ممثلو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E32-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="314" END="326">ممثلي الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="318">ممثلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E32-83" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="609" END="615">الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="609" END="615">الادعاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E33-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1036" END="1046">هيئة الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1041" END="1046">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1079" END="1090">ممثلو
+الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1079" END="1083">ممثلو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="968" END="980">لممثلي الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="968" END="973">لممثلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1094" END="1095">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1094" END="1095">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1104" END="1105">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1105">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1330" END="1335">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1330" END="1335">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1595" END="1595">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1595" END="1595">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1600" END="1605">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="1600" END="1605">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E33-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="279" END="290">ممثلي الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="283">ممثلي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001024.0700.0048-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E34-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="622" END="625">بويد</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="625">بويد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E34-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="825" END="825">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="825" END="825">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E34-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="827" END="827">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="827" END="827">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E34-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1152" END="1155">بويد</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1155">بويد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E34-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1214" END="1215">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1214" END="1215">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E34-63" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1159" END="1159">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1159" END="1159">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E34-75" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="297" END="326">كولين بويد، كبير ممثلي الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="306">كولين بويد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E34-76" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="309" END="326">كبير ممثلي الادعاء</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="312">كبير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بويد">
+      <charseq START="622" END="625">بويد</charseq>
+    </name>
+    <name NAME="بويد">
+      <charseq START="1152" END="1155">بويد</charseq>
+    </name>
+    <name NAME="كولين بويد">
+      <charseq START="297" END="306">كولين بويد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E36-78" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="507" END="555">محمد ابو طالب
+الفلسطيني المدان بالارهاب في السويد</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="519">محمد ابو طالب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E36-81" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="558" END="561">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="561">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001024.0700.0048-E36-82" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="578" END="578">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="578">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد ابو طالب">
+      <charseq START="507" END="519">محمد ابو طالب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001024.0700.0048-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001024.0700.0048-E38-80" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="550" END="555">السويد</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="555">السويد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السويد">
+      <charseq START="550" END="555">السويد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001024.0700.0048-T1">
+  <timex2_mention ID="ALH20001024.0700.0048-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-24</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001024.0700.0048-T2">
+  <timex2_mention ID="ALH20001024.0700.0048-T2-1">
+    <extent>
+      <charseq START="1233" END="1243">قبل اسبوعين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001024.0700.0048-T3">
+  <timex2_mention ID="ALH20001024.0700.0048-T3-1">
+    <extent>
+      <charseq START="208" END="218">أمس الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001024.0700.0048-T4">
+  <timex2_mention ID="ALH20001024.0700.0048-T4-1">
+    <extent>
+      <charseq START="947" END="959">اليوم الثلثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001024.0700.0048-T5">
+  <timex2_mention ID="ALH20001024.0700.0048-T5-1">
+    <extent>
+      <charseq START="1447" END="1454">عام ٨٨٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001024.0700.0048-T6">
+  <timex2_mention ID="ALH20001024.0700.0048-T6-1">
+    <extent>
+      <charseq START="397" END="403">اسبوعين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001024.0700.0048-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E23" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="177" END="189">ممثلو الادعاء</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E32-73" ROLE="Arg-1">
+      <extent>
+        <charseq START="177" END="189">ممثلو الادعاء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E23-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="183" END="189">الادعاء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001024.0700.0048-R1-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="314" END="326">ممثلي الادعاء</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E32-77" ROLE="Arg-1">
+      <extent>
+        <charseq START="314" END="326">ممثلي الادعاء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E23-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="320" END="326">الادعاء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E28" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="279" END="290">ممثلي الدفاع</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E33-74" ROLE="Arg-1">
+      <extent>
+        <charseq START="279" END="290">ممثلي الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E28-66" ROLE="Arg-2">
+      <extent>
+        <charseq START="285" END="290">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001024.0700.0048-R2-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="968" END="980">لممثلي الدفاع</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E33-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="968" END="980">لممثلي الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E28-60" ROLE="Arg-2">
+      <extent>
+        <charseq START="975" END="980">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001024.0700.0048-R2-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1079" END="1090">ممثلو
+الدفاع</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E33-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="1079" END="1090">ممثلو
+الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E28-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="1085" END="1090">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E29" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="146" END="170">كامب زايست هولندا  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E31-72" ROLE="Arg-1">
+      <extent>
+        <charseq START="165" END="170">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E29-70" ROLE="Arg-2">
+      <extent>
+        <charseq START="146" END="170">كامب زايست هولندا  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E30" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="146" END="170">كامب زايست هولندا  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E29-70" ROLE="Arg-1">
+      <extent>
+        <charseq START="146" END="170">كامب زايست هولندا  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E30-71" ROLE="Arg-2">
+      <extent>
+        <charseq START="157" END="162">هولندا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R5" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E32" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="309" END="326">كبير ممثلي الادعاء</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E34-76" ROLE="Arg-1">
+      <extent>
+        <charseq START="309" END="326">كبير ممثلي الادعاء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E32-77" ROLE="Arg-2">
+      <extent>
+        <charseq START="314" END="326">ممثلي الادعاء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="507" END="555">محمد ابو طالب
+الفلسطيني المدان بالارهاب في السويد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E36-78" ROLE="Arg-1">
+      <extent>
+        <charseq START="507" END="555">محمد ابو طالب
+الفلسطيني المدان بالارهاب في السويد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E14-79" ROLE="Arg-2">
+      <extent>
+        <charseq START="521" END="529">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="713" END="730">الشرطة الاسكتلندية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E26-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="713" END="730">الشرطة الاسكتلندية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E3-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="720" END="730">الاسكتلندية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R8" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E7" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="761" END="787">خمسة يعيشون في دولة اوروبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E6-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="761" END="787">خمسة يعيشون في دولة اوروبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E7-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="776" END="787">دولة اوروبية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E10" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R9-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="889" END="905">قضاة هيئة المحكمة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E9-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="889" END="905">قضاة هيئة المحكمة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E10-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="899" END="905">المحكمة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R10" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E14" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1356" END="1370">جماعات فلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E13-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="1356" END="1370">جماعات فلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E14-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="1363" END="1370">فلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001024.0700.0048-R10-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1616" END="1661">جماعتين فلسطينيتين متشددتين مسؤولتان
+عن الحادث</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E13-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="1616" END="1661">جماعتين فلسطينيتين متشددتين مسؤولتان
+عن الحادث</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E14-55" ROLE="Arg-2">
+      <extent>
+        <charseq START="1624" END="1633">فلسطينيتين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R11-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1381" END="1419">طائرة الركاب التابعة لشركة »بان اميركان</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E16-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="1387" END="1392">الركاب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E15-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="1381" END="1419">طائرة الركاب التابعة لشركة »بان اميركان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R12-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1426" END="1445">بلدة
+لوكربي اسكتلندا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E25-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="1426" END="1445">بلدة
+لوكربي اسكتلندا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E3-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="1438" END="1445">اسكتلندا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R13" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E20" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E27" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001024.0700.0048-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1489" END="1558">المتهمان الليبيان في قضية لوكربي عبدالباسط المقرحي
+والامين خليفة فحيمة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E20-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="1498" END="1505">الليبيان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E27-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="1489" END="1558">المتهمان الليبيان في قضية لوكربي عبدالباسط المقرحي
+والامين خليفة فحيمة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R16" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E18" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="776" END="787">دولة اوروبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E7-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="776" END="787">دولة اوروبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E18-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="781" END="787">اوروبية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001024.0700.0048-R17" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001024.0700.0048-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001024.0700.0048-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001024.0700.0048-R17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="790" END="815">السادس في
+الولايات المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E8-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="790" END="815">السادس في
+الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001024.0700.0048-E2-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="800" END="815">الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001024.0700.0048-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001024.0700.0048-E19" ROLE="Victim"/>
+  <event_argument REFID="ALH20001024.0700.0048-E13" ROLE="Agent"/>
+  <event_argument REFID="ALH20001024.0700.0048-E25" ROLE="Place"/>
+  <event_argument REFID="ALH20001024.0700.0048-T5" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001024.0700.0048-EV1-1">
+    <extent>
+      <charseq START="1356" END="1480">جماعات فلسطينية في
+تفجير طائرة الركاب التابعة لشركة »بان اميركان« فوق بلدة
+لوكربي اسكتلندا عام ٨٨٩١ مما ادى الى مقتل ٠٧٢ شخصا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1213" END="1480">وهو كان قال للمحكمة قبل اسبوعين ان المعلومات التي
+تلقاها الإدعاء من حكومة اجنبية »ذات اهمية كبيرة« بالنسبة
+الى نظرية الدفاع المتعلقة بمدى تورط جماعات فلسطينية في
+تفجير طائرة الركاب التابعة لشركة »بان اميركان« فوق بلدة
+لوكربي اسكتلندا عام ٨٨٩١ مما ادى الى مقتل ٠٧٢ شخصا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1468" END="1471">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001024.0700.0048-E19-44" ROLE="Victim">
+      <extent>
+        <charseq START="1473" END="1480">٠٧٢ شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001024.0700.0048-E13-37" ROLE="Agent">
+      <extent>
+        <charseq START="1356" END="1370">جماعات فلسطينية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001024.0700.0048-E25-42" ROLE="Place">
+      <extent>
+        <charseq START="1426" END="1445">بلدة
+لوكربي اسكتلندا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001024.0700.0048-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1447" END="1454">عام ٨٨٩١</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

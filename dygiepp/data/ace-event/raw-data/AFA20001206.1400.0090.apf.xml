@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001206.1400.0090.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001206.1400.0090">
+<entity ID="AFA20001206.1400.0090-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0090-E1-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="820" END="826">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="820" END="826">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-8" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="983" END="987">البلد</charseq>
+    </extent>
+    <head>
+      <charseq START="983" END="987">البلد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-9" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="978" END="978">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="978">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1127" END="1132">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1127" END="1132">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1164" END="1168">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1164" END="1168">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="497" END="502">لتركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="502">لتركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="421" END="426">لتركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="426">لتركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-15" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="238" END="238">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="238">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-16" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="579" END="593">الحكومة التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="579" END="585">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-18" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="240" END="254">الحكومة التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="246">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="248" END="254">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="254">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-27" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="357" END="362">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="362">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-28" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="349" END="349">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="349" END="349">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E1-32" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="587" END="593">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="593">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التركية">
+      <charseq START="248" END="254">التركية</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="587" END="593">التركية</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="820" END="826">التركية</charseq>
+    </name>
+    <name NAME="التركي">
+      <charseq START="1127" END="1132">التركي</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="1164" END="1168">تركيا</charseq>
+    </name>
+    <name NAME="لتركيا">
+      <charseq START="497" END="502">لتركيا</charseq>
+    </name>
+    <name NAME="لتركيا">
+      <charseq START="421" END="426">لتركيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0090-E2" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001206.1400.0090-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="806" END="826">مانحي المصارف التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="810">مانحي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0090-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0090-E3-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="812" END="826">المصارف التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="818">المصارف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0090-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0090-E6-1" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1193" END="1206">الاسرة الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="1193" END="1198">الاسرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001206.1400.0090-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0090-E7-19" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="132" END="148">واشنطن 12-6 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="137">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="132" END="137">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0090-E8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0090-E8-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="145" END="148">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="148">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="145" END="148">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0090-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0090-E9-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="704" END="707">كولر</charseq>
+    </extent>
+    <head>
+      <charseq START="704" END="707">كولر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E9-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="838" END="841">كولر</charseq>
+    </extent>
+    <head>
+      <charseq START="838" END="841">كولر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E9-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="843" END="843">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="843" END="843">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E9-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1145" END="1148">كولر</charseq>
+    </extent>
+    <head>
+      <charseq START="1145" END="1148">كولر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E9-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="539" END="570">المدير العام لصندوق النقد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="539" END="544">المدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E9-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="158" END="189">المدير العام لصندوق النقد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="163">المدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E9-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="191" END="200">هورست كولر</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="200">هورست كولر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E9-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="720" END="720">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="720">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كولر">
+      <charseq START="704" END="707">كولر</charseq>
+    </name>
+    <name NAME="كولر">
+      <charseq START="838" END="841">كولر</charseq>
+    </name>
+    <name NAME="كولر">
+      <charseq START="1145" END="1148">كولر</charseq>
+    </name>
+    <name NAME="هورست كولر">
+      <charseq START="191" END="200">هورست كولر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001206.1400.0090-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001206.1400.0090-E11-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="171" END="189">لصندوق النقد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="189">لصندوق النقد الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E11-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="373" END="378">الصندق</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="378">الصندق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E11-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="382" END="382">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="382">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001206.1400.0090-E11-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="552" END="570">لصندوق النقد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="570">لصندوق النقد الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لصندوق النقد الدولي">
+      <charseq START="552" END="570">لصندوق النقد الدولي</charseq>
+    </name>
+    <name NAME="لصندوق النقد الدولي">
+      <charseq START="171" END="189">لصندوق النقد الدولي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001206.1400.0090-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001206.1400.0090-V1-1">
+    <extent>
+      <charseq START="404" END="419">10 مليارات دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001206.1400.0090-V2" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001206.1400.0090-V2-1">
+    <extent>
+      <charseq START="434" END="448">9،2 مليار دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001206.1400.0090-T1">
+  <timex2_mention ID="AFA20001206.1400.0090-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-06 16:11:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0090-T2">
+  <timex2_mention ID="AFA20001206.1400.0090-T2-1">
+    <extent>
+      <charseq START="139" END="142">12-6</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0090-T3">
+  <timex2_mention ID="AFA20001206.1400.0090-T3-1">
+    <extent>
+      <charseq START="202" END="215">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001206.1400.0090-T4">
+  <timex2_mention ID="AFA20001206.1400.0090-T4-1">
+    <extent>
+      <charseq START="507" END="529">كانون الاول/ديسمبر 1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001206.1400.0090-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0090-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0090-E7" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001206.1400.0090-T2" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001206.1400.0090-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="132" END="148">واشنطن 12-6 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E8-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="145" END="148">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E7-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="132" END="148">واشنطن 12-6 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="139" END="142">12-6</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0090-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0090-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0090-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0090-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="158" END="189">المدير العام لصندوق النقد الدولي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E9-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="158" END="189">المدير العام لصندوق النقد الدولي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E11-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="171" END="189">لصندوق النقد الدولي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001206.1400.0090-R2-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="539" END="570">المدير العام لصندوق النقد الدولي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E9-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="539" END="570">المدير العام لصندوق النقد الدولي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E11-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="552" END="570">لصندوق النقد الدولي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0090-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0090-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0090-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0090-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="806" END="826">مانحي المصارف التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E3-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="812" END="826">المصارف التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E1-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="820" END="826">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001206.1400.0090-R5" TYPE="ORG-AFF" SUBTYPE="Investor-Shareholder" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001206.1400.0090-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001206.1400.0090-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001206.1400.0090-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="806" END="826">مانحي المصارف التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E2-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="806" END="826">مانحي المصارف التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001206.1400.0090-E3-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="812" END="826">المصارف التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001206.1400.0090-EV1" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001206.1400.0090-E11" ROLE="Giver"/>
+  <event_argument REFID="AFA20001206.1400.0090-E1" ROLE="Beneficiary"/>
+  <event_argument REFID="AFA20001206.1400.0090-V1" ROLE="Money"/>
+  <event_argument REFID="AFA20001206.1400.0090-E1" ROLE="Recipient"/>
+  <event_mention ID="AFA20001206.1400.0090-EV1-1">
+    <extent>
+      <charseq START="373" END="426">الصندق انه فتح خط ائتمان بقيمة 10 مليارات دولار لتركيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="367" END="530">واعلن الصندق انه فتح خط ائتمان بقيمة 10 مليارات دولار لتركيا، منها
+9،2 مليار دولار لتغطية الرصيد المتبقي من اعتماد سابق تقرر فتحه لتركيا
+في كانون الاول/ديسمبر 1999.</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="391" END="396">ائتمان</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001206.1400.0090-E11-29" ROLE="Giver">
+      <extent>
+        <charseq START="373" END="378">الصندق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0090-E1-14" ROLE="Beneficiary">
+      <extent>
+        <charseq START="421" END="426">لتركيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0090-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="404" END="419">10 مليارات دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001206.1400.0090-E1-14" ROLE="Recipient">
+      <extent>
+        <charseq START="421" END="426">لتركيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

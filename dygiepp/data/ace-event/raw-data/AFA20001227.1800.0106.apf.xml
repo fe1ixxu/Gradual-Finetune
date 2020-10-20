@@ -1,0 +1,1147 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001227.1800.0106.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001227.1800.0106">
+<entity ID="AFA20001227.1800.0106-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E1-6" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="530" END="538">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="538">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E1-59" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="365" END="373">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="373">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركية">
+      <charseq START="530" END="538">الاميركية</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="365" END="373">الاميركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E2-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="581" END="587">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="587">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E2-35" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1031" END="1037">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1037">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E2-36" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="1039" END="1042">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1039" END="1042">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسرائيل">
+      <charseq START="581" END="587">اسرائيل</charseq>
+    </name>
+    <name NAME="اسرائيل">
+      <charseq START="1031" END="1037">اسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E3" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E3-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="628" END="635">فلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="635">فلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E3-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="778" END="783">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="778" END="783">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E3-30" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="985" END="995">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="985" END="995">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E3-33" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="568" END="578">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="578">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E3-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="194" END="202">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="202">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلسطينية">
+      <charseq START="628" END="635">فلسطينية</charseq>
+    </name>
+    <name NAME="فلسطين">
+      <charseq START="778" END="783">فلسطين</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="194" END="202">الفلسطيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E4-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="680" END="712">الامين العام لجامعة الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="685">الامين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E4-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="714" END="728">عصمت عبد المجيد</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="728">عصمت عبد المجيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عصمت عبد المجيد">
+      <charseq START="714" END="728">عصمت عبد المجيد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E6-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="693" END="712">لجامعة الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="712">لجامعة الدول العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجامعة الدول العربية">
+      <charseq START="693" END="712">لجامعة الدول العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E7-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="735">وزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001227.1800.0106-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E8-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="737" END="742">خارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="742">خارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خارجية">
+      <charseq START="737" END="742">خارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E9-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="750" END="754">سوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="750" END="754">سوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E9-37" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1054" END="1058">سوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="1054" END="1058">سوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E9-38" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1044" END="1044">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1044" END="1044">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سوريا">
+      <charseq START="750" END="754">سوريا</charseq>
+    </name>
+    <name NAME="سوريا">
+      <charseq START="1054" END="1058">سوريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E10-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="845" END="866">منظمة المؤتمر الاسلامي</charseq>
+    </extent>
+    <head>
+      <charseq START="845" END="866">منظمة المؤتمر الاسلامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منظمة المؤتمر الاسلامي">
+      <charseq START="845" END="866">منظمة المؤتمر الاسلامي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E11-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="762" END="766">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="762" END="766">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لبنان">
+      <charseq START="762" END="766">لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E12-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="786" END="791">الاردن</charseq>
+    </extent>
+    <head>
+      <charseq START="786" END="791">الاردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E12-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1181" END="1186">الاردن</charseq>
+    </extent>
+    <head>
+      <charseq START="1181" END="1186">الاردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاردن">
+      <charseq START="786" END="791">الاردن</charseq>
+    </name>
+    <name NAME="الاردن">
+      <charseq START="1181" END="1186">الاردن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E13-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="794" END="797">تونس</charseq>
+    </extent>
+    <head>
+      <charseq START="794" END="797">تونس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E13-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1143" END="1146">تونس</charseq>
+    </extent>
+    <head>
+      <charseq START="1143" END="1146">تونس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تونس">
+      <charseq START="794" END="797">تونس</charseq>
+    </name>
+    <name NAME="تونس">
+      <charseq START="1143" END="1146">تونس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E14-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="871" END="876">الدوحة</charseq>
+    </extent>
+    <head>
+      <charseq START="871" END="876">الدوحة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الدوحة">
+      <charseq START="871" END="876">الدوحة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E15-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="938" END="941">دمشق</charseq>
+    </extent>
+    <head>
+      <charseq START="938" END="941">دمشق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دمشق">
+      <charseq START="938" END="941">دمشق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E16-34" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1020" END="1026">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1020" END="1026">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="1020" END="1026">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E17-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="141" END="155">غزة 12-27 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="143">غزة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غزة">
+      <charseq START="141" END="143">غزة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E18-47" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="769" END="775">البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="769" END="775">البحرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البحرين">
+      <charseq START="769" END="775">البحرين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E19" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E19-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="393" END="408">لوكالة فرانس برس</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="408">لوكالة فرانس برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E19-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="152" END="155">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="155">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوكالة فرانس برس">
+      <charseq START="393" END="408">لوكالة فرانس برس</charseq>
+    </name>
+    <name NAME="اف ب">
+      <charseq START="152" END="155">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E20-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="383" END="391">ابو ردينة</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="391">ابو ردينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E20-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="597" END="605">ابو ردينة</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="605">ابو ردينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E20-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="165" END="178">نبيل ابو ردينة</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="178">نبيل ابو ردينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E20-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="180" END="213">مستشار الرئيس الفلسطيني ياسر
+عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="185">مستشار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ابو ردينة">
+      <charseq START="383" END="391">ابو ردينة</charseq>
+    </name>
+    <name NAME="ابو ردينة">
+      <charseq START="597" END="605">ابو ردينة</charseq>
+    </name>
+    <name NAME="نبيل ابو ردينة">
+      <charseq START="165" END="178">نبيل ابو ردينة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E22-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="187" END="202">الرئيس الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="192">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E22-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="204" END="213">ياسر
+عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="213">ياسر
+عرفات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ياسر عرفات">
+      <charseq START="204" END="213">ياسر
+عرفات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E26-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="412" END="412">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="412">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="669" END="669">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="669">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="673" END="678">اللجنة</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="678">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="807" END="811">للجنة</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="811">للجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="821" END="821">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="821">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="919" END="919">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="919" END="919">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="947" END="947">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="947">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1127" END="1127">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1127" END="1127">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1133" END="1138">اللجنة</charseq>
+    </extent>
+    <head>
+      <charseq START="1133" END="1138">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="233" END="277">لجنة المتابعة العربية المنبثقة عن قمة القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="253">لجنة المتابعة العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="418" END="454">لجنة المتابعة المنبثقة عن قمة
+القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="430">لجنة المتابعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E26-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="309" END="309">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="309">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001227.1800.0106-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E27-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="448" END="454">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="454">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E27-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="474" END="480">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="480">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E27-39" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1086" END="1092">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1086" END="1092">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E27-55" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="271" END="277">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="277">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E27-57" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="318" END="332">العاصمة المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="324">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="448" END="454">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="474" END="480">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="1086" END="1092">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="271" END="277">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001227.1800.0106-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001227.1800.0106-E28-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="757" END="759">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="759">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001227.1800.0106-E28-58" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="326" END="332">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="332">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="757" END="759">مصر</charseq>
+    </name>
+    <name NAME="المصرية">
+      <charseq START="326" END="332">المصرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001227.1800.0106-T1">
+  <timex2_mention ID="AFA20001227.1800.0106-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-27 18:57:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T2">
+  <timex2_mention ID="AFA20001227.1800.0106-T2-1">
+    <extent>
+      <charseq START="145" END="149">12-27</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T3">
+  <timex2_mention ID="AFA20001227.1800.0106-T3-1">
+    <extent>
+      <charseq START="282" END="306">تشرين الاول/اكتوبر الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T4">
+  <timex2_mention ID="AFA20001227.1800.0106-T4-1">
+    <extent>
+      <charseq START="334" END="347">الاثنين المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T5">
+  <timex2_mention ID="AFA20001227.1800.0106-T5-1">
+    <extent>
+      <charseq START="456" END="469">الاثنين المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T6">
+  <timex2_mention ID="AFA20001227.1800.0106-T6-1">
+    <extent>
+      <charseq START="881" END="911">مطلع تشرين الثاني/نوفمبر الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T7">
+  <timex2_mention ID="AFA20001227.1800.0106-T7-1">
+    <extent>
+      <charseq START="1151" END="1175">كانون الثاني/يناير المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T8">
+  <timex2_mention ID="AFA20001227.1800.0106-T8-1">
+    <extent>
+      <charseq START="1191" END="1201">شباط/فبراير</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T9">
+  <timex2_mention ID="AFA20001227.1800.0106-T9-1">
+    <extent>
+      <charseq START="215" END="228">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001227.1800.0106-T10">
+  <timex2_mention ID="AFA20001227.1800.0106-T10-1">
+    <extent>
+      <charseq START="615" END="617">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001227.1800.0106-R1" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E22" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="180" END="213">مستشار الرئيس الفلسطيني ياسر
+عرفات</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E20-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="180" END="213">مستشار الرئيس الفلسطيني ياسر
+عرفات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E22-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="187" END="202">الرئيس الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="141" END="155">غزة 12-27 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E19-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="152" END="155">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E17-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="141" END="155">غزة 12-27 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E28" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="318" END="332">العاصمة المصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E27-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="318" END="332">العاصمة المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E28-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="326" END="332">المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="680" END="712">الامين العام لجامعة الدول العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E4-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="680" END="712">الامين العام لجامعة الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E6-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="693" END="712">لجامعة الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E7-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E9-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="750" END="754">سوريا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E28" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E28-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="757" END="759">مصر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E11-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="762" END="766">لبنان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E18-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="769" END="775">البحرين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E3-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="778" END="783">فلسطين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E12-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="786" END="791">الاردن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="731" END="797">وزراء
+خارجية كل من سوريا ومصر ولبنان والبحرين وفلسطين والاردن وتونس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E8-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="737" END="742">خارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E13-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="794" END="797">تونس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001227.1800.0106-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001227.1800.0106-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001227.1800.0106-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001227.1800.0106-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="187" END="202">الرئيس الفلسطيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E22-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="187" END="202">الرئيس الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001227.1800.0106-E3-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="194" END="202">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001227.1800.0106-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001227.1800.0106-E27" ROLE="Place"/>
+  <event_argument REFID="AFA20001227.1800.0106-E26" ROLE="Entity"/>
+  <event_argument REFID="AFA20001227.1800.0106-T4" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001227.1800.0106-EV1-1">
+    <extent>
+      <charseq START="308" END="347">ستجتمع في العاصمة المصرية الاثنين المقبل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="160" END="373">اعلن نبيل ابو ردينة مستشار الرئيس الفلسطيني ياسر
+عرفات اليوم الاربعاء ان لجنة المتابعة العربية المنبثقة عن قمة القاهرة
+في تشرين الاول/اكتوبر الماضي ستجتمع في العاصمة المصرية الاثنين المقبل
+لبحث خطة السلام الاميركية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="308" END="313">ستجتمع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E27-57" ROLE="Place">
+      <extent>
+        <charseq START="318" END="332">العاصمة المصرية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E26-56" ROLE="Entity">
+      <extent>
+        <charseq START="309" END="309">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-T4-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="334" END="347">الاثنين المقبل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001227.1800.0106-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001227.1800.0106-E27" ROLE="Place"/>
+  <event_argument REFID="AFA20001227.1800.0106-E26" ROLE="Entity"/>
+  <event_argument REFID="AFA20001227.1800.0106-T5" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001227.1800.0106-EV2-1">
+    <extent>
+      <charseq START="411" END="480">ستجتمع لجنة المتابعة المنبثقة عن قمة
+القاهرة الاثنين المقبل في القاهرة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="378" END="587">وقال ابو ردينة لوكالة فرانس برس "ستجتمع لجنة المتابعة المنبثقة عن قمة
+القاهرة الاثنين المقبل في القاهرة لمناقشة كل التطورات السياسية بما
+فيها المقترحات الاميركية" للتوصل الى اتفاق نهائي بين الفلسطينيين
+واسرائيل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="411" END="416">ستجتمع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E27-5" ROLE="Place">
+      <extent>
+        <charseq START="474" END="480">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E26-4" ROLE="Entity">
+      <extent>
+        <charseq START="412" END="412">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-T5-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="456" END="469">الاثنين المقبل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001227.1800.0106-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001227.1800.0106-E14" ROLE="Place"/>
+  <event_argument REFID="AFA20001227.1800.0106-E26" ROLE="Entity"/>
+  <event_argument REFID="AFA20001227.1800.0106-T6" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001227.1800.0106-EV3-1">
+    <extent>
+      <charseq START="816" END="911">اجتمعت مرة اولى على هامش قمة منظمة المؤتمر الاسلامي في
+الدوحة في مطلع تشرين الثاني/نوفمبر الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="802" END="1067">وسبق للجنة ان اجتمعت مرة اولى على هامش قمة منظمة المؤتمر الاسلامي في
+الدوحة في مطلع تشرين الثاني/نوفمبر الماضي ثم عقدت اجتماعا ثانيا في
+دمشق ناقشت خلاله تقديم مساعدات مالية عاجلة الى الفلسطينيين ومسالة قطع
+كل العلاقات العربية مع اسرائيل التي تطالب بها سوريا باستمرار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="816" END="821">اجتمعت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E14-31" ROLE="Place">
+      <extent>
+        <charseq START="871" END="876">الدوحة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E26-26" ROLE="Entity">
+      <extent>
+        <charseq START="821" END="821">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="881" END="911">مطلع تشرين الثاني/نوفمبر الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001227.1800.0106-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001227.1800.0106-E15" ROLE="Place"/>
+  <event_argument REFID="AFA20001227.1800.0106-E26" ROLE="Entity"/>
+  <event_mention ID="AFA20001227.1800.0106-EV4-1">
+    <extent>
+      <charseq START="919" END="941">ت اجتماعا ثانيا في
+دمشق</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="802" END="1067">وسبق للجنة ان اجتمعت مرة اولى على هامش قمة منظمة المؤتمر الاسلامي في
+الدوحة في مطلع تشرين الثاني/نوفمبر الماضي ثم عقدت اجتماعا ثانيا في
+دمشق ناقشت خلاله تقديم مساعدات مالية عاجلة الى الفلسطينيين ومسالة قطع
+كل العلاقات العربية مع اسرائيل التي تطالب بها سوريا باستمرار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="921" END="927">اجتماعا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E15-32" ROLE="Place">
+      <extent>
+        <charseq START="938" END="941">دمشق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E26-27" ROLE="Entity">
+      <extent>
+        <charseq START="919" END="919">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001227.1800.0106-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001227.1800.0106-E13" ROLE="Place"/>
+  <event_argument REFID="AFA20001227.1800.0106-E26" ROLE="Entity"/>
+  <event_argument REFID="AFA20001227.1800.0106-T7" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001227.1800.0106-EV5-1">
+    <extent>
+      <charseq START="1127" END="1175">تجتمع اللجنة
+في تونس في كانون الثاني/يناير المقبل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1072" END="1201">وسيكون اجتماع القاهرة استثنائيا، لان من المقرر اصلا ان تجتمع اللجنة
+في تونس في كانون الثاني/يناير المقبل وفي الاردن في شباط/فبراير</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1127" END="1131">تجتمع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E13-42" ROLE="Place">
+      <extent>
+        <charseq START="1143" END="1146">تونس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-E26-40" ROLE="Entity">
+      <extent>
+        <charseq START="1127" END="1127">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001227.1800.0106-T7-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1151" END="1175">كانون الثاني/يناير المقبل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001010.1300.3584.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001010.1300.3584">
+<entity ID="VAR20001010.1300.3584-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E1-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="407" END="412">أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="407" END="412">أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أمريكا">
+      <charseq START="407" END="412">أمريكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E2" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001010.1300.3584-E2-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="453" END="463">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="463">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E3-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="466" END="483">القوات
+الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="471">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E4-7" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="473" END="483">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="483">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E4-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="638" END="644">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="644">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E4-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="725" END="734">الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="734">الإسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E4-15" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="636" END="636">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="636">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E4-16" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="669" END="669">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="669">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإسرائيلية">
+      <charseq START="473" END="483">الإسرائيلية</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="638" END="644">إسرائيل</charseq>
+    </name>
+    <name NAME="الإسرائيلي">
+      <charseq START="725" END="734">الإسرائيلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E6" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E6-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="696" END="705">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="705">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينية">
+      <charseq START="696" END="705">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E7-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="712" END="734">رئيس الوزراء الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="712" END="715">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E7-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="736" END="746">إيهود باراك</charseq>
+    </extent>
+    <head>
+      <charseq START="736" END="746">إيهود باراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إيهود باراك">
+      <charseq START="736" END="746">إيهود باراك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E8-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="717" END="723">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="717" END="723">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E11" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001010.1300.3584-E11-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="71" END="76">سيداتي</charseq>
+    </extent>
+    <head>
+      <charseq START="71" END="75">سيدات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E11-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="323" END="329">السيدات</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="329">السيدات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E12" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="VAR20001010.1300.3584-E12-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="76" END="76">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="76" END="76">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E12-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="82" END="82">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="82">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E13" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001010.1300.3584-E13-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="332" END="337">السادة</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="337">السادة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E13-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="78" END="82">سادتي</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="81">سادت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E14" TYPE="ORG" SUBTYPE="Media" CLASS="USP">
+  <entity_mention ID="VAR20001010.1300.3584-E14-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="564" END="564">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="564">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E14-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="84" END="84">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="84">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E14-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="212" END="213">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="213">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E15" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001010.1300.3584-E15-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="349" END="350">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="349" END="350">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E15-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="385" END="386">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="386">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E15-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="569" END="570">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="569" END="570">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E15-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="138" END="139">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="139">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E15-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="160" END="161">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="161">كم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001010.1300.3584-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E16-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="141" END="150">جون راينكس</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="150">جون راينكس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جون راينكس">
+      <charseq START="141" END="150">جون راينكس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E17-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="163" END="175">محمد الشرقاوي</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="175">محمد الشرقاوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد الشرقاوي">
+      <charseq START="163" END="175">محمد الشرقاوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E18-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="178" END="187">ناصر حسيني</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="187">ناصر حسيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ناصر حسيني">
+      <charseq START="178" END="187">ناصر حسيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E19-19" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="253" END="254">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="254">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E19-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="233" END="242">هنا واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="242">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="237" END="242">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E20-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="369" END="369">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="369">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001010.1300.3584-E20-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="358" END="361">الله</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="361">الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الله">
+      <charseq START="358" END="361">الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001010.1300.3584-E21" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001010.1300.3584-E21-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="300" END="316">شرق البحر المتوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="316">البحر المتوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البحر المتوسط">
+      <charseq START="304" END="316">البحر المتوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001010.1300.3584-T1">
+  <timex2_mention ID="VAR20001010.1300.3584-T1-1">
+    <extent>
+      <charseq START="426" END="430">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.3584-T2">
+  <timex2_mention ID="VAR20001010.1300.3584-T2-1">
+    <extent>
+      <charseq START="261" END="277">الثانية
+بعد الظهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.3584-T3">
+  <timex2_mention ID="VAR20001010.1300.3584-T3-1">
+    <extent>
+      <charseq START="279" END="291">التاسعة مساءا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.3584-T4">
+  <timex2_mention ID="VAR20001010.1300.3584-T4-1">
+    <extent>
+      <charseq START="783" END="801">بثماني وأربعين ساعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.3584-T5">
+  <timex2_mention ID="VAR20001010.1300.3584-T5-1">
+    <extent>
+      <charseq START="388" END="395">الأسبوعي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001010.1300.3584-T6">
+  <timex2_mention ID="VAR20001010.1300.3584-T6-1">
+    <extent>
+      <charseq START="39" END="60">10/10/2000 13:59:44.20</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001010.1300.3584-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001010.1300.3584-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001010.1300.3584-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001010.1300.3584-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="466" END="483">القوات
+الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001010.1300.3584-E3-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="466" END="483">القوات
+الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001010.1300.3584-E4-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="473" END="483">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001010.1300.3584-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001010.1300.3584-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001010.1300.3584-E8" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001010.1300.3584-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="712" END="734">رئيس الوزراء الإسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001010.1300.3584-E7-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="712" END="734">رئيس الوزراء الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001010.1300.3584-E8-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="717" END="723">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

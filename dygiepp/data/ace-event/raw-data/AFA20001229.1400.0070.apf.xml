@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001229.1400.0070.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001229.1400.0070">
+<entity ID="AFA20001229.1400.0070-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E1-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="213" END="217">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="217">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باريس">
+      <charseq START="213" END="217">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001229.1400.0070-E2" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E2-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="476" END="486">شمال اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="481" END="486">اوروبا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E3-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="135" END="151">باريس 12-29 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="139">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باريس">
+      <charseq START="135" END="139">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001229.1400.0070-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E4-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="148" END="151">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="151">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="148" END="151">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001229.1400.0070-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E5-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="160" END="217">منظمو المعرض المقبل لكتب الشباب في مونتروي
+بالقرب من باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="164">منظمو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E6-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="195" END="217">مونتروي
+بالقرب من باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="201">مونتروي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مونتروي">
+      <charseq START="195" END="201">مونتروي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001229.1400.0070-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="AFA20001229.1400.0070-E7-21" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="417" END="420">بلدا</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="420">بلدا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E8" TYPE="LOC" SUBTYPE="Region-International" CLASS="GEN">
+  <entity_mention ID="AFA20001229.1400.0070-E8-22" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="425" END="439">منطقة من العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="429">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E9" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001229.1400.0070-E9-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="695" END="700">الشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="695" END="700">الشباب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E9-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="185" END="190">الشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="190">الشباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E10-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="434" END="439">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="439">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E11" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E11-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="455" END="461">افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="461">افريقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="افريقيا">
+      <charseq START="455" END="461">افريقيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001229.1400.0070-E12" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E12-26" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="472" END="486">دول شمال اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="474">دول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E13" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E13-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="513" END="525">العالم
+العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="525">العالم
+العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E13-17" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="250" END="250">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="250">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E13-30" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="235" END="247">العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="247">العالم العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العالم العربي">
+      <charseq START="513" END="525">العالم
+العربي</charseq>
+    </name>
+    <name NAME="العالم العربي">
+      <charseq START="235" END="247">العالم العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001229.1400.0070-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E14-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="640" END="723">عدد زوار المعرض الذي يعتبر حدثا مرجعيا على صعيد مؤلفات الشباب
+هذا العام 150 الف زائر</charseq>
+    </extent>
+    <head>
+      <charseq START="644" END="647">زوار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E14-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="712" END="723">150 الف زائر</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="723">زائر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001229.1400.0070-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001229.1400.0070-E15-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="266" END="315">المعرض
+الذي سينظم للمرة السابعة عشرة في العام 2001</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="271">المعرض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-3" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="273" END="276">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="276">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="322" END="322">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="322" END="322">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="328" END="408">المعرض الذي سينظم بين 28 تشرين الثاني/نوفمبر والثالث من كانون
+الاول/ديسمبر المقبل</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="333">المعرض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-6" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="335" END="338">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="338">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="341" END="341">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="341">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="554" END="559">المعرض</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="559">المعرض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="649" END="654">المعرض</charseq>
+    </extent>
+    <head>
+      <charseq START="649" END="654">المعرض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-13" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="656" END="659">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="659">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="279" END="279">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="279">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="661" END="661">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="661">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001229.1400.0070-E15-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="166" END="217">المعرض المقبل لكتب الشباب في مونتروي
+بالقرب من باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="166" END="171">المعرض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001229.1400.0070-T1">
+  <timex2_mention ID="AFA20001229.1400.0070-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-29 15:00:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T2">
+  <timex2_mention ID="AFA20001229.1400.0070-T2-1">
+    <extent>
+      <charseq START="141" END="145">12-29</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T3">
+  <timex2_mention ID="AFA20001229.1400.0070-T3-1">
+    <extent>
+      <charseq START="219" END="230">اليوم الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T4">
+  <timex2_mention ID="AFA20001229.1400.0070-T4-1">
+    <extent>
+      <charseq START="306" END="315">العام 2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T5">
+  <timex2_mention ID="AFA20001229.1400.0070-T5-1">
+    <extent>
+      <charseq START="350" END="371">28 تشرين الثاني/نوفمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T6">
+  <timex2_mention ID="AFA20001229.1400.0070-T6-1">
+    <extent>
+      <charseq START="374" END="408">الثالث من كانون
+الاول/ديسمبر المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T7">
+  <timex2_mention ID="AFA20001229.1400.0070-T7-1">
+    <extent>
+      <charseq START="410" END="415">كل عام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T8">
+  <timex2_mention ID="AFA20001229.1400.0070-T8-1">
+    <extent>
+      <charseq START="466" END="469">1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T9">
+  <timex2_mention ID="AFA20001229.1400.0070-T9-1">
+    <extent>
+      <charseq START="530" END="533">2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T10">
+  <timex2_mention ID="AFA20001229.1400.0070-T10-1">
+    <extent>
+      <charseq START="491" END="501">العام الفين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001229.1400.0070-T11">
+  <timex2_mention ID="AFA20001229.1400.0070-T11-1">
+    <extent>
+      <charseq START="588" END="599">العام الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001229.1400.0070-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001229.1400.0070-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001229.1400.0070-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001229.1400.0070-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="135" END="151">باريس 12-29 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E4-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="148" END="151">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E3-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="135" END="151">باريس 12-29 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001229.1400.0070-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001229.1400.0070-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001229.1400.0070-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001229.1400.0070-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="160" END="217">منظمو المعرض المقبل لكتب الشباب في مونتروي
+بالقرب من باريس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E5-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="160" END="217">منظمو المعرض المقبل لكتب الشباب في مونتروي
+بالقرب من باريس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E15-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="166" END="217">المعرض المقبل لكتب الشباب في مونتروي
+بالقرب من باريس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001229.1400.0070-R3" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001229.1400.0070-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001229.1400.0070-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001229.1400.0070-R3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="195" END="217">مونتروي
+بالقرب من باريس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E6-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="195" END="217">مونتروي
+بالقرب من باريس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E1-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="213" END="217">باريس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001229.1400.0070-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001229.1400.0070-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001229.1400.0070-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001229.1400.0070-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="166" END="217">المعرض المقبل لكتب الشباب في مونتروي
+بالقرب من باريس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E15-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="166" END="217">المعرض المقبل لكتب الشباب في مونتروي
+بالقرب من باريس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001229.1400.0070-E6-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="195" END="217">مونتروي
+بالقرب من باريس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,1026 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001225.1000.0038.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001225.1000.0038">
+<entity ID="AFA20001225.1000.0038-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E1-63" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="293" END="299">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="299">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المصرية">
+      <charseq START="293" END="299">المصرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="326" END="369">مديرية
+الامن في محافظة سوهاج في الصعيد (جنوب</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="337">مديرية
+الامن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E2-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="375" END="375">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="375">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مديرية الامن">
+      <charseq START="326" END="337">مديرية
+الامن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E3" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="342" END="369">محافظة سوهاج في الصعيد (جنوب</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="353">محافظة سوهاج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محافظة سوهاج">
+      <charseq START="342" END="353">محافظة سوهاج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E4-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="358" END="369">الصعيد (جنوب</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="363">الصعيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الصعيد">
+      <charseq START="358" END="363">الصعيد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E5-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="504" END="516">زوجته الثانية</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="507">زوجت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E5-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="528" END="529">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="528" END="529">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E5-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="540" END="541">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="541">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001225.1000.0038-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E6-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="534" END="537">عشيق</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="537">عشيق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001225.1000.0038-E7" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E7-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="726" END="733">البندقية</charseq>
+    </extent>
+    <head>
+      <charseq START="726" END="733">البندقية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001225.1000.0038-E8" TYPE="WEA" SUBTYPE="Projectile" CLASS="USP">
+  <entity_mention ID="AFA20001225.1000.0038-E8-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="742" END="746">النار</charseq>
+    </extent>
+    <head>
+      <charseq START="742" END="746">النار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001225.1000.0038-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E9-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="772" END="785">النيابة العامة</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="785">النيابة العامة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E9-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="770" END="770">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="770">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="النيابة العامة">
+      <charseq START="772" END="785">النيابة العامة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E10-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="103" END="121">القاهرة 12-25 (أف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="109">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E10-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="488" END="494">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="494">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="103" END="109">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="488" END="494">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E11-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="118" END="121">أف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="121">أف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أف ب">
+      <charseq START="118" END="121">أف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E12-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="439" END="444">القاتل</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="444">القاتل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="447" END="448">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="448">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="450" END="460">زوج القتيلة</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="452">زوج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="472" END="472">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="472">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="482" END="482">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="482">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="508" END="508">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="508">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="582" END="586">الزوج</charseq>
+    </extent>
+    <head>
+      <charseq START="582" END="586">الزوج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="606" END="606">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="606">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="619" END="619">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="619">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="647" END="647">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="647" END="647">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="710" END="712">زوج</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="712">زوج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="792" END="796">الزوج</charseq>
+    </extent>
+    <head>
+      <charseq START="792" END="796">الزوج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="129" END="131">رجل</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="131">رجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="137" END="137">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="137">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="176" END="176">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="176">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E12-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="197" END="197">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="197">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001225.1000.0038-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E13-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="454" END="460">القتيلة</charseq>
+    </extent>
+    <head>
+      <charseq START="454" END="460">القتيلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="613" END="613">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="613">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="615" END="626">زوجته الاولى</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="618">زوجت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="673" END="674">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="674">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="398" END="417">نعناعة شعيب (45 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="408">نعناعة شعيب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="691" END="696">نعناعة</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="696">نعناعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="689" END="689">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="689">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="713" END="714">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="714">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="751" END="752">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="752">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="759" END="760">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="759" END="760">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="133" END="136">زوجت</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="136">زوجت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="150" END="150">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="150">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="180" END="181">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="181">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="183" END="183">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="183">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="193" END="194">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="194">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="232" END="233">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="233">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E13-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="261" END="262">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="262">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نعناعة شعيب">
+      <charseq START="398" END="408">نعناعة شعيب</charseq>
+    </name>
+    <name NAME="نعناعة">
+      <charseq START="691" END="696">نعناعة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001225.1000.0038-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E14-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="602" END="605">منزل</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="605">منزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E14-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="664" END="669">الداخل</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="669">الداخل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E14-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="163" END="168">المنزل</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="168">المنزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E14-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="240" END="244">البيت</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="244">البيت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001225.1000.0038-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E15-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="657" END="659">رجل</charseq>
+    </extent>
+    <head>
+      <charseq START="657" END="659">رجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E15-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="189" END="192">عشيق</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="192">عشيق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E15-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="215" END="262">الرجل الذي كان معها داخل
+البيت لم يكن سوى شقيقها</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="219">الرجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E15-56" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="221" END="224">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="224">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E15-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="249" END="249">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="249">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E15-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="257" END="260">شقيق</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="260">شقيق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001225.1000.0038-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001225.1000.0038-E16-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="552" END="558">الصحيفة</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="558">الصحيفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E16-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="550" END="550">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="550">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E16-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="273" END="321">صحيفة "اخبار اليوم" المصرية الصادرة اليوم الاثنين</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="290">صحيفة "اخبار اليوم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001225.1000.0038-E16-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="271" END="271">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="271">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة اخبار اليوم">
+      <charseq START="273" END="290">صحيفة "اخبار اليوم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001225.1000.0038-V1" TYPE="Sentence">
+  <value_mention ID="AFA20001225.1000.0038-V1-1">
+    <extent>
+      <charseq START="787" END="790">بسجن</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001225.1000.0038-T1">
+  <timex2_mention ID="AFA20001225.1000.0038-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-25 11:18:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001225.1000.0038-T2">
+  <timex2_mention ID="AFA20001225.1000.0038-T2-1">
+    <extent>
+      <charseq START="111" END="115">12-25</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001225.1000.0038-T3">
+  <timex2_mention ID="AFA20001225.1000.0038-T3-1">
+    <extent>
+      <charseq START="309" END="321">اليوم الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001225.1000.0038-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="103" END="121">القاهرة 12-25 (أف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E11-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="118" END="121">أف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E10-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="103" END="121">القاهرة 12-25 (أف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R2" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="133" END="137">زوجته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E13-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="133" END="136">زوجت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E12-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="137" END="137">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001225.1000.0038-R2-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="450" END="460">زوج القتيلة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E12-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="450" END="460">زوج القتيلة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E13-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="454" END="460">القتيلة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001225.1000.0038-R2-3" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="615" END="626">زوجته الاولى</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E13-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="615" END="626">زوجته الاولى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E12-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="619" END="619">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001225.1000.0038-R2-4" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="710" END="714">زوجها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E12-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="710" END="712">زوج</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E13-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="713" END="714">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R3" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="189" END="194">عشيقها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E15-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="189" END="192">عشيق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E13-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="193" END="194">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R4" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="215" END="262">الرجل الذي كان معها داخل
+البيت لم يكن سوى شقيقها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E15-55" ROLE="Arg-1">
+      <extent>
+        <charseq START="215" END="262">الرجل الذي كان معها داخل
+البيت لم يكن سوى شقيقها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E14-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="240" END="244">البيت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R5" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R5-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="257" END="262">شقيقها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E15-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="257" END="260">شقيق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E13-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="261" END="262">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="342" END="369">محافظة سوهاج في الصعيد (جنوب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E3-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="342" END="369">محافظة سوهاج في الصعيد (جنوب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E4-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="358" END="369">الصعيد (جنوب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R8" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="504" END="516">زوجته الثانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E5-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="504" END="516">زوجته الثانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E12-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="508" END="508">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R9" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001225.1000.0038-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="602" END="606">منزله</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E12-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="606" END="606">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E14-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="602" END="605">منزل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001225.1000.0038-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001225.1000.0038-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001225.1000.0038-E1" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001225.1000.0038-T3" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001225.1000.0038-R12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="273" END="321">صحيفة "اخبار اليوم" المصرية الصادرة اليوم الاثنين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E16-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="273" END="321">صحيفة "اخبار اليوم" المصرية الصادرة اليوم الاثنين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-E1-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="293" END="299">المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001225.1000.0038-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="309" END="321">اليوم الاثنين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001225.1000.0038-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001225.1000.0038-E12" ROLE="Agent"/>
+  <event_argument REFID="AFA20001225.1000.0038-E14" ROLE="Place"/>
+  <event_argument REFID="AFA20001225.1000.0038-E13" ROLE="Victim"/>
+  <event_mention ID="AFA20001225.1000.0038-EV1-1">
+    <extent>
+      <charseq START="125" END="168">قتل رجل زوجته بعد ان تاخرت في فتح باب المنزل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="125" END="262">قتل رجل زوجته بعد ان تاخرت في فتح باب المنزل
+ظنا منه انها تخبىء عشيقها ليكتشف بعد برهة ان الرجل الذي كان معها داخل
+البيت لم يكن سوى شقيقها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="125" END="127">قتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E12-44" ROLE="Agent">
+      <extent>
+        <charseq START="129" END="131">رجل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E14-48" ROLE="Place">
+      <extent>
+        <charseq START="163" END="168">المنزل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E13-45" ROLE="Victim">
+      <extent>
+        <charseq START="133" END="136">زوجت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001225.1000.0038-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001225.1000.0038-E12" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001225.1000.0038-E13" ROLE="Target"/>
+  <event_argument REFID="AFA20001225.1000.0038-E8" ROLE="Instrument"/>
+  <event_mention ID="AFA20001225.1000.0038-EV2-1">
+    <extent>
+      <charseq START="691" END="746">نعناعة الباب "اسرع زوجها الى احضار البندقية واطلاق النار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="679" END="760">وعندما فتحت نعناعة الباب "اسرع زوجها الى احضار البندقية واطلاق النار
+عليها فارداها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="736" END="740">اطلاق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E12-34" ROLE="Attacker">
+      <extent>
+        <charseq START="710" END="712">زوج</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E13-31" ROLE="Target">
+      <extent>
+        <charseq START="691" END="696">نعناعة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E8-36" ROLE="Instrument">
+      <extent>
+        <charseq START="742" END="746">النار</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001225.1000.0038-EV3" TYPE="Life" SUBTYPE="Divorce" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001225.1000.0038-E12" ROLE="Person"/>
+  <event_argument REFID="AFA20001225.1000.0038-E5" ROLE="Person"/>
+  <event_argument REFID="AFA20001225.1000.0038-E10" ROLE="Place"/>
+  <event_mention ID="AFA20001225.1000.0038-EV3-1">
+    <extent>
+      <charseq START="447" END="516">هو زوج القتيلة ارتكب فعلته بعد عودته "من
+القاهرة حيث طلق زوجته الثانية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="423" END="541">وبين التحقيق ان القاتل وهو زوج القتيلة ارتكب فعلته بعد عودته "من
+القاهرة حيث طلق زوجته الثانية بعد ان ضبطها مع عشيق لها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="500" END="502">طلق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E12-7" ROLE="Person">
+      <extent>
+        <charseq START="447" END="448">هو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E5-13" ROLE="Person">
+      <extent>
+        <charseq START="504" END="516">زوجته الثانية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E10-12" ROLE="Place">
+      <extent>
+        <charseq START="488" END="494">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001225.1000.0038-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001225.1000.0038-E12" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001225.1000.0038-E10" ROLE="Destination"/>
+  <event_mention ID="AFA20001225.1000.0038-EV4-1">
+    <extent>
+      <charseq START="478" END="494">عودته "من
+القاهرة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="423" END="541">وبين التحقيق ان القاتل وهو زوج القتيلة ارتكب فعلته بعد عودته "من
+القاهرة حيث طلق زوجته الثانية بعد ان ضبطها مع عشيق لها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="478" END="482">عودته</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E12-11" ROLE="Artifact">
+      <extent>
+        <charseq START="482" END="482">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E10-12" ROLE="Destination">
+      <extent>
+        <charseq START="488" END="494">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001225.1000.0038-EV5" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001225.1000.0038-E12" ROLE="Person"/>
+  <event_argument REFID="AFA20001225.1000.0038-E9" ROLE="Agent"/>
+  <event_mention ID="AFA20001225.1000.0038-EV5-1">
+    <extent>
+      <charseq START="772" END="796">النيابة العامة بسجن الزوج</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="766" END="796">وامرت النيابة العامة بسجن الزوج</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="787" END="790">بسجن</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E12-41" ROLE="Person">
+      <extent>
+        <charseq START="792" END="796">الزوج</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E9-39" ROLE="Agent">
+      <extent>
+        <charseq START="772" END="785">النيابة العامة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001225.1000.0038-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001225.1000.0038-E8" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001225.1000.0038-E13" ROLE="Victim"/>
+  <event_mention ID="AFA20001225.1000.0038-EV6-1">
+    <extent>
+      <charseq START="742" END="760">النار
+عليها فارداها</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="679" END="760">وعندما فتحت نعناعة الباب "اسرع زوجها الى احضار البندقية واطلاق النار
+عليها فارداها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="754" END="760">فارداها</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E8-36" ROLE="Instrument">
+      <extent>
+        <charseq START="742" END="746">النار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001225.1000.0038-E13-38" ROLE="Victim">
+      <extent>
+        <charseq START="759" END="760">ها</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

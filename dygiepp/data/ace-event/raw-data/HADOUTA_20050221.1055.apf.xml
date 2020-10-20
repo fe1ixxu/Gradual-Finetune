@@ -1,0 +1,1573 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="HADOUTA_20050221.1055.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="HADOUTA_20050221.1055">
+<entity ID="HADOUTA_20050221.1055-E1" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="HADOUTA_20050221.1055-E1-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="310" END="314">الناس</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="314">الناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E1-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="350" END="351">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="351">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E1-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="365" END="373">هذا الجمع</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="373">الجمع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E1-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="444" END="452">الموجودين</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="452">الموجودين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E1-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="480" END="481">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="481">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E1-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="962" END="963">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="962" END="963">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E1-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="975" END="976">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="975" END="976">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E1-142" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="441" END="452">كل الموجودين</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="442">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E2-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2255" END="2261">Shurouq</charseq>
+    </extent>
+    <head>
+      <charseq START="2255" END="2261">Shurouq</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Shurouq">
+      <charseq START="2255" END="2261">Shurouq</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E3-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2450" END="2456">حـدوتـة</charseq>
+    </extent>
+    <head>
+      <charseq START="2450" END="2456">حـدوتـة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حـدوتـة">
+      <charseq START="2450" END="2456">حـدوتـة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E4-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="584" END="588">خالتي</charseq>
+    </extent>
+    <head>
+      <charseq START="584" END="587">خالت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E4-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="682" END="686">خالتي</charseq>
+    </extent>
+    <head>
+      <charseq START="682" END="685">خالت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E4-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="701" END="702">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="701" END="702">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E5-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="605" END="610">إيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="610">إيراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E5-138" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2301" END="2308">الإيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="2301" END="2308">الإيراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E5-151" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="269" END="274">إيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="274">إيراني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إيراني">
+      <charseq START="605" END="610">إيراني</charseq>
+    </name>
+    <name NAME="الإيراني">
+      <charseq START="2301" END="2308">الإيراني</charseq>
+    </name>
+    <name NAME="إيراني">
+      <charseq START="269" END="274">إيراني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E6-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1332" END="1332">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1332" END="1332">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E6-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1419" END="1419">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1419" END="1419">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E7" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="HADOUTA_20050221.1055-E7-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1346" END="1351">شخص ما</charseq>
+    </extent>
+    <head>
+      <charseq START="1346" END="1348">شخص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E7-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1353" END="1353">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1353" END="1353">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E7-110" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1385" END="1385">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1385" END="1385">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E8" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E8-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1390" END="1395">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="1390" END="1395">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E9-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="146" END="146">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="146">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1163" END="1163">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1163" END="1163">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1235" END="1235">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1235" END="1235">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="534" END="534">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="534">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="545" END="545">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="545">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="570" END="570">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="570">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="588" END="588">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="588">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="627" END="627">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="627">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="659" END="659">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="659">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="675" END="675">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="675">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="677" END="677">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="677" END="677">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1253" END="1253">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1253" END="1253">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1275" END="1275">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1275" END="1275">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1297" END="1297">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1297" END="1297">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1511" END="1514">رحاب</charseq>
+    </extent>
+    <head>
+      <charseq START="1511" END="1514">رحاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1502" END="1502">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1502" END="1502">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="686" END="686">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="686">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="696" END="696">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="696">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="752" END="754">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="754">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1528" END="1528">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1528" END="1528">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1030" END="1030">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1030" END="1030">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1538" END="1538">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1538" END="1538">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1543" END="1543">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1543" END="1543">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1168" END="1168">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1168" END="1168">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="864" END="864">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="864" END="864">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="887" END="889">ستي</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="888">ست</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1552" END="1552">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1552" END="1552">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="916" END="916">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="916" END="916">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="922" END="922">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="922" END="922">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="927" END="927">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="927" END="927">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="938" END="938">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="938" END="938">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="984" END="984">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="984" END="984">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1009" END="1009">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1009">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-73" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1015" END="1015">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1015" END="1015">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1562" END="1562">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1562" END="1562">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-77" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1573" END="1573">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1573" END="1573">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1579" END="1579">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1579" END="1579">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1638" END="1638">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1638" END="1638">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1666" END="1666">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1666" END="1666">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-82" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1672" END="1672">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1672" END="1672">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-84" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1697" END="1699">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="1697" END="1699">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1251" END="1251">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1251" END="1251">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1786" END="1788">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="1786" END="1788">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1830" END="1830">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1830" END="1830">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1280" END="1280">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1280" END="1280">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-99" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="78" END="89">رحـاب بـسـام</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="89">رحـاب بـسـام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-100" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2040" END="2040">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2040" END="2040">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-102" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2058" END="2058">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2058" END="2058">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-103" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2068" END="2070">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="2068" END="2070">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-111" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1920" END="1920">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1920" END="1920">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-112" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1934" END="1934">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1934" END="1934">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-113" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1939" END="1939">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1939" END="1939">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1629" END="1629">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1629" END="1629">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-115" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1645" END="1645">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1645" END="1645">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1871" END="1871">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1871" END="1871">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-120" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2286" END="2289">رحاب</charseq>
+    </extent>
+    <head>
+      <charseq START="2286" END="2289">رحاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-121" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="995" END="995">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="995" END="995">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-135" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1782" END="1782">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1782" END="1782">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-144" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="572" END="572">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="572">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-157" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1149" END="1149">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1149" END="1149">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E9-158" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1155" END="1155">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1155" END="1155">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رحاب">
+      <charseq START="1511" END="1514">رحاب</charseq>
+    </name>
+    <name NAME="رحـاب بـسـام">
+      <charseq START="78" END="89">رحـاب بـسـام</charseq>
+    </name>
+    <name NAME="رحاب">
+      <charseq START="2286" END="2289">رحاب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E10-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="580" END="588">زوج خالتي</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="582">زوج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="593" END="593">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="593">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="622" END="622">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="622">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="648" END="648">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="648" END="648">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="709" END="709">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="709" END="709">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-53" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="801" END="808">عمو أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="801" END="803">عمو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="812" END="864">عمو أحمد مستغرق في الكتاب ولكن يرفع عينيه فجأة فيراني</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="814">عمو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-87" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1806" END="1807">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1806" END="1807">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-89" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="805" END="808">أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="805" END="808">أحمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-91" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="843" END="843">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="843" END="843">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-92" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="852" END="852">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="852" END="852">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-93" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="889" END="889">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="889" END="889">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-94" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="816" END="819">أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="816" END="819">أحمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-95" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1702" END="1709">عمو أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="1702" END="1704">عمو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-96" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1706" END="1709">أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="1706" END="1709">أحمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-97" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1902" END="1909">عمو أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="1902" END="1904">عمو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-98" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1906" END="1909">أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="1906" END="1909">أحمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-106" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2136" END="2143">عمو أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="2136" END="2138">عمو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-107" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2140" END="2143">أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="2140" END="2143">أحمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-137" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="698" END="702">زوجها</charseq>
+    </extent>
+    <head>
+      <charseq START="698" END="702">زوجها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E10-148" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="860" END="860">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="860">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أحمد">
+      <charseq START="805" END="808">أحمد</charseq>
+    </name>
+    <name NAME="أحمد">
+      <charseq START="816" END="819">أحمد</charseq>
+    </name>
+    <name NAME="أحمد">
+      <charseq START="1706" END="1709">أحمد</charseq>
+    </name>
+    <name NAME="أحمد">
+      <charseq START="1906" END="1909">أحمد</charseq>
+    </name>
+    <name NAME="أحمد">
+      <charseq START="2140" END="2143">أحمد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E12" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="HADOUTA_20050221.1055-E12-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1055" END="1055">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1055" END="1055">ك</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E13" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="HADOUTA_20050221.1055-E13-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1555" END="1556">حد</charseq>
+    </extent>
+    <head>
+      <charseq START="1555" END="1556">حد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E13-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1558" END="1558">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1558" END="1558">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E14-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1694" END="1695">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1694" END="1695">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E15-117" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1891" END="1894">الله</charseq>
+    </extent>
+    <head>
+      <charseq START="1891" END="1894">الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الله">
+      <charseq START="1891" END="1894">الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E16-122" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2329" END="2334">الشيعة</charseq>
+    </extent>
+    <head>
+      <charseq START="2329" END="2334">الشيعة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E17" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="HADOUTA_20050221.1055-E17-124" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2405" END="2405">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2405" END="2405">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E17-125" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2407" END="2416">وحدة مصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="2407" END="2410">وحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E17-126" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2440" END="2441">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2440" END="2441">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E17-129" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2558" END="2559">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2558" END="2559">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E17-132" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2581" END="2582">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2581" END="2582">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E17-133" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2586" END="2587">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2586" END="2587">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E17-134" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2592" END="2593">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2592" END="2593">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E18-127" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2499" END="2500">يا</charseq>
+    </extent>
+    <head>
+      <charseq START="2499" END="2500">يا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E18-130" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2568" END="2568">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2568" END="2568">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E18-131" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2574" END="2574">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2574" END="2574">ا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E19-128" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2505" END="2508">شروق</charseq>
+    </extent>
+    <head>
+      <charseq START="2505" END="2508">شروق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شروق">
+      <charseq START="2505" END="2508">شروق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E20-136" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="2412" END="2416">مصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="2412" END="2416">مصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصرية">
+      <charseq START="2412" END="2416">مصرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E23" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="HADOUTA_20050221.1055-E23-139" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="383" END="383">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="383">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E24-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="561" END="564">حسام</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="564">حسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E24-109" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2120" END="2123">حسام</charseq>
+    </extent>
+    <head>
+      <charseq START="2120" END="2123">حسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E24-141" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="148" END="155">حسام فخر</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="155">حسام فخر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E24-143" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="166" END="166">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="166" END="166">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E24-146" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="199" END="199">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="199">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E24-149" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="248" END="248">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="248">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E24-150" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="254" END="257">حسام</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="257">حسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حسام">
+      <charseq START="561" END="564">حسام</charseq>
+    </name>
+    <name NAME="حسام">
+      <charseq START="2120" END="2123">حسام</charseq>
+    </name>
+    <name NAME="حسام فخر">
+      <charseq START="148" END="155">حسام فخر</charseq>
+    </name>
+    <name NAME="حسام">
+      <charseq START="254" END="257">حسام</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E25-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="294" END="297">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="297">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="332" END="335">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="335">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="340" END="345">شيرازي</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="345">شيرازي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1218" END="1221">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="1218" END="1221">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="476" END="476">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="476">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="483" END="495">حافظ الشيرازي</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="495">حافظ الشيرازي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="633" END="645">حافظ الشيرازي</charseq>
+    </extent>
+    <head>
+      <charseq START="633" END="645">حافظ الشيرازي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="665" END="665">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="665">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="319" END="319">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="319">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="897" END="909">حافظ الشيرازي</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="909">حافظ الشيرازي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-67" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="944" END="947">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="944" END="947">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-68" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="952" END="957">شيرازي</charseq>
+    </extent>
+    <head>
+      <charseq START="952" END="957">شيرازي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-79" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1613" END="1616">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="1613" END="1616">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-101" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2052" END="2055">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="2052" END="2055">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-104" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2086" END="2086">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2086" END="2086">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2092" END="2092">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2092" END="2092">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-108" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2157" END="2160">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="2157" END="2160">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-118" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1994" END="1994">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1994" END="1994">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-119" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2000" END="2000">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2000" END="2000">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-123" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2373" END="2376">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="2373" END="2376">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-140" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1019" END="1022">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1022">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-147" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="207" END="219">حافظ الشيرازي</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="219">حافظ الشيرازي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-152" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1024" END="1024">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1024" END="1024">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-153" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1038" END="1041">حافظ</charseq>
+    </extent>
+    <head>
+      <charseq START="1038" END="1041">حافظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-154" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1078" END="1078">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1078" END="1078">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050221.1055-E25-155" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1094" END="1094">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1094" END="1094">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حافظ">
+      <charseq START="294" END="297">حافظ</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="332" END="335">حافظ</charseq>
+    </name>
+    <name NAME="شيرازي">
+      <charseq START="340" END="345">شيرازي</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="1218" END="1221">حافظ</charseq>
+    </name>
+    <name NAME="حافظ الشيرازي">
+      <charseq START="483" END="495">حافظ الشيرازي</charseq>
+    </name>
+    <name NAME="حافظ الشيرازي">
+      <charseq START="633" END="645">حافظ الشيرازي</charseq>
+    </name>
+    <name NAME="حافظ الشيرازي">
+      <charseq START="897" END="909">حافظ الشيرازي</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="944" END="947">حافظ</charseq>
+    </name>
+    <name NAME="شيرازي">
+      <charseq START="952" END="957">شيرازي</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="1613" END="1616">حافظ</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="2052" END="2055">حافظ</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="2157" END="2160">حافظ</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="2373" END="2376">حافظ</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="1019" END="1022">حافظ</charseq>
+    </name>
+    <name NAME="حافظ الشيرازي">
+      <charseq START="207" END="219">حافظ الشيرازي</charseq>
+    </name>
+    <name NAME="حافظ">
+      <charseq START="1038" END="1041">حافظ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050221.1055-E26-145" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2166" END="2177">wa7da_masrya</charseq>
+    </extent>
+    <head>
+      <charseq START="2166" END="2177">wa7da_masrya</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="wa7da_masrya">
+      <charseq START="2166" END="2177">wa7da_masrya</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050221.1055-E28" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="HADOUTA_20050221.1055-E28-156" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1115" END="1116">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1115" END="1116">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="HADOUTA_20050221.1055-T1">
+  <timex2_mention ID="HADOUTA_20050221.1055-T1-1">
+    <extent>
+      <charseq START="93" END="111">2005-02-21T10:55:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050221.1055-T2">
+  <timex2_mention ID="HADOUTA_20050221.1055-T2-1">
+    <extent>
+      <charseq START="2181" END="2191">2005-02-21T</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050221.1055-T3">
+  <timex2_mention ID="HADOUTA_20050221.1055-T3-1">
+    <extent>
+      <charseq START="2265" END="2275">2005-02-22T</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050221.1055-T4">
+  <timex2_mention ID="HADOUTA_20050221.1055-T4-1">
+    <extent>
+      <charseq START="2460" END="2470">2005-02-22T</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050221.1055-T5">
+  <timex2_mention ID="HADOUTA_20050221.1055-T5-1">
+    <extent>
+      <charseq START="37" END="55">2005-02-21T10:55:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="HADOUTA_20050221.1055-R1" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="HADOUTA_20050221.1055-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="HADOUTA_20050221.1055-E9" ROLE="Arg-2"/>
+  <relation_mention ID="HADOUTA_20050221.1055-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="584" END="588">خالتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E4-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="584" END="588">خالتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E9-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="588" END="588">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="HADOUTA_20050221.1055-R1-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="682" END="686">خالتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E4-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="682" END="686">خالتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E9-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="686" END="686">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="HADOUTA_20050221.1055-R3" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="HADOUTA_20050221.1055-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="HADOUTA_20050221.1055-E4" ROLE="Arg-2"/>
+  <relation_mention ID="HADOUTA_20050221.1055-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="698" END="702">زوجها</charseq>
+    </extent>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E10-137" ROLE="Arg-1">
+      <extent>
+        <charseq START="698" END="702">زوجها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E4-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="701" END="702">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="HADOUTA_20050221.1055-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="580" END="588">زوج خالتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E10-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="580" END="588">زوج خالتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E4-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="584" END="588">خالتي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="HADOUTA_20050221.1055-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="HADOUTA_20050221.1055-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="HADOUTA_20050221.1055-E20" ROLE="Arg-2"/>
+  <relation_mention ID="HADOUTA_20050221.1055-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2407" END="2416">وحدة مصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E17-125" ROLE="Arg-1">
+      <extent>
+        <charseq START="2407" END="2416">وحدة مصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="HADOUTA_20050221.1055-E20-136" ROLE="Arg-2">
+      <extent>
+        <charseq START="2412" END="2416">مصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

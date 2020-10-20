@@ -1,0 +1,598 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001008.1300.1221.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001008.1300.1221">
+<entity ID="VAR20001008.1300.1221-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E1-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="386" END="387">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="387">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E1-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="438" END="439">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="439">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E1-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="462" END="478">الهنود الأمريكيين</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="478">الهنود الأمريكيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E1-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="363" END="379">الهنود الأمريكيين</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="379">الهنود الأمريكيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E1-34" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="117" END="129">هنديا أمريكيا</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="129">هنديا أمريكيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الهنود الأمريكيين">
+      <charseq START="462" END="478">الهنود الأمريكيين</charseq>
+    </name>
+    <name NAME="الهنود الأمريكيين">
+      <charseq START="363" END="379">الهنود الأمريكيين</charseq>
+    </name>
+    <name NAME="هنديا أمريكيا">
+      <charseq START="117" END="129">هنديا أمريكيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001008.1300.1221-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E2-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="388" END="388">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="388">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="198" END="202">كلنبس</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="202">كلنبس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="280" END="284">كلنبس</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="284">كلنبس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="390" END="398">تاجر رقيق</charseq>
+    </extent>
+    <head>
+      <charseq START="390" END="393">تاجر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="555" END="559">كلنبس</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="559">كلنبس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="597" END="597">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="597">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="322" END="357">كرستفر كلنبس الذي يعتبر
+مكتشف أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="322" END="333">كرستفر كلنبس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="346" END="357">مكتشف أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="350">مكتشف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="340" END="340">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="340">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E2-32" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="335" END="338">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="338">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كلنبس">
+      <charseq START="198" END="202">كلنبس</charseq>
+    </name>
+    <name NAME="كلنبس">
+      <charseq START="280" END="284">كلنبس</charseq>
+    </name>
+    <name NAME="كلنبس">
+      <charseq START="555" END="559">كلنبس</charseq>
+    </name>
+    <name NAME="كرستفر كلنبس">
+      <charseq START="322" END="333">كرستفر كلنبس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001008.1300.1221-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E3-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="433" END="439">أسلافهم</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="437">أسلاف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001008.1300.1221-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E4-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="509" END="514">إيطالي</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="514">إيطالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E4-11" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="313" END="357">للإيطالي كرستفر كلنبس الذي يعتبر
+مكتشف أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="320">للإيطالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إيطالي">
+      <charseq START="509" END="514">إيطالي</charseq>
+    </name>
+    <name NAME="للإيطالي">
+      <charseq START="313" END="320">للإيطالي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001008.1300.1221-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E6-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="481" END="514">الأمريكيين المتحدرين من أصل إيطالي</charseq>
+    </extent>
+    <head>
+      <charseq START="481" END="490">الأمريكيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E6-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="499" END="500">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="500">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكيين">
+      <charseq START="481" END="490">الأمريكيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001008.1300.1221-E7" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001008.1300.1221-E7-15" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="99" END="129">أكثر من 140 ناشطا هنديا أمريكيا</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="102">أكثر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E7-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="132" END="133">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="133">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E7-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="139" END="140">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="140">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E7-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="224" END="225">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="225">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001008.1300.1221-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E8-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="107" END="129">140 ناشطا هنديا أمريكيا</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="115">ناشطا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001008.1300.1221-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E9-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="289" END="304">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="304">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E9-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="352" END="357">أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="357">أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="289" END="304">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="أمريكا">
+      <charseq START="352" END="357">أمريكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001008.1300.1221-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E10-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="531" END="541">بمدينة دنفر</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="541">بمدينة دنفر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E10-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="159" END="184">بمدينة دنفر بولاية كلرادوا</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="169">بمدينة دنفر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بمدينة دنفر">
+      <charseq START="531" END="541">بمدينة دنفر</charseq>
+    </name>
+    <name NAME="بمدينة دنفر">
+      <charseq START="159" END="169">بمدينة دنفر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001008.1300.1221-E11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E11-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="171" END="184">بولاية كلرادوا</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="184">بولاية كلرادوا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بولاية كلرادوا">
+      <charseq START="171" END="184">بولاية كلرادوا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001008.1300.1221-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001008.1300.1221-E12-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="208" END="208">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="208">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E12-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="210" END="215">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="215">الشرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001008.1300.1221-E13" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001008.1300.1221-E13-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="220" END="225">معظمهم</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="223">معظم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001008.1300.1221-E13-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="232" END="233">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="233">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="VAR20001008.1300.1221-V1" TYPE="Crime">
+  <value_mention ID="VAR20001008.1300.1221-V1-1">
+    <extent>
+      <charseq START="235" END="254">بتهمة التعدي والتسكع</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="VAR20001008.1300.1221-T1">
+  <timex2_mention ID="VAR20001008.1300.1221-T1-1">
+    <extent>
+      <charseq START="194" END="202">يوم كلنبس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001008.1300.1221-T2">
+  <timex2_mention ID="VAR20001008.1300.1221-T2-1">
+    <extent>
+      <charseq START="263" END="273">غدا الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001008.1300.1221-T3">
+  <timex2_mention ID="VAR20001008.1300.1221-T3-1">
+    <extent>
+      <charseq START="275" END="284">بيوم كلنبس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001008.1300.1221-T4">
+  <timex2_mention ID="VAR20001008.1300.1221-T4-1">
+    <extent>
+      <charseq START="568" END="571">1991</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001008.1300.1221-T5">
+  <timex2_mention ID="VAR20001008.1300.1221-T5-1">
+    <extent>
+      <charseq START="155" END="157">أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001008.1300.1221-T6">
+  <timex2_mention ID="VAR20001008.1300.1221-T6-1">
+    <extent>
+      <charseq START="616" END="624">التسعينات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001008.1300.1221-T7">
+  <timex2_mention ID="VAR20001008.1300.1221-T7-1">
+    <extent>
+      <charseq START="39" END="60">10/08/2000 13:20:21.59</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001008.1300.1221-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001008.1300.1221-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001008.1300.1221-E11" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001008.1300.1221-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="159" END="184">بمدينة دنفر بولاية كلرادوا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001008.1300.1221-E10-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="159" END="184">بمدينة دنفر بولاية كلرادوا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001008.1300.1221-E11-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="171" END="184">بولاية كلرادوا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001008.1300.1221-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001008.1300.1221-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001008.1300.1221-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001008.1300.1221-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="313" END="357">للإيطالي كرستفر كلنبس الذي يعتبر
+مكتشف أمريكا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001008.1300.1221-E2-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="322" END="357">كرستفر كلنبس الذي يعتبر
+مكتشف أمريكا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001008.1300.1221-E4-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="313" END="357">للإيطالي كرستفر كلنبس الذي يعتبر
+مكتشف أمريكا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001008.1300.1221-R3" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001008.1300.1221-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001008.1300.1221-E1" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001008.1300.1221-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="433" END="439">أسلافهم</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001008.1300.1221-E3-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="433" END="439">أسلافهم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001008.1300.1221-E1-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="438" END="439">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001008.1300.1221-EV1" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001008.1300.1221-E10" ROLE="Place"/>
+  <event_argument REFID="VAR20001008.1300.1221-E7" ROLE="Entity"/>
+  <event_argument REFID="VAR20001008.1300.1221-T5" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001008.1300.1221-EV1-1">
+    <extent>
+      <charseq START="135" END="184">يحتجون على عرض أقيم أمس بمدينة دنفر بولاية كلرادوا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="202">والنبأ الأخير في هذه النشرة اعتقل أكثر من 140 ناشطا هنديا أمريكيا وهم
+يحتجون على عرض أقيم أمس بمدينة دنفر بولاية كلرادوا بمناسبة يوم كلنبس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="135" END="140">يحتجون</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001008.1300.1221-E10-21" ROLE="Place">
+      <extent>
+        <charseq START="159" END="184">بمدينة دنفر بولاية كلرادوا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001008.1300.1221-E7-20" ROLE="Entity">
+      <extent>
+        <charseq START="139" END="140">ون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001008.1300.1221-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="155" END="157">أمس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001008.1300.1221-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001008.1300.1221-E7" ROLE="Person"/>
+  <event_mention ID="VAR20001008.1300.1221-EV2-1">
+    <extent>
+      <charseq START="93" END="129">اعتقل أكثر من 140 ناشطا هنديا أمريكيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="202">والنبأ الأخير في هذه النشرة اعتقل أكثر من 140 ناشطا هنديا أمريكيا وهم
+يحتجون على عرض أقيم أمس بمدينة دنفر بولاية كلرادوا بمناسبة يوم كلنبس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="93" END="97">اعتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001008.1300.1221-E7-15" ROLE="Person">
+      <extent>
+        <charseq START="99" END="129">أكثر من 140 ناشطا هنديا أمريكيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001008.1300.1221-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001008.1300.1221-E13" ROLE="Person"/>
+  <event_argument REFID="VAR20001008.1300.1221-E12" ROLE="Agent"/>
+  <event_argument REFID="VAR20001008.1300.1221-V1" ROLE="Crime"/>
+  <event_mention ID="VAR20001008.1300.1221-EV3-1">
+    <extent>
+      <charseq START="210" END="254">الشرطة إن معظمهم اعتقلوا بتهمة التعدي والتسكع</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="204" END="254">وقالت الشرطة إن معظمهم اعتقلوا بتهمة التعدي والتسكع</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="227" END="233">اعتقلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001008.1300.1221-E13-26" ROLE="Person">
+      <extent>
+        <charseq START="232" END="233">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001008.1300.1221-E12-23" ROLE="Agent">
+      <extent>
+        <charseq START="210" END="215">الشرطة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001008.1300.1221-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="235" END="254">بتهمة التعدي والتسكع</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001008.1300.1221-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001008.1300.1221-E1" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001008.1300.1221-E6" ROLE="Target"/>
+  <event_argument REFID="VAR20001008.1300.1221-T4" ROLE="Time-Holds"/>
+  <event_mention ID="VAR20001008.1300.1221-EV4-1">
+    <extent>
+      <charseq START="447" END="571">الاشتباكات بين الهنود الأمريكيين
+والأمريكيين المتحدرين من أصل إيطالي في أثناء العرض بمدينة دنفر بمناسبة
+يوم كلنبس في عام 1991</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="441" END="624">وكانت الاشتباكات بين الهنود الأمريكيين
+والأمريكيين المتحدرين من أصل إيطالي في أثناء العرض بمدينة دنفر بمناسبة
+يوم كلنبس في عام 1991 أدى إلى إلقاء الإحتفال به فيما تبقي من عقد
+التسعينات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="447" END="456">الاشتباكات</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001008.1300.1221-E1-9" ROLE="Attacker">
+      <extent>
+        <charseq START="462" END="478">الهنود الأمريكيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001008.1300.1221-E6-17" ROLE="Target">
+      <extent>
+        <charseq START="481" END="514">الأمريكيين المتحدرين من أصل إيطالي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001008.1300.1221-T4-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="568" END="571">1991</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

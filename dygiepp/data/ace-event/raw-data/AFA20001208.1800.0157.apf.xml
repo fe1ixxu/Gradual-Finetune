@@ -1,0 +1,913 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001208.1800.0157.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001208.1800.0157">
+<entity ID="AFA20001208.1800.0157-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E1-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="548" END="555">حاتم عقل</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="555">حاتم عقل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E1-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="540" END="555">المدافع حاتم عقل</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="546">المدافع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حاتم عقل">
+      <charseq START="548" END="555">حاتم عقل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E3-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="562" END="588">المهاجم المخضرم جريس تادروس</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="568">المهاجم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E3-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="578" END="588">جريس تادروس</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="588">جريس تادروس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E3-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="664" END="664">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="664">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E3-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="669" END="674">تادروس</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="674">تادروس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E3-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="680" END="680">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="680">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جريس تادروس">
+      <charseq START="578" END="588">جريس تادروس</charseq>
+    </name>
+    <name NAME="تادروس">
+      <charseq START="669" END="674">تادروس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E5" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001208.1800.0157-E5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="697" END="704">الهدافين</charseq>
+    </extent>
+    <head>
+      <charseq START="697" END="704">الهدافين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0157-E6" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E6-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="487" END="511">صاحب المركز العاشر الاخير</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="490">صاحب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E6-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1031" END="1034">سحاب</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1034">سحاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E6-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="249" END="252">سحاب</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="252">سحاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E6-68" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="482" END="511">سحاب صاحب المركز العاشر الاخير</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="485">سحاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سحاب">
+      <charseq START="1031" END="1034">سحاب</charseq>
+    </name>
+    <name NAME="سحاب">
+      <charseq START="249" END="252">سحاب</charseq>
+    </name>
+    <name NAME="سحاب">
+      <charseq START="482" END="485">سحاب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E7-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="728" END="744">استاد عمان الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="728" END="744">استاد عمان الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="استاد عمان الدولي">
+      <charseq START="728" END="744">استاد عمان الدولي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E8" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001208.1800.0157-E8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="752" END="768">نحو 10 الاف متفرج</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="768">متفرج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0157-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E9-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="881" END="892">محمود شلباية</charseq>
+    </extent>
+    <head>
+      <charseq START="881" END="892">محمود شلباية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمود شلباية">
+      <charseq START="881" END="892">محمود شلباية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E10-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="904" END="913">هيثم سمرين</charseq>
+    </extent>
+    <head>
+      <charseq START="904" END="913">هيثم سمرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="هيثم سمرين">
+      <charseq START="904" END="913">هيثم سمرين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E11-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="934" END="941">عوض راغب</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="941">عوض راغب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عوض راغب">
+      <charseq START="934" END="941">عوض راغب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E12-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="949" END="956">علي جمعة</charseq>
+    </extent>
+    <head>
+      <charseq START="949" END="956">علي جمعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علي جمعة">
+      <charseq START="949" END="956">علي جمعة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E13" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E13-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1037" END="1043">الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1037" END="1043">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E13-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1330" END="1336">الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1330" END="1336">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E13-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1561" END="1567">الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1561" END="1567">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E13-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1599" END="1599">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1599" END="1599">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزيرة">
+      <charseq START="1037" END="1043">الجزيرة</charseq>
+    </name>
+    <name NAME="الجزيرة">
+      <charseq START="1330" END="1336">الجزيرة</charseq>
+    </name>
+    <name NAME="الجزيرة">
+      <charseq START="1561" END="1567">الجزيرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E14-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1046" END="1051">الحسين</charseq>
+    </extent>
+    <head>
+      <charseq START="1046" END="1051">الحسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E14-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1207" END="1212">الحسين</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1212">الحسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحسين">
+      <charseq START="1046" END="1051">الحسين</charseq>
+    </name>
+    <name NAME="الحسين">
+      <charseq START="1207" END="1212">الحسين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E15" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E15-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1054" END="1059">الرمثا</charseq>
+    </extent>
+    <head>
+      <charseq START="1054" END="1059">الرمثا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E15-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1215" END="1220">الرمثا</charseq>
+    </extent>
+    <head>
+      <charseq START="1215" END="1220">الرمثا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرمثا">
+      <charseq START="1054" END="1059">الرمثا</charseq>
+    </name>
+    <name NAME="الرمثا">
+      <charseq START="1215" END="1220">الرمثا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E16" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E16-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="837" END="844">القادسية</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="844">القادسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E16-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1121" END="1128">القادسية</charseq>
+    </extent>
+    <head>
+      <charseq START="1121" END="1128">القادسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E16-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1146" END="1147">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1146" END="1147">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E16-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1149" END="1149">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1149" END="1149">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E16-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1182" END="1182">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1182" END="1182">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القادسية">
+      <charseq START="837" END="844">القادسية</charseq>
+    </name>
+    <name NAME="القادسية">
+      <charseq START="1121" END="1128">القادسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E17-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="136" END="151">عمان 12-8 (أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="139">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E17-53" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1848" END="1851">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1848" END="1851">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E17-58" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1308" END="1312">لعمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1308" END="1312">لعمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمان">
+      <charseq START="1848" END="1851">عمان</charseq>
+    </name>
+    <name NAME="لعمان">
+      <charseq START="1308" END="1312">لعمان</charseq>
+    </name>
+    <name NAME="عمان">
+      <charseq START="136" END="139">عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E18-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1247" END="1312">استاد الملك عبدالله الثاني في منطقة القويسمة الضاحية الشرقية
+لعمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1247" END="1272">استاد الملك عبدالله الثاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="استاد الملك عبدالله الثاني">
+      <charseq START="1247" END="1272">استاد الملك عبدالله الثاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E19" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E19-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1277" END="1312">منطقة القويسمة الضاحية الشرقية
+لعمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1277" END="1290">منطقة القويسمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E19-57" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1292" END="1312">الضاحية الشرقية
+لعمان</charseq>
+    </extent>
+    <head>
+      <charseq START="1292" END="1298">الضاحية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منطقة القويسمة">
+      <charseq START="1277" END="1290">منطقة القويسمة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E20" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E20-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1319" END="1324">الاهلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1319" END="1324">الاهلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E20-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1461" END="1466">الاهلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1461" END="1466">الاهلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E20-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1472" END="1472">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1472" END="1472">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E20-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1513" END="1513">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1513" END="1513">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاهلي">
+      <charseq START="1319" END="1324">الاهلي</charseq>
+    </name>
+    <name NAME="الاهلي">
+      <charseq START="1461" END="1466">الاهلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E21-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1389" END="1397">انزور نفش</charseq>
+    </extent>
+    <head>
+      <charseq START="1389" END="1397">انزور نفش</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انزور نفش">
+      <charseq START="1389" END="1397">انزور نفش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E22-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1419" END="1429">معتز الريشة</charseq>
+    </extent>
+    <head>
+      <charseq START="1419" END="1429">معتز الريشة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E22-40" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1404" END="1429">الحارس المخضرم معتز الريشة</charseq>
+    </extent>
+    <head>
+      <charseq START="1404" END="1409">الحارس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E22-41" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1446" END="1446">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1446" END="1446">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="معتز الريشة">
+      <charseq START="1419" END="1429">معتز الريشة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E24" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E24-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1698" END="1710">الحسين الرابع</charseq>
+    </extent>
+    <head>
+      <charseq START="1698" END="1710">الحسين الرابع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E24-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1693" END="1693">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1693" END="1693">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحسين الرابع">
+      <charseq START="1698" END="1710">الحسين الرابع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E25-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1738" END="1755">شباب الحسين السادس</charseq>
+    </extent>
+    <head>
+      <charseq START="1738" END="1741">شباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0157-E26" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E26-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1743" END="1755">الحسين السادس</charseq>
+    </extent>
+    <head>
+      <charseq START="1743" END="1755">الحسين السادس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحسين السادس">
+      <charseq START="1743" END="1755">الحسين السادس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E27" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E27-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1781" END="1793">الرمثا الخامس</charseq>
+    </extent>
+    <head>
+      <charseq START="1781" END="1793">الرمثا الخامس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرمثا الخامس">
+      <charseq START="1781" END="1793">الرمثا الخامس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E28" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E28-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1809" END="1821">الفحيص التاسع</charseq>
+    </extent>
+    <head>
+      <charseq START="1809" END="1821">الفحيص التاسع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفحيص التاسع">
+      <charseq START="1809" END="1821">الفحيص التاسع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E29-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="147" END="151">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="151">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="147" END="151">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E30" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E30-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="159" END="185">الفيصلي المتصدر وحامل اللقب</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="165">الفيصلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E30-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="606" END="606">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="606">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E30-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="465" END="465">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="465">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E30-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="817" END="823">الفيصلي</charseq>
+    </extent>
+    <head>
+      <charseq START="817" END="823">الفيصلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E30-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="190" END="190">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="190">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E30-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="470" END="476">الفيصلي</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="476">الفيصلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفيصلي">
+      <charseq START="470" END="476">الفيصلي</charseq>
+    </name>
+    <name NAME="الفيصلي">
+      <charseq START="159" END="165">الفيصلي</charseq>
+    </name>
+    <name NAME="الفيصلي">
+      <charseq START="817" END="823">الفيصلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E32" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E32-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="303" END="307">البطل</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="307">البطل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0157-E33" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E33-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="776" END="791">الوحدات، المهزوم</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="782">الوحدات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E33-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="978" END="978">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="978">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E33-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1007" END="1007">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1007">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E33-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="270" END="276">الوحدات</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="276">الوحدات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الوحدات">
+      <charseq START="270" END="276">الوحدات</charseq>
+    </name>
+    <name NAME="الوحدات">
+      <charseq START="776" END="782">الوحدات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E34-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="322" END="329">القادسية</charseq>
+    </extent>
+    <head>
+      <charseq START="322" END="329">القادسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القادسية">
+      <charseq START="322" END="329">القادسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E35" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E35-50" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1771" END="1777">الزرقاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1771" END="1777">الزرقاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0157-E35-55" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="396" END="408">مدينة الزرقاء</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="408">مدينة الزرقاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الزرقاء">
+      <charseq START="1771" END="1777">الزرقاء</charseq>
+    </name>
+    <name NAME="مدينة الزرقاء">
+      <charseq START="396" END="408">مدينة الزرقاء</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E36" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0157-E36-66" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="415" END="438">استاد الامير محمد للشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="438">استاد الامير محمد للشباب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="استاد الامير محمد للشباب">
+      <charseq START="415" END="438">استاد الامير محمد للشباب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0157-E37" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001208.1800.0157-E37-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="446" END="462">نحو 10 الاف
+متفرج</charseq>
+    </extent>
+    <head>
+      <charseq START="458" END="462">متفرج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001208.1800.0157-T1">
+  <timex2_mention ID="AFA20001208.1800.0157-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-08 21:12:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0157-T2">
+  <timex2_mention ID="AFA20001208.1800.0157-T2-1">
+    <extent>
+      <charseq START="141" END="144">12-8</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0157-T3">
+  <timex2_mention ID="AFA20001208.1800.0157-T3-1">
+    <extent>
+      <charseq START="377" END="388">اليوم الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0157-T4">
+  <timex2_mention ID="AFA20001208.1800.0157-T4-1">
+    <extent>
+      <charseq START="1082" END="1102">13 و18 و20 و22 الحالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0157-T5">
+  <timex2_mention ID="AFA20001208.1800.0157-T5-1">
+    <extent>
+      <charseq START="1225" END="1237">12 و16 الجاري</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0157-T6">
+  <timex2_mention ID="AFA20001208.1800.0157-T6-1">
+    <extent>
+      <charseq START="1644" END="1654">منذ 20 عاما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0157-T7">
+  <timex2_mention ID="AFA20001208.1800.0157-T7-1">
+    <extent>
+      <charseq START="1674" END="1682">غدا السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001208.1800.0157-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0157-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1800.0157-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1800.0157-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="136" END="151">عمان 12-8 (أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0157-E29-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="147" END="151">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0157-E17-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="136" END="151">عمان 12-8 (أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1800.0157-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0157-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1800.0157-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1800.0157-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1277" END="1312">منطقة القويسمة الضاحية الشرقية
+لعمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0157-E19-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="1292" END="1312">الضاحية الشرقية
+لعمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0157-E17-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="1308" END="1312">لعمان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1800.0157-R3" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0157-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1800.0157-E26" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1800.0157-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1738" END="1765">شباب الحسين السادس (18 من 15</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0157-E25-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="1738" END="1755">شباب الحسين السادس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0157-E26-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="1743" END="1755">الحسين السادس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

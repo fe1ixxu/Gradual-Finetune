@@ -1,0 +1,673 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001104.1400.0114.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001104.1400.0114">
+<entity ID="AFA20001104.1400.0114-E1" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="412" END="440">البندقية التي هدد بها الرهائن</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="419">البندقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E1-7" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="421" END="424">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="424">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E1-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="431" END="432">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="431" END="432">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E2-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="483" END="537">مقر محطة "الفا" في اثينا الذي كانت
+الحافلة متوقفة امامه</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="485">مقر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E2-12" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="508" END="511">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="511">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E2-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="537" END="537">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="537">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E3-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="583" END="614">الصحافيين العاملين في هذه
+المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="591">الصحافيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E3-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="599" END="600">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="600">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E4-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="574" END="614">مكتب احد الصحافيين العاملين في هذه
+المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="574" END="577">مكتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E5-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="107" END="122">اثينا 11-4 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="111">اثينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E5-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="502" END="506">اثينا</charseq>
+    </extent>
+    <head>
+      <charseq START="502" END="506">اثينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E5-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="202" END="206">اثينا</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="206">اثينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اثينا">
+      <charseq START="107" END="111">اثينا</charseq>
+    </name>
+    <name NAME="اثينا">
+      <charseq START="502" END="506">اثينا</charseq>
+    </name>
+    <name NAME="اثينا">
+      <charseq START="202" END="206">اثينا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001104.1400.0114-E6" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="AFA20001104.1400.0114-E6-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="579" END="614">احد الصحافيين العاملين في هذه
+المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="579" END="581">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E6-25" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="617" END="631">الذي قام بوساطة</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="620">الذي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E7-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="119" END="122">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="122">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="119" END="122">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001104.1400.0114-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E8-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="388" END="392">الرجل</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="392">الرجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E8-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="638" END="642">الرجل</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="642">الرجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E8-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="647" END="647">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="647" END="647">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E8-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="130" END="215">اليوناني المسلح الذي كان يحتجز 35 شخصا من
+بينهم 33 يابانيا في حافلة بين اثينا وكورنثيا</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="137">اليوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E8-28" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="146" END="149">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="149">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E8-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="155" END="155">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="155" END="155">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E8-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="231" END="231">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="231">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E8-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="241" END="241">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="241">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E9-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="376" END="377">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="377">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E9-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="434" END="440">الرهائن</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="440">الرهائن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E9-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="359" END="377">ركاب الحافلة سالمون</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="362">ركاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E9-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="161" END="187">35 شخصا من
+بينهم 33 يابانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="167">شخصا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E9-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="175" END="176">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="176">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E9-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="354" END="377">جميع ركاب الحافلة سالمون</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="357">جميع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جميع">
+      <charseq START="354" END="357">جميع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001104.1400.0114-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E10-32" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="178" END="187">33 يابانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="179">33</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E11" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E11-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="364" END="370">الحافلة</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="370">الحافلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E11-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="397" END="403">الحافلة</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="403">الحافلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E11-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="516" END="516">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="516">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E11-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="518" END="524">الحافلة</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="524">الحافلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E11-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="192" END="215">حافلة بين اثينا وكورنثيا</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="196">حافلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E11-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="220" END="224">الباص</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="224">الباص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E12-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="209" END="215">كورنثيا</charseq>
+    </extent>
+    <head>
+      <charseq START="209" END="215">كورنثيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كورنثيا">
+      <charseq START="209" END="215">كورنثيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001104.1400.0114-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E13-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="653" END="658">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="653" END="658">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E13-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="247" END="252">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="252">الشرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001104.1400.0114-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E14-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="605" END="614">هذه
+المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="609" END="614">المحطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E14-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="283" END="283">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="283">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E14-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="287" END="316">محطة "الفا" التلفزيونية
+الخاصة</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="297">محطة "الفا"</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001104.1400.0114-E14-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="344" END="349">المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="349">المحطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محطة الفا">
+      <charseq START="287" END="297">محطة "الفا"</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001104.1400.0114-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001104.1400.0114-E15-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="338" END="349">مراسل المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="342">مراسل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001104.1400.0114-T1">
+  <timex2_mention ID="AFA20001104.1400.0114-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-04 17:44:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001104.1400.0114-T2">
+  <timex2_mention ID="AFA20001104.1400.0114-T2-1">
+    <extent>
+      <charseq START="113" END="116">11-4</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001104.1400.0114-T3">
+  <timex2_mention ID="AFA20001104.1400.0114-T3-1">
+    <extent>
+      <charseq START="443" END="471">قبيل
+الساعة   00،19 (00،17 تغ</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001104.1400.0114-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001104.1400.0114-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001104.1400.0114-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001104.1400.0114-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="107" END="122">اثينا 11-4 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E7-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="119" END="122">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E5-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="107" END="122">اثينا 11-4 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001104.1400.0114-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001104.1400.0114-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001104.1400.0114-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001104.1400.0114-R2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="130" END="215">اليوناني المسلح الذي كان يحتجز 35 شخصا من
+بينهم 33 يابانيا في حافلة بين اثينا وكورنثيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E8-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="155" END="155">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E11-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="192" END="215">حافلة بين اثينا وكورنثيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001104.1400.0114-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001104.1400.0114-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001104.1400.0114-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001104.1400.0114-R3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="130" END="215">اليوناني المسلح الذي كان يحتجز 35 شخصا من
+بينهم 33 يابانيا في حافلة بين اثينا وكورنثيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E9-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="161" END="187">35 شخصا من
+بينهم 33 يابانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E11-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="192" END="215">حافلة بين اثينا وكورنثيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001104.1400.0114-R3-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="354" END="377">جميع ركاب الحافلة سالمون</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E9-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="359" END="377">ركاب الحافلة سالمون</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E11-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="364" END="370">الحافلة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001104.1400.0114-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001104.1400.0114-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001104.1400.0114-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001104.1400.0114-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="338" END="349">مراسل المحطة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E15-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="338" END="349">مراسل المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E14-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="344" END="349">المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001104.1400.0114-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001104.1400.0114-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001104.1400.0114-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001104.1400.0114-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="483" END="537">مقر محطة "الفا" في اثينا الذي كانت
+الحافلة متوقفة امامه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E2-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="483" END="537">مقر محطة "الفا" في اثينا الذي كانت
+الحافلة متوقفة امامه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E5-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="502" END="506">اثينا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001104.1400.0114-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001104.1400.0114-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001104.1400.0114-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001104.1400.0114-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="574" END="614">مكتب احد الصحافيين العاملين في هذه
+المحطة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E3-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="583" END="614">الصحافيين العاملين في هذه
+المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E14-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="605" END="614">هذه
+المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001104.1400.0114-R8" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001104.1400.0114-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001104.1400.0114-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001104.1400.0114-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="574" END="614">مكتب احد الصحافيين العاملين في هذه
+المحطة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E6-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="579" END="614">احد الصحافيين العاملين في هذه
+المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001104.1400.0114-E4-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="574" END="614">مكتب احد الصحافيين العاملين في هذه
+المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001104.1400.0114-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001104.1400.0114-E8" ROLE="Artifact"/>
+  <event_mention ID="AFA20001104.1400.0114-EV1-1">
+    <extent>
+      <charseq START="126" END="215">خرج اليوناني المسلح الذي كان يحتجز 35 شخصا من
+بينهم 33 يابانيا في حافلة بين اثينا وكورنثيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="126" END="252">خرج اليوناني المسلح الذي كان يحتجز 35 شخصا من
+بينهم 33 يابانيا في حافلة بين اثينا وكورنثيا من الباص بمفرده وسلم نفسه
+الى الشرطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="126" END="128">خرج</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001104.1400.0114-E8-27" ROLE="Artifact">
+      <extent>
+        <charseq START="130" END="215">اليوناني المسلح الذي كان يحتجز 35 شخصا من
+بينهم 33 يابانيا في حافلة بين اثينا وكورنثيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001104.1400.0114-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001104.1400.0114-E8" ROLE="Artifact"/>
+  <event_mention ID="AFA20001104.1400.0114-EV2-1">
+    <extent>
+      <charseq START="384" END="392">نزل الرجل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="383" END="472">ونزل الرجل من الحافلة من دون البندقية التي هدد بها الرهائن، قبيل
+الساعة   00،19 (00،17 تغ)</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="384" END="386">نزل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001104.1400.0114-E8-5" ROLE="Artifact">
+      <extent>
+        <charseq START="388" END="392">الرجل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001104.1400.0114-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001104.1400.0114-E2" ROLE="Destination"/>
+  <event_mention ID="AFA20001104.1400.0114-EV3-1">
+    <extent>
+      <charseq START="475" END="537">دخل الى مقر محطة "الفا" في اثينا الذي كانت
+الحافلة متوقفة امامه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="474" END="537">ودخل الى مقر محطة "الفا" في اثينا الذي كانت
+الحافلة متوقفة امامه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="475" END="477">دخل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001104.1400.0114-E2-10" ROLE="Destination">
+      <extent>
+        <charseq START="483" END="537">مقر محطة "الفا" في اثينا الذي كانت
+الحافلة متوقفة امامه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,797 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001212.1100.0503.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001212.1100.0503">
+<entity ID="VAR20001212.1100.0503-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="281" END="296">بالجزائر العاصمة</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="288">بالجزائر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E1-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="560" END="567">بالجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="560" END="567">بالجزائر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E1-28" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="290" END="296">العاصمة</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="296">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالجزائر">
+      <charseq START="281" END="288">بالجزائر</charseq>
+    </name>
+    <name NAME="بالجزائر">
+      <charseq START="560" END="567">بالجزائر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E2-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="311" END="325">الرئيس الجزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="316">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E2-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="327" END="345">عبد العزيز
+بوتفليقة</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="345">عبد العزيز
+بوتفليقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد العزيز بوتفليقة">
+      <charseq START="327" END="345">عبد العزيز
+بوتفليقة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E4-6" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="318" END="325">الجزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="325">الجزائري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزائري">
+      <charseq START="318" END="325">الجزائري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E5-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="351" END="351">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="351">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E5-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="365" END="388">وزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="369">وزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E5-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="390" END="405">مارجريت أولبرايت</charseq>
+    </extent>
+    <head>
+      <charseq START="390" END="405">مارجريت أولبرايت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مارجريت أولبرايت">
+      <charseq START="390" END="405">مارجريت أولبرايت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E7-11" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="380" END="388">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="388">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكية">
+      <charseq START="380" END="388">الأمريكية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E8-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="371" END="388">الخارجية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="378">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="371" END="378">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E9-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="408" END="433">الأمين العام للأمم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="413">الأمين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E9-15" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="435" END="443">كوفي عنان</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="443">كوفي عنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوفي عنان">
+      <charseq START="435" END="443">كوفي عنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E11-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="421" END="433">للأمم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="433">للأمم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للأمم المتحدة">
+      <charseq START="421" END="433">للأمم المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E12-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="451" END="471">منظمة الوحدة الأوربية</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="471">منظمة الوحدة الأوربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E12-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="449" END="449">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="449">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E12-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="480" END="480">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="480" END="480">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منظمة الوحدة الأوربية">
+      <charseq START="451" END="471">منظمة الوحدة الأوربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E13" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E13-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="119" END="124">الحدود</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="124">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E14-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="622" END="632">لجنة محايدة</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="625">لجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E15" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E15-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="639" END="672">الحدود المتنازع عليها بين الدولتين</charseq>
+    </extent>
+    <head>
+      <charseq START="639" END="644">الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E15-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="658" END="659">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="658" END="659">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E16-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="692" END="701">أسرى الحرب</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="695">أسرى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E17-30" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="70" END="76">إثيوبيا</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="76">إثيوبيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E17-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="226" END="233">الأثيوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="233">الأثيوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إثيوبيا">
+      <charseq START="70" END="76">إثيوبيا</charseq>
+    </name>
+    <name NAME="الأثيوبي">
+      <charseq START="226" END="233">الأثيوبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E18-29" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="253" END="259">إريتريا</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="259">إريتريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E18-31" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="79" END="85">إريتريا</charseq>
+    </extent>
+    <head>
+      <charseq START="79" END="85">إريتريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إريتريا">
+      <charseq START="253" END="259">إريتريا</charseq>
+    </name>
+    <name NAME="إريتريا">
+      <charseq START="79" END="85">إريتريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E19-20" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="512" END="512">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="512">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E19-21" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="514" END="521">الدولتان</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="521">الدولتان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E19-26" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="665" END="672">الدولتين</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="672">الدولتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E19-32" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="68" END="68">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="68" END="68">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E19-33" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="188" END="195">الدولتين</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="195">الدولتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E19-34" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="147" END="149">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="149">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E20" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001212.1100.0503-E20-35" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="165" END="195">عشرات الآلاف من مواطني الدولتين</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="169">عشرات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E21-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="181" END="195">مواطني الدولتين</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="186">مواطني</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E22-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="213" END="233">رئيس الوزراء الأثيوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="216">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E22-40" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="235" END="245">ميلس زيناوي</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="245">ميلس زيناوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميلس زيناوي">
+      <charseq START="235" END="245">ميلس زيناوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0503-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E25-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="218" END="224">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="224">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0503-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0503-E26-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="248" END="259">رئيس إريتريا</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="251">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0503-E26-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="261" END="276">إيسايس
+إيفاووركي</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="276">إيسايس
+إيفاووركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إيسايس إيفاووركي">
+      <charseq START="261" END="276">إيسايس
+إيفاووركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001212.1100.0503-T1">
+  <timex2_mention ID="VAR20001212.1100.0503-T1-1">
+    <extent>
+      <charseq START="39" END="60">12/12/2000 11:08:23.19</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001212.1100.0503-T2">
+  <timex2_mention ID="VAR20001212.1100.0503-T2-1">
+    <extent>
+      <charseq START="572" END="590">يونيو حزيران الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001212.1100.0503-T3">
+  <timex2_mention ID="VAR20001212.1100.0503-T3-1">
+    <extent>
+      <charseq START="98" END="102">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001212.1100.0503-T4">
+  <timex2_mention ID="VAR20001212.1100.0503-T4-1">
+    <extent>
+      <charseq START="138" END="142">عامين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001212.1100.0503-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E19" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="181" END="195">مواطني الدولتين</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E21-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="181" END="195">مواطني الدولتين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E19-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="188" END="195">الدولتين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E25" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="213" END="233">رئيس الوزراء الأثيوبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E22-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="213" END="233">رئيس الوزراء الأثيوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E25-41" ROLE="Arg-2">
+      <extent>
+        <charseq START="218" END="224">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E8" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="365" END="388">وزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E5-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="365" END="388">وزيرة الخارجية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E8-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="371" END="388">الخارجية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E11" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="408" END="433">الأمين العام للأمم المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E9-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="408" END="433">الأمين العام للأمم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E11-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="421" END="433">للأمم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E19" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R5-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="639" END="672">الحدود المتنازع عليها بين الدولتين</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E15-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="639" END="672">الحدود المتنازع عليها بين الدولتين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E19-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="665" END="672">الدولتين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E17" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="213" END="233">رئيس الوزراء الأثيوبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E22-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="213" END="233">رئيس الوزراء الأثيوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E17-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="226" END="233">الأثيوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E18" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="248" END="259">رئيس إريتريا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E26-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="248" END="259">رئيس إريتريا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E18-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="253" END="259">إريتريا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="311" END="325">الرئيس الجزائري</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E2-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="311" END="325">الرئيس الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E4-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="318" END="325">الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0503-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0503-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0503-E7" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0503-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="365" END="388">وزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E8-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="371" END="388">الخارجية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0503-E7-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="380" END="388">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001212.1100.0503-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001212.1100.0503-E20" ROLE="Victim"/>
+  <event_argument REFID="VAR20001212.1100.0503-E17" ROLE="Agent"/>
+  <event_argument REFID="VAR20001212.1100.0503-E18" ROLE="Agent"/>
+  <event_argument REFID="VAR20001212.1100.0503-T4" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001212.1100.0503-EV1-1">
+    <extent>
+      <charseq START="70" END="195">إثيوبيا وإريتريا اتفاق سلام اليوم رسميا ينهى حرب الحدود التي
+استمرت عامين بينهما وأدت إلى مقتل عشرات الآلاف من مواطني الدولتين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="195">وقعت إثيوبيا وإريتريا اتفاق سلام اليوم رسميا ينهى حرب الحدود التي
+استمرت عامين بينهما وأدت إلى مقتل عشرات الآلاف من مواطني الدولتين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="160" END="163">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E20-35" ROLE="Victim">
+      <extent>
+        <charseq START="165" END="195">عشرات الآلاف من مواطني الدولتين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E17-30" ROLE="Agent">
+      <extent>
+        <charseq START="70" END="76">إثيوبيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E18-31" ROLE="Agent">
+      <extent>
+        <charseq START="79" END="85">إريتريا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="138" END="142">عامين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0503-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001212.1100.0503-E19" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001212.1100.0503-T2" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001212.1100.0503-EV2-1">
+    <extent>
+      <charseq START="514" END="590">الدولتان بالأحرف الأولى اتفاق
+وقف إطلاق النار بالجزائر في يونيو حزيران الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="445" END="701">وكانت منظمة الوحدة الأوربية قد
+توسطت في التوصل إلى اتفاق بعد أن وقعت الدولتان بالأحرف الأولى اتفاق
+وقف إطلاق النار بالجزائر في يونيو حزيران الماضي ويدعوا اتفاق السلام
+إلى تشكيل لجنة محايدة لرسم الحدود المتنازع عليها بين الدولتين كما ينص
+على تبادل أسرى الحرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="548" END="558">إطلاق النار</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E19-21" ROLE="Attacker">
+      <extent>
+        <charseq START="514" END="521">الدولتان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="572" END="590">يونيو حزيران الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0503-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001212.1100.0503-E17" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001212.1100.0503-E18" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001212.1100.0503-T4" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001212.1100.0503-EV3-1">
+    <extent>
+      <charseq START="70" END="142">إثيوبيا وإريتريا اتفاق سلام اليوم رسميا ينهى حرب الحدود التي
+استمرت عامين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="195">وقعت إثيوبيا وإريتريا اتفاق سلام اليوم رسميا ينهى حرب الحدود التي
+استمرت عامين بينهما وأدت إلى مقتل عشرات الآلاف من مواطني الدولتين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="115" END="117">حرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E17-30" ROLE="Attacker">
+      <extent>
+        <charseq START="70" END="76">إثيوبيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E18-31" ROLE="Attacker">
+      <extent>
+        <charseq START="79" END="85">إريتريا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="138" END="142">عامين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0503-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001212.1100.0503-E1" ROLE="Place"/>
+  <event_argument REFID="VAR20001212.1100.0503-E22" ROLE="Entity"/>
+  <event_argument REFID="VAR20001212.1100.0503-E26" ROLE="Entity"/>
+  <event_argument REFID="VAR20001212.1100.0503-E2" ROLE="Entity"/>
+  <event_argument REFID="VAR20001212.1100.0503-E5" ROLE="Entity"/>
+  <event_argument REFID="VAR20001212.1100.0503-E9" ROLE="Entity"/>
+  <event_mention ID="VAR20001212.1100.0503-EV4-1">
+    <extent>
+      <charseq START="213" END="443">رئيس الوزراء الأثيوبي ميلس زيناوي ورئيس إريتريا إيسايس
+إيفاووركي في بالجزائر العاصمة باحتفال رعاه الرئيس الجزائري عبد العزيز
+بوتفليقة وحضرت حفل التوقيع وزيرة الخارجية الأمريكية مارجريت أولبرايت
+والأمين العام للأمم المتحدة كوفي عنان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="197" END="443">وقد
+وقع الاتفاق رئيس الوزراء الأثيوبي ميلس زيناوي ورئيس إريتريا إيسايس
+إيفاووركي في بالجزائر العاصمة باحتفال رعاه الرئيس الجزائري عبد العزيز
+بوتفليقة وحضرت حفل التوقيع وزيرة الخارجية الأمريكية مارجريت أولبرايت
+والأمين العام للأمم المتحدة كوفي عنان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="298" END="304">باحتفال</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E1-2" ROLE="Place">
+      <extent>
+        <charseq START="281" END="296">بالجزائر العاصمة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E22-38" ROLE="Entity">
+      <extent>
+        <charseq START="213" END="233">رئيس الوزراء الأثيوبي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E26-43" ROLE="Entity">
+      <extent>
+        <charseq START="248" END="259">رئيس إريتريا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E2-4" ROLE="Entity">
+      <extent>
+        <charseq START="311" END="325">الرئيس الجزائري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E5-10" ROLE="Entity">
+      <extent>
+        <charseq START="390" END="405">مارجريت أولبرايت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0503-E9-15" ROLE="Entity">
+      <extent>
+        <charseq START="435" END="443">كوفي عنان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001005.1300.0690.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001005.1300.0690">
+<entity ID="VAR20001005.1300.0690-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="336" END="386">وفدا من الأطباء والممرضات والصحفيين ومسئولي الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="339">وفدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E1-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="403" END="407">الوفد</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="407">الوفد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="373" END="386">مسئولي الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="378">مسئولي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="363" END="370">الصحفيين</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="370">الصحفيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="353" END="360">الممرضات</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="360">الممرضات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="344" END="350">الأطباء</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="350">الأطباء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E6-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="392" END="396">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="392" END="396">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="392" END="396">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E7-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="427" END="437">محمد المدفع</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="437">محمد المدفع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E7-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="416" END="425">وزير الصحة</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="419">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد المدفع">
+      <charseq START="427" END="437">محمد المدفع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E9-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="421" END="425">الصحة</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="425">الصحة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الصحة">
+      <charseq START="421" END="425">الصحة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E10-14" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="440" END="440">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="440" END="440">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E10-15" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="446" END="452">الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="452">الجزائر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E11" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E11-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="460" END="464">طائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="464">طائرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E12" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E12-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="499" END="499">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="499">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E12-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="507" END="507">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="507">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E12-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="536" END="541">طائرات</charseq>
+    </extent>
+    <head>
+      <charseq START="536" END="541">طائرات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E12-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="558" END="559">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="559">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E12-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="586" END="587">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="587">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E13-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="547" END="552">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="552">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغرب">
+      <charseq START="547" END="552">المغرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E14-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="564" END="568">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="568">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمن">
+      <charseq START="564" END="568">اليمن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E15-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="571" END="576">الأردن</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="576">الأردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأردن">
+      <charseq START="571" END="576">الأردن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E16-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="600" END="620">لجنة
+العقوبات الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="620">لجنة
+العقوبات الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجنة العقوبات الدولية">
+      <charseq START="600" END="620">لجنة
+العقوبات الدولية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E17-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="65" END="65">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="65">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E18" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E18-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="90" END="95">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="95">الخليج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E19" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E19-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="104" END="104">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="104" END="104">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E19-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="106" END="121">طائرة عربية أخرى</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="110">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E19-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="272" END="272">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="272">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E19-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="274" END="278">طائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="278">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E19-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="314" END="315">هى</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="315">هى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E19-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="317" END="317">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="317">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E20-30" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="112" END="116">عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="116">عربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E20-35" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="174" END="180">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="180">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عربية">
+      <charseq START="112" END="116">عربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="174" END="180">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E21" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E21-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="126" END="135">مطار
+بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="135">مطار
+بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مطار بغداد">
+      <charseq START="126" END="135">مطار
+بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="VAR20001005.1300.0690-E22-32" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="149" END="149">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="149">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E22-33" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="154" END="180">عدد متزايد من الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="156">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E23-34" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="168" END="180">الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="168" END="172">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001005.1300.0690-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E25-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="470" END="475">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="475">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E25-36" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="193" END="198">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="198">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العراق">
+      <charseq START="470" END="475">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="193" END="198">العراق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E26" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E26-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="243" END="243">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="243">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E26-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="250" END="262">الأمم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="262">الأمم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمم المتحدة">
+      <charseq START="250" END="262">الأمم المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001005.1300.0690-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001005.1300.0690-E27-4" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="380" END="386">الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="386">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001005.1300.0690-E27-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="283" END="311">دولة الإمارات العربية المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="311">دولة الإمارات العربية المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دولة الإمارات العربية المتحدة">
+      <charseq START="283" END="311">دولة الإمارات العربية المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001005.1300.0690-T1">
+  <timex2_mention ID="VAR20001005.1300.0690-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/05/2000 13:11:30.51</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001005.1300.0690-T2">
+  <timex2_mention ID="VAR20001005.1300.0690-T2-1">
+    <extent>
+      <charseq START="138" END="142">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001005.1300.0690-T3">
+  <timex2_mention ID="VAR20001005.1300.0690-T3-1">
+    <extent>
+      <charseq START="489" END="493">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001005.1300.0690-T4">
+  <timex2_mention ID="VAR20001005.1300.0690-T4-1">
+    <extent>
+      <charseq START="524" END="534">هذا الأسبوع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001005.1300.0690-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001005.1300.0690-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001005.1300.0690-E27" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001005.1300.0690-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="373" END="386">مسئولي الحكومة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E2-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="373" END="386">مسئولي الحكومة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E27-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="380" END="386">الحكومة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001005.1300.0690-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001005.1300.0690-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001005.1300.0690-E9" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001005.1300.0690-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="416" END="425">وزير الصحة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E7-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="416" END="425">وزير الصحة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E9-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="421" END="425">الصحة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001005.1300.0690-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001005.1300.0690-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001005.1300.0690-E19" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001005.1300.0690-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="106" END="121">طائرة عربية أخرى</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E20-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="112" END="116">عربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E19-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="106" END="121">طائرة عربية أخرى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001005.1300.0690-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001005.1300.0690-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001005.1300.0690-E23" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001005.1300.0690-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="168" END="180">الدول العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E20-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="174" END="180">العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E23-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="168" END="180">الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001005.1300.0690-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001005.1300.0690-E19" ROLE="Arg-2"/>
+  <relation_argument REFID="VAR20001005.1300.0690-E27" ROLE="Arg-1"/>
+  <relation_mention ID="VAR20001005.1300.0690-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="274" END="311">طائرة من دولة الإمارات العربية المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E19-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="274" END="278">طائرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001005.1300.0690-E27-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="283" END="311">دولة الإمارات العربية المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001005.1300.0690-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001005.1300.0690-E19" ROLE="Vehicle"/>
+  <event_argument REFID="VAR20001005.1300.0690-E21" ROLE="Destination"/>
+  <event_mention ID="VAR20001005.1300.0690-EV1-1">
+    <extent>
+      <charseq START="101" END="135">هبطت طائرة عربية أخرى في مطار
+بغداد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="135">ننتقل إلى تطورات اخرى في الخليج فقد هبطت طائرة عربية أخرى في مطار
+بغداد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="101" END="104">هبطت</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E19-28" ROLE="Vehicle">
+      <extent>
+        <charseq START="104" END="104">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E21-31" ROLE="Destination">
+      <extent>
+        <charseq START="126" END="135">مطار
+بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001005.1300.0690-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001005.1300.0690-E19" ROLE="Vehicle"/>
+  <event_argument REFID="VAR20001005.1300.0690-E1" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001005.1300.0690-E6" ROLE="Destination"/>
+  <event_argument REFID="VAR20001005.1300.0690-E27" ROLE="Origin"/>
+  <event_mention ID="VAR20001005.1300.0690-EV2-1">
+    <extent>
+      <charseq START="269" END="396">وصلت طائرة من دولة الإمارات العربية المتحدة وهى تحمل إمدادات طبية
+ووفدا من الأطباء والممرضات والصحفيين ومسئولي الحكومة إلى بغداد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="200" END="437">على الرغم من استمرار العقوبات الصارمة التي تفرضها الأمم المتحدة فقد
+ووصلت طائرة من دولة الإمارات العربية المتحدة وهى تحمل إمدادات طبية
+ووفدا من الأطباء والممرضات والصحفيين ومسئولي الحكومة إلى بغداد وكان
+الوفد برئاسة وزير الصحة محمد المدفع</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="269" END="272">وصلت</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E19-39" ROLE="Vehicle">
+      <extent>
+        <charseq START="272" END="272">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E1-2" ROLE="Artifact">
+      <extent>
+        <charseq START="336" END="386">وفدا من الأطباء والممرضات والصحفيين ومسئولي الحكومة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E6-8" ROLE="Destination">
+      <extent>
+        <charseq START="392" END="396">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E27-41" ROLE="Origin">
+      <extent>
+        <charseq START="283" END="311">دولة الإمارات العربية المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001005.1300.0690-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="VAR20001005.1300.0690-E11" ROLE="Vehicle"/>
+  <event_argument REFID="VAR20001005.1300.0690-E25" ROLE="Destination"/>
+  <event_argument REFID="VAR20001005.1300.0690-E10" ROLE="Origin"/>
+  <event_argument REFID="VAR20001005.1300.0690-T3" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001005.1300.0690-EV3-1">
+    <extent>
+      <charseq START="446" END="493">الجزائر إرسال طائرة إلى
+العراق في وقت لاحق اليوم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="439" END="493">وتعتزم الجزائر إرسال طائرة إلى
+العراق في وقت لاحق اليوم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="454" END="458">إرسال</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E11-16" ROLE="Vehicle">
+      <extent>
+        <charseq START="460" END="464">طائرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E25-17" ROLE="Destination">
+      <extent>
+        <charseq START="470" END="475">العراق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E10-15" ROLE="Origin">
+      <extent>
+        <charseq START="446" END="452">الجزائر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="489" END="493">اليوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001005.1300.0690-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001005.1300.0690-E12" ROLE="Vehicle"/>
+  <event_argument REFID="VAR20001005.1300.0690-E13" ROLE="Origin"/>
+  <event_argument REFID="VAR20001005.1300.0690-E14" ROLE="Origin"/>
+  <event_argument REFID="VAR20001005.1300.0690-E15" ROLE="Origin"/>
+  <event_argument REFID="VAR20001005.1300.0690-T4" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001005.1300.0690-EV4-1">
+    <extent>
+      <charseq START="504" END="576">وصلت في وقت سابق من هذا الأسبوع
+طائرات ومن المغرب وقبلها من اليمن والأردن</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="495" END="620">وكانت قد وصلت في وقت سابق من هذا الأسبوع
+طائرات ومن المغرب وقبلها من اليمن والأردن بعد حصولها على موافقة لجنة
+العقوبات الدولية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="504" END="507">وصلت</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E12-19" ROLE="Vehicle">
+      <extent>
+        <charseq START="507" END="507">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E13-21" ROLE="Origin">
+      <extent>
+        <charseq START="547" END="552">المغرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E14-22" ROLE="Origin">
+      <extent>
+        <charseq START="564" END="568">اليمن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-E15-23" ROLE="Origin">
+      <extent>
+        <charseq START="571" END="576">الأردن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001005.1300.0690-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="524" END="534">هذا الأسبوع</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

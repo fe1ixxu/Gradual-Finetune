@@ -1,0 +1,800 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001001.1300.0789.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001001.1300.0789">
+<entity ID="VAR20001001.1300.0789-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="430" END="437">سائح مسن</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="433">سائح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E2" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="450" END="459">يخت مستأجر</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="452">يخت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E3" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E3-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="472" END="481">جزيرة
+تكسس</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="481">جزيرة
+تكسس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E3-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="563" END="566">نكسس</charseq>
+    </extent>
+    <head>
+      <charseq START="563" END="566">نكسس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جزيرة تكسس">
+      <charseq START="472" END="481">جزيرة
+تكسس</charseq>
+    </name>
+    <name NAME="نكسس">
+      <charseq START="563" END="566">نكسس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.0789-E4" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="489" END="506">سفينة يونانية أخرى</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="493">سفينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E4-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="508" END="509">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="509">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E4-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="511" END="524">إكسبريس أرتنيس</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="524">إكسبريس أرتنيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E4-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="487" END="487">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="487">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E4-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="546" END="546">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="546">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E4-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="548" END="548">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="548">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إكسبريس أرتنيس">
+      <charseq START="511" END="524">إكسبريس أرتنيس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.0789-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E5-7" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="495" END="501">يونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="501">يونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E5-14" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="611" END="619">اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="611" END="619">اليونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E5-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="681" END="689">اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="689">اليونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E5-35" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="81" END="87">يونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="81" END="87">يونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E5-44" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="384" END="392">اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="392">اليونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يونانية">
+      <charseq START="495" END="501">يونانية</charseq>
+    </name>
+    <name NAME="اليونانية">
+      <charseq START="611" END="619">اليونانية</charseq>
+    </name>
+    <name NAME="اليونانية">
+      <charseq START="681" END="689">اليونانية</charseq>
+    </name>
+    <name NAME="يونانية">
+      <charseq START="81" END="87">يونانية</charseq>
+    </name>
+    <name NAME="اليونانية">
+      <charseq START="384" END="392">اليونانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.0789-E6" TYPE="ORG" SUBTYPE="Government" CLASS="USP">
+  <entity_mention ID="VAR20001001.1300.0789-E6-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="260" END="266">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="266">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E6-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="186" END="190">محكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="190">محكمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E7" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="VAR20001001.1300.0789-E7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="576" END="578">أحد</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="578">أحد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E7-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="572" END="572">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="572">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E8" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E8-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="467" END="481">ساحل جزيرة
+تكسس</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="470">ساحل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E9-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="603" END="619">السلطات
+اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="609">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E9-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="601" END="601">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="601" END="601">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E11" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E11-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="628" END="642">خمس وستين سفينة</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="642">سفينة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E12" TYPE="VEH" SUBTYPE="Water" CLASS="GEN">
+  <entity_mention ID="VAR20001001.1300.0789-E12-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="675" END="689">السفن
+اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="679">السفن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E14" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E14-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="226" END="233">بحر إيجا</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="233">بحر إيجا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E14-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="397" END="404">بحر إيجا</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="404">بحر إيجا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بحر إيجا">
+      <charseq START="226" END="233">بحر إيجا</charseq>
+    </name>
+    <name NAME="بحر إيجا">
+      <charseq START="397" END="404">بحر إيجا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.0789-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E15-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="69" END="87">قبطان سفينة يونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="73">قبطان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E16" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E16-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="104" END="105">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="104" END="105">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="282" END="282">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="282">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="284" END="302">سفينتهم إكسترستمينا</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="288">سفينت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="292" END="302">إكسترستمينا</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="302">إكسترستمينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="310" END="310">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="310">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="331" END="331">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="331">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="357" END="358">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="358">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="75" END="87">سفينة يونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="79">سفينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E16-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="143" END="149">السفينة</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="149">السفينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إكسترستمينا">
+      <charseq START="292" END="302">إكسترستمينا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.0789-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E18-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="111" END="112">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="112">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E18-37" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="90" END="105">ثلاثة من بحارتها</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="94">ثلاثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E18-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="172" END="173">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="173">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.0789-E18-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="289" END="290">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="290">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E19" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E19-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="212" END="221">سفينة أخرى</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="216">سفينة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E20-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="99" END="105">بحارتها</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="103">بحارت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E21-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="339" END="345">76
+شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="345">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.0789-E22" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.0789-E22-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="372" END="404">جزيرة باروس اليونانية في بحر إيجا</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="382">جزيرة باروس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جزيرة باروس">
+      <charseq START="372" END="382">جزيرة باروس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="VAR20001001.1300.0789-V1" TYPE="Crime">
+  <value_mention ID="VAR20001001.1300.0789-V1-1">
+    <extent>
+      <charseq START="114" END="129">بالقتل غير العمد</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="VAR20001001.1300.0789-T1">
+  <timex2_mention ID="VAR20001001.1300.0789-T1-1">
+    <extent>
+      <charseq START="154" END="167">الأسبوع الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.0789-T2">
+  <timex2_mention ID="VAR20001001.1300.0789-T2-1">
+    <extent>
+      <charseq START="196" END="203">ساعة فقط</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.0789-T3">
+  <timex2_mention ID="VAR20001001.1300.0789-T3-1">
+    <extent>
+      <charseq START="312" END="325">الأسبوع الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.0789-T4">
+  <timex2_mention ID="VAR20001001.1300.0789-T4-1">
+    <extent>
+      <charseq START="526" END="535">يوم الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.0789-T5">
+  <timex2_mention ID="VAR20001001.1300.0789-T5-1">
+    <extent>
+      <charseq START="175" END="179">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.0789-T6">
+  <timex2_mention ID="VAR20001001.1300.0789-T6-1">
+    <extent>
+      <charseq START="419" END="423">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.0789-T7">
+  <timex2_mention ID="VAR20001001.1300.0789-T7-1">
+    <extent>
+      <charseq START="39" END="60">10/01/2000 13:13:09.80</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001001.1300.0789-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E3" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="467" END="481">ساحل جزيرة
+تكسس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E8-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="467" END="481">ساحل جزيرة
+تكسس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E3-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="472" END="481">جزيرة
+تكسس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="75" END="87">سفينة يونانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E5-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="81" END="87">يونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E16-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="75" END="87">سفينة يونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E5" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="372" END="404">جزيرة باروس اليونانية في بحر إيجا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E22-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="372" END="404">جزيرة باروس اليونانية في بحر إيجا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E5-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="384" END="392">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="90" END="105">ثلاثة من بحارتها</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E20-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="99" END="105">بحارتها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E16-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="104" END="105">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R5-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="284" END="302">سفينتهم إكسترستمينا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E18-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="289" END="290">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E16-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="284" END="302">سفينتهم إكسترستمينا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="489" END="506">سفينة يونانية أخرى</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E5-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="495" END="501">يونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E4-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="489" END="506">سفينة يونانية أخرى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R7" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E5" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="603" END="619">السلطات
+اليونانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E9-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="603" END="619">السلطات
+اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E5-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="611" END="619">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E12" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="675" END="689">السفن
+اليونانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E5-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="681" END="689">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E12-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="675" END="689">السفن
+اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.0789-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.0789-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.0789-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.0789-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="69" END="87">قبطان سفينة يونانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E15-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="69" END="87">قبطان سفينة يونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.0789-E16-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="75" END="87">سفينة يونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001001.1300.0789-EV1" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.0789-E18" ROLE="Defendant"/>
+  <event_argument REFID="VAR20001001.1300.0789-V1" ROLE="Crime"/>
+  <event_argument REFID="VAR20001001.1300.0789-T1" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001001.1300.0789-EV1-1">
+    <extent>
+      <charseq START="107" END="167">اتهموا بالقتل غير العمد في
+حادث غرق السفينة في الأسبوع الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="167">مثل قبطان سفينة يونانية وثلاثة من بحارتها اتهموا بالقتل غير العمد في
+حادث غرق السفينة في الأسبوع الماضي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="107" END="112">اتهموا</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.0789-E18-19" ROLE="Defendant">
+      <extent>
+        <charseq START="111" END="112">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.0789-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="114" END="129">بالقتل غير العمد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.0789-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="154" END="167">الأسبوع الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.0789-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.0789-E2" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001001.1300.0789-E1" ROLE="Victim"/>
+  <event_argument REFID="VAR20001001.1300.0789-T6" ROLE="Time-Before"/>
+  <event_mention ID="VAR20001001.1300.0789-EV2-1">
+    <extent>
+      <charseq START="419" END="459">اليوم توفي سائح مسن بعد أن غرق يخت مستأجر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="406" END="481">وفي
+وقت سابق اليوم توفي سائح مسن بعد أن غرق يخت مستأجر مقابل ساحل جزيرة
+تكسس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="425" END="428">توفي</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.0789-E2-3" ROLE="Instrument">
+      <extent>
+        <charseq START="450" END="459">يخت مستأجر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.0789-E1-2" ROLE="Victim">
+      <extent>
+        <charseq START="430" END="437">سائح مسن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.0789-T6-1" ROLE="Time-Before">
+      <extent>
+        <charseq START="419" END="423">اليوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.0789-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.0789-E7" ROLE="Victim"/>
+  <event_mention ID="VAR20001001.1300.0789-EV3-1">
+    <extent>
+      <charseq START="572" END="574">يصب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="568" END="689">ولم يصب أحد بأذى في غضون ذلك أوقفت السلطات
+اليونانية تصاريح خمس وستين سفينة فيما تزداد التساؤلات حول سلامة السفن
+اليونانية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="572" END="574">يصب</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.0789-E7-33" ROLE="Victim">
+      <extent>
+        <charseq START="572" END="572">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.0789-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.0789-E16" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001001.1300.0789-E21" ROLE="Victim"/>
+  <event_mention ID="VAR20001001.1300.0789-EV4-1">
+    <extent>
+      <charseq START="328" END="345">أودت بحياة 76
+شخصا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="278" END="404">وكانت سفينتهم إكسترستمينا قد غرقت الأسبوع الماضي وأودت بحياة 76
+شخصا بعد اصطدامها بصخرة مقابل جزيرة باروس اليونانية في بحر إيجا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="328" END="331">أودت</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.0789-E16-28" ROLE="Instrument">
+      <extent>
+        <charseq START="331" END="331">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.0789-E21-42" ROLE="Victim">
+      <extent>
+        <charseq START="339" END="345">76
+شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

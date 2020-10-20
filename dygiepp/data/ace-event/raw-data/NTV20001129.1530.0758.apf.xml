@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001129.1530.0758.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001129.1530.0758">
+<entity ID="NTV20001129.1530.0758-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="416" END="431">بالإذاعة المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="423">بالإذاعة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001129.1530.0758-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E2-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="425" END="431">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="431">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E2-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="674" END="676">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="674" END="676">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E2-16" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="681" END="681">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="681">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المصرية">
+      <charseq START="425" END="431">المصرية</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="674" END="676">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001129.1530.0758-E4" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="NTV20001129.1530.0758-E4-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="456" END="456">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="456">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E4-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="466" END="470">جميعا</charseq>
+    </extent>
+    <head>
+      <charseq START="466" END="470">جميعا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001129.1530.0758-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E5-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="383" END="387">مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="387">مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E5-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="588" END="599">الرئيس مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="593">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E5-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="595" END="599">مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="599">مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E5-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="92" END="101">حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="92" END="101">حسني مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E5-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="85" END="101">الرئيس حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="90">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E5-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="317" END="328">الرئيس مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="322">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E5-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="324" END="328">مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="328">مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E5-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="376" END="387">الرئيس مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="381">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مبارك">
+      <charseq START="383" END="387">مبارك</charseq>
+    </name>
+    <name NAME="مبارك">
+      <charseq START="595" END="599">مبارك</charseq>
+    </name>
+    <name NAME="حسني مبارك">
+      <charseq START="92" END="101">حسني مبارك</charseq>
+    </name>
+    <name NAME="مبارك">
+      <charseq START="324" END="328">مبارك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001129.1530.0758-E6" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="NTV20001129.1530.0758-E6-12" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="604" END="605">من</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="605">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E6-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="612" END="613">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="612" END="613">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E6-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="631" END="632">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="632">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001129.1530.0758-E7" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E7-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="233" END="238">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="238">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلسطين">
+      <charseq START="233" END="238">فلسطين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001129.1530.0758-E8" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="NTV20001129.1530.0758-E8-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="71" END="72">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="71" END="72">كم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001129.1530.0758-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E11-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="145" END="161">علي عبد الله صالح</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="161">علي عبد الله صالح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E11-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="130" END="143">بالرئيس اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="136">بالرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E11-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="330" END="342">الرئيس
+اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="335">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علي عبد الله صالح">
+      <charseq START="145" END="161">علي عبد الله صالح</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001129.1530.0758-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E13-23" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="138" END="143">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="143">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E13-31" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="337" END="342">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="342">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمني">
+      <charseq START="138" END="143">اليمني</charseq>
+    </name>
+    <name NAME="اليمني">
+      <charseq START="337" END="342">اليمني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001129.1530.0758-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E14-24" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="193" END="199">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="199">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E14-27" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="289" END="295">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="295">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="193" END="199">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="289" END="295">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001129.1530.0758-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="NTV20001129.1530.0758-E15-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="494" END="500">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="500">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E15-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="574" END="580">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="574" END="580">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001129.1530.0758-E15-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="568" END="568">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="568">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001129.1530.0758-E16" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001129.1530.0758-E16-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="693" END="719">حوالي مائتيي ألف شهيد ومصاب</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="713">شهيد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001129.1530.0758-E19" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001129.1530.0758-E19-26" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="716" END="719">مصاب</charseq>
+    </extent>
+    <head>
+      <charseq START="716" END="719">مصاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="NTV20001129.1530.0758-T1">
+  <timex2_mention ID="NTV20001129.1530.0758-T1-1">
+    <extent>
+      <charseq START="39" END="60">11/29/2000 15:42:38.18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001129.1530.0758-T2">
+  <timex2_mention ID="NTV20001129.1530.0758-T2-1">
+    <extent>
+      <charseq START="103" END="114">أمس الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001129.1530.0758-T3">
+  <timex2_mention ID="NTV20001129.1530.0758-T3-1">
+    <extent>
+      <charseq START="350" END="358">شهر رمضان</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001129.1530.0758-T4">
+  <timex2_mention ID="NTV20001129.1530.0758-T4-1">
+    <extent>
+      <charseq START="510" END="515">أكتوبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001129.1530.0758-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001129.1530.0758-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001129.1530.0758-E13" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001129.1530.0758-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="130" END="143">بالرئيس اليمني</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001129.1530.0758-E11-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="130" END="143">بالرئيس اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001129.1530.0758-E13-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="138" END="143">اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001129.1530.0758-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="330" END="342">الرئيس
+اليمني</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001129.1530.0758-E11-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="330" END="342">الرئيس
+اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001129.1530.0758-E13-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="337" END="342">اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001129.1530.0758-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001129.1530.0758-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001129.1530.0758-E2" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001129.1530.0758-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="416" END="431">بالإذاعة المصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001129.1530.0758-E1-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="416" END="431">بالإذاعة المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001129.1530.0758-E2-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="425" END="431">المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001129.1530.0758-EV1" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001129.1530.0758-E1" ROLE="Entity"/>
+  <event_argument REFID="NTV20001129.1530.0758-E5" ROLE="Entity"/>
+  <event_mention ID="NTV20001129.1530.0758-EV1-1">
+    <extent>
+      <charseq START="376" END="431">الرئيس مبارك بحديث لشبكة
+البرنامج العام بالإذاعة المصرية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="368" END="470">قد أدلى الرئيس مبارك بحديث لشبكة
+البرنامج العام بالإذاعة المصرية أكد فيها أن السلام هدف نسعى إليه جميعا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="389" END="393">بحديث</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001129.1530.0758-E1-3" ROLE="Entity">
+      <extent>
+        <charseq START="416" END="431">بالإذاعة المصرية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001129.1530.0758-E5-32" ROLE="Entity">
+      <extent>
+        <charseq START="376" END="387">الرئيس مبارك</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001129.1530.0758-EV2" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001129.1530.0758-E5" ROLE="Entity"/>
+  <event_argument REFID="NTV20001129.1530.0758-E11" ROLE="Entity"/>
+  <event_argument REFID="NTV20001129.1530.0758-T2" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001129.1530.0758-EV2-1">
+    <extent>
+      <charseq START="85" END="143">الرئيس حسني مبارك أمس الثلاثاء اتصالا هاتفيا
+بالرئيس اليمني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="207">تحية لكم مجددا أجرى الرئيس حسني مبارك أمس الثلاثاء اتصالا هاتفيا
+بالرئيس اليمني علي عبد الله صالح جرى خلاله التشاور حول الأوضاع العربية
+الراهنة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="116" END="120">اتصال</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001129.1530.0758-E5-19" ROLE="Entity">
+      <extent>
+        <charseq START="85" END="101">الرئيس حسني مبارك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001129.1530.0758-E11-22" ROLE="Entity">
+      <extent>
+        <charseq START="130" END="143">بالرئيس اليمني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001129.1530.0758-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="103" END="114">أمس الثلاثاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001129.1530.0758-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001129.1530.0758-E7" ROLE="Place"/>
+  <event_mention ID="NTV20001129.1530.0758-EV3-1">
+    <extent>
+      <charseq START="233" END="253">فلسطين في ضوء انتفاضة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="209" END="307">وفي مقدمتها التطورات في فلسطين في ضوء انتفاضة الأقصى ومتابعة
+تنفيذ قرارات القمة العربية غير العادية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="247" END="253">انتفاضة</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001129.1530.0758-E7-6" ROLE="Place">
+      <extent>
+        <charseq START="233" END="238">فلسطين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001129.1530.0758-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001129.1530.0758-E15" ROLE="Place"/>
+  <event_argument REFID="NTV20001129.1530.0758-T4" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001129.1530.0758-EV4-1">
+    <extent>
+      <charseq START="494" END="515">المنطقة منذ حرب أكتوبر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="472" END="580">وقال إن كل ما يجري في المنطقة منذ حرب أكتوبر وحتى الانتفاضة الحالية هو
+من أجل إحلال السلام الذي تنشده المنطقة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="506" END="508">حرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001129.1530.0758-E15-7" ROLE="Place">
+      <extent>
+        <charseq START="494" END="500">المنطقة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001129.1530.0758-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="510" END="515">أكتوبر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001129.1530.0758-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001129.1530.0758-E15" ROLE="Place"/>
+  <event_mention ID="NTV20001129.1530.0758-EV5-1">
+    <extent>
+      <charseq START="494" END="530">المنطقة منذ حرب أكتوبر وحتى الانتفاضة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="472" END="580">وقال إن كل ما يجري في المنطقة منذ حرب أكتوبر وحتى الانتفاضة الحالية هو
+من أجل إحلال السلام الذي تنشده المنطقة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="522" END="530">الانتفاضة</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001129.1530.0758-E15-7" ROLE="Place">
+      <extent>
+        <charseq START="494" END="500">المنطقة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

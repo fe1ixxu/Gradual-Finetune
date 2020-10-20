@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001223.1000.0044.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001223.1000.0044">
+<entity ID="AFA20001223.1000.0044-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E1-2" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="364" END="380">ثلاثة من المتهمين</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="368">ثلاثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E1-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="444" END="445">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="445">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001223.1000.0044-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="373" END="380">المتهمين</charseq>
+    </extent>
+    <head>
+      <charseq START="373" END="380">المتهمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001223.1000.0044-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E3-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="141" END="145">ا ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="145">ا ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ا ف ب">
+      <charseq START="141" END="145">ا ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001223.1000.0044-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E4-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="482" END="482">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="482">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="485" END="491">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="491">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E4-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="570" END="590">محكمة عسكرية في
+طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="574">محكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E4-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="154" END="174">محكمة عسكرية في طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="158">محكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E4-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="152" END="152">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="152">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001223.1000.0044-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E5-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="586" END="590">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="590">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E5-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="128" END="145">طهران 12-23 (ا ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="132">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E5-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="170" END="174">طهران</charseq>
+    </extent>
+    <head>
+      <charseq START="170" END="174">طهران</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طهران">
+      <charseq START="586" END="590">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="128" END="132">طهران</charseq>
+    </name>
+    <name NAME="طهران">
+      <charseq START="170" END="174">طهران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001223.1000.0044-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E6-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="193" END="203">ثلاثة اشخاص</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="203">اشخاص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001223.1000.0044-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E7-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="232" END="254">منشقين ومثقفين ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="237">منشقين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001223.1000.0044-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E8-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="240" END="254">مثقفين ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="245">مثقفين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001223.1000.0044-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E9-18" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="247" END="254">ايرانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="254">ايرانيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايرانيين">
+      <charseq START="247" END="254">ايرانيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001223.1000.0044-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E10-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="457" END="463">الوكالة</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="463">الوكالة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E10-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="285" END="285">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="285">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E10-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="287" END="309">وكالة الانباء الايرانية</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="309">وكالة الانباء الايرانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E10-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="321" END="327">الوكالة</charseq>
+    </extent>
+    <head>
+      <charseq START="321" END="327">الوكالة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E10-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="319" END="319">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="319">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E10-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="455" END="455">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="455">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وكالة الانباء الايرانية">
+      <charseq START="287" END="309">وكالة الانباء الايرانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001223.1000.0044-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001223.1000.0044-E11-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="340" END="353">محمد رضا عقيقي</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="353">محمد رضا عقيقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001223.1000.0044-E11-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="333" END="353">القاضي محمد رضا عقيقي</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="338">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد رضا عقيقي">
+      <charseq START="340" END="353">محمد رضا عقيقي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001223.1000.0044-T1">
+  <timex2_mention ID="AFA20001223.1000.0044-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-23 13:03:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001223.1000.0044-T2">
+  <timex2_mention ID="AFA20001223.1000.0044-T2-1">
+    <extent>
+      <charseq START="134" END="138">12-23</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001223.1000.0044-T3">
+  <timex2_mention ID="AFA20001223.1000.0044-T3-1">
+    <extent>
+      <charseq START="176" END="186">اليوم السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001223.1000.0044-T4">
+  <timex2_mention ID="AFA20001223.1000.0044-T4-1">
+    <extent>
+      <charseq START="259" END="272">نهاية عام 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001223.1000.0044-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001223.1000.0044-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001223.1000.0044-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001223.1000.0044-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="154" END="174">محكمة عسكرية في طهران</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E4-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="154" END="174">محكمة عسكرية في طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E5-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="170" END="174">طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001223.1000.0044-R1-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="570" END="590">محكمة عسكرية في
+طهران</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E4-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="570" END="590">محكمة عسكرية في
+طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E5-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="586" END="590">طهران</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001223.1000.0044-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001223.1000.0044-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001223.1000.0044-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001223.1000.0044-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="240" END="254">مثقفين ايرانيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E8-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="240" END="254">مثقفين ايرانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E9-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="247" END="254">ايرانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001223.1000.0044-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001223.1000.0044-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001223.1000.0044-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001223.1000.0044-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="128" END="145">طهران 12-23 (ا ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E3-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="141" END="145">ا ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001223.1000.0044-E5-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="128" END="145">طهران 12-23 (ا ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001223.1000.0044-EV1" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001223.1000.0044-E4" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001223.1000.0044-E6" ROLE="Defendant"/>
+  <event_mention ID="AFA20001223.1000.0044-EV1-1">
+    <extent>
+      <charseq START="154" END="203">محكمة عسكرية في طهران اليوم السبت بسجن
+ثلاثة اشخاص</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="149" END="309">امرت محكمة عسكرية في طهران اليوم السبت بسجن
+ثلاثة اشخاص في المحاكمة في قضية اغتيال منشقين ومثقفين ايرانيين في
+نهاية عام 1998 حسب ما اعلنت وكالة الانباء الايرانية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="188" END="191">بسجن</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001223.1000.0044-E4-12" ROLE="Adjudicator">
+      <extent>
+        <charseq START="154" END="174">محكمة عسكرية في طهران</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001223.1000.0044-E6-14" ROLE="Defendant">
+      <extent>
+        <charseq START="193" END="203">ثلاثة اشخاص</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001223.1000.0044-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001223.1000.0044-T4" ROLE="Time-At-End"/>
+  <event_argument REFID="AFA20001223.1000.0044-E7" ROLE="Victim"/>
+  <event_argument REFID="AFA20001223.1000.0044-E6" ROLE="Agent"/>
+  <event_mention ID="AFA20001223.1000.0044-EV2-1">
+    <extent>
+      <charseq START="193" END="272">ثلاثة اشخاص في المحاكمة في قضية اغتيال منشقين ومثقفين ايرانيين في
+نهاية عام 1998</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="149" END="309">امرت محكمة عسكرية في طهران اليوم السبت بسجن
+ثلاثة اشخاص في المحاكمة في قضية اغتيال منشقين ومثقفين ايرانيين في
+نهاية عام 1998 حسب ما اعلنت وكالة الانباء الايرانية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="225" END="230">اغتيال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001223.1000.0044-T4-1" ROLE="Time-At-End">
+      <extent>
+        <charseq START="259" END="272">نهاية عام 1998</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001223.1000.0044-E7-15" ROLE="Victim">
+      <extent>
+        <charseq START="232" END="254">منشقين ومثقفين ايرانيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001223.1000.0044-E6-14" ROLE="Agent">
+      <extent>
+        <charseq START="193" END="203">ثلاثة اشخاص</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001223.1000.0044-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001223.1000.0044-E1" ROLE="Person"/>
+  <event_mention ID="AFA20001223.1000.0044-EV3-1">
+    <extent>
+      <charseq START="364" END="411">ثلاثة من المتهمين
+في قضية الاغتيالات قيد التوقيف</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="314" END="445">واضافت الوكالة ان "القاضي محمد رضا عقيقي امر بوضع ثلاثة من المتهمين
+في قضية الاغتيالات قيد التوقيف الاحتياطي" من دون الكشف عن هويتهم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="405" END="411">التوقيف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001223.1000.0044-E1-2" ROLE="Person">
+      <extent>
+        <charseq START="364" END="380">ثلاثة من المتهمين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001223.1000.0044-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001223.1000.0044-EV4-1">
+    <extent>
+      <charseq START="390" END="399">الاغتيالات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="314" END="445">واضافت الوكالة ان "القاضي محمد رضا عقيقي امر بوضع ثلاثة من المتهمين
+في قضية الاغتيالات قيد التوقيف الاحتياطي" من دون الكشف عن هويتهم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="390" END="399">الاغتيالات</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001223.1000.0044-EV5" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001223.1000.0044-EV5-1">
+    <extent>
+      <charseq START="537" END="544">المحاكمة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="450" END="590">واعلنت الوكالة نقلا عن بيان اصدرته المحكمة ان هذا القرار اتخذ في ختام
+الجلسة الاولى من المحاكمة في قضية الاغتيالات امام محكمة عسكرية في
+طهران</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="537" END="544">المحاكمة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001223.1000.0044-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001223.1000.0044-EV6-1">
+    <extent>
+      <charseq START="554" END="563">الاغتيالات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="450" END="590">واعلنت الوكالة نقلا عن بيان اصدرته المحكمة ان هذا القرار اتخذ في ختام
+الجلسة الاولى من المحاكمة في قضية الاغتيالات امام محكمة عسكرية في
+طهران</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="554" END="563">الاغتيالات</charseq>
+    </anchor>
+  </event_mention>
+</event>
+</document>
+</source_file>

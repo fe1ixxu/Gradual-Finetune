@@ -1,0 +1,814 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001208.1800.0145.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001208.1800.0145">
+<entity ID="AFA20001208.1800.0145-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E1-2" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="489" END="505">العاصمة الغابونية</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="495">العاصمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E2-3" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="497" END="505">الغابونية</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="505">الغابونية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الغابونية">
+      <charseq START="497" END="505">الغابونية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E3" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E3-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="507" END="510">مكان</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="510">مكان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E3-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="520" END="520">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="520">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E4-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="527" END="535">المشاركين</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="535">المشاركين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E4-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="513" END="513">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="513">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E4-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="522" END="535">جميع المشاركين</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="525">جميع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E5" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="591" END="595">النار</charseq>
+    </extent>
+    <head>
+      <charseq START="591" END="595">النار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E6-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="680" END="685">لوساكا</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="685">لوساكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوساكا">
+      <charseq START="680" END="685">لوساكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E7-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="705" END="722">الاطراف الكونغولية</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="711">الاطراف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E8-1" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="449" END="476">جمهورية الكونغو الديموقراطية</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="476">جمهورية الكونغو الديموقراطية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E8-9" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="290" END="295">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="290" END="295">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E8-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="633" END="647">جمهورية الكونغو</charseq>
+    </extent>
+    <head>
+      <charseq START="633" END="647">جمهورية الكونغو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E8-14" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="713" END="722">الكونغولية</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="722">الكونغولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E8-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1026" END="1034">الكونغولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1026" END="1034">الكونغولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E8-41" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="736" END="742">الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="736" END="742">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E8-49" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="145" END="172">جمهورية الكونغو الديموقراطية</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="172">جمهورية الكونغو الديموقراطية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جمهورية الكونغو الديموقراطية">
+      <charseq START="449" END="476">جمهورية الكونغو الديموقراطية</charseq>
+    </name>
+    <name NAME="جمهورية الكونغو">
+      <charseq START="633" END="647">جمهورية الكونغو</charseq>
+    </name>
+    <name NAME="الكونغولية">
+      <charseq START="713" END="722">الكونغولية</charseq>
+    </name>
+    <name NAME="الكونغولي">
+      <charseq START="1026" END="1034">الكونغولي</charseq>
+    </name>
+    <name NAME="جمهورية الكونغو الديموقراطية">
+      <charseq START="145" END="172">جمهورية الكونغو الديموقراطية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E9-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="255" END="261">ليبرفيل</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="261">ليبرفيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ليبرفيل">
+      <charseq START="255" END="261">ليبرفيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E10-18" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="815" END="819">زائير</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="819">زائير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="زائير">
+      <charseq START="815" END="819">زائير</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E11-21" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="969" END="981">حكومة كينشاسا</charseq>
+    </extent>
+    <head>
+      <charseq START="969" END="973">حكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E11-23" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="992" END="993">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="993">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E11-24" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="995" END="995">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="995" END="995">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حكومة">
+      <charseq START="969" END="973">حكومة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E13-30" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1165" END="1170">رواندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1165" END="1170">رواندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رواندا">
+      <charseq START="1165" END="1170">رواندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E14-31" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1173" END="1178">اوغندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1173" END="1178">اوغندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوغندا">
+      <charseq START="1173" END="1178">اوغندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E15-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1015" END="1015">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1015" END="1015">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E15-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1058" END="1058">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1058" END="1058">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E15-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="899" END="918">شخص "وسيط" المفاوضات</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="901">شخص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E15-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1070" END="1070">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1070" END="1070">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E15-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="920" END="943">الرئيس البوتسواني السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="920" END="925">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E15-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="945" END="958">كيتوميلي ماسير</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="958">كيتوميلي ماسير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E15-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="983" END="987">ماسير</charseq>
+    </extent>
+    <head>
+      <charseq START="983" END="987">ماسير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E15-45" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1008" END="1008">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1008" END="1008">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كيتوميلي ماسير">
+      <charseq START="945" END="958">كيتوميلي ماسير</charseq>
+    </name>
+    <name NAME="ماسير">
+      <charseq START="983" END="987">ماسير</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E16-19" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="113" END="130">كينشاسا 12-8 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="113" END="119">كينشاسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E16-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="975" END="981">كينشاسا</charseq>
+    </extent>
+    <head>
+      <charseq START="975" END="981">كينشاسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كينشاسا">
+      <charseq START="113" END="119">كينشاسا</charseq>
+    </name>
+    <name NAME="كينشاسا">
+      <charseq START="975" END="981">كينشاسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E17-34" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="927" END="936">البوتسواني</charseq>
+    </extent>
+    <head>
+      <charseq START="927" END="936">البوتسواني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البوتسواني">
+      <charseq START="927" END="936">البوتسواني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E19-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="602" END="685">المتناحرون في الحرب الدائرة في
+جمهورية الكونغو في تموز/يوليو-آب/اغسطس 1999 في لوساكا</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="611">المتناحرون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E20-39" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1158" END="1158">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1158" END="1158">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E21-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="725" END="725">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="725">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E22" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E22-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="127" END="130">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="130">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="127" END="130">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E23-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1100" END="1105">كابيلا</charseq>
+    </extent>
+    <head>
+      <charseq START="1100" END="1105">كابيلا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E23-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="140" END="172">رئيس جمهورية الكونغو الديموقراطية</charseq>
+    </extent>
+    <head>
+      <charseq START="140" END="143">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E23-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="174" END="192">لوران
+ديزيريه كابيل</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="192">لوران
+ديزيريه كابيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E23-53" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="313" END="313">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="313">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E23-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="372" END="377">كابيلا</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="377">كابيلا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كابيلا">
+      <charseq START="1100" END="1105">كابيلا</charseq>
+    </name>
+    <name NAME="لوران ديزيريه كابيل">
+      <charseq START="174" END="192">لوران
+ديزيريه كابيل</charseq>
+    </name>
+    <name NAME="كابيلا">
+      <charseq START="372" END="377">كابيلا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E26-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1044" END="1052">المتمردون</charseq>
+    </extent>
+    <head>
+      <charseq START="1044" END="1052">المتمردون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E26-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1038" END="1038">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1038" END="1038">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E26-28" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1152" END="1156">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1156">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E26-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1162" END="1163">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1162" END="1163">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E26-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1142" END="1178">المتمردين الذين تدعمهم رواندا واوغندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1142" END="1150">المتمردين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E26-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="745" END="755">حركة التمرد</charseq>
+    </extent>
+    <head>
+      <charseq START="745" END="755">حركة التمرد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E26-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="220" END="228">المتمردين</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="228">المتمردين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حركة التمرد">
+      <charseq START="745" END="755">حركة التمرد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E27" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E27-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="758" END="777">المعارضة غير
+المسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="758" END="765">المعارضة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E27-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="231" END="261">المعارضة غير
+المسلحة في ليبرفيل</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="238">المعارضة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المعارضة">
+      <charseq START="758" END="765">المعارضة</charseq>
+    </name>
+    <name NAME="المعارضة">
+      <charseq START="231" END="238">المعارضة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1800.0145-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E28-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="320" END="332">شخصيات سياسية</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="325">شخصيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E29-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="338" END="352">الاذاعة الرسمية</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="344">الاذاعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1800.0145-E29-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="336" END="336">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="336">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1800.0145-E30" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1800.0145-E30-59" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="432" END="443">الديموقراطية</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="443">الديموقراطية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الديموقراطية">
+      <charseq START="432" END="443">الديموقراطية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001208.1800.0145-T1">
+  <timex2_mention ID="AFA20001208.1800.0145-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-08 19:49:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0145-T2">
+  <timex2_mention ID="AFA20001208.1800.0145-T2-1">
+    <extent>
+      <charseq START="121" END="124">12-8</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0145-T3">
+  <timex2_mention ID="AFA20001208.1800.0145-T3-1">
+    <extent>
+      <charseq START="195" END="206">اليوم الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0145-T4">
+  <timex2_mention ID="AFA20001208.1800.0145-T4-1">
+    <extent>
+      <charseq START="652" END="675">تموز/يوليو-آب/اغسطس 1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1800.0145-T5">
+  <timex2_mention ID="AFA20001208.1800.0145-T5-1">
+    <extent>
+      <charseq START="842" END="845">الان</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001208.1800.0145-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0145-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1800.0145-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1800.0145-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="231" END="261">المعارضة غير
+المسلحة في ليبرفيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E27-51" ROLE="Arg-1">
+      <extent>
+        <charseq START="231" END="261">المعارضة غير
+المسلحة في ليبرفيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E9-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="255" END="261">ليبرفيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1800.0145-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0145-E8" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001208.1800.0145-E23" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001208.1800.0145-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="140" END="172">رئيس جمهورية الكونغو الديموقراطية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E8-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="145" END="172">جمهورية الكونغو الديموقراطية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E23-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="140" END="172">رئيس جمهورية الكونغو الديموقراطية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1800.0145-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0145-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1800.0145-E16" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1800.0145-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="113" END="130">كينشاسا 12-8 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E22-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="127" END="130">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E16-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="113" END="130">كينشاسا 12-8 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1800.0145-R4" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0145-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1800.0145-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1800.0145-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="705" END="722">الاطراف الكونغولية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E7-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="705" END="722">الاطراف الكونغولية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E8-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="713" END="722">الكونغولية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1800.0145-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1800.0145-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1800.0145-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1800.0145-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="920" END="958">الرئيس البوتسواني السابق كيتوميلي ماسير</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E15-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="920" END="943">الرئيس البوتسواني السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1800.0145-E17-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="927" END="936">البوتسواني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001208.1800.0145-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001208.1800.0145-E26" ROLE="Entity"/>
+  <event_mention ID="AFA20001208.1800.0145-EV1-1">
+    <extent>
+      <charseq START="1124" END="1178">اتصالات مباشرة مع
+المتمردين الذين تدعمهم رواندا واوغندا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1075" END="1178">وفي موازاة ذلك حاول نظام كابيلا مرارا عبثا اجراء اتصالات مباشرة مع
+المتمردين الذين تدعمهم رواندا واوغندا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1124" END="1130">اتصالات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001208.1800.0145-E26-36" ROLE="Entity">
+      <extent>
+        <charseq START="1142" END="1178">المتمردين الذين تدعمهم رواندا واوغندا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001208.1800.0145-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001208.1800.0145-E23" ROLE="Entity"/>
+  <event_argument REFID="AFA20001208.1800.0145-E26" ROLE="Entity"/>
+  <event_argument REFID="AFA20001208.1800.0145-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001208.1800.0145-EV2-1">
+    <extent>
+      <charseq START="140" END="228">رئيس جمهورية الكونغو الديموقراطية لوران
+ديزيريه كابيلا اليوم الجمعة عقد لقاء مع المتمردين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="113" END="295">كينشاسا 12-8 (اف ب)- اقترح رئيس جمهورية الكونغو الديموقراطية لوران
+ديزيريه كابيلا اليوم الجمعة عقد لقاء مع المتمردين والمعارضة غير
+المسلحة في ليبرفيل "لبدء حوار ومناقشة مشكلات" البلاد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="212" END="215">لقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001208.1800.0145-E23-47" ROLE="Entity">
+      <extent>
+        <charseq START="140" END="172">رئيس جمهورية الكونغو الديموقراطية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001208.1800.0145-E26-50" ROLE="Entity">
+      <extent>
+        <charseq START="220" END="228">المتمردين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001208.1800.0145-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="195" END="206">اليوم الجمعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

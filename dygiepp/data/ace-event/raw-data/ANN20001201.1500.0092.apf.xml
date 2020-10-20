@@ -1,0 +1,2354 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ANN20001201.1500.0092.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001201.1500.0092">
+<entity ID="ANN20001201.1500.0092-E1" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E1-10" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="393" END="401">قضاء جبيل</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="401">قضاء جبيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E1-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="784" END="787">جبيل</charseq>
+    </extent>
+    <head>
+      <charseq START="784" END="787">جبيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قضاء جبيل">
+      <charseq START="393" END="401">قضاء جبيل</charseq>
+    </name>
+    <name NAME="جبيل">
+      <charseq START="784" END="787">جبيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E2-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="592" END="624">العامل السوري عطاالله حسين الهلوش</charseq>
+    </extent>
+    <head>
+      <charseq START="592" END="597">العامل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E2-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="606" END="624">عطاالله حسين الهلوش</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="624">عطاالله حسين الهلوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E2-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="630" END="630">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="630">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عطاالله حسين الهلوش">
+      <charseq START="606" END="624">عطاالله حسين الهلوش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E4-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="599" END="604">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="604">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E4-108" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1587" END="1609">السوري
+جهاد ابرهيم احمد</charseq>
+    </extent>
+    <head>
+      <charseq START="1587" END="1592">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E4-137" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2026" END="2030">سورية</charseq>
+    </extent>
+    <head>
+      <charseq START="2026" END="2030">سورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E4-139" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2041" END="2045">سوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="2041" END="2045">سوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E4-143" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+    </extent>
+    <head>
+      <charseq START="170" END="177">للسوريين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السوري">
+      <charseq START="599" END="604">السوري</charseq>
+    </name>
+    <name NAME="السوري">
+      <charseq START="1587" END="1592">السوري</charseq>
+    </name>
+    <name NAME="سورية">
+      <charseq START="2026" END="2030">سورية</charseq>
+    </name>
+    <name NAME="سوريا">
+      <charseq START="2041" END="2045">سوريا</charseq>
+    </name>
+    <name NAME="للسوريين">
+      <charseq START="170" END="177">للسوريين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E6" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E6-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="638" END="641">غرفة</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="641">غرفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E6-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="649" END="650">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="649" END="650">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E7-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="655" END="680">منزل يملكه المغدور في ترتج</charseq>
+    </extent>
+    <head>
+      <charseq START="655" END="658">منزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E7-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="664" END="664">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="664">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E8-37" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="1998" END="2000">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="1998" END="2000">حيث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E8-38" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="820" END="825">طرابلس</charseq>
+    </extent>
+    <head>
+      <charseq START="820" END="825">طرابلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E8-136" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1991" END="2030">طرابلس حيث حولا
+المال المسروق عملة سورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1991" END="1996">طرابلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طرابلس">
+      <charseq START="820" END="825">طرابلس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E9" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E9-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="835" END="845">مسدسا حربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="835" END="839">مسدسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E9-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="874" END="874">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="874">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E9-90" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1420" END="1426">بالمسدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1420" END="1426">بالمسدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E9-106" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1565" END="1570">المسدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1565" END="1570">المسدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E9-133" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1940" END="1945">المسدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1940" END="1945">المسدس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E10" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ANN20001201.1500.0092-E10-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="850" END="859">احد التجار</charseq>
+    </extent>
+    <head>
+      <charseq START="850" END="852">احد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E11" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ANN20001201.1500.0092-E11-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="854" END="859">التجار</charseq>
+    </extent>
+    <head>
+      <charseq START="854" END="859">التجار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E12" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E12-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="899" END="907">محلة التل</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="907">محلة التل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محلة التل">
+      <charseq START="899" END="907">محلة التل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E13" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E13-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="919" END="923">سيارة</charseq>
+    </extent>
+    <head>
+      <charseq START="919" END="923">سيارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E14-8" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="1931" END="1933">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="1931" END="1933">حيث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E14-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="929" END="938">بلدة عمشيت</charseq>
+    </extent>
+    <head>
+      <charseq START="929" END="938">بلدة عمشيت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E14-131" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1925" END="1945">عمشيت حيث طمرا
+المسدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1925" END="1929">عمشيت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E14-135" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1984" END="1985">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1984" END="1985">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بلدة عمشيت">
+      <charseq START="929" END="938">بلدة عمشيت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E15" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E15-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="961" END="970">سيارة اجرة</charseq>
+    </extent>
+    <head>
+      <charseq START="961" END="965">سيارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E16-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1007" END="1012">الساحة</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1012">الساحة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E17" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="GEN">
+  <entity_mention ID="ANN20001201.1500.0092-E17-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1069" END="1072">غرفة</charseq>
+    </extent>
+    <head>
+      <charseq START="1069" END="1072">غرفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E17-80" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1285" END="1288">غرفة</charseq>
+    </extent>
+    <head>
+      <charseq START="1285" END="1288">غرفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E19" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E19-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1626" END="1637">زاوية الغرفة</charseq>
+    </extent>
+    <head>
+      <charseq START="1632" END="1637">الغرفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E20" TYPE="WEA" SUBTYPE="Blunt" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E20-111" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1639" END="1651">العصا الغليظة</charseq>
+    </extent>
+    <head>
+      <charseq START="1639" END="1643">العصا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E20-112" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1660" END="1661">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1660" END="1661">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E21" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E21-125" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1822" END="1831">غرفة النوم</charseq>
+    </extent>
+    <head>
+      <charseq START="1822" END="1825">غرفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E24-142" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2054" END="2054">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2054" END="2054">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E24-147" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="121" END="151">قاضي التحقيق الاول في جبل لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="124">قاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E24-148" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="153" END="160">جوزف قزي</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="160">جوزف قزي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جوزف قزي">
+      <charseq START="153" END="160">جوزف قزي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E26" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E26-149" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="143" END="151">جبل لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="151">جبل لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جبل لبنان">
+      <charseq START="143" END="151">جبل لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E27-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="769" END="771">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="769" END="771">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="806" END="806">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="806">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="833" END="833">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="833" END="833">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="914" END="914">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="914">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="976" END="977">لا</charseq>
+    </extent>
+    <head>
+      <charseq START="976" END="977">لا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1001" END="1002">لا</charseq>
+    </extent>
+    <head>
+      <charseq START="1001" END="1002">لا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1019" END="1020">لا</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1020">لا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1042" END="1042">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1042" END="1042">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1088" END="1090">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="1088" END="1090">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1116" END="1118">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="1116" END="1118">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1180" END="1180">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1180" END="1180">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1187" END="1188">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="1187" END="1188">ان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1251" END="1251">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1251" END="1251">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2004" END="2004">ل</charseq>
+    </extent>
+    <head>
+      <charseq START="2004" END="2004">ل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1294" END="1296">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="1294" END="1296">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-91" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1433" END="1433">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1433" END="1433">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-124" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1814" END="1820">الاثنان</charseq>
+    </extent>
+    <head>
+      <charseq START="1814" END="1820">الاثنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-126" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1837" END="1837">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1837" END="1837">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-130" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1919" END="1919">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1919" END="1919">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-132" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1938" END="1938">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1938" END="1938">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-134" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1979" END="1979">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1979" END="1979">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-138" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2035" END="2035">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2035" END="2035">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E27-153" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="227" END="228">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="228">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E28" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E28-150" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1366" END="1371">المطبخ</charseq>
+    </extent>
+    <head>
+      <charseq START="1366" END="1371">المطبخ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E29-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="449" END="452">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="449" END="452">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="707" END="729">خالد
+عبد العزيز اسماعيل</charseq>
+    </extent>
+    <head>
+      <charseq START="707" END="729">خالد
+عبد العزيز اسماعيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="866" END="869">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="866" END="869">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1051" END="1051">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1051" END="1051">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-58" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1056" END="1059">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1056" END="1059">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-66" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1133" END="1144">خالد اسماعيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1133" END="1144">خالد اسماعيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1263" END="1266">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1263" END="1266">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1272" END="1272">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1272" END="1272">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-82" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1337" END="1340">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1337" END="1340">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-85" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1386" END="1389">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1386" END="1389">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1391" END="1391">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1391" END="1391">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1413" END="1413">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1413" END="1413">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-94" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1461" END="1465">لخالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1461" END="1465">لخالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-95" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1476" END="1476">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1476" END="1476">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-96" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1478" END="1478">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1478" END="1478">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-97" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1488" END="1491">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1488" END="1491">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-99" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1503" END="1505">انا</charseq>
+    </extent>
+    <head>
+      <charseq START="1503" END="1505">انا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-100" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1510" END="1510">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1510" END="1510">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-101" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1517" END="1517">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1517" END="1517">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-104" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1546" END="1549">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1546" END="1549">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-107" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1574" END="1574">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1574" END="1574">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-122" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1712" END="1715">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1712" END="1715">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-123" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1768" END="1768">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1768" END="1768">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-127" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1880" END="1883">خالد</charseq>
+    </extent>
+    <head>
+      <charseq START="1880" END="1883">خالد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-129" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1913" END="1913">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1913" END="1913">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-140" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2065" END="2087">خالد عبد العزيز اسماعيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2065" END="2087">خالد عبد العزيز اسماعيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E29-151" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="179" END="201">خالد عبد العزيز اسماعيل</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="201">خالد عبد العزيز اسماعيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خالد">
+      <charseq START="449" END="452">خالد</charseq>
+    </name>
+    <name NAME="خالد عبد العزيز اسماعيل">
+      <charseq START="707" END="729">خالد
+عبد العزيز اسماعيل</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="866" END="869">خالد</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1056" END="1059">خالد</charseq>
+    </name>
+    <name NAME="خالد اسماعيل">
+      <charseq START="1133" END="1144">خالد اسماعيل</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1263" END="1266">خالد</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1337" END="1340">خالد</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1386" END="1389">خالد</charseq>
+    </name>
+    <name NAME="لخالد">
+      <charseq START="1461" END="1465">لخالد</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1488" END="1491">خالد</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1546" END="1549">خالد</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1712" END="1715">خالد</charseq>
+    </name>
+    <name NAME="خالد">
+      <charseq START="1880" END="1883">خالد</charseq>
+    </name>
+    <name NAME="خالد عبد العزيز اسماعيل">
+      <charseq START="2065" END="2087">خالد عبد العزيز اسماعيل</charseq>
+    </name>
+    <name NAME="خالد عبد العزيز اسماعيل">
+      <charseq START="179" END="201">خالد عبد العزيز اسماعيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E30-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="455" END="458">جهاد</charseq>
+    </extent>
+    <head>
+      <charseq START="455" END="458">جهاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E30-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="689" END="704">جهاد ابرهيم احمد</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="704">جهاد ابرهيم احمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E30-109" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1594" END="1609">جهاد ابرهيم احمد</charseq>
+    </extent>
+    <head>
+      <charseq START="1594" END="1609">جهاد ابرهيم احمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E30-141" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2090" END="2105">جهاد ابرهيم احمد</charseq>
+    </extent>
+    <head>
+      <charseq START="2090" END="2105">جهاد ابرهيم احمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E30-152" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="204" END="219">جهاد ابرهيم احمد</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="219">جهاد ابرهيم احمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جهاد">
+      <charseq START="455" END="458">جهاد</charseq>
+    </name>
+    <name NAME="جهاد ابرهيم احمد">
+      <charseq START="689" END="704">جهاد ابرهيم احمد</charseq>
+    </name>
+    <name NAME="جهاد ابرهيم احمد">
+      <charseq START="1594" END="1609">جهاد ابرهيم احمد</charseq>
+    </name>
+    <name NAME="جهاد ابرهيم احمد">
+      <charseq START="2090" END="2105">جهاد ابرهيم احمد</charseq>
+    </name>
+    <name NAME="جهاد ابرهيم احمد">
+      <charseq START="204" END="219">جهاد ابرهيم احمد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E31-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="309" END="309">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="309">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-2" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="356" END="369">مالك يوسف جرجس</charseq>
+    </extent>
+    <head>
+      <charseq START="356" END="369">مالك يوسف جرجس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="382" END="382">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="382">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="419" END="419">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="419" END="419">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-5" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="426" END="426">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="426">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="432" END="432">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="432">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="469" END="469">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="469">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="511" END="517">المغدور</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="517">المغدور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="535" END="535">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="535" END="535">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="557" END="557">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="557">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="575" END="575">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="575">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="666" END="672">المغدور</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="672">المغدور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="660" END="660">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="660" END="660">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="740" END="745">العجوز</charseq>
+    </extent>
+    <head>
+      <charseq START="740" END="745">العجوز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="758" END="758">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="758" END="758">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="775" END="775">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="775" END="775">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-60" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1077" END="1077">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1077" END="1077">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1031" END="1034">جرجس</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1034">جرجس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-64" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1101" END="1101">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1101" END="1101">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1160" END="1163">مالك</charseq>
+    </extent>
+    <head>
+      <charseq START="1160" END="1163">مالك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-68" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1156" END="1156">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1156" END="1156">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-72" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1189" END="1189">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1189" END="1189">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-73" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1240" END="1240">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1240" END="1240">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-74" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1254" END="1254">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1254" END="1254">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-75" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1261" END="1261">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1261" END="1261">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-83" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1335" END="1335">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1335" END="1335">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-84" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1361" END="1364">مالك</charseq>
+    </extent>
+    <head>
+      <charseq START="1361" END="1364">مالك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-87" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1396" END="1396">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1396" END="1396">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-89" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1418" END="1418">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1418" END="1418">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-92" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1437" END="1437">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1437" END="1437">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-93" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1451" END="1454">مالك</charseq>
+    </extent>
+    <head>
+      <charseq START="1451" END="1454">مالك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-98" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1499" END="1499">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1499" END="1499">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-102" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1521" END="1521">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1521" END="1521">ك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-103" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1537" END="1540">مالك</charseq>
+    </extent>
+    <head>
+      <charseq START="1537" END="1540">مالك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-105" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1555" END="1556">لا</charseq>
+    </extent>
+    <head>
+      <charseq START="1555" END="1556">لا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-113" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1663" END="1666">مالك</charseq>
+    </extent>
+    <head>
+      <charseq START="1663" END="1666">مالك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-114" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1686" END="1686">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1686" END="1686">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-115" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1697" END="1697">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1697" END="1697">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-116" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1717" END="1720">مالك</charseq>
+    </extent>
+    <head>
+      <charseq START="1717" END="1720">مالك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-117" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1736" END="1736">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1736" END="1736">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-118" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1743" END="1743">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1743" END="1743">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-119" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1761" END="1761">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1761" END="1761">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-120" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1791" END="1794">مالك</charseq>
+    </extent>
+    <head>
+      <charseq START="1791" END="1794">مالك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-121" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1806" END="1806">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1806" END="1806">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-145" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1752" END="1752">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1752" END="1752">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-154" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="235" END="264">العجوز مالك يوسف جرجس ,77 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="240">العجوز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-155" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="242" END="264">مالك يوسف جرجس ,77 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="255">مالك يوسف جرجس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-156" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="274" END="274">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="274">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E31-159" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="302" END="302">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="302" END="302">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مالك يوسف جرجس">
+      <charseq START="356" END="369">مالك يوسف جرجس</charseq>
+    </name>
+    <name NAME="جرجس">
+      <charseq START="1031" END="1034">جرجس</charseq>
+    </name>
+    <name NAME="مالك">
+      <charseq START="1160" END="1163">مالك</charseq>
+    </name>
+    <name NAME="مالك">
+      <charseq START="1361" END="1364">مالك</charseq>
+    </name>
+    <name NAME="مالك">
+      <charseq START="1451" END="1454">مالك</charseq>
+    </name>
+    <name NAME="مالك">
+      <charseq START="1537" END="1540">مالك</charseq>
+    </name>
+    <name NAME="مالك">
+      <charseq START="1663" END="1666">مالك</charseq>
+    </name>
+    <name NAME="مالك">
+      <charseq START="1717" END="1720">مالك</charseq>
+    </name>
+    <name NAME="مالك">
+      <charseq START="1791" END="1794">مالك</charseq>
+    </name>
+    <name NAME="مالك يوسف جرجس">
+      <charseq START="242" END="255">مالك يوسف جرجس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001201.1500.0092-E33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E33-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1026" END="1034">منزل جرجس</charseq>
+    </extent>
+    <head>
+      <charseq START="1026" END="1029">منزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E33-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1097" END="1101">منزله</charseq>
+    </extent>
+    <head>
+      <charseq START="1097" END="1100">منزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E33-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1168" END="1173">المنزل</charseq>
+    </extent>
+    <head>
+      <charseq START="1168" END="1173">المنزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E33-128" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1889" END="1894">المنزل</charseq>
+    </extent>
+    <head>
+      <charseq START="1889" END="1894">المنزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E33-144" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="378" END="401">منزله
+في ترتج ,قضاء جبيل</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="381">منزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E33-157" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="270" END="283">منزله  في ترتج</charseq>
+    </extent>
+    <head>
+      <charseq START="270" END="273">منزل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001201.1500.0092-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ANN20001201.1500.0092-E34-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="387" END="401">ترتج ,قضاء جبيل</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="390">ترتج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E34-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="677" END="680">ترتج</charseq>
+    </extent>
+    <head>
+      <charseq START="677" END="680">ترتج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E34-36" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="811" END="814">ترتج</charseq>
+    </extent>
+    <head>
+      <charseq START="811" END="814">ترتج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E34-49" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="953" END="956">ترتج</charseq>
+    </extent>
+    <head>
+      <charseq START="953" END="956">ترتج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001201.1500.0092-E34-158" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="280" END="283">ترتج</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="283">ترتج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ترتج">
+      <charseq START="387" END="390">ترتج</charseq>
+    </name>
+    <name NAME="ترتج">
+      <charseq START="677" END="680">ترتج</charseq>
+    </name>
+    <name NAME="ترتج">
+      <charseq START="811" END="814">ترتج</charseq>
+    </name>
+    <name NAME="ترتج">
+      <charseq START="953" END="956">ترتج</charseq>
+    </name>
+    <name NAME="ترتج">
+      <charseq START="280" END="283">ترتج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="ANN20001201.1500.0092-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ANN20001201.1500.0092-V1-1">
+    <extent>
+      <charseq START="876" END="885">175 دولارا</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ANN20001201.1500.0092-V2" TYPE="Sentence">
+  <value_mention ID="ANN20001201.1500.0092-V2-1">
+    <extent>
+      <charseq START="2179" END="2185">الاعدام</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ANN20001201.1500.0092-T1">
+  <timex2_mention ID="ANN20001201.1500.0092-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-12-01</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001201.1500.0092-T2">
+  <timex2_mention ID="ANN20001201.1500.0092-T2-1">
+    <extent>
+      <charseq START="285" END="296">يوم 7,9,1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001201.1500.0092-T3">
+  <timex2_mention ID="ANN20001201.1500.0092-T3-1">
+    <extent>
+      <charseq START="340" END="350">في 7,9,1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001201.1500.0092-T4">
+  <timex2_mention ID="ANN20001201.1500.0092-T4-1">
+    <extent>
+      <charseq START="979" END="996">قرابة
+السابعة مساء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001201.1500.0092-T5">
+  <timex2_mention ID="ANN20001201.1500.0092-T5-1">
+    <extent>
+      <charseq START="1211" END="1227">قرابة التاسعة ليل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ANN20001201.1500.0092-R1" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E26" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="121" END="151">قاضي التحقيق الاول في جبل لبنان</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E24-147" ROLE="Arg-1">
+      <extent>
+        <charseq START="121" END="151">قاضي التحقيق الاول في جبل لبنان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E26-149" ROLE="Arg-2">
+      <extent>
+        <charseq START="143" END="151">جبل لبنان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E29-151" ROLE="Arg-1">
+      <extent>
+        <charseq START="179" END="201">خالد عبد العزيز اسماعيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E4-143" ROLE="Arg-2">
+      <extent>
+        <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E30-152" ROLE="Arg-1">
+      <extent>
+        <charseq START="204" END="219">جهاد ابرهيم احمد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E4-143" ROLE="Arg-2">
+      <extent>
+        <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001201.1500.0092-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1587" END="1609">السوري
+جهاد ابرهيم احمد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E30-109" ROLE="Arg-1">
+      <extent>
+        <charseq START="1594" END="1609">جهاد ابرهيم احمد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E4-108" ROLE="Arg-2">
+      <extent>
+        <charseq START="1587" END="1609">السوري
+جهاد ابرهيم احمد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E34" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="270" END="283">منزله  في ترتج</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E33-157" ROLE="Arg-1">
+      <extent>
+        <charseq START="270" END="283">منزله  في ترتج</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E34-158" ROLE="Arg-2">
+      <extent>
+        <charseq START="280" END="283">ترتج</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001201.1500.0092-R4-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="378" END="401">منزله
+في ترتج ,قضاء جبيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E33-144" ROLE="Arg-1">
+      <extent>
+        <charseq START="378" END="401">منزله
+في ترتج ,قضاء جبيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E34-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="387" END="401">ترتج ,قضاء جبيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R6-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="387" END="401">ترتج ,قضاء جبيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E34-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="387" END="401">ترتج ,قضاء جبيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E1-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="393" END="401">قضاء جبيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="592" END="624">العامل السوري عطاالله حسين الهلوش</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E2-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="592" END="624">العامل السوري عطاالله حسين الهلوش</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E4-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="599" END="604">السوري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E34" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="655" END="680">منزل يملكه المغدور في ترتج</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E7-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="655" END="680">منزل يملكه المغدور في ترتج</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E34-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="677" END="680">ترتج</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E7" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="655" END="680">منزل يملكه المغدور في ترتج</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E31-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="666" END="672">المغدور</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E7-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="655" END="680">منزل يملكه المغدور في ترتج</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ANN20001201.1500.0092-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001201.1500.0092-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001201.1500.0092-E33" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001201.1500.0092-R10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="378" END="401">منزله
+في ترتج ,قضاء جبيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E31-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="382" END="382">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E33-144" ROLE="Arg-2">
+      <extent>
+        <charseq START="378" END="401">منزله
+في ترتج ,قضاء جبيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001201.1500.0092-R10-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1026" END="1034">منزل جرجس</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E31-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="1031" END="1034">جرجس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E33-55" ROLE="Arg-2">
+      <extent>
+        <charseq START="1026" END="1034">منزل جرجس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001201.1500.0092-R10-3" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1097" END="1101">منزله</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E31-64" ROLE="Arg-1">
+      <extent>
+        <charseq START="1101" END="1101">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E33-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="1097" END="1101">منزله</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ANN20001201.1500.0092-R10-4" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="270" END="283">منزله  في ترتج</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E31-156" ROLE="Arg-1">
+      <extent>
+        <charseq START="274" END="274">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001201.1500.0092-E33-157" ROLE="Arg-2">
+      <extent>
+        <charseq START="270" END="283">منزله  في ترتج</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ANN20001201.1500.0092-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E4" ROLE="Agent"/>
+  <event_argument REFID="ANN20001201.1500.0092-E33" ROLE="Place"/>
+  <event_argument REFID="ANN20001201.1500.0092-T2" ROLE="Time-Within"/>
+  <event_argument REFID="ANN20001201.1500.0092-E31" ROLE="Victim"/>
+  <event_mention ID="ANN20001201.1500.0092-EV1-1">
+    <extent>
+      <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="117" END="309">طلب قاضي التحقيق الاول في جبل لبنان جوزف قزي الاعدام
+للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="230" END="233">بقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E4-143" ROLE="Agent">
+      <extent>
+        <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E33-157" ROLE="Place">
+      <extent>
+        <charseq START="270" END="283">منزله  في ترتج</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="285" END="296">يوم 7,9,1999</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E31-154" ROLE="Victim">
+      <extent>
+        <charseq START="235" END="264">العجوز مالك يوسف جرجس ,77 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E31" ROLE="Victim"/>
+  <event_argument REFID="ANN20001201.1500.0092-E29" ROLE="Agent"/>
+  <event_argument REFID="ANN20001201.1500.0092-E30" ROLE="Agent"/>
+  <event_argument REFID="ANN20001201.1500.0092-E33" ROLE="Place"/>
+  <event_mention ID="ANN20001201.1500.0092-EV2-1">
+    <extent>
+      <charseq START="356" END="458">مالك يوسف جرجس جثة في منزله
+في ترتج ,قضاء جبيل,, وقد تم ربط يديه ورجليه وعنقه بحبل بعدما عمد خالد
+وجهاد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="313" END="479">وجاء في القرار الظـني انه ,في 7,9,1999 وجد مالك يوسف جرجس جثة في منزله
+في ترتج ,قضاء جبيل,, وقد تم ربط يديه ورجليه وعنقه بحبل بعدما عمد خالد
+وجهاد الى كم فمه بشال احمر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="371" END="373">جثة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E31-2" ROLE="Victim">
+      <extent>
+        <charseq START="356" END="369">مالك يوسف جرجس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E29-11" ROLE="Agent">
+      <extent>
+        <charseq START="449" END="452">خالد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E30-12" ROLE="Agent">
+      <extent>
+        <charseq START="455" END="458">جهاد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E33-144" ROLE="Place">
+      <extent>
+        <charseq START="378" END="401">منزله
+في ترتج ,قضاء جبيل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E27" ROLE="Agent"/>
+  <event_argument REFID="ANN20001201.1500.0092-E8" ROLE="Destination"/>
+  <event_argument REFID="ANN20001201.1500.0092-E34" ROLE="Origin"/>
+  <event_mention ID="ANN20001201.1500.0092-EV3-1">
+    <extent>
+      <charseq START="801" END="825">فتوجها من ترتج الى طرابلس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="801" END="885">فتوجها من ترتج الى طرابلس واشتريا مسدسا حربيا من
+احد التجار ودفع خالد ثمنه 175 دولارا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="801" END="806">فتوجها</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E27-35" ROLE="Agent">
+      <extent>
+        <charseq START="806" END="806">ا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E8-38" ROLE="Destination">
+      <extent>
+        <charseq START="820" END="825">طرابلس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E34-36" ROLE="Origin">
+      <extent>
+        <charseq START="811" END="814">ترتج</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E13" ROLE="Vehicle"/>
+  <event_argument REFID="ANN20001201.1500.0092-E27" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001201.1500.0092-E14" ROLE="Destination"/>
+  <event_mention ID="ANN20001201.1500.0092-EV4-1">
+    <extent>
+      <charseq START="910" END="938">توجها في
+سيارة الى بلدة عمشيت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="910" END="970">توجها في
+سيارة الى بلدة عمشيت ومن هناك الى ترتج في سيارة اجرة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="910" END="914">توجها</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E13-47" ROLE="Vehicle">
+      <extent>
+        <charseq START="919" END="923">سيارة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E27-46" ROLE="Artifact">
+      <extent>
+        <charseq START="914" END="914">ا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E14-48" ROLE="Destination">
+      <extent>
+        <charseq START="929" END="938">بلدة عمشيت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E33" ROLE="Destination"/>
+  <event_argument REFID="ANN20001201.1500.0092-T4" ROLE="Time-Within"/>
+  <event_mention ID="ANN20001201.1500.0092-EV5-1">
+    <extent>
+      <charseq START="979" END="1034">قرابة
+السابعة مساء ونزلا في الساحة وانتقلا الى منزل جرجس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="973" END="1034">ووصلا قرابة
+السابعة مساء ونزلا في الساحة وانتقلا الى منزل جرجس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1015" END="1019">انتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E33-55" ROLE="Destination">
+      <extent>
+        <charseq START="1026" END="1034">منزل جرجس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="979" END="996">قرابة
+السابعة مساء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E4" ROLE="Attacker"/>
+  <event_argument REFID="ANN20001201.1500.0092-E20" ROLE="Instrument"/>
+  <event_argument REFID="ANN20001201.1500.0092-E19" ROLE="Place"/>
+  <event_argument REFID="ANN20001201.1500.0092-E31" ROLE="Target"/>
+  <event_mention ID="ANN20001201.1500.0092-EV6-1">
+    <extent>
+      <charseq START="1537" END="1673">مالك على خالد محاولا انتزاع المسدس منه فما كان من السوري
+جهاد ابرهيم احمد الا ان تلقف من زاوية الغرفة العصا الغليظة وعاجل بها
+مالك بضربات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1526" END="1703">عندها, هجم مالك على خالد محاولا انتزاع المسدس منه فما كان من السوري
+جهاد ابرهيم احمد الا ان تلقف من زاوية الغرفة العصا الغليظة وعاجل بها
+مالك بضربات عدة على رأسه فسقط فاقدا الوعي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1668" END="1673">بضربات</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E4-108" ROLE="Attacker">
+      <extent>
+        <charseq START="1587" END="1609">السوري
+جهاد ابرهيم احمد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E20-111" ROLE="Instrument">
+      <extent>
+        <charseq START="1639" END="1651">العصا الغليظة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E19-110" ROLE="Place">
+      <extent>
+        <charseq START="1626" END="1637">زاوية الغرفة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E31-103" ROLE="Target">
+      <extent>
+        <charseq START="1537" END="1540">مالك</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E31" ROLE="Victim"/>
+  <event_argument REFID="ANN20001201.1500.0092-E29" ROLE="Agent"/>
+  <event_mention ID="ANN20001201.1500.0092-EV7-1">
+    <extent>
+      <charseq START="1712" END="1799">خالد مالك بالحبال من
+يديه ورجليه وشد شاله حول عنقه وراح يضغط بقوة حتى خارت قوى مالك ولفظ</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1706" END="1806">واوثق خالد مالك بالحبال من
+يديه ورجليه وشد شاله حول عنقه وراح يضغط بقوة حتى خارت قوى مالك ولفظ
+انفاسه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1797" END="1799">لفظ</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E31-116" ROLE="Victim">
+      <extent>
+        <charseq START="1717" END="1720">مالك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E29-122" ROLE="Agent">
+      <extent>
+        <charseq START="1712" END="1715">خالد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E27" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001201.1500.0092-E14" ROLE="Destination"/>
+  <event_argument REFID="ANN20001201.1500.0092-E33" ROLE="Origin"/>
+  <event_mention ID="ANN20001201.1500.0092-EV8-1">
+    <extent>
+      <charseq START="1889" END="1945">المنزل بالمفتاح واخذه معه وهربا الى عمشيت حيث طمرا
+المسدس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1872" END="1971">ثم اقفل خالد باب المنزل بالمفتاح واخذه معه وهربا الى عمشيت حيث طمرا
+المسدس وراء عمود كهرباء قرب شجرة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1916" END="1919">هربا</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E27-130" ROLE="Artifact">
+      <extent>
+        <charseq START="1919" END="1919">ا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E14-131" ROLE="Destination">
+      <extent>
+        <charseq START="1925" END="1945">عمشيت حيث طمرا
+المسدس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E33-128" ROLE="Origin">
+      <extent>
+        <charseq START="1889" END="1894">المنزل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E27" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001201.1500.0092-E4" ROLE="Destination"/>
+  <event_mention ID="ANN20001201.1500.0092-EV9-1">
+    <extent>
+      <charseq START="2033" END="2045">فرا الى سوريا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1974" END="2045">انطلقا بعدها الى طرابلس حيث حولا
+المال المسروق عملة سورية وفرا الى سوريا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2033" END="2035">فرا</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E27-138" ROLE="Artifact">
+      <extent>
+        <charseq START="2035" END="2035">ا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E4-139" ROLE="Destination">
+      <extent>
+        <charseq START="2041" END="2045">سوريا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV10" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ANN20001201.1500.0092-E24" ROLE="Adjudicator"/>
+  <event_argument REFID="ANN20001201.1500.0092-E29" ROLE="Defendant"/>
+  <event_argument REFID="ANN20001201.1500.0092-E30" ROLE="Defendant"/>
+  <event_mention ID="ANN20001201.1500.0092-EV10-1">
+    <extent>
+      <charseq START="2054" END="2105">نقرر اتهام خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2049" END="2185">لذلك نقرر اتهام خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد بالجناية
+المنصوص عليها في المواد 549 و639 و640 من قانون العقوبات وتقضي
+بالاعدام</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2059" END="2063">اتهام</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E24-142" ROLE="Adjudicator">
+      <extent>
+        <charseq START="2054" END="2054">ن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E29-140" ROLE="Defendant">
+      <extent>
+        <charseq START="2065" END="2087">خالد عبد العزيز اسماعيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E30-141" ROLE="Defendant">
+      <extent>
+        <charseq START="2090" END="2105">جهاد ابرهيم احمد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV11" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E24" ROLE="Adjudicator"/>
+  <event_argument REFID="ANN20001201.1500.0092-E4" ROLE="Defendant"/>
+  <event_mention ID="ANN20001201.1500.0092-EV11-1">
+    <extent>
+      <charseq START="121" END="309">قاضي التحقيق الاول في جبل لبنان جوزف قزي الاعدام
+للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="117" END="309">طلب قاضي التحقيق الاول في جبل لبنان جوزف قزي الاعدام
+للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="162" END="168">الاعدام</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E24-147" ROLE="Adjudicator">
+      <extent>
+        <charseq START="121" END="151">قاضي التحقيق الاول في جبل لبنان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E4-143" ROLE="Defendant">
+      <extent>
+        <charseq START="170" END="309">للسوريين خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد المتهمين بقتل
+العجوز مالك يوسف جرجس ,77 عاما, في منزله  في ترتج يوم 7,9,1999 وسلبه
+امواله</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E31" ROLE="Target"/>
+  <event_mention ID="ANN20001201.1500.0092-EV12-1">
+    <extent>
+      <charseq START="507" END="517">ضرب المغدور</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="483" END="575">وتبين ان الوفاة نتجت من ضرب المغدور بجسم صلب على رأسه وانحاء مختلفة من
+جسمه مما ادى الى وفاته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="507" END="509">ضرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E31-13" ROLE="Target">
+      <extent>
+        <charseq START="511" END="517">المغدور</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV13" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E29" ROLE="Giver"/>
+  <event_mention ID="ANN20001201.1500.0092-EV13-1">
+    <extent>
+      <charseq START="862" END="869">دفع خالد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="801" END="885">فتوجها من ترتج الى طرابلس واشتريا مسدسا حربيا من
+احد التجار ودفع خالد ثمنه 175 دولارا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="862" END="864">دفع</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E29-43" ROLE="Giver">
+      <extent>
+        <charseq START="866" END="869">خالد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV14" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E12" ROLE="Destination"/>
+  <event_mention ID="ANN20001201.1500.0092-EV14-1">
+    <extent>
+      <charseq START="891" END="907">عاد الى محلة التل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="888" END="907">ثم عاد الى محلة التل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="891" END="893">عاد</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E12-45" ROLE="Destination">
+      <extent>
+        <charseq START="899" END="907">محلة التل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="ANN20001201.1500.0092-EV15-1">
+    <extent>
+      <charseq START="1533" END="1535">هجم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1526" END="1703">عندها, هجم مالك على خالد محاولا انتزاع المسدس منه فما كان من السوري
+جهاد ابرهيم احمد الا ان تلقف من زاوية الغرفة العصا الغليظة وعاجل بها
+مالك بضربات عدة على رأسه فسقط فاقدا الوعي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1533" END="1535">هجم</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV16" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E27" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001201.1500.0092-E21" ROLE="Destination"/>
+  <event_mention ID="ANN20001201.1500.0092-EV16-1">
+    <extent>
+      <charseq START="1809" END="1831">فدخل الاثنان غرفة النوم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1809" END="1870">فدخل الاثنان غرفة النوم وسرقا الاموال من عملات اجنبية ودولارات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1809" END="1812">فدخل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E27-124" ROLE="Artifact">
+      <extent>
+        <charseq START="1814" END="1820">الاثنان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E21-125" ROLE="Destination">
+      <extent>
+        <charseq START="1822" END="1831">غرفة النوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV17" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ANN20001201.1500.0092-E27" ROLE="Artifact"/>
+  <event_argument REFID="ANN20001201.1500.0092-E8" ROLE="Destination"/>
+  <event_mention ID="ANN20001201.1500.0092-EV17-1">
+    <extent>
+      <charseq START="1974" END="2030">انطلقا بعدها الى طرابلس حيث حولا
+المال المسروق عملة سورية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1974" END="2045">انطلقا بعدها الى طرابلس حيث حولا
+المال المسروق عملة سورية وفرا الى سوريا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1974" END="1979">انطلقا</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E27-134" ROLE="Artifact">
+      <extent>
+        <charseq START="1979" END="1979">ا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E8-136" ROLE="Destination">
+      <extent>
+        <charseq START="1991" END="2030">طرابلس حيث حولا
+المال المسروق عملة سورية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ANN20001201.1500.0092-EV18" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ANN20001201.1500.0092-E24" ROLE="Adjudicator"/>
+  <event_argument REFID="ANN20001201.1500.0092-E29" ROLE="Defendant"/>
+  <event_argument REFID="ANN20001201.1500.0092-E30" ROLE="Defendant"/>
+  <event_argument REFID="ANN20001201.1500.0092-V2" ROLE="Sentence"/>
+  <event_mention ID="ANN20001201.1500.0092-EV18-1">
+    <extent>
+      <charseq START="2054" END="2185">نقرر اتهام خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد بالجناية
+المنصوص عليها في المواد 549 و639 و640 من قانون العقوبات وتقضي
+بالاعدام</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2049" END="2185">لذلك نقرر اتهام خالد عبد العزيز اسماعيل وجهاد ابرهيم احمد بالجناية
+المنصوص عليها في المواد 549 و639 و640 من قانون العقوبات وتقضي
+بالاعدام</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2178" END="2185">بالاعدام</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E24-142" ROLE="Adjudicator">
+      <extent>
+        <charseq START="2054" END="2054">ن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E29-140" ROLE="Defendant">
+      <extent>
+        <charseq START="2065" END="2087">خالد عبد العزيز اسماعيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-E30-141" ROLE="Defendant">
+      <extent>
+        <charseq START="2090" END="2105">جهاد ابرهيم احمد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001201.1500.0092-V2-1" ROLE="Sentence">
+      <extent>
+        <charseq START="2179" END="2185">الاعدام</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

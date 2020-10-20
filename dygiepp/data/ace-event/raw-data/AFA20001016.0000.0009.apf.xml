@@ -1,0 +1,1190 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001016.0000.0009.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001016.0000.0009">
+<entity ID="AFA20001016.0000.0009-E1" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="338" END="341">مسدس</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="341">مسدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E1-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="376" END="386">بهذا المسدس</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="386">المسدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E1-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="593" END="598">السلاح</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="598">السلاح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="353" END="358">الركاب</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="358">الركاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E2-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="934" END="1067">ركاب الطائرة السعودية التى خطفت السبت فى الاجواء المصرية عادوا
+الى الرياض مساء امس الاحد من بغداد ثم غادروا فجر اليوم الاثنين الى
+لندن</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="937">ركاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E2-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="994" END="995">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="994" END="995">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E2-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1039" END="1040">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1039" END="1040">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E3-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="414" END="505">الملازم فيصل ناجي البلوي 26 عاما من مباحث امن
+مطار الملك عبد العزيز في جدة حيث اقعلت الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="420">الملازم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E3-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="621" END="632">الضابط الاول</charseq>
+    </extent>
+    <head>
+      <charseq START="621" END="626">الضابط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E3-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="641" END="641">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="641" END="641">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E3-60" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="422" END="445">فيصل ناجي البلوي 26 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="437">فيصل ناجي البلوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فيصل ناجي البلوي">
+      <charseq START="422" END="437">فيصل ناجي البلوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E5-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="509" END="579">الملازم عايش علي
+الفريدي من قوات حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="515">الملازم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E5-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="761" END="779">الضابط عايش الفريدي</charseq>
+    </extent>
+    <head>
+      <charseq START="761" END="766">الضابط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E5-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="768" END="779">عايش الفريدي</charseq>
+    </extent>
+    <head>
+      <charseq START="768" END="779">عايش الفريدي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E5-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="807" END="807">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="807">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E5-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="814" END="814">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="814" END="814">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E5-59" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="517" END="532">عايش علي
+الفريدي</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="532">عايش علي
+الفريدي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E5-62" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="790" END="790">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="790">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عايش الفريدي">
+      <charseq START="768" END="779">عايش الفريدي</charseq>
+    </name>
+    <name NAME="عايش علي الفريدي">
+      <charseq START="517" END="532">عايش علي
+الفريدي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E7-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="537" END="579">قوات حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="540">قوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="542" END="579">حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+    </extent>
+    <head>
+      <charseq START="542" END="551">حرس الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E9-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="556" END="579">منطقة نجران جنوب المملكة</charseq>
+    </extent>
+    <head>
+      <charseq START="556" END="560">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E10-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="562" END="579">نجران جنوب المملكة</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="566">نجران</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نجران">
+      <charseq START="562" END="566">نجران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E11-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="568" END="579">جنوب المملكة</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="579">المملكة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E12-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="718" END="725">بريطانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="718" END="725">بريطانيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بريطانيا">
+      <charseq START="718" END="725">بريطانيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E13-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="728" END="732">فرنسا</charseq>
+    </extent>
+    <head>
+      <charseq START="728" END="732">فرنسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فرنسا">
+      <charseq START="728" END="732">فرنسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="117" END="134">الرياض 10-16 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="122">الرياض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E14-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1001" END="1006">الرياض</charseq>
+    </extent>
+    <head>
+      <charseq START="1001" END="1006">الرياض</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياض">
+      <charseq START="1001" END="1006">الرياض</charseq>
+    </name>
+    <name NAME="الرياض">
+      <charseq START="117" END="122">الرياض</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E15-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="740" END="745">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="740" END="745">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغرب">
+      <charseq START="740" END="745">المغرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E17-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="840" END="846">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="846">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E17-42" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="947" END="954">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="954">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E17-70" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="157" END="163">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="163">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E17-74" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="222" END="229">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="229">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E17-78" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="267" END="273">سعوديان</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="273">سعوديان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودي">
+      <charseq START="840" END="846">السعودي</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="947" END="954">السعودية</charseq>
+    </name>
+    <name NAME="السعودي">
+      <charseq START="157" END="163">السعودي</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="222" END="229">السعودية</charseq>
+    </name>
+    <name NAME="سعوديان">
+      <charseq START="267" END="273">سعوديان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E18" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001016.0000.0009-E18-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="898" END="908">جهات سياسية</charseq>
+    </extent>
+    <head>
+      <charseq START="898" END="901">جهات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E19" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001016.0000.0009-E19-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="913" END="923">جهات خارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="916">جهات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E21-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="735" END="737">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="735" END="737">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E21-45" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="983" END="989">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="983" END="989">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="735" END="737">مصر</charseq>
+    </name>
+    <name NAME="المصرية">
+      <charseq START="983" END="989">المصرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E22-50" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1064" END="1067">لندن</charseq>
+    </extent>
+    <head>
+      <charseq START="1064" END="1067">لندن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لندن">
+      <charseq START="1064" END="1067">لندن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E24-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="450" END="487">مباحث امن
+مطار الملك عبد العزيز في جدة</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="454">مباحث</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E25-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="646" END="655">امن
+المطار</charseq>
+    </extent>
+    <head>
+      <charseq START="646" END="648">امن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E25-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="456" END="480">امن
+مطار الملك عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="458">امن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E26-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="460" END="480">مطار الملك عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="480">مطار الملك عبد العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E26-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="650" END="655">المطار</charseq>
+    </extent>
+    <head>
+      <charseq START="650" END="655">المطار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مطار الملك عبد العزيز">
+      <charseq START="460" END="480">مطار الملك عبد العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E27-57" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="485" END="487">جدة</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="487">جدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E27-58" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="489" END="491">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="489" END="491">حيث</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جدة">
+      <charseq START="485" END="487">جدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E28-51" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="291" END="294">نايف</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="294">نايف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E28-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="752" END="752">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="752">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E28-64" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="189">نايف بن عبد
+العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="189">نايف بن عبد
+العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E28-65" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="833" END="846">الوزير السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="833" END="838">الوزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E28-66" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="284" END="294">الامير نايف</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="289">الامير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E28-68" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="143" END="163">وزير الداخلية السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="146">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E28-71" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="165" END="189">الامير نايف بن عبد
+العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="170">الامير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نايف">
+      <charseq START="291" END="294">نايف</charseq>
+    </name>
+    <name NAME="نايف بن عبد العزيز">
+      <charseq START="172" END="189">نايف بن عبد
+العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E30" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E30-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="131" END="134">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="134">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="131" END="134">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E32" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E32-69" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="148" END="155">الداخلية</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="155">الداخلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الداخلية">
+      <charseq START="148" END="155">الداخلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001016.0000.0009-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E35-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="401" END="408">الضابطين</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="408">الضابطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="410" END="412">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="410" END="412">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="666" END="745">الخاطفين "صديقان كانا يسافران معا لقضاء اجازتهما فى
+بريطانيا وفرنسا ومصر والمغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="673">الخاطفين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="680" END="681">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="680" END="681">ان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="686" END="686">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="686">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="693" END="694">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="694">ان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="711" END="713">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="713">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="856" END="863">للخاطفين</charseq>
+    </extent>
+    <head>
+      <charseq START="856" END="863">للخاطفين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="327" END="328">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="328">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-72" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="208" END="229">خاطفي الطائرة السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="212">خاطفي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="254" END="256">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="256">هما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="258" END="273">ضابط امن سعوديان</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="261">ضابط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E35-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="314" END="321">الضابطين</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="321">الضابطين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E36" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E36-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="347" END="358">طائرة الركاب</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="351">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="368" END="374">الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="374">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="497" END="497">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="497">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="499" END="505">الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="505">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="608" END="614">الطائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="608" END="614">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="939" END="989">الطائرة السعودية التى خطفت السبت فى الاجواء المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="939" END="945">الطائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-43" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="956" END="959">التى</charseq>
+    </extent>
+    <head>
+      <charseq START="956" END="959">التى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="964" END="964">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="964" END="964">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E36-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="214" END="229">الطائرة السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="220">الطائرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001016.0000.0009-E38" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001016.0000.0009-E38-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1026" END="1030">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="1026" END="1030">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001016.0000.0009-E38-75" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="235" END="239">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="239">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="1026" END="1030">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="235" END="239">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001016.0000.0009-T1">
+  <timex2_mention ID="AFA20001016.0000.0009-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-16 05:34:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001016.0000.0009-T2">
+  <timex2_mention ID="AFA20001016.0000.0009-T2-1">
+    <extent>
+      <charseq START="124" END="128">10-16</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001016.0000.0009-T3">
+  <timex2_mention ID="AFA20001016.0000.0009-T3-1">
+    <extent>
+      <charseq START="191" END="203">اليوم الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001016.0000.0009-T4">
+  <timex2_mention ID="AFA20001016.0000.0009-T4-1">
+    <extent>
+      <charseq START="241" END="252">السبت الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001016.0000.0009-T5">
+  <timex2_mention ID="AFA20001016.0000.0009-T5-1">
+    <extent>
+      <charseq START="1008" END="1021">مساء امس الاحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001016.0000.0009-T6">
+  <timex2_mention ID="AFA20001016.0000.0009-T6-1">
+    <extent>
+      <charseq START="1042" END="1058">فجر اليوم الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001016.0000.0009-T7">
+  <timex2_mention ID="AFA20001016.0000.0009-T7-1">
+    <extent>
+      <charseq START="966" END="970">السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001016.0000.0009-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001016.0000.0009-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="258" END="273">ضابط امن سعوديان</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E35-77" ROLE="Arg-1">
+      <extent>
+        <charseq START="258" END="273">ضابط امن سعوديان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E17-78" ROLE="Arg-2">
+      <extent>
+        <charseq START="267" END="273">سعوديان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E36" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001016.0000.0009-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="347" END="358">طائرة الركاب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E2-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="353" END="358">الركاب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E36-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="347" END="358">طائرة الركاب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001016.0000.0009-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="537" END="579">قوات حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E7-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="537" END="579">قوات حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E8-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="542" END="579">حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001016.0000.0009-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="542" END="579">حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E8-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="542" END="579">حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E9-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="556" END="579">منطقة نجران جنوب المملكة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001016.0000.0009-R5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="562" END="579">نجران جنوب المملكة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E10-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="562" END="579">نجران جنوب المملكة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E11-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="568" END="579">جنوب المملكة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E17" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E28" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001016.0000.0009-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="833" END="846">الوزير السعودي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E17-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="840" END="846">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E28-65" ROLE="Arg-1">
+      <extent>
+        <charseq START="833" END="846">الوزير السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E14" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001016.0000.0009-T2" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001016.0000.0009-R7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="117" END="134">الرياض 10-16 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E30-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="131" END="134">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E14-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="117" END="134">الرياض 10-16 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="124" END="128">10-16</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E32" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001016.0000.0009-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="143" END="163">وزير الداخلية السعودي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E28-68" ROLE="Arg-1">
+      <extent>
+        <charseq START="143" END="163">وزير الداخلية السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E32-69" ROLE="Arg-2">
+      <extent>
+        <charseq START="148" END="155">الداخلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001016.0000.0009-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001016.0000.0009-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001016.0000.0009-E36" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001016.0000.0009-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="214" END="229">الطائرة السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E17-74" ROLE="Arg-1">
+      <extent>
+        <charseq START="222" END="229">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E36-73" ROLE="Arg-2">
+      <extent>
+        <charseq START="214" END="229">الطائرة السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001016.0000.0009-R9-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="939" END="989">الطائرة السعودية التى خطفت السبت فى الاجواء المصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E17-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="947" END="954">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001016.0000.0009-E36-41" ROLE="Arg-2">
+      <extent>
+        <charseq START="939" END="989">الطائرة السعودية التى خطفت السبت فى الاجواء المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001016.0000.0009-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001016.0000.0009-E36" ROLE="Vehicle"/>
+  <event_mention ID="AFA20001016.0000.0009-EV1-1">
+    <extent>
+      <charseq START="493" END="497">اقعلت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="392" END="579">واوضح ان الضابطين هما الملازم فيصل ناجي البلوي 26 عاما من مباحث امن
+مطار الملك عبد العزيز في جدة حيث اقعلت الطائرة، والملازم عايش علي
+الفريدي من قوات حرس الحدود فى منطقة نجران جنوب المملكة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="493" END="497">اقعلت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E36-10" ROLE="Vehicle">
+      <extent>
+        <charseq START="497" END="497">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001016.0000.0009-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001016.0000.0009-E35" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001016.0000.0009-E12" ROLE="Destination"/>
+  <event_argument REFID="AFA20001016.0000.0009-E13" ROLE="Destination"/>
+  <event_argument REFID="AFA20001016.0000.0009-E21" ROLE="Destination"/>
+  <event_argument REFID="AFA20001016.0000.0009-E15" ROLE="Destination"/>
+  <event_mention ID="AFA20001016.0000.0009-EV2-1">
+    <extent>
+      <charseq START="688" END="745">يسافران معا لقضاء اجازتهما فى
+بريطانيا وفرنسا ومصر والمغرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="658" END="745">وقال ان الخاطفين "صديقان كانا يسافران معا لقضاء اجازتهما فى
+بريطانيا وفرنسا ومصر والمغرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="688" END="694">يسافران</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E35-26" ROLE="Artifact">
+      <extent>
+        <charseq START="693" END="694">ان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E12-28" ROLE="Destination">
+      <extent>
+        <charseq START="718" END="725">بريطانيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E13-29" ROLE="Destination">
+      <extent>
+        <charseq START="728" END="732">فرنسا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E21-30" ROLE="Destination">
+      <extent>
+        <charseq START="735" END="737">مصر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E15-31" ROLE="Destination">
+      <extent>
+        <charseq START="740" END="745">المغرب</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001016.0000.0009-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001016.0000.0009-E2" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001016.0000.0009-E14" ROLE="Destination"/>
+  <event_argument REFID="AFA20001016.0000.0009-E38" ROLE="Origin"/>
+  <event_mention ID="AFA20001016.0000.0009-EV3-1">
+    <extent>
+      <charseq START="991" END="1030">عادوا
+الى الرياض مساء امس الاحد من بغداد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="929" END="1067">وكان ركاب الطائرة السعودية التى خطفت السبت فى الاجواء المصرية عادوا
+الى الرياض مساء امس الاحد من بغداد ثم غادروا فجر اليوم الاثنين الى
+لندن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="991" END="995">عادوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E2-46" ROLE="Artifact">
+      <extent>
+        <charseq START="994" END="995">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E14-47" ROLE="Destination">
+      <extent>
+        <charseq START="1001" END="1006">الرياض</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E38-48" ROLE="Origin">
+      <extent>
+        <charseq START="1026" END="1030">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001016.0000.0009-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001016.0000.0009-E36" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001016.0000.0009-E2" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001016.0000.0009-E22" ROLE="Destination"/>
+  <event_argument REFID="AFA20001016.0000.0009-T6" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001016.0000.0009-EV4-1">
+    <extent>
+      <charseq START="939" END="1067">الطائرة السعودية التى خطفت السبت فى الاجواء المصرية عادوا
+الى الرياض مساء امس الاحد من بغداد ثم غادروا فجر اليوم الاثنين الى
+لندن</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="929" END="1067">وكان ركاب الطائرة السعودية التى خطفت السبت فى الاجواء المصرية عادوا
+الى الرياض مساء امس الاحد من بغداد ثم غادروا فجر اليوم الاثنين الى
+لندن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1035" END="1040">غادروا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E36-41" ROLE="Vehicle">
+      <extent>
+        <charseq START="939" END="989">الطائرة السعودية التى خطفت السبت فى الاجواء المصرية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E2-49" ROLE="Artifact">
+      <extent>
+        <charseq START="1039" END="1040">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-E22-50" ROLE="Destination">
+      <extent>
+        <charseq START="1064" END="1067">لندن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001016.0000.0009-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1042" END="1058">فجر اليوم الاثنين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

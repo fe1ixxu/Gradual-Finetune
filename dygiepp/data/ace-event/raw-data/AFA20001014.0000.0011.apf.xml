@@ -1,0 +1,869 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001014.0000.0011.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001014.0000.0011">
+<entity ID="AFA20001014.0000.0011-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="309" END="313">مدخنة</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="313">مدخنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="332" END="333">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="332" END="333">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="430" END="447">المدخنة التي توفيت</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="436">المدخنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-8" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="438" END="441">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="441">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="447" END="447">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="447">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="460" END="460">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="460">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="462" END="471">سوزان جونز</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="471">سوزان جونز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="504" END="504">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="504" END="504">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="546" END="546">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="546">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="578" END="579">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="579">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="675" END="678">زوجت</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="678">زوجت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E1-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="713" END="717">لزوجت</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="717">لزوجت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سوزان جونز">
+      <charseq START="462" END="471">سوزان جونز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001014.0000.0011-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E2-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="405" END="447">مقدم الشكوى بوب
+جونز زوج المدخنة التي توفيت</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="408">مقدم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E2-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="426" END="447">زوج المدخنة التي توفيت</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="428">زوج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E2-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="417" END="424">بوب
+جونز</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="424">بوب
+جونز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E2-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="636" END="643">بوب جونز</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="643">بوب جونز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E2-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="679" END="679">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="679">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E2-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="711" END="711">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="711">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E2-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="718" END="718">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="718" END="718">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بوب جونز">
+      <charseq START="417" END="424">بوب
+جونز</charseq>
+    </name>
+    <name NAME="بوب جونز">
+      <charseq START="636" END="643">بوب جونز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001014.0000.0011-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E5-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="599" END="611">هيئة المحلفين</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="602">هيئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E5-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="597" END="597">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="597">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E5-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="604" END="611">المحلفين</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="611">المحلفين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001014.0000.0011-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E6-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="729" END="751">محكمة في ميامي (فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="729" END="733">محكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E6-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="727" END="727">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="727">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E6-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="757" END="757">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="757">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001014.0000.0011-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E7-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="763" END="786">خمس شركات لصناعة السجائر</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="771">شركات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001014.0000.0011-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E8-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="851" END="883">ضحايا
+التدخين في الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="851" END="855">ضحايا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001014.0000.0011-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E9-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="364" END="369">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="369">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E9-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="251" END="264">آر جاي رينولدز</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="264">آر جاي رينولدز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E9-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="231" END="264">شركة صناعة السجائر "آر جاي رينولدز</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="234">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آر جاي رينولدز">
+      <charseq START="251" END="264">آر جاي رينولدز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001014.0000.0011-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E10-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="738" END="742">ميامي</charseq>
+    </extent>
+    <head>
+      <charseq START="738" END="742">ميامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E10-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="142" END="177">ميامي (الولايات المتحدة) 10-14 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="146">ميامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميامي">
+      <charseq START="738" END="742">ميامي</charseq>
+    </name>
+    <name NAME="ميامي">
+      <charseq START="142" END="146">ميامي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001014.0000.0011-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E11-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="868" END="883">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="868" END="883">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E11-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="149" END="164">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="164">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="868" END="883">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="149" END="164">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001014.0000.0011-E12" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E12-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="174" END="177">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="177">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="174" END="177">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001014.0000.0011-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E13-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="185" END="185">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="185">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E13-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="187" END="216">مصادر قضائية في تامبا
+(فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="191">مصادر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001014.0000.0011-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E14-39" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="203" END="207">تامبا</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="207">تامبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تامبا">
+      <charseq START="203" END="207">تامبا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001014.0000.0011-E15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001014.0000.0011-E15-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="745" END="751">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="745" END="751">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001014.0000.0011-E15-40" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="210" END="216">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="216">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلوريدا">
+      <charseq START="745" END="751">فلوريدا</charseq>
+    </name>
+    <name NAME="فلوريدا">
+      <charseq START="210" END="216">فلوريدا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001014.0000.0011-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001014.0000.0011-V1-1">
+    <extent>
+      <charseq START="286" END="298">200 الف دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001014.0000.0011-V2" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001014.0000.0011-V2-1">
+    <extent>
+      <charseq START="618" END="630">141 الف دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001014.0000.0011-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001014.0000.0011-V3-1">
+    <extent>
+      <charseq START="682" END="693">59 الف دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001014.0000.0011-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001014.0000.0011-V4-1">
+    <extent>
+      <charseq START="822" END="836">145 مليار دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001014.0000.0011-T1">
+  <timex2_mention ID="AFA20001014.0000.0011-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-14 06:21:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001014.0000.0011-T2">
+  <timex2_mention ID="AFA20001014.0000.0011-T2-1">
+    <extent>
+      <charseq START="167" END="171">10-14</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001014.0000.0011-T3">
+  <timex2_mention ID="AFA20001014.0000.0011-T3-1">
+    <extent>
+      <charseq START="318" END="321">1995</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001014.0000.0011-T4">
+  <timex2_mention ID="AFA20001014.0000.0011-T4-1">
+    <extent>
+      <charseq START="514" END="520">40 عاما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001014.0000.0011-T5">
+  <timex2_mention ID="AFA20001014.0000.0011-T5-1">
+    <extent>
+      <charseq START="533" END="537">يوميا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001014.0000.0011-T6">
+  <timex2_mention ID="AFA20001014.0000.0011-T6-1">
+    <extent>
+      <charseq START="791" END="807">تموز/يوليو الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001014.0000.0011-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="142" END="177">ميامي (الولايات المتحدة) 10-14 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E12-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="174" END="177">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E10-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="142" END="177">ميامي (الولايات المتحدة) 10-14 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001014.0000.0011-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="142" END="177">ميامي (الولايات المتحدة) 10-14 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E10-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="142" END="177">ميامي (الولايات المتحدة) 10-14 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E11-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="149" END="164">الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001014.0000.0011-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="187" END="216">مصادر قضائية في تامبا
+(فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E13-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="187" END="216">مصادر قضائية في تامبا
+(فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E14-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="203" END="207">تامبا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001014.0000.0011-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="203" END="216">تامبا
+(فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E14-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="203" END="207">تامبا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E15-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="210" END="216">فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001014.0000.0011-R6" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R6-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="675" END="679">زوجته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E1-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="675" END="678">زوجت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E2-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="679" END="679">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001014.0000.0011-R6-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="713" END="718">لزوجته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E1-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="713" END="717">لزوجت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E2-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="718" END="718">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001014.0000.0011-R6-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="426" END="447">زوج المدخنة التي توفيت</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E1-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="430" END="447">المدخنة التي توفيت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E2-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="426" END="447">زوج المدخنة التي توفيت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001014.0000.0011-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="729" END="751">محكمة في ميامي (فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E6-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="729" END="751">محكمة في ميامي (فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E10-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="738" END="742">ميامي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001014.0000.0011-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R9-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="729" END="751">محكمة في ميامي (فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E10-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="738" END="742">ميامي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E15-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="745" END="751">فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001014.0000.0011-R10" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001014.0000.0011-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001014.0000.0011-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001014.0000.0011-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="851" END="883">ضحايا
+التدخين في الولايات المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E8-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="851" END="883">ضحايا
+التدخين في الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001014.0000.0011-E11-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="868" END="883">الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001014.0000.0011-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001014.0000.0011-E1" ROLE="Victim"/>
+  <event_argument REFID="AFA20001014.0000.0011-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001014.0000.0011-EV1-1">
+    <extent>
+      <charseq START="304" END="321">وفاة مدخنة في 1995</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="181" END="346">افادت مصادر قضائية في تامبا
+(فلوريدا) انه حكم على شركة صناعة السجائر "آر جاي رينولدز" بدفع تعويضات
+قدرها 200 الف دولار على وفاة مدخنة في 1995 بعد اصابتها بمرض السرطان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="304" END="307">وفاة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E1-1" ROLE="Victim">
+      <extent>
+        <charseq START="309" END="313">مدخنة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="318" END="321">1995</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001014.0000.0011-EV2" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001014.0000.0011-E9" ROLE="Defendant"/>
+  <event_mention ID="AFA20001014.0000.0011-EV2-1">
+    <extent>
+      <charseq START="223" END="264">حكم على شركة صناعة السجائر "آر جاي رينولدز</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="181" END="346">افادت مصادر قضائية في تامبا
+(فلوريدا) انه حكم على شركة صناعة السجائر "آر جاي رينولدز" بدفع تعويضات
+قدرها 200 الف دولار على وفاة مدخنة في 1995 بعد اصابتها بمرض السرطان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="223" END="225">حكم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E9-33" ROLE="Defendant">
+      <extent>
+        <charseq START="231" END="264">شركة صناعة السجائر "آر جاي رينولدز</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001014.0000.0011-EV3" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001014.0000.0011-E9" ROLE="Entity"/>
+  <event_argument REFID="AFA20001014.0000.0011-V1" ROLE="Money"/>
+  <event_mention ID="AFA20001014.0000.0011-EV3-1">
+    <extent>
+      <charseq START="231" END="298">شركة صناعة السجائر "آر جاي رينولدز" بدفع تعويضات
+قدرها 200 الف دولار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="181" END="346">افادت مصادر قضائية في تامبا
+(فلوريدا) انه حكم على شركة صناعة السجائر "آر جاي رينولدز" بدفع تعويضات
+قدرها 200 الف دولار على وفاة مدخنة في 1995 بعد اصابتها بمرض السرطان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="272" END="278">تعويضات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E9-33" ROLE="Entity">
+      <extent>
+        <charseq START="231" END="264">شركة صناعة السجائر "آر جاي رينولدز</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="286" END="298">200 الف دولار</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001014.0000.0011-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001014.0000.0011-E1" ROLE="Victim"/>
+  <event_mention ID="AFA20001014.0000.0011-EV4-1">
+    <extent>
+      <charseq START="456" END="460">توفيت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="452" END="588">وقد توفيت سوزان جونز في سن الثانية والستين بعدما دخنت على مدى 40 عاما
+علبة سجائر يوميا. واستمرت في التدخين حتى بعد تشخيص اصابتها بالسرطان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="456" END="460">توفيت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E1-10" ROLE="Victim">
+      <extent>
+        <charseq START="460" END="460">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001014.0000.0011-EV5" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001014.0000.0011-E5" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001014.0000.0011-E2" ROLE="Entity"/>
+  <event_argument REFID="AFA20001014.0000.0011-V2" ROLE="Money"/>
+  <event_argument REFID="AFA20001014.0000.0011-V3" ROLE="Money"/>
+  <event_mention ID="AFA20001014.0000.0011-EV5-1">
+    <extent>
+      <charseq START="599" END="693">هيئة المحلفين بدفع 141 الف دولار الى بوب جونز لتغطية كلفة
+العلاج الطبي ودفن زوجته و59 الف دولار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="593" END="718">وحكمت هيئة المحلفين بدفع 141 الف دولار الى بوب جونز لتغطية كلفة
+العلاج الطبي ودفن زوجته و59 الف دولار تعويضا على خسارته لزوجته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="613" END="616">بدفع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E5-15" ROLE="Adjudicator">
+      <extent>
+        <charseq START="599" END="611">هيئة المحلفين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E2-18" ROLE="Entity">
+      <extent>
+        <charseq START="636" END="643">بوب جونز</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-V2-1" ROLE="Money">
+      <extent>
+        <charseq START="618" END="630">141 الف دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-V3-1" ROLE="Money">
+      <extent>
+        <charseq START="682" END="693">59 الف دولار</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001014.0000.0011-EV6" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001014.0000.0011-E5" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001014.0000.0011-V3" ROLE="Money"/>
+  <event_mention ID="AFA20001014.0000.0011-EV6-1">
+    <extent>
+      <charseq START="599" END="700">هيئة المحلفين بدفع 141 الف دولار الى بوب جونز لتغطية كلفة
+العلاج الطبي ودفن زوجته و59 الف دولار تعويضا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="593" END="718">وحكمت هيئة المحلفين بدفع 141 الف دولار الى بوب جونز لتغطية كلفة
+العلاج الطبي ودفن زوجته و59 الف دولار تعويضا على خسارته لزوجته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="695" END="700">تعويضا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E5-15" ROLE="Adjudicator">
+      <extent>
+        <charseq START="599" END="611">هيئة المحلفين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-V3-1" ROLE="Money">
+      <extent>
+        <charseq START="682" END="693">59 الف دولار</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001014.0000.0011-EV7" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001014.0000.0011-E7" ROLE="Entity"/>
+  <event_argument REFID="AFA20001014.0000.0011-E6" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001014.0000.0011-V4" ROLE="Money"/>
+  <event_argument REFID="AFA20001014.0000.0011-T6" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001014.0000.0011-EV7-1">
+    <extent>
+      <charseq START="729" END="836">محكمة في ميامي (فلوريدا) حكمت على خمس شركات لصناعة السجائر في
+تموز/يوليو الماضي بدفع اكثر من 145 مليار دولار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="723" END="883">وكانت محكمة في ميامي (فلوريدا) حكمت على خمس شركات لصناعة السجائر في
+تموز/يوليو الماضي بدفع اكثر من 145 مليار دولار كتعويضات الى ضحايا
+التدخين في الولايات المتحدة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="809" END="812">بدفع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E7-29" ROLE="Entity">
+      <extent>
+        <charseq START="763" END="786">خمس شركات لصناعة السجائر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-E6-24" ROLE="Adjudicator">
+      <extent>
+        <charseq START="729" END="751">محكمة في ميامي (فلوريدا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-V4-1" ROLE="Money">
+      <extent>
+        <charseq START="822" END="836">145 مليار دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001014.0000.0011-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="791" END="807">تموز/يوليو الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

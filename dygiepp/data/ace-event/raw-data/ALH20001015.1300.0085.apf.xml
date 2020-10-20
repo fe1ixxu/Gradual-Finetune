@@ -1,0 +1,1336 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001015.1300.0085.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001015.1300.0085">
+<entity ID="ALH20001015.1300.0085-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="328" END="343">الخارجية التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="335">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="328" END="335">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E2-3" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="337" END="343">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="343">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E2-6" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="473" END="473">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="473">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E2-7" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="475" END="479">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="479">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E2-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="900" END="904">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="900" END="904">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E2-27" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1085" END="1091">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1085" END="1091">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E2-37" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1248" END="1253">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1248" END="1253">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التركية">
+      <charseq START="337" END="343">التركية</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="475" END="479">تركيا</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="900" END="904">تركيا</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="1085" END="1091">التركية</charseq>
+    </name>
+    <name NAME="التركي">
+      <charseq START="1248" END="1253">التركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E4" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E4-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="392" END="403">الشرق
+الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="392" END="403">الشرق
+الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E4-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="522" END="533">الشرق
+الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="533">الشرق
+الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E4-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="758" END="769">الشرق الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="758" END="769">الشرق الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق الاوسط">
+      <charseq START="392" END="403">الشرق
+الاوسط</charseq>
+    </name>
+    <name NAME="الشرق الاوسط">
+      <charseq START="522" END="533">الشرق
+الاوسط</charseq>
+    </name>
+    <name NAME="الشرق الاوسط">
+      <charseq START="758" END="769">الشرق الاوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E5-5" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="435" END="441">البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="441">البلدين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E5-13" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="705" END="711">البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="711">البلدين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E6-11" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1346" END="1346">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1346" END="1346">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E7-12" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="607" END="621">اليوناني التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="607" END="621">اليوناني التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليوناني التركي">
+      <charseq START="607" END="621">اليوناني التركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E8" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E8-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="840" END="848">بحر
+ايجيه</charseq>
+    </extent>
+    <head>
+      <charseq START="840" END="848">بحر
+ايجيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E8-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1160" END="1172">شرق بحر ايجيه</charseq>
+    </extent>
+    <head>
+      <charseq START="1164" END="1172">بحر ايجيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E8-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1426" END="1433">بحر ايجه</charseq>
+    </extent>
+    <head>
+      <charseq START="1426" END="1433">بحر ايجه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بحر ايجيه">
+      <charseq START="840" END="848">بحر
+ايجيه</charseq>
+    </name>
+    <name NAME="بحر ايجه">
+      <charseq START="1426" END="1433">بحر ايجه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E9-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="863" END="875">الحلف الاطلسي</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="875">الحلف الاطلسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E9-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1223" END="1235">الحلف
+الاطلسي</charseq>
+    </extent>
+    <head>
+      <charseq START="1223" END="1235">الحلف
+الاطلسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E9-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1313" END="1317">الحلف</charseq>
+    </extent>
+    <head>
+      <charseq START="1313" END="1317">الحلف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحلف الاطلسي">
+      <charseq START="863" END="875">الحلف الاطلسي</charseq>
+    </name>
+    <name NAME="الحلف الاطلسي">
+      <charseq START="1223" END="1235">الحلف
+الاطلسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E10-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="942" END="962">مصدر ديبلوماسي
+يوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="945">مصدر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E10-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1261" END="1281">مصدر ديبلوماسي يوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1261" END="1264">مصدر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E10-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1495" END="1517">مصدر ديبلوماسي في اثينا</charseq>
+    </extent>
+    <head>
+      <charseq START="1495" END="1498">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E11-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="957" END="962">يوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="957" END="962">يوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="987" END="994">اليوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="994">اليوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1036" END="1044">اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1044">اليونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-31" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1147" END="1157">اليونانيتين</charseq>
+    </extent>
+    <head>
+      <charseq START="1147" END="1157">اليونانيتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-33" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1181" END="1187">اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="1181" END="1187">اليونان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-34" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1179" END="1179">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1179" END="1179">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1276" END="1281">يوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1276" END="1281">يوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-40" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1290" END="1291">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1290" END="1291">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-41" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1293" END="1293">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1293" END="1293">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-52" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1463" END="1469">يونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1463" END="1469">يونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-64" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="147" END="155">اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="155">اليونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-68" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="222" END="228">اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="228">اليونان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-70" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="249" END="256">اليوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="256">اليوناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E11-74" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="308" END="316">اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="316">اليونانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يوناني">
+      <charseq START="957" END="962">يوناني</charseq>
+    </name>
+    <name NAME="اليوناني">
+      <charseq START="987" END="994">اليوناني</charseq>
+    </name>
+    <name NAME="اليونانية">
+      <charseq START="1036" END="1044">اليونانية</charseq>
+    </name>
+    <name NAME="اليونانيتين">
+      <charseq START="1147" END="1157">اليونانيتين</charseq>
+    </name>
+    <name NAME="اليونان">
+      <charseq START="1181" END="1187">اليونان</charseq>
+    </name>
+    <name NAME="يوناني">
+      <charseq START="1276" END="1281">يوناني</charseq>
+    </name>
+    <name NAME="يونانية">
+      <charseq START="1463" END="1469">يونانية</charseq>
+    </name>
+    <name NAME="اليونانية">
+      <charseq START="147" END="155">اليونانية</charseq>
+    </name>
+    <name NAME="اليونان">
+      <charseq START="222" END="228">اليونان</charseq>
+    </name>
+    <name NAME="اليوناني">
+      <charseq START="249" END="256">اليوناني</charseq>
+    </name>
+    <name NAME="اليونانية">
+      <charseq START="308" END="316">اليونانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E12-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="970" END="994">هيئة اركان الجيش اليوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="973">هيئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E12-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1000" END="1000">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1000" END="1000">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E12-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="968" END="968">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="968" END="968">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E13-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="981" END="994">الجيش اليوناني</charseq>
+    </extent>
+    <head>
+      <charseq START="981" END="985">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E15-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1022" END="1044">القوات الجوية اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1022" END="1027">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E17-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1077" END="1091">السلطات التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1077" END="1083">السلطات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E19" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E19-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1124" END="1157">جزيرتي
+ليمنوس وايكاريا اليونانيتين</charseq>
+    </extent>
+    <head>
+      <charseq START="1124" END="1129">جزيرتي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E20" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E20-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1131" END="1136">ليمنوس</charseq>
+    </extent>
+    <head>
+      <charseq START="1131" END="1136">ليمنوس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ليمنوس">
+      <charseq START="1131" END="1136">ليمنوس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E21" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E21-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1139" END="1145">ايكاريا</charseq>
+    </extent>
+    <head>
+      <charseq START="1139" END="1145">ايكاريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايكاريا">
+      <charseq START="1139" END="1145">ايكاريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E23-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1200" END="1235">المسؤولين العسكريين في الحلف
+الاطلسي</charseq>
+    </extent>
+    <head>
+      <charseq START="1200" END="1208">المسؤولين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E25-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="113" END="124">أثينا  أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="113" END="117">أثينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E25-43" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1358" END="1362">اثينا</charseq>
+    </extent>
+    <head>
+      <charseq START="1358" END="1362">اثينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E25-54" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1513" END="1517">اثينا</charseq>
+    </extent>
+    <head>
+      <charseq START="1513" END="1517">اثينا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أثينا">
+      <charseq START="113" END="117">أثينا</charseq>
+    </name>
+    <name NAME="اثينا">
+      <charseq START="1358" END="1362">اثينا</charseq>
+    </name>
+    <name NAME="اثينا">
+      <charseq START="1513" END="1517">اثينا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E27-44" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1365" END="1369">انقرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1365" END="1369">انقرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E27-48" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="1439" END="1439">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1439" END="1439">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E27-49" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1445" END="1449">انقرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1445" END="1449">انقرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E27-58" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="1484" END="1485">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1484" END="1485">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انقرة">
+      <charseq START="1365" END="1369">انقرة</charseq>
+    </name>
+    <name NAME="انقرة">
+      <charseq START="1445" END="1449">انقرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E28-45" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="1382" END="1385">قبرص</charseq>
+    </extent>
+    <head>
+      <charseq START="1382" END="1385">قبرص</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قبرص">
+      <charseq START="1382" END="1385">قبرص</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E29" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E29-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1394" END="1433">حدود الفــضاء الجوي والبـحري في بحر ايجه</charseq>
+    </extent>
+    <head>
+      <charseq START="1394" END="1397">حدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E30" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E30-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1459" END="1485">جزر يونانية قريبة من حدودها</charseq>
+    </extent>
+    <head>
+      <charseq START="1459" END="1461">جزر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E32-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="582" END="589">الوزيرين</charseq>
+    </extent>
+    <head>
+      <charseq START="582" END="589">الوزيرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E32-60" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="592" END="621">مهندسي التقارب اليوناني التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="592" END="597">مهندسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E32-69" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="234" END="284">وزيري الخارجية اليوناني جورج باباندريو
+واسماعيل جيم</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="238">وزيري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E33" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E33-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1480" END="1483">حدود</charseq>
+    </extent>
+    <head>
+      <charseq START="1480" END="1483">حدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E34" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E34-59" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="120" END="124">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="124">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="120" END="124">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E35-57" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="240" END="247">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="247">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E35-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="130" END="130">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="130">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E35-63" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="155">وزارة الخارجية اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="145">وزارة الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E35-73" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="299" END="316">للخارجية اليونانية</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="306">للخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="240" END="247">الخارجية</charseq>
+    </name>
+    <name NAME="وزارة الخارجية">
+      <charseq START="132" END="145">وزارة الخارجية</charseq>
+    </name>
+    <name NAME="للخارجية">
+      <charseq START="299" END="306">للخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E38" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E38-65" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="200" END="214">مرمرة غرب تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="204">مرمرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مرمرة">
+      <charseq START="200" END="204">مرمرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E39" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E39-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="206" END="214">غرب تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="214">تركيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0085-E40" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E40-67" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="217" END="228">رودس
+اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="220">رودس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رودس">
+      <charseq START="217" END="220">رودس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E43-55" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1547" END="1555">باباندريو</charseq>
+    </extent>
+    <head>
+      <charseq START="1547" END="1555">باباندريو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E43-71" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="258" END="271">جورج باباندريو</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="271">جورج باباندريو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باباندريو">
+      <charseq START="1547" END="1555">باباندريو</charseq>
+    </name>
+    <name NAME="جورج باباندريو">
+      <charseq START="258" END="271">جورج باباندريو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0085-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0085-E45-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="553" END="555">جيم</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="555">جيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E45-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1558" END="1560">جيم</charseq>
+    </extent>
+    <head>
+      <charseq START="1558" END="1560">جيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0085-E45-72" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="274" END="284">اسماعيل جيم</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="284">اسماعيل جيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جيم">
+      <charseq START="553" END="555">جيم</charseq>
+    </name>
+    <name NAME="جيم">
+      <charseq START="1558" END="1560">جيم</charseq>
+    </name>
+    <name NAME="اسماعيل جيم">
+      <charseq START="274" END="284">اسماعيل جيم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001015.1300.0085-T1">
+  <timex2_mention ID="ALH20001015.1300.0085-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001015.1300.0085-T2">
+  <timex2_mention ID="ALH20001015.1300.0085-T2-1">
+    <extent>
+      <charseq START="157" END="159">أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001015.1300.0085-T3">
+  <timex2_mention ID="ALH20001015.1300.0085-T3-1">
+    <extent>
+      <charseq START="191" END="195">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001015.1300.0085-T4">
+  <timex2_mention ID="ALH20001015.1300.0085-T4-1">
+    <extent>
+      <charseq START="626" END="642">حزيران يونيو ٩٩٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001015.1300.0085-T5">
+  <timex2_mention ID="ALH20001015.1300.0085-T5-1">
+    <extent>
+      <charseq START="1002" END="1007">الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001015.1300.0085-T6">
+  <timex2_mention ID="ALH20001015.1300.0085-T6-1">
+    <extent>
+      <charseq START="1283" END="1285">أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001015.1300.0085-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E25" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="113" END="124">أثينا  أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E34-59" ROLE="Arg-1">
+      <extent>
+        <charseq START="120" END="124">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E25-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="113" END="124">أثينا  أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E11" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E35" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001015.1300.0085-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="132" END="155">وزارة الخارجية اليونانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E35-63" ROLE="Arg-1">
+      <extent>
+        <charseq START="132" END="155">وزارة الخارجية اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="147" END="155">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001015.1300.0085-R2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="234" END="284">وزيري الخارجية اليوناني جورج باباندريو
+واسماعيل جيم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-70" ROLE="Arg-2">
+      <extent>
+        <charseq START="249" END="256">اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E35-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="240" END="247">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001015.1300.0085-R2-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="299" END="316">للخارجية اليونانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E35-73" ROLE="Arg-1">
+      <extent>
+        <charseq START="299" END="316">للخارجية اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-74" ROLE="Arg-2">
+      <extent>
+        <charseq START="308" END="316">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E39" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="200" END="214">مرمرة غرب تركيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E38-65" ROLE="Arg-1">
+      <extent>
+        <charseq START="200" END="214">مرمرة غرب تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E39-66" ROLE="Arg-2">
+      <extent>
+        <charseq START="206" END="214">غرب تركيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="234" END="284">وزيري الخارجية اليوناني جورج باباندريو
+واسماعيل جيم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E32-69" ROLE="Arg-1">
+      <extent>
+        <charseq START="234" END="284">وزيري الخارجية اليوناني جورج باباندريو
+واسماعيل جيم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E35-57" ROLE="Arg-2">
+      <extent>
+        <charseq START="240" END="247">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R7" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="328" END="343">الخارجية التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="328" END="343">الخارجية التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E2-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="337" END="343">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="970" END="994">هيئة اركان الجيش اليوناني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E12-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="970" END="994">هيئة اركان الجيش اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E13-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="981" END="994">الجيش اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="970" END="994">هيئة اركان الجيش اليوناني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E13-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="981" END="994">الجيش اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="987" END="994">اليوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1022" END="1044">القوات الجوية اليونانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E15-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="1022" END="1044">القوات الجوية اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="1036" END="1044">اليونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R11" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1124" END="1157">جزيرتي
+ليمنوس وايكاريا اليونانيتين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E19-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="1124" END="1157">جزيرتي
+ليمنوس وايكاريا اليونانيتين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="1147" END="1157">اليونانيتين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R12" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1200" END="1235">المسؤولين العسكريين في الحلف
+الاطلسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E23-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="1200" END="1235">المسؤولين العسكريين في الحلف
+الاطلسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E9-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="1223" END="1235">الحلف
+الاطلسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1261" END="1281">مصدر ديبلوماسي يوناني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E10-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="1261" END="1281">مصدر ديبلوماسي يوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="1276" END="1281">يوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001015.1300.0085-R13-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="942" END="962">مصدر ديبلوماسي
+يوناني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E10-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="942" END="962">مصدر ديبلوماسي
+يوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="957" END="962">يوناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R14" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1459" END="1485">جزر يونانية قريبة من حدودها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E30-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1459" END="1485">جزر يونانية قريبة من حدودها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="1463" END="1469">يونانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R15" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E25" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1495" END="1517">مصدر ديبلوماسي في اثينا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E10-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="1495" END="1517">مصدر ديبلوماسي في اثينا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E25-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="1513" END="1517">اثينا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R16" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E27" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R16-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1480" END="1485">حدودها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E33-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="1480" END="1483">حدود</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E27-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="1484" END="1485">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R17" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E40" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R17-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="217" END="228">رودس
+اليونان</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E40-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="217" END="228">رودس
+اليونان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E11-68" ROLE="Arg-2">
+      <extent>
+        <charseq START="222" END="228">اليونان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0085-R19" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0085-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0085-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0085-R19-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1077" END="1091">السلطات التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E17-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="1077" END="1091">السلطات التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0085-E2-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="1085" END="1091">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001015.1300.0085-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001015.1300.0085-E38" ROLE="Place"/>
+  <event_argument REFID="ALH20001015.1300.0085-E32" ROLE="Entity"/>
+  <event_argument REFID="ALH20001015.1300.0085-T3" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001015.1300.0085-EV1-1">
+    <extent>
+      <charseq START="167" END="284">اللقاء الذي كان متوقعاً اليوم في مرمرة غرب تركيا ورودس
+اليونان بين وزيري الخارجية اليوناني جورج باباندريو
+واسماعيل جيم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="127" END="284">أكدت وزارة الخارجية اليونانية أمس ارجاء
+اللقاء الذي كان متوقعاً اليوم في مرمرة غرب تركيا ورودس
+اليونان بين وزيري الخارجية اليوناني جورج باباندريو
+واسماعيل جيم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="167" END="172">اللقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001015.1300.0085-E38-65" ROLE="Place">
+      <extent>
+        <charseq START="200" END="214">مرمرة غرب تركيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001015.1300.0085-E32-69" ROLE="Entity">
+      <extent>
+        <charseq START="234" END="284">وزيري الخارجية اليوناني جورج باباندريو
+واسماعيل جيم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001015.1300.0085-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="191" END="195">اليوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001015.1300.0085-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001015.1300.0085-E43" ROLE="Entity"/>
+  <event_argument REFID="ALH20001015.1300.0085-E45" ROLE="Entity"/>
+  <event_mention ID="ALH20001015.1300.0085-EV2-1">
+    <extent>
+      <charseq START="1536" END="1560">اللقاء بين
+باباندريو وجيم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1487" END="1591">وعلم من مصدر ديبلوماسي في اثينا ايضاً ان »احتمال اللقاء بين
+باباندريو وجيم يبقى مفتوحا حتى اللحظة الاخيرة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1536" END="1541">اللقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001015.1300.0085-E43-55" ROLE="Entity">
+      <extent>
+        <charseq START="1547" END="1555">باباندريو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001015.1300.0085-E45-56" ROLE="Entity">
+      <extent>
+        <charseq START="1558" END="1560">جيم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001015.1300.0085-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001015.1300.0085-E32" ROLE="Entity"/>
+  <event_mention ID="ALH20001015.1300.0085-EV3-1">
+    <extent>
+      <charseq START="571" END="589">اللقاء بين الوزيرين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="566" END="738">وكان اللقاء بين الوزيرين، مهندسي التقارب اليوناني التركي في
+حزيران يونيو ٩٩٩١، يهدف الى الاحتفال بذكرى هذا التقارب
+ودراسة آفاق التعاون بين البلدين، خصوصاً السياحي منه
+مع ذلك</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="571" END="576">اللقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001015.1300.0085-E32-10" ROLE="Entity">
+      <extent>
+        <charseq START="582" END="589">الوزيرين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

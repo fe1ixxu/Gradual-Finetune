@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALFILFILM_20050201.1339.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALFILFILM_20050201.1339">
+<entity ID="ALFILFILM_20050201.1339-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="447" END="450">طاقم</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="450">طاقم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E2-109" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="96" END="100">الفيل</charseq>
+    </extent>
+    <head>
+      <charseq START="96" END="100">الفيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفيل">
+      <charseq START="96" END="100">الفيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E3-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="493" END="500">الامريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="500">الامريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E3-47" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1684" END="1692">الامريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="1684" END="1692">الامريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الامريكي">
+      <charseq START="493" END="500">الامريكي</charseq>
+    </name>
+    <name NAME="الامريكية">
+      <charseq START="1684" END="1692">الامريكية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E4-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="514" END="536">الرئيس السابق صدام
+حسين</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="519">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E4-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="528" END="536">صدام
+حسين</charseq>
+    </extent>
+    <head>
+      <charseq START="528" END="536">صدام
+حسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E4-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="787" END="790">صدام</charseq>
+    </extent>
+    <head>
+      <charseq START="787" END="790">صدام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E4-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1345" END="1353">صدام حسين</charseq>
+    </extent>
+    <head>
+      <charseq START="1345" END="1353">صدام حسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E4-54" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1911" END="1919">صدام حسين</charseq>
+    </extent>
+    <head>
+      <charseq START="1911" END="1919">صدام حسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E4-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2357" END="2360">صدام</charseq>
+    </extent>
+    <head>
+      <charseq START="2357" END="2360">صدام</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صدام حسين">
+      <charseq START="528" END="536">صدام
+حسين</charseq>
+    </name>
+    <name NAME="صدام">
+      <charseq START="787" END="790">صدام</charseq>
+    </name>
+    <name NAME="صدام حسين">
+      <charseq START="1345" END="1353">صدام حسين</charseq>
+    </name>
+    <name NAME="صدام حسين">
+      <charseq START="1911" END="1919">صدام حسين</charseq>
+    </name>
+    <name NAME="صدام">
+      <charseq START="2357" END="2360">صدام</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E6-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="876" END="888">الأمم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="888">الأمم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E6-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="874" END="874">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="874">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E6-98" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="930" END="930">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="930" END="930">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمم المتحدة">
+      <charseq START="876" END="888">الأمم المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E7" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E7-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="919" END="924">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="919" END="924">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="919" END="924">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E8-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1123" END="1135">فدريكو فلليني</charseq>
+    </extent>
+    <head>
+      <charseq START="1123" END="1135">فدريكو فلليني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فدريكو فلليني">
+      <charseq START="1123" END="1135">فدريكو فلليني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E9-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1138" END="1156">بيير باولو
+بازوليني</charseq>
+    </extent>
+    <head>
+      <charseq START="1138" END="1156">بيير باولو
+بازوليني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيير باولو بازوليني">
+      <charseq START="1138" END="1156">بيير باولو
+بازوليني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E10-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1159" END="1173">كونتين تارنتينو</charseq>
+    </extent>
+    <head>
+      <charseq START="1159" END="1173">كونتين تارنتينو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كونتين تارنتينو">
+      <charseq START="1159" END="1173">كونتين تارنتينو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E11" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALFILFILM_20050201.1339-E11-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1306" END="1313">المخرجين</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1313">المخرجين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E12-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1416" END="1419">مصور</charseq>
+    </extent>
+    <head>
+      <charseq START="1416" END="1419">مصور</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E13-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1427" END="1428">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="1427" END="1428">ان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E14" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E14-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1489" END="1493">بمقهى</charseq>
+    </extent>
+    <head>
+      <charseq START="1489" END="1493">بمقهى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E14-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1500" END="1500">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1500" END="1500">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E15-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1495" END="1495">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1495" END="1495">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E16-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1502" END="1507">الكتاب</charseq>
+    </extent>
+    <head>
+      <charseq START="1502" END="1507">الكتاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E16-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1932" END="1938">بالكتاب</charseq>
+    </extent>
+    <head>
+      <charseq START="1932" END="1938">بالكتاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E17-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="169" END="173">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="173">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E17-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="743" END="747">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="747">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E17-36" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1460" END="1477">بقلب
+بغداد القديمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1465" END="1469">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E17-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1662" END="1666">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="1662" END="1666">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E17-84" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="175" END="187">بغداد /رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="179">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E17-97" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="477" END="481">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="481">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E17-106" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="255" END="259">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="259">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="169" END="173">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="743" END="747">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="1465" END="1469">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="1662" END="1666">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="175" END="179">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="477" END="481">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="255" END="259">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E18-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1510" END="1517">المثقفون</charseq>
+    </extent>
+    <head>
+      <charseq START="1510" END="1517">المثقفون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E19" TYPE="LOC" SUBTYPE="Address" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E19-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1551" END="1556">المكان</charseq>
+    </extent>
+    <head>
+      <charseq START="1551" END="1556">المكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E20" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E20-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1656" END="1719">شوارع بغداد حيث تخوض القوات الامريكية
+معارك مع المقاومة العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1656" END="1660">شوارع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E21-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1672" END="1672">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1672" END="1672">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E21-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1677" END="1692">القوات الامريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="1677" END="1682">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E23-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1703" END="1719">المقاومة العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1703" END="1710">المقاومة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="727" END="733">بالعراق</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="733">بالعراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-17" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="849" END="854">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="854">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-20" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="899" END="904">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="899" END="904">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1050" END="1055">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="1050" END="1055">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-49" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1712" END="1719">العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1712" END="1719">العراقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-52" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1851" END="1856">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="1851" END="1856">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-58" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1971" END="1976">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="1971" END="1976">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-63" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="2059" END="2064">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="2059" END="2064">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-67" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2175" END="2180">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2175" END="2180">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-69" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2220" END="2226">العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="2220" END="2226">العراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-101" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="202" END="206">عراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="206">عراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E24-111" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="381" END="385">عراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="385">عراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالعراق">
+      <charseq START="727" END="733">بالعراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="849" END="854">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="1050" END="1055">العراق</charseq>
+    </name>
+    <name NAME="العراقية">
+      <charseq START="1712" END="1719">العراقية</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="1851" END="1856">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="2059" END="2064">العراق</charseq>
+    </name>
+    <name NAME="العراقي">
+      <charseq START="2220" END="2226">العراقي</charseq>
+    </name>
+    <name NAME="عراقي">
+      <charseq START="202" END="206">عراقي</charseq>
+    </name>
+    <name NAME="عراقي">
+      <charseq START="381" END="385">عراقي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E25-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1941" END="1948">المصورين</charseq>
+    </extent>
+    <head>
+      <charseq START="1941" END="1948">المصورين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E26" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALFILFILM_20050201.1339-E26-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1951" END="1976">الفنانين الآخرين في البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="1951" END="1958">الفنانين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E27" TYPE="PER" SUBTYPE="Individual" CLASS="NEG">
+  <entity_mention ID="ALFILFILM_20050201.1339-E27-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2116" END="2121">لا أحد</charseq>
+    </extent>
+    <head>
+      <charseq START="2119" END="2121">أحد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E27-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2123" END="2123">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2123" END="2123">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E28" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALFILFILM_20050201.1339-E28-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2197" END="2197">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2197" END="2197">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E28-91" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2623" END="2623">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2623" END="2623">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E30-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2312" END="2360">الفنانين الذين يحاولون العمل في مرحلة ما بعد صدام</charseq>
+    </extent>
+    <head>
+      <charseq START="2312" END="2319">الفنانين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E30-75" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2321" END="2325">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="2321" END="2325">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E30-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2332" END="2333">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="2332" END="2333">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E31-82" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2418" END="2422">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="2418" END="2422">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لبنان">
+      <charseq START="2418" END="2422">لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E32-83" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2435" END="2481">معامل كوداك التي أعلنت انها ستقوم بالمهمة مجانا</charseq>
+    </extent>
+    <head>
+      <charseq START="2435" END="2445">معامل كوداك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E32-85" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2447" END="2450">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="2447" END="2450">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E32-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2456" END="2456">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2456" END="2456">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E32-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2460" END="2461">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2460" END="2461">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E32-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2464" END="2464">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2464" END="2464">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="معامل كوداك">
+      <charseq START="2435" END="2445">معامل كوداك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E33-92" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2644" END="2651">لوك بيكر</charseq>
+    </extent>
+    <head>
+      <charseq START="2644" END="2651">لوك بيكر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوك بيكر">
+      <charseq START="2644" END="2651">لوك بيكر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E34" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALFILFILM_20050201.1339-E34-93" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1489" END="1493">بمقهى</charseq>
+    </extent>
+    <head>
+      <charseq START="1489" END="1493">بمقهى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E35" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E35-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="643" END="648">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="648">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E35-99" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="182" END="187">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="187">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="643" END="648">رويترز</charseq>
+    </name>
+    <name NAME="رويترز">
+      <charseq START="182" END="187">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E36-94" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="191" END="191">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="191">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E36-100" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="197" END="206">جندي عراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="200">جندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E36-102" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="208" END="208">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="208">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E36-103" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="226" END="226">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="226">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E36-107" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="264" END="264">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="264">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E36-108" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="315" END="315">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="315">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E39" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="ALFILFILM_20050201.1339-E39-104" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="234" END="238">بناية</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="238">بناية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E39-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="243" END="244">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="244">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="451" END="451">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="451">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="543" END="590">رشيد (30 عاما) الذي يخرج فيلما لأول مرة في حياته</charseq>
+    </extent>
+    <head>
+      <charseq START="543" END="546">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="563" END="563">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="563" END="563">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-9" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="558" END="561">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="561">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="590" END="590">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="590" END="590">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="593" END="593">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="593">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="601" END="601">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="601" END="601">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1087" END="1173">رشيد الذي يبدي اعجابه الشديد بأعمال فدريكو فلليني وبيير باولو
+بازوليني وكونتين تارنتينو</charseq>
+    </extent>
+    <head>
+      <charseq START="1087" END="1090">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-24" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1092" END="1095">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="1092" END="1095">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1097" END="1097">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1097" END="1097">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1107" END="1107">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1107" END="1107">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1410" END="1413">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="1410" END="1413">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1420" END="1420">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1420" END="1420">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1747" END="1750">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="1747" END="1750">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1770" END="1770">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1770" END="1770">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1863" END="1866">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="1863" END="1866">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2003" END="2003">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2003" END="2003">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1985" END="1986">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1985" END="1986">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1988" END="1988">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1988" END="1988">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2026" END="2027">ني</charseq>
+    </extent>
+    <head>
+      <charseq START="2026" END="2027">ني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2146" END="2146">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2146" END="2146">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-70" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2235" END="2238">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="2235" END="2238">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2229" END="2229">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2229" END="2229">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2290" END="2291">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="2290" END="2291">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-73" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2301" END="2301">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2301" END="2301">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2364" END="2364">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2364" END="2364">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-79" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2369" END="2372">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="2369" END="2372">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2379" END="2379">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2379" END="2379">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2386" END="2386">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2386" END="2386">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-89" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2562" END="2562">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2562" END="2562">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-90" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2604" END="2604">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2604" END="2604">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-95" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="323" END="323">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="323">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-96" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="755" END="758">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="755" END="758">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-110" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="328" END="335">عدي رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="335">عدي رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="436" END="436">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="436">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E40-115" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="441" END="444">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="444">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رشيد">
+      <charseq START="543" END="546">رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="1087" END="1090">رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="1410" END="1413">رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="1747" END="1750">رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="1863" END="1866">رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="2235" END="2238">رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="2369" END="2372">رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="755" END="758">رشيد</charseq>
+    </name>
+    <name NAME="عدي رشيد">
+      <charseq START="328" END="335">عدي رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="441" END="444">رشيد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050201.1339-E42" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALFILFILM_20050201.1339-E42-112" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="416" END="421">ممثلين</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="421">ممثلين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050201.1339-E42-113" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="427" END="428">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="428">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ALFILFILM_20050201.1339-T1">
+  <timex2_mention ID="ALFILFILM_20050201.1339-T1-1">
+    <extent>
+      <charseq START="39" END="57">2005-02-01T13:39:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050201.1339-T2">
+  <timex2_mention ID="ALFILFILM_20050201.1339-T2-1">
+    <extent>
+      <charseq START="104" END="122">2005-02-01T13:39:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050201.1339-T3">
+  <timex2_mention ID="ALFILFILM_20050201.1339-T3-1">
+    <extent>
+      <charseq START="666" END="675">يوم الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050201.1339-T4">
+  <timex2_mention ID="ALFILFILM_20050201.1339-T4-1">
+    <extent>
+      <charseq START="795" END="805">ابريل نيسان</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050201.1339-T5">
+  <timex2_mention ID="ALFILFILM_20050201.1339-T5-1">
+    <extent>
+      <charseq START="856" END="863">منذ 1991</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050201.1339-T6">
+  <timex2_mention ID="ALFILFILM_20050201.1339-T6-1">
+    <extent>
+      <charseq START="1872" END="1889">بعد نحو ثلاثة عقود</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050201.1339-T7">
+  <timex2_mention ID="ALFILFILM_20050201.1339-T7-1">
+    <extent>
+      <charseq START="2404" END="2412">بعد شهرين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALFILFILM_20050201.1339-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050201.1339-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050201.1339-E24" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050201.1339-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="197" END="206">جندي عراقي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E36-100" ROLE="Arg-1">
+      <extent>
+        <charseq START="197" END="206">جندي عراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E24-101" ROLE="Arg-2">
+      <extent>
+        <charseq START="202" END="206">عراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050201.1339-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050201.1339-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050201.1339-E40" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050201.1339-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1416" END="1420">مصوره</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E12-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="1416" END="1419">مصور</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E40-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="1420" END="1420">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050201.1339-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050201.1339-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050201.1339-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050201.1339-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1656" END="1719">شوارع بغداد حيث تخوض القوات الامريكية
+معارك مع المقاومة العراقية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E20-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1656" END="1719">شوارع بغداد حيث تخوض القوات الامريكية
+معارك مع المقاومة العراقية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E17-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="1662" END="1666">بغداد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050201.1339-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050201.1339-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050201.1339-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050201.1339-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1677" END="1692">القوات الامريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E21-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="1677" END="1692">القوات الامريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E3-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="1684" END="1692">الامريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050201.1339-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050201.1339-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050201.1339-E24" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050201.1339-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1703" END="1719">المقاومة العراقية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E23-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="1703" END="1719">المقاومة العراقية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E24-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="1712" END="1719">العراقية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050201.1339-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050201.1339-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050201.1339-E24" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050201.1339-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1951" END="1976">الفنانين الآخرين في البلاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E26-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="1951" END="1976">الفنانين الآخرين في البلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E24-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="1971" END="1976">البلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050201.1339-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050201.1339-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050201.1339-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050201.1339-R7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="175" END="187">بغداد /رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E35-99" ROLE="Arg-1">
+      <extent>
+        <charseq START="182" END="187">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050201.1339-E17-84" ROLE="Arg-2">
+      <extent>
+        <charseq START="175" END="187">بغداد /رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALFILFILM_20050201.1339-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALFILFILM_20050201.1339-E36" ROLE="Artifact"/>
+  <event_argument REFID="ALFILFILM_20050201.1339-E39" ROLE="Destination"/>
+  <event_mention ID="ALFILFILM_20050201.1339-EV1-1">
+    <extent>
+      <charseq START="191" END="238">يتسلق جندي عراقي ينزف من جرح في بطنه انقاض بناية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="191" END="315">يتسلق جندي عراقي ينزف من جرح في بطنه انقاض بناية
+دمرها القصف في بغداد ثم ينهار تحت وطأة الالم الذي تبدو ملامحه واضحة على
+وجهه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="191" END="195">يتسلق</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALFILFILM_20050201.1339-E36-94" ROLE="Artifact">
+      <extent>
+        <charseq START="191" END="191">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALFILFILM_20050201.1339-E39-104" ROLE="Destination">
+      <extent>
+        <charseq START="234" END="238">بناية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALFILFILM_20050201.1339-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALFILFILM_20050201.1339-E17" ROLE="Place"/>
+  <event_argument REFID="ALFILFILM_20050201.1339-E35" ROLE="Entity"/>
+  <event_argument REFID="ALFILFILM_20050201.1339-T3" ROLE="Time-Within"/>
+  <event_mention ID="ALFILFILM_20050201.1339-EV2-1">
+    <extent>
+      <charseq START="633" END="747">مقابلة مع رويترز في موقع التصوير يوم الجمعة "لعل الأمر ينطبق
+على أي حرب لكنه (الفيلم) عما جرى بالعراق خاصة في بغداد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="624" END="747">وأضاف في مقابلة مع رويترز في موقع التصوير يوم الجمعة "لعل الأمر ينطبق
+على أي حرب لكنه (الفيلم) عما جرى بالعراق خاصة في بغداد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="633" END="638">مقابلة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALFILFILM_20050201.1339-E17-15" ROLE="Place">
+      <extent>
+        <charseq START="743" END="747">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALFILFILM_20050201.1339-E35-13" ROLE="Entity">
+      <extent>
+        <charseq START="643" END="648">رويترز</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALFILFILM_20050201.1339-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="666" END="675">يوم الجمعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALFILFILM_20050201.1339-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALFILFILM_20050201.1339-E36" ROLE="Victim"/>
+  <event_argument REFID="ALFILFILM_20050201.1339-E17" ROLE="Place"/>
+  <event_mention ID="ALFILFILM_20050201.1339-EV3-1">
+    <extent>
+      <charseq START="197" END="259">جندي عراقي ينزف من جرح في بطنه انقاض بناية
+دمرها القصف في بغداد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="191" END="315">يتسلق جندي عراقي ينزف من جرح في بطنه انقاض بناية
+دمرها القصف في بغداد ثم ينهار تحت وطأة الالم الذي تبدو ملامحه واضحة على
+وجهه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="216" END="218">جرح</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALFILFILM_20050201.1339-E36-100" ROLE="Victim">
+      <extent>
+        <charseq START="197" END="206">جندي عراقي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALFILFILM_20050201.1339-E17-106" ROLE="Place">
+      <extent>
+        <charseq START="255" END="259">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

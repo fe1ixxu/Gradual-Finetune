@@ -1,0 +1,828 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001119.1400.0124.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001119.1400.0124">
+<entity ID="AFA20001119.1400.0124-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E1-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="342" END="348">بلغاريا</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="348">بلغاريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E1-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="521" END="529">البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="529">البلغارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E1-26" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="164" END="172">البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="172">البلغارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E1-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="316" END="324">البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="324">البلغارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بلغاريا">
+      <charseq START="342" END="348">بلغاريا</charseq>
+    </name>
+    <name NAME="البلغارية">
+      <charseq START="521" END="529">البلغارية</charseq>
+    </name>
+    <name NAME="البلغارية">
+      <charseq START="164" END="172">البلغارية</charseq>
+    </name>
+    <name NAME="البلغارية">
+      <charseq START="316" END="324">البلغارية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E2" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="AFA20001119.1400.0124-E2-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="358" END="402">احد سكان بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="360">احد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E3-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="362" END="402">سكان بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="365">سكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E4-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="367" END="402">بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="379">بلدة مادريتزا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بلدة مادريتزا">
+      <charseq START="367" END="379">بلدة مادريتزا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E5-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="391" END="402">ايفايلوفغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="402">ايفايلوفغراد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايفايلوفغراد">
+      <charseq START="391" END="402">ايفايلوفغراد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E6-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="459" END="470">عناصر الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="463">عناصر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E7" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E7-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="472" END="479">بالحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="479">بالحجارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E8" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001119.1400.0124-E8-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="498" END="501">جرحى</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="501">جرحى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E9-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="513" END="529">السلطات البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="519">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E9-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="511" END="511">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="511">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E11-21" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="190" END="195">عراقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="195">عراقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عراقيا">
+      <charseq START="190" END="195">عراقيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E12-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="122" END="139">صوفيا 11-19 (ا ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="126">صوفيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صوفيا">
+      <charseq START="122" END="126">صوفيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E13-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="135" END="139">ا ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="139">ا ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ا ف ب">
+      <charseq START="135" END="139">ا ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E14-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="149" END="172">وزارة الداخلية البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="162">وزارة الداخلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E14-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="147" END="147">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="147">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وزارة الداخلية">
+      <charseq START="149" END="162">وزارة الداخلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E17" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E17-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="217" END="242">الحدود اليونانية البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="222">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E18-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="224" END="242">اليونانية البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="242">اليونانية البلغارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليونانية البلغارية">
+      <charseq START="224" END="242">اليونانية البلغارية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E19-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="335" END="336">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="336">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="355" END="356">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="356">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="436" END="437">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="437">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="444" END="452">العراقيون</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="452">العراقيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="495" END="496">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="496">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="180" END="195">74 مهاجرا
+عراقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="188">مهاجرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="252" END="260">العراقيون</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="260">العراقيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="265" END="266">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="266">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="301" END="302">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="301" END="302">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="534" END="554">المهاجرين غيرالشرعيين</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="542">المهاجرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="561" END="562">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="562">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E19-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="553" END="554">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="554">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001119.1400.0124-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E20-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="271" END="275">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="275">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E20-33" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="280" END="281">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="280" END="281">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تركيا">
+      <charseq START="271" END="275">تركيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E21-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="568" END="574">اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="574">اليونان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E21-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="287" END="293">اليونان</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="293">اليونان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليونان">
+      <charseq START="568" END="574">اليونان</charseq>
+    </name>
+    <name NAME="اليونان">
+      <charseq START="287" END="293">اليونان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001119.1400.0124-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001119.1400.0124-E22-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="416" END="421">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="421">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E22-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="465" END="470">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="470">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001119.1400.0124-E22-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="304" END="324">شرطة الحدود
+البلغارية</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="314">شرطة الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شرطة الحدود">
+      <charseq START="304" END="314">شرطة الحدود</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001119.1400.0124-T1">
+  <timex2_mention ID="AFA20001119.1400.0124-T1-1">
+    <extent>
+      <charseq START="128" END="132">11-19</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001119.1400.0124-T2">
+  <timex2_mention ID="AFA20001119.1400.0124-T2-1">
+    <extent>
+      <charseq START="197" END="211">ليل السبت الاحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001119.1400.0124-T3">
+  <timex2_mention ID="AFA20001119.1400.0124-T3-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-19 16:09:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001119.1400.0124-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="122" END="139">صوفيا 11-19 (ا ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E13-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="135" END="139">ا ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E12-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="122" END="139">صوفيا 11-19 (ا ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="149" END="172">وزارة الداخلية البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E14-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="149" END="172">وزارة الداخلية البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E1-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="164" END="172">البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E11" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E19" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001119.1400.0124-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="180" END="195">74 مهاجرا
+عراقيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E11-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="190" END="195">عراقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E19-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="180" END="195">74 مهاجرا
+عراقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="217" END="242">الحدود اليونانية البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E17-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="217" END="242">الحدود اليونانية البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E18-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="224" END="242">اليونانية البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="304" END="324">شرطة الحدود
+البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E22-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="304" END="324">شرطة الحدود
+البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E1-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="316" END="324">البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="362" END="402">سكان بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E3-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="362" END="402">سكان بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E4-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="367" END="402">بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R7" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="367" END="402">بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E4-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="367" END="402">بلدة مادريتزا
+بالقرب من ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E5-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="391" END="402">ايفايلوفغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E22" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="459" END="470">عناصر الشرطة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E6-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="459" END="470">عناصر الشرطة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E22-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="465" END="470">الشرطة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001119.1400.0124-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001119.1400.0124-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001119.1400.0124-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001119.1400.0124-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="513" END="529">السلطات البلغارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E9-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="513" END="529">السلطات البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001119.1400.0124-E1-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="521" END="529">البلغارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001119.1400.0124-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001119.1400.0124-E19" ROLE="Person"/>
+  <event_argument REFID="AFA20001119.1400.0124-E22" ROLE="Agent"/>
+  <event_mention ID="AFA20001119.1400.0124-EV1-1">
+    <extent>
+      <charseq START="296" END="324">اوقفتهم شرطة الحدود
+البلغارية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="247" END="421">وكان العراقيون قدموا من تركيا ومنها الى اليونان واوقفتهم شرطة الحدود
+البلغارية بعدما دخلوا الى بلغاريا وشاهدهم احد سكان بلدة مادريتزا
+بالقرب من ايفايلوفغراد وقام بتبليغ الشرطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="296" END="302">اوقفتهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E19-35" ROLE="Person">
+      <extent>
+        <charseq START="301" END="302">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E22-22" ROLE="Agent">
+      <extent>
+        <charseq START="304" END="324">شرطة الحدود
+البلغارية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001119.1400.0124-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001119.1400.0124-E17" ROLE="Place"/>
+  <event_argument REFID="AFA20001119.1400.0124-E14" ROLE="Agent"/>
+  <event_argument REFID="AFA20001119.1400.0124-T2" ROLE="Time-Within"/>
+  <event_argument REFID="AFA20001119.1400.0124-E19" ROLE="Person"/>
+  <event_mention ID="AFA20001119.1400.0124-EV2-1">
+    <extent>
+      <charseq START="149" END="242">وزارة الداخلية البلغارية توقيف 74 مهاجرا
+عراقيا ليل السبت الاحد على الحدود اليونانية البلغارية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="143" END="242">اعلنت وزارة الداخلية البلغارية توقيف 74 مهاجرا
+عراقيا ليل السبت الاحد على الحدود اليونانية البلغارية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="174" END="178">توقيف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E17-28" ROLE="Place">
+      <extent>
+        <charseq START="217" END="242">الحدود اليونانية البلغارية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E14-24" ROLE="Agent">
+      <extent>
+        <charseq START="149" END="172">وزارة الداخلية البلغارية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="197" END="211">ليل السبت الاحد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E19-27" ROLE="Person">
+      <extent>
+        <charseq START="180" END="195">74 مهاجرا
+عراقيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001119.1400.0124-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001119.1400.0124-E19" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001119.1400.0124-E21" ROLE="Destination"/>
+  <event_argument REFID="AFA20001119.1400.0124-E20" ROLE="Origin"/>
+  <event_mention ID="AFA20001119.1400.0124-EV3-1">
+    <extent>
+      <charseq START="262" END="293">قدموا من تركيا ومنها الى اليونان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="247" END="421">وكان العراقيون قدموا من تركيا ومنها الى اليونان واوقفتهم شرطة الحدود
+البلغارية بعدما دخلوا الى بلغاريا وشاهدهم احد سكان بلدة مادريتزا
+بالقرب من ايفايلوفغراد وقام بتبليغ الشرطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="262" END="266">قدموا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E19-31" ROLE="Artifact">
+      <extent>
+        <charseq START="265" END="266">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E21-34" ROLE="Destination">
+      <extent>
+        <charseq START="287" END="293">اليونان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E20-32" ROLE="Origin">
+      <extent>
+        <charseq START="271" END="275">تركيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001119.1400.0124-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001119.1400.0124-E19" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001119.1400.0124-E1" ROLE="Destination"/>
+  <event_argument REFID="AFA20001119.1400.0124-E21" ROLE="Origin"/>
+  <event_mention ID="AFA20001119.1400.0124-EV4-1">
+    <extent>
+      <charseq START="287" END="348">اليونان واوقفتهم شرطة الحدود
+البلغارية بعدما دخلوا الى بلغاريا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="247" END="421">وكان العراقيون قدموا من تركيا ومنها الى اليونان واوقفتهم شرطة الحدود
+البلغارية بعدما دخلوا الى بلغاريا وشاهدهم احد سكان بلدة مادريتزا
+بالقرب من ايفايلوفغراد وقام بتبليغ الشرطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="332" END="336">دخلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E19-2" ROLE="Artifact">
+      <extent>
+        <charseq START="335" END="336">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E1-3" ROLE="Destination">
+      <extent>
+        <charseq START="342" END="348">بلغاريا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E21-34" ROLE="Origin">
+      <extent>
+        <charseq START="287" END="293">اليونان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001119.1400.0124-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001119.1400.0124-E19" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001119.1400.0124-E6" ROLE="Target"/>
+  <event_argument REFID="AFA20001119.1400.0124-E7" ROLE="Instrument"/>
+  <event_mention ID="AFA20001119.1400.0124-EV5-1">
+    <extent>
+      <charseq START="444" END="479">العراقيون برشق عناصر الشرطة بالحجارة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="426" END="501">ولدى توقيفهم، قام العراقيون برشق عناصر الشرطة بالحجارة من دون ان
+يوقعوا جرحى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="454" END="457">برشق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E19-11" ROLE="Attacker">
+      <extent>
+        <charseq START="444" END="452">العراقيون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E6-12" ROLE="Target">
+      <extent>
+        <charseq START="459" END="470">عناصر الشرطة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E7-14" ROLE="Instrument">
+      <extent>
+        <charseq START="472" END="479">بالحجارة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001119.1400.0124-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001119.1400.0124-E19" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001119.1400.0124-E9" ROLE="Agent"/>
+  <event_argument REFID="AFA20001119.1400.0124-E21" ROLE="Destination"/>
+  <event_mention ID="AFA20001119.1400.0124-EV6-1">
+    <extent>
+      <charseq START="513" END="574">السلطات البلغارية ان المهاجرين غيرالشرعيين سيعادون الى اليونان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="506" END="574">واعلنت السلطات البلغارية ان المهاجرين غيرالشرعيين سيعادون الى اليونان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="556" END="562">سيعادون</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E19-37" ROLE="Artifact">
+      <extent>
+        <charseq START="561" END="562">ون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E9-17" ROLE="Agent">
+      <extent>
+        <charseq START="513" END="529">السلطات البلغارية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001119.1400.0124-E21-20" ROLE="Destination">
+      <extent>
+        <charseq START="568" END="574">اليونان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

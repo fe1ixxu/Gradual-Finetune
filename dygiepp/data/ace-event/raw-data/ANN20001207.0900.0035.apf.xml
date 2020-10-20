@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ANN20001207.0900.0035.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ANN20001207.0900.0035">
+<entity ID="ANN20001207.0900.0035-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E1-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="232" END="244">فؤاد السنيورة</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="244">فؤاد السنيورة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001207.0900.0035-E1-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="219" END="219">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="219">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001207.0900.0035-E1-16" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="221" END="230">وزير المال</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="224">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فؤاد السنيورة">
+      <charseq START="232" END="244">فؤاد السنيورة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001207.0900.0035-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E2-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="96" END="116">النائب علاء الدين ترو</charseq>
+    </extent>
+    <head>
+      <charseq START="96" END="101">النائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001207.0900.0035-E2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="103" END="116">علاء الدين ترو</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="116">علاء الدين ترو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علاء الدين ترو">
+      <charseq START="103" END="116">علاء الدين ترو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001207.0900.0035-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E4-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="128" END="145">مؤسسة كهرباء لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="145">مؤسسة كهرباء لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مؤسسة كهرباء لبنان">
+      <charseq START="128" END="145">مؤسسة كهرباء لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001207.0900.0035-E5" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E5-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="172" END="182">منطقة الشوف</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="176">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001207.0900.0035-E6" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E6-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="178" END="182">الشوف</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="182">الشوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشوف">
+      <charseq START="178" END="182">الشوف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001207.0900.0035-E7" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E7-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="194" END="205">اقليم الخروب</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="205">اقليم الخروب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اقليم الخروب">
+      <charseq START="194" END="205">اقليم الخروب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001207.0900.0035-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E9-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="254" END="271">مصلحة مياه الباروك</charseq>
+    </extent>
+    <head>
+      <charseq START="254" END="271">مصلحة مياه الباروك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001207.0900.0035-E9-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="273" END="273">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="273">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصلحة مياه الباروك">
+      <charseq START="254" END="271">مصلحة مياه الباروك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ANN20001207.0900.0035-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E10-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="363" END="364">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="364">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001207.0900.0035-E10-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="330" END="338">المواطنين</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="338">المواطنين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ANN20001207.0900.0035-E10-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="371" END="372">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="372">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ANN20001207.0900.0035-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ANN20001207.0900.0035-E11-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="226" END="230">المال</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="230">المال</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المال">
+      <charseq START="226" END="230">المال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="ANN20001207.0900.0035-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ANN20001207.0900.0035-V1-1">
+    <extent>
+      <charseq START="291" END="304">خمسة الاف ليرة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ANN20001207.0900.0035-T1">
+  <timex2_mention ID="ANN20001207.0900.0035-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-12-07</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ANN20001207.0900.0035-T2">
+  <timex2_mention ID="ANN20001207.0900.0035-T2-1">
+    <extent>
+      <charseq START="394" END="402">اول السنة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ANN20001207.0900.0035-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ANN20001207.0900.0035-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ANN20001207.0900.0035-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ANN20001207.0900.0035-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="221" END="230">وزير المال</charseq>
+    </extent>
+    <relation_mention_argument REFID="ANN20001207.0900.0035-E1-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="221" END="230">وزير المال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ANN20001207.0900.0035-E11-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="226" END="230">المال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ANN20001207.0900.0035-EV1" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ANN20001207.0900.0035-E10" ROLE="Giver"/>
+  <event_argument REFID="ANN20001207.0900.0035-E9" ROLE="Beneficiary"/>
+  <event_argument REFID="ANN20001207.0900.0035-V1" ROLE="Money"/>
+  <event_argument REFID="ANN20001207.0900.0035-T2" ROLE="Time-Starting"/>
+  <event_mention ID="ANN20001207.0900.0035-EV1-1">
+    <extent>
+      <charseq START="254" END="402">مصلحة مياه الباروك تستوفي رسما
+قيمته خمسة الاف ليرة غرامة تأخير عن اشتراكات المواطنين, وهو رسم غير
+قانوني لانهم استوفوا رسم التأخير بدءا من اول السنة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="216" END="402">ولفت وزير المال فؤاد السنيورة الى ان ,مصلحة مياه الباروك تستوفي رسما
+قيمته خمسة الاف ليرة غرامة تأخير عن اشتراكات المواطنين, وهو رسم غير
+قانوني لانهم استوفوا رسم التأخير بدءا من اول السنة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="306" END="310">غرامة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ANN20001207.0900.0035-E10-12" ROLE="Giver">
+      <extent>
+        <charseq START="330" END="338">المواطنين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001207.0900.0035-E9-10" ROLE="Beneficiary">
+      <extent>
+        <charseq START="254" END="271">مصلحة مياه الباروك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001207.0900.0035-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="291" END="304">خمسة الاف ليرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ANN20001207.0900.0035-T2-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="394" END="402">اول السنة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

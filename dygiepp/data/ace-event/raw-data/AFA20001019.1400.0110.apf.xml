@@ -1,0 +1,1003 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001019.1400.0110.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001019.1400.0110">
+<entity ID="AFA20001019.1400.0110-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="416" END="432">شركة مشتركة "تيكا</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="419">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="429" END="432">تيكا</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="432">تيكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="790" END="790">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="790">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="819" END="822">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="819" END="822">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="824" END="824">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="824" END="824">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="855" END="863">شركة تيكا</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="863">شركة تيكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="866" END="866">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="866" END="866">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1217" END="1225">شركة تيكل</charseq>
+    </extent>
+    <head>
+      <charseq START="1217" END="1225">شركة تيكل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1266" END="1266">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1266" END="1266">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E1-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="792" END="850">شركة "تيكل" التركية العامة التي تتمتع بامتياز للكحول والتبغ</charseq>
+    </extent>
+    <head>
+      <charseq START="792" END="802">شركة "تيكل"</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تيكا">
+      <charseq START="429" END="432">تيكا</charseq>
+    </name>
+    <name NAME="شركة تيكا">
+      <charseq START="855" END="863">شركة تيكا</charseq>
+    </name>
+    <name NAME="شركة تيكل">
+      <charseq START="1217" END="1225">شركة تيكل</charseq>
+    </name>
+    <name NAME="شركة تيكل">
+      <charseq START="792" END="802">شركة "تيكل"</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E3-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="684" END="684">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="684" END="684">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E4-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="483" END="488">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="488">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-5" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="155" END="160">الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="155" END="160">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="757" END="761">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="761">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-16" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="804" END="810">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="804" END="810">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1031" END="1036">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1036">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-27" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1054" END="1060">التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1054" END="1060">التركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1071" END="1075">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1071" END="1075">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1122" END="1127">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1122" END="1127">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-31" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1138" END="1139">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1138" END="1139">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1255" END="1258">تركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1258">تركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-41" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1363" END="1367">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1363" END="1367">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-52" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="162" END="167">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="167">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-55" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="228" END="232">تركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="232">تركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E4-56" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="249" END="254">التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="254">التركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="التركي">
+      <charseq START="483" END="488">التركي</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="757" END="761">تركيا</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="804" END="810">التركية</charseq>
+    </name>
+    <name NAME="التركي">
+      <charseq START="1031" END="1036">التركي</charseq>
+    </name>
+    <name NAME="التركية">
+      <charseq START="1054" END="1060">التركية</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="1071" END="1075">تركيا</charseq>
+    </name>
+    <name NAME="التركي">
+      <charseq START="1122" END="1127">التركي</charseq>
+    </name>
+    <name NAME="تركي">
+      <charseq START="1255" END="1258">تركي</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="1363" END="1367">تركيا</charseq>
+    </name>
+    <name NAME="التركي">
+      <charseq START="162" END="167">التركي</charseq>
+    </name>
+    <name NAME="تركيا">
+      <charseq START="228" END="232">تركيا</charseq>
+    </name>
+    <name NAME="التركي">
+      <charseq START="249" END="254">التركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E5-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="537" END="553">خيسوس بيريز اوتون</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="553">خيسوس بيريز اوتون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E5-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="506" END="535">الوزير الكوبي للصناعات الخفيفة</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="511">الوزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خيسوس بيريز اوتون">
+      <charseq START="537" END="553">خيسوس بيريز اوتون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E6-45" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="396" END="397">تا</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="397">تا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E6-47" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="336" END="337">تا</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="337">تا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E8" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E8-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="570" END="575">المصنع</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="575">المصنع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E8-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="770" END="775">المصنع</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="775">المصنع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E9-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="696" END="708">الرئيس الكوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="701">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E9-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="710" END="720">فيدل كاسترو</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="720">فيدل كاسترو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فيدل كاسترو">
+      <charseq START="710" END="720">فيدل كاسترو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0110-E10-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1046" END="1060">للاسواق
+التركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1046" END="1052">للاسواق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E14-23" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1039" END="1044">الكوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="1039" END="1044">الكوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E14-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="703" END="708">الكوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="703" END="708">الكوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E14-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="513" END="518">الكوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="518">الكوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E14-26" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="937" END="940">كوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="937" END="940">كوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E14-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="205" END="210">الكوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="210">الكوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E14-57" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="257" END="262">الكوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="262">الكوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E14-62" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="385" END="390">الكوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="390">الكوبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكوبي">
+      <charseq START="1039" END="1044">الكوبي</charseq>
+    </name>
+    <name NAME="الكوبي">
+      <charseq START="703" END="708">الكوبي</charseq>
+    </name>
+    <name NAME="الكوبي">
+      <charseq START="513" END="518">الكوبي</charseq>
+    </name>
+    <name NAME="كوبي">
+      <charseq START="937" END="940">كوبي</charseq>
+    </name>
+    <name NAME="الكوبي">
+      <charseq START="205" END="210">الكوبي</charseq>
+    </name>
+    <name NAME="الكوبي">
+      <charseq START="257" END="262">الكوبي</charseq>
+    </name>
+    <name NAME="الكوبي">
+      <charseq START="385" END="390">الكوبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E20" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E20-30" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1132" END="1184">اقاليمها الواقعة على ساحل البحر الاسود واضنة (جنوب) ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1132" END="1137">اقاليم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E21" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E21-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1153" END="1169">ساحل البحر الاسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1153" END="1156">ساحل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E22" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E22-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1158" END="1169">البحر الاسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1158" END="1169">البحر الاسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البحر الاسود">
+      <charseq START="1158" END="1169">البحر الاسود</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E23-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1172" END="1184">اضنة (جنوب) ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1172" END="1175">اضنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اضنة">
+      <charseq START="1172" END="1175">اضنة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E24-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="125" END="141">انقرة 10-19 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="129">انقرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انقرة">
+      <charseq START="125" END="129">انقرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0110-E26-21" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="1275" END="1296">عدد
+من الدول الاوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="1275" END="1277">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E27-39" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1282" END="1296">الدول الاوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="1282" END="1286">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E28-40" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1299" END="1314">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1299" END="1314">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="1299" END="1314">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E29" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E29-46" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1288" END="1296">الاوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="1288" END="1296">الاوروبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاوروبية">
+      <charseq START="1288" END="1296">الاوروبية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E30" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E30-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="138" END="141">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="141">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="138" END="141">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E31-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="476" END="553">الوزير التركي الذي كان يستقبل الوزير الكوبي للصناعات الخفيفة
+خيسوس بيريز اوتون</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="481">الوزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E31-42" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="490" END="493">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="493">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E31-44" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="499" END="499">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="499">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E31-51" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="150" END="167">وزير الدولة التركي</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="153">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0110-E31-53" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="169" END="179">قاظم يوجلان</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="179">قاظم يوجلان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قاظم يوجلان">
+      <charseq START="169" END="179">قاظم يوجلان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E38" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E38-58" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="317" END="317">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="317" END="317">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0110-E39" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E39-59" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="326" END="331">هافانا</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="331">هافانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="هافانا">
+      <charseq START="326" END="331">هافانا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E40-60" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="319" END="323">انقرة</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="323">انقرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انقرة">
+      <charseq START="319" END="323">انقرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0110-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0110-E42-63" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="408" END="414">اسطنبول</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="414">اسطنبول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسطنبول">
+      <charseq START="408" END="414">اسطنبول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001019.1400.0110-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001019.1400.0110-V1-1">
+    <extent>
+      <charseq START="449" END="466">ثلاثة ملايين دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001019.1400.0110-T1">
+  <timex2_mention ID="AFA20001019.1400.0110-T1-1">
+    <extent>
+      <charseq START="181" END="192">اليوم الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T2">
+  <timex2_mention ID="AFA20001019.1400.0110-T2-1">
+    <extent>
+      <charseq START="348" END="355">عام 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T3">
+  <timex2_mention ID="AFA20001019.1400.0110-T3-1">
+    <extent>
+      <charseq START="639" END="670">الاول من كانون الثاني/يناير 2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T4">
+  <timex2_mention ID="AFA20001019.1400.0110-T4-1">
+    <extent>
+      <charseq START="722" END="748">خلال شهر كانون
+الثاني/يناير</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T5">
+  <timex2_mention ID="AFA20001019.1400.0110-T5-1">
+    <extent>
+      <charseq START="876" END="884">اول سنتين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T6">
+  <timex2_mention ID="AFA20001019.1400.0110-T6-1">
+    <extent>
+      <charseq START="949" END="961">السنة الثالثة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T7">
+  <timex2_mention ID="AFA20001019.1400.0110-T7-1">
+    <extent>
+      <charseq START="131" END="135">10-19</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T8">
+  <timex2_mention ID="AFA20001019.1400.0110-T8-1">
+    <extent>
+      <charseq START="275" END="308">الاول من كانون الثاني/يناير المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T9">
+  <timex2_mention ID="AFA20001019.1400.0110-T9-1">
+    <extent>
+      <charseq START="587" END="611">كانون الاول/ديسمبر
+المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T10">
+  <timex2_mention ID="AFA20001019.1400.0110-T10-1">
+    <extent>
+      <charseq START="1227" END="1231">سنويا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T11">
+  <timex2_mention ID="AFA20001019.1400.0110-T11-1">
+    <extent>
+      <charseq START="1354" END="1358">سنويا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0110-T12">
+  <timex2_mention ID="AFA20001019.1400.0110-T12-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-19 14:42:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001019.1400.0110-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1046" END="1060">للاسواق
+التركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E10-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="1046" END="1060">للاسواق
+التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E4-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="1054" END="1060">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0110-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="150" END="167">وزير الدولة التركي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E31-51" ROLE="Arg-1">
+      <extent>
+        <charseq START="150" END="167">وزير الدولة التركي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E4-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="155" END="160">الدولة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001019.1400.0110-R2-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="476" END="553">الوزير التركي الذي كان يستقبل الوزير الكوبي للصناعات الخفيفة
+خيسوس بيريز اوتون</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E31-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="476" END="553">الوزير التركي الذي كان يستقبل الوزير الكوبي للصناعات الخفيفة
+خيسوس بيريز اوتون</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E4-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="483" END="488">التركي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0110-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="506" END="535">الوزير الكوبي للصناعات الخفيفة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E5-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="506" END="535">الوزير الكوبي للصناعات الخفيفة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E14-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="513" END="518">الكوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0110-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="696" END="708">الرئيس الكوبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E9-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="696" END="708">الرئيس الكوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E14-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="703" END="708">الكوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0110-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="792" END="850">شركة "تيكل" التركية العامة التي تتمتع بامتياز للكحول والتبغ</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E1-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="792" END="850">شركة "تيكل" التركية العامة التي تتمتع بامتياز للكحول والتبغ</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E4-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="804" END="810">التركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0110-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R7-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1132" END="1184">اقاليمها الواقعة على ساحل البحر الاسود واضنة (جنوب) ا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E20-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="1132" END="1184">اقاليمها الواقعة على ساحل البحر الاسود واضنة (جنوب) ا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E21-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="1153" END="1169">ساحل البحر الاسود</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0110-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R8-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1132" END="1184">اقاليمها الواقعة على ساحل البحر الاسود واضنة (جنوب) ا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E20-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="1132" END="1184">اقاليمها الواقعة على ساحل البحر الاسود واضنة (جنوب) ا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E4-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="1138" END="1139">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0110-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0110-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0110-E24" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0110-R9-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="125" END="141">انقرة 10-19 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E30-49" ROLE="Arg-1">
+      <extent>
+        <charseq START="138" END="141">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0110-E24-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="125" END="141">انقرة 10-19 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001019.1400.0110-EV1" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001019.1400.0110-E1" ROLE="Org"/>
+  <event_argument REFID="AFA20001019.1400.0110-E40" ROLE="Agent"/>
+  <event_argument REFID="AFA20001019.1400.0110-E39" ROLE="Agent"/>
+  <event_argument REFID="AFA20001019.1400.0110-E42" ROLE="Place"/>
+  <event_mention ID="AFA20001019.1400.0110-EV1-1">
+    <extent>
+      <charseq START="319" END="432">انقرة وهافانا وقعتا في نهاية عام 1998 اتفاقا لانتاج مشترك
+للسيجار الكوبي وقررتا تأسيس في اسطنبول شركة مشتركة "تيكا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="313" END="466">وكانت انقرة وهافانا وقعتا في نهاية عام 1998 اتفاقا لانتاج مشترك
+للسيجار الكوبي وقررتا تأسيس في اسطنبول شركة مشتركة "تيكا" برأسمال
+قيمته ثلاثة ملايين دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="399" END="403">تأسيس</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0110-E1-2" ROLE="Org">
+      <extent>
+        <charseq START="416" END="432">شركة مشتركة "تيكا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0110-E40-60" ROLE="Agent">
+      <extent>
+        <charseq START="319" END="323">انقرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0110-E39-59" ROLE="Agent">
+      <extent>
+        <charseq START="326" END="331">هافانا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0110-E42-63" ROLE="Place">
+      <extent>
+        <charseq START="408" END="414">اسطنبول</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0110-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001019.1400.0110-E9" ROLE="Agent"/>
+  <event_argument REFID="AFA20001019.1400.0110-E4" ROLE="Destination"/>
+  <event_mention ID="AFA20001019.1400.0110-EV2-1">
+    <extent>
+      <charseq START="710" END="761">فيدل كاسترو خلال شهر كانون
+الثاني/يناير لزيارة تركيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="676" END="781">واوضح انه سيتم دعوة الرئيس الكوبي فيدل كاسترو خلال شهر كانون
+الثاني/يناير لزيارة تركيا لتدشين المصنع رسميا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="750" END="755">لزيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0110-E9-13" ROLE="Agent">
+      <extent>
+        <charseq START="710" END="720">فيدل كاسترو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0110-E4-14" ROLE="Destination">
+      <extent>
+        <charseq START="757" END="761">تركيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

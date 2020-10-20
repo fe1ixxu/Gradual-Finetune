@@ -1,0 +1,1609 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001001.1300.3153.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001001.1300.3153">
+<entity ID="VAR20001001.1300.3153-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E1-2" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="371" END="377">الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="377">الأردني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E1-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="827" END="833">الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="827" END="833">الأردني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E1-32" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="978" END="984">الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="984">الأردني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E1-44" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="1440" END="1455">الحكومة الأردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="1440" END="1446">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E1-78" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1448" END="1455">الأردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="1448" END="1455">الأردنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E1-79" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1901" END="1907">الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="1901" END="1907">الأردني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E1-83" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="127" END="133">الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="133">الأردني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأردني">
+      <charseq START="371" END="377">الأردني</charseq>
+    </name>
+    <name NAME="الأردني">
+      <charseq START="827" END="833">الأردني</charseq>
+    </name>
+    <name NAME="الأردني">
+      <charseq START="978" END="984">الأردني</charseq>
+    </name>
+    <name NAME="الأردنية">
+      <charseq START="1448" END="1455">الأردنية</charseq>
+    </name>
+    <name NAME="الأردني">
+      <charseq START="1901" END="1907">الأردني</charseq>
+    </name>
+    <name NAME="الأردني">
+      <charseq START="127" END="133">الأردني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="379" END="392">على أبو الراغب</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="392">على أبو الراغب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="689" END="689">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="689">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="699" END="699">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="699" END="699">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="814" END="833">رئيس
+الوزراء الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="814" END="817">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="846" END="861">السيد أبو الراغب</charseq>
+    </extent>
+    <head>
+      <charseq START="846" END="850">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="852" END="861">أبو الراغب</charseq>
+    </extent>
+    <head>
+      <charseq START="852" END="861">أبو الراغب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="959" END="959">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="959" END="959">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="965" END="984">رئيس الوزراء الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="965" END="968">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1087" END="1102">السيد أبو
+الراغب</charseq>
+    </extent>
+    <head>
+      <charseq START="1087" END="1091">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1093" END="1102">أبو
+الراغب</charseq>
+    </extent>
+    <head>
+      <charseq START="1093" END="1102">أبو
+الراغب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1169" END="1169">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1169" END="1169">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1435" END="1455">رئيس
+الحكومة الأردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="1435" END="1438">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-81" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="114" END="133">رئيس الوزراء الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="117">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-84" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="135" END="148">على أبو الراغب</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="148">على أبو الراغب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E2-95" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="358" END="377">رئيس الوزراء الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="361">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="على أبو الراغب">
+      <charseq START="379" END="392">على أبو الراغب</charseq>
+    </name>
+    <name NAME="أبو الراغب">
+      <charseq START="852" END="861">أبو الراغب</charseq>
+    </name>
+    <name NAME="أبو الراغب">
+      <charseq START="1093" END="1102">أبو
+الراغب</charseq>
+    </name>
+    <name NAME="على أبو الراغب">
+      <charseq START="135" END="148">على أبو الراغب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="469" END="496">لقوى
+إسرائيلية معارضة للسلام</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="472">لقوى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E3-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="604" END="604">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="604">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E3-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="612" END="631">القوة الرافضة للسلام</charseq>
+    </extent>
+    <head>
+      <charseq START="612" END="616">القوة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E4-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="474" END="482">إسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="482">إسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="737" END="747">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="747">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-36" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1104" END="1122">الحكومة الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1110">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-37" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1112" END="1122">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1122">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-38" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1140" END="1141">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1140" END="1141">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-47" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1552" END="1563">الإسرائيليين</charseq>
+    </extent>
+    <head>
+      <charseq START="1552" END="1563">الإسرائيليين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1674" END="1683">الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1674" END="1683">الإسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-57" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1747" END="1756">الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1747" END="1756">الإسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E4-69" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2016" END="2025">الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="2016" END="2025">الإسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيلية">
+      <charseq START="474" END="482">إسرائيلية</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="737" END="747">الإسرائيلية</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="1112" END="1122">الإسرائيلية</charseq>
+    </name>
+    <name NAME="الإسرائيليين">
+      <charseq START="1552" END="1563">الإسرائيليين</charseq>
+    </name>
+    <name NAME="الإسرائيلي">
+      <charseq START="1674" END="1683">الإسرائيلي</charseq>
+    </name>
+    <name NAME="الإسرائيلي">
+      <charseq START="1747" END="1756">الإسرائيلي</charseq>
+    </name>
+    <name NAME="الإسرائيلي">
+      <charseq START="2016" END="2025">الإسرائيلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E6" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E6-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="636" END="646">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="646">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E6-28" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="909" END="919">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="909" END="919">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E6-40" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1243" END="1257">الشعب الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="1243" END="1247">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E6-41" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1249" END="1257">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="1249" END="1257">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E6-45" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1532" END="1542">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1532" END="1542">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E6-71" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2037" END="2059">سائر الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="2042" END="2059">الأراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E6-72" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="2065" END="2079">الشعب الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="2065" END="2069">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E6-73" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2071" END="2079">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="2071" END="2079">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينيين">
+      <charseq START="636" END="646">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطينيين">
+      <charseq START="909" END="919">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="1249" END="1257">الفلسطيني</charseq>
+    </name>
+    <name NAME="الفلسطينيين">
+      <charseq START="1532" END="1542">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الأراضي الفلسطينية">
+      <charseq START="2042" END="2059">الأراضي الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="2071" END="2079">الفلسطيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E7-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="664" END="668">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="668">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العرب">
+      <charseq START="664" END="668">العرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E8-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="671" END="678">المسلمين</charseq>
+    </extent>
+    <head>
+      <charseq START="671" END="678">المسلمين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المسلمين">
+      <charseq START="671" END="678">المسلمين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E9-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="730" END="747">الجنود الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="730" END="735">الجنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E9-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1545" END="1563">الجنود الإسرائيليين</charseq>
+    </extent>
+    <head>
+      <charseq START="1545" END="1550">الجنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E9-67" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1994" END="1994">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1994" END="1994">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E9-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2002" END="2025">قوات الاحتلال الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="2002" END="2005">قوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E11-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="753" END="788">المصلين العزل في الحرم القدسي الشريف</charseq>
+    </extent>
+    <head>
+      <charseq START="753" END="759">المصلين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E12-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="770" END="788">الحرم القدسي الشريف</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="788">الحرم القدسي الشريف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E12-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1800" END="1820">الحرم الشريف في القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1800" END="1811">الحرم الشريف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحرم القدسي الشريف">
+      <charseq START="770" END="788">الحرم القدسي الشريف</charseq>
+    </name>
+    <name NAME="الحرم الشريف">
+      <charseq START="1800" END="1811">الحرم الشريف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E15" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E15-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="890" END="896">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="896">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E15-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1019" END="1025">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1025">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E15-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1359" END="1365">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1359" END="1365">المنطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E20-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="92" END="108">صوت أمريكا واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="92" END="101">صوت أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E20-76" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2100" END="2118">صوت أمريكا الإقليمي</charseq>
+    </extent>
+    <head>
+      <charseq START="2100" END="2109">صوت أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E20-91" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="329" END="330">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="330">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صوت أمريكا">
+      <charseq START="92" END="101">صوت أمريكا</charseq>
+    </name>
+    <name NAME="صوت أمريكا">
+      <charseq START="2100" END="2109">صوت أمريكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E22-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1608" END="1618">19 فلسطينيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1611" END="1618">فلسطينيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E23" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001001.1300.3153-E23-49" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1625" END="1639">أكثر من 600 شخص</charseq>
+    </extent>
+    <head>
+      <charseq START="1625" END="1628">أكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E24-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1633" END="1639">600 شخص</charseq>
+    </extent>
+    <head>
+      <charseq START="1637" END="1639">شخص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E25" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001001.1300.3153-E25-51" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1654" END="1683">عشرات من أفراد المن الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1654" END="1658">عشرات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E26-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1663" END="1683">أفراد المن الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1663" END="1667">أفراد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E27-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1669" END="1683">المن الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1669" END="1672">المن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المن">
+      <charseq START="1669" END="1672">المن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E30-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1740" END="1772">الزعيم الإسرائيلي اليميني المتطرف</charseq>
+    </extent>
+    <head>
+      <charseq START="1740" END="1745">الزعيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E30-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1774" END="1784">آرييل شارون</charseq>
+    </extent>
+    <head>
+      <charseq START="1774" END="1784">آرييل شارون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آرييل شارون">
+      <charseq START="1774" END="1784">آرييل شارون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E33" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E33-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1793" END="1820">الساحة الحرم الشريف في القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1793" END="1798">الساحة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E34-61" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1816" END="1820">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1816" END="1820">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E34-70" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2030" END="2034">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="2030" END="2034">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="1816" END="1820">القدس</charseq>
+    </name>
+    <name NAME="القدس">
+      <charseq START="2030" END="2034">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E35-62" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1891" END="1907">مجلس نواب الأردني</charseq>
+    </extent>
+    <head>
+      <charseq START="1891" END="1899">مجلس نواب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E35-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1936" END="1936">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1936" END="1936">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E35-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1944" END="1944">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1944" END="1944">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E35-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1954" END="1954">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1954" END="1954">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E35-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1970" END="1970">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1970" END="1970">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلس نواب">
+      <charseq START="1891" END="1899">مجلس نواب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E40-75" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="103" END="108">واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="108">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="103" END="108">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E42-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="819" END="825">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="819" END="825">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E42-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="970" END="976">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="976">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E42-82" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="119" END="125">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="125">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E42-96" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="363" END="369">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="369">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001001.1300.3153-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E45-10" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="531" END="534">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="534">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E45-77" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2120" END="2123">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="2120" END="2123">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E45-85" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="181" END="184">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="184">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E45-92" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="335" END="338">عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="338">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمان">
+      <charseq START="531" END="534">عمان</charseq>
+    </name>
+    <name NAME="عمان">
+      <charseq START="2120" END="2123">عمان</charseq>
+    </name>
+    <name NAME="عمان">
+      <charseq START="181" END="184">عمان</charseq>
+    </name>
+    <name NAME="عمان">
+      <charseq START="335" END="338">عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E46" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E46-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="414" END="414">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="414">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E46-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="421" END="448">أرضي الضفة الغربية وقطاع غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="424">أرضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E46-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="426" END="438">الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="438">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E46-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="214" END="214">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="214">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E46-87" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="221" END="233">الصفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="233">الصفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الضفة الغربية">
+      <charseq START="426" END="438">الضفة الغربية</charseq>
+    </name>
+    <name NAME="الصفة الغربية">
+      <charseq START="221" END="233">الصفة الغربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E47" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E47-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="441" END="448">قطاع غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="448">قطاع غزة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E47-88" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="236" END="243">قطاع غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="243">قطاع غزة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قطاع غزة">
+      <charseq START="441" END="448">قطاع غزة</charseq>
+    </name>
+    <name NAME="قطاع غزة">
+      <charseq START="236" END="243">قطاع غزة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001001.1300.3153-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001001.1300.3153-E48-74" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2081" END="2123">جمانة التميمي مكتب صوت أمريكا الإقليمي عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="2081" END="2093">جمانة التميمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E48-90" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="324" END="338">مراسلنا في عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="328">مراسل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001001.1300.3153-E48-93" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="340" END="352">جمانه التميمي</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="352">جمانه التميمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جمانة التميمي">
+      <charseq START="2081" END="2093">جمانة التميمي</charseq>
+    </name>
+    <name NAME="جمانه التميمي">
+      <charseq START="340" END="352">جمانه التميمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001001.1300.3153-T1">
+  <timex2_mention ID="VAR20001001.1300.3153-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/01/2000 13:52:33.29</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T2">
+  <timex2_mention ID="VAR20001001.1300.3153-T2-1">
+    <extent>
+      <charseq START="172" END="176">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T3">
+  <timex2_mention ID="VAR20001001.1300.3153-T3-1">
+    <extent>
+      <charseq START="253" END="262">أربعة أيام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T4">
+  <timex2_mention ID="VAR20001001.1300.3153-T4-1">
+    <extent>
+      <charseq START="458" END="467">أربعة أيام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T5">
+  <timex2_mention ID="VAR20001001.1300.3153-T5-1">
+    <extent>
+      <charseq START="536" END="540">الأحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T6">
+  <timex2_mention ID="VAR20001001.1300.3153-T6-1">
+    <extent>
+      <charseq START="1503" END="1514">لليوم
+الرابع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T7">
+  <timex2_mention ID="VAR20001001.1300.3153-T7-1">
+    <extent>
+      <charseq START="1591" END="1598">ظهر الحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T8">
+  <timex2_mention ID="VAR20001001.1300.3153-T8-1">
+    <extent>
+      <charseq START="1713" END="1729">يوم
+الخميس الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001001.1300.3153-T9">
+  <timex2_mention ID="VAR20001001.1300.3153-T9-1">
+    <extent>
+      <charseq START="1915" END="1919">الأحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001001.1300.3153-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E48" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E20" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="2081" END="2123">جمانة التميمي مكتب صوت أمريكا الإقليمي عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E48-74" ROLE="Arg-1">
+      <extent>
+        <charseq START="2081" END="2123">جمانة التميمي مكتب صوت أمريكا الإقليمي عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E20-76" ROLE="Arg-2">
+      <extent>
+        <charseq START="2100" END="2118">صوت أمريكا الإقليمي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001001.1300.3153-R1-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="324" END="338">مراسلنا في عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E48-90" ROLE="Arg-1">
+      <extent>
+        <charseq START="324" END="338">مراسلنا في عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E20-91" ROLE="Arg-2">
+      <extent>
+        <charseq START="329" END="330">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="469" END="496">لقوى
+إسرائيلية معارضة للسلام</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E3-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="469" END="496">لقوى
+إسرائيلية معارضة للسلام</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E4-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="474" END="482">إسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E12" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1793" END="1820">الساحة الحرم الشريف في القدس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E33-59" ROLE="Arg-1">
+      <extent>
+        <charseq START="1793" END="1820">الساحة الحرم الشريف في القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E12-60" ROLE="Arg-2">
+      <extent>
+        <charseq START="1800" END="1820">الحرم الشريف في القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E40" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="92" END="108">صوت أمريكا واشنطن</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E20-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="92" END="108">صوت أمريكا واشنطن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E40-75" ROLE="Arg-2">
+      <extent>
+        <charseq START="103" END="108">واشنطن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R5" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E42" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="114" END="133">رئيس الوزراء الأردني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E2-81" ROLE="Arg-1">
+      <extent>
+        <charseq START="114" END="133">رئيس الوزراء الأردني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E42-82" ROLE="Arg-2">
+      <extent>
+        <charseq START="119" END="125">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001001.1300.3153-R5-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="358" END="377">رئيس الوزراء الأردني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E2-95" ROLE="Arg-1">
+      <extent>
+        <charseq START="358" END="377">رئيس الوزراء الأردني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E42-96" ROLE="Arg-2">
+      <extent>
+        <charseq START="363" END="369">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001001.1300.3153-R5-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="814" END="833">رئيس
+الوزراء الأردني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E2-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="814" END="833">رئيس
+الوزراء الأردني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E42-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="819" END="825">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001001.1300.3153-R5-4" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="965" END="984">رئيس الوزراء الأردني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E2-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="965" END="984">رئيس الوزراء الأردني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E42-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="970" END="976">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E45" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="324" END="338">مراسلنا في عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E20-91" ROLE="Arg-1">
+      <extent>
+        <charseq START="329" END="330">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E45-92" ROLE="Arg-2">
+      <extent>
+        <charseq START="335" END="338">عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001001.1300.3153-R7-2" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="2100" END="2123">صوت أمريكا الإقليمي عمان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E20-76" ROLE="Arg-1">
+      <extent>
+        <charseq START="2100" END="2118">صوت أمريكا الإقليمي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E45-77" ROLE="Arg-2">
+      <extent>
+        <charseq START="2120" END="2123">عمان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="730" END="747">الجنود الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E9-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="730" END="747">الجنود الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E4-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="737" END="747">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001001.1300.3153-R9-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1545" END="1563">الجنود الإسرائيليين</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E9-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="1545" END="1563">الجنود الإسرائيليين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E4-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="1552" END="1563">الإسرائيليين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R10" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E12" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="753" END="788">المصلين العزل في الحرم القدسي الشريف</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E11-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="753" END="788">المصلين العزل في الحرم القدسي الشريف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E12-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="770" END="788">الحرم القدسي الشريف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R14" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E27" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R14-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1663" END="1683">أفراد المن الإسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E26-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="1663" END="1683">أفراد المن الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E27-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="1669" END="1683">المن الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R15" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1669" END="1683">المن الإسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E27-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="1669" END="1683">المن الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E4-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="1674" END="1683">الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1740" END="1772">الزعيم الإسرائيلي اليميني المتطرف</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E30-56" ROLE="Arg-1">
+      <extent>
+        <charseq START="1740" END="1772">الزعيم الإسرائيلي اليميني المتطرف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E4-57" ROLE="Arg-2">
+      <extent>
+        <charseq START="1747" END="1756">الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R17" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E34" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1800" END="1820">الحرم الشريف في القدس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E12-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="1800" END="1820">الحرم الشريف في القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E34-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="1816" END="1820">القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R18" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E1" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R18-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1891" END="1907">مجلس نواب الأردني</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E35-62" ROLE="Arg-1">
+      <extent>
+        <charseq START="1891" END="1907">مجلس نواب الأردني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E1-79" ROLE="Arg-2">
+      <extent>
+        <charseq START="1901" END="1907">الأردني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R19" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R19-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2002" END="2025">قوات الاحتلال الإسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E9-68" ROLE="Arg-1">
+      <extent>
+        <charseq START="2002" END="2025">قوات الاحتلال الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E4-69" ROLE="Arg-2">
+      <extent>
+        <charseq START="2016" END="2025">الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001001.1300.3153-R21" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001001.1300.3153-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001001.1300.3153-E1" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001001.1300.3153-R21-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1435" END="1455">رئيس
+الحكومة الأردنية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E2-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1435" END="1455">رئيس
+الحكومة الأردنية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001001.1300.3153-E1-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="1440" END="1455">الحكومة الأردنية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001001.1300.3153-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.3153-E3" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001001.1300.3153-E46" ROLE="Place"/>
+  <event_argument REFID="VAR20001001.1300.3153-T4" ROLE="Time-Starting"/>
+  <event_mention ID="VAR20001001.1300.3153-EV1-1">
+    <extent>
+      <charseq START="408" END="496">العنف تشهدها أرضي الضفة الغربية وقطاع غزة منذ نحو أربعة أيام لقوى
+إسرائيلية معارضة للسلام</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="354" END="646">حمل رئيس الوزراء الأردني على أبو الراغب مسئولية أعمال
+العنف تشهدها أرضي الضفة الغربية وقطاع غزة منذ نحو أربعة أيام لقوى
+إسرائيلية معارضة للسلام حيث قال في تصريحات صحفية نشرت في عمان الأحد
+إنما يجرى هو نتيجة مباشرة للتطرف والممارسات والاستفزازات التي تمارسها
+القوة الرافضة للسلام ضد الفلسطينيين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="408" END="412">العنف</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E3-8" ROLE="Attacker">
+      <extent>
+        <charseq START="469" END="496">لقوى
+إسرائيلية معارضة للسلام</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E46-5" ROLE="Place">
+      <extent>
+        <charseq START="421" END="448">أرضي الضفة الغربية وقطاع غزة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.3153-T4-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="458" END="467">أربعة أيام</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.3153-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.3153-E22" ROLE="Victim"/>
+  <event_mention ID="VAR20001001.1300.3153-EV2-1">
+    <extent>
+      <charseq START="1603" END="1618">مقتل 19 فلسطينيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1565" END="1683">وقد أسفرت تلك
+الأحداث حتى ظهر الحد عن مقتل 19 فلسطينيا وجرح أكثر من 600 شخص إلى جانب
+جرح عشرات من أفراد المن الإسرائيلي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1603" END="1606">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E22-48" ROLE="Victim">
+      <extent>
+        <charseq START="1608" END="1618">19 فلسطينيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.3153-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.3153-E23" ROLE="Victim"/>
+  <event_mention ID="VAR20001001.1300.3153-EV3-1">
+    <extent>
+      <charseq START="1621" END="1639">جرح أكثر من 600 شخص</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1565" END="1683">وقد أسفرت تلك
+الأحداث حتى ظهر الحد عن مقتل 19 فلسطينيا وجرح أكثر من 600 شخص إلى جانب
+جرح عشرات من أفراد المن الإسرائيلي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1621" END="1623">جرح</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E23-49" ROLE="Victim">
+      <extent>
+        <charseq START="1625" END="1639">أكثر من 600 شخص</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.3153-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.3153-E25" ROLE="Victim"/>
+  <event_mention ID="VAR20001001.1300.3153-EV4-1">
+    <extent>
+      <charseq START="1650" END="1683">جرح عشرات من أفراد المن الإسرائيلي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1565" END="1683">وقد أسفرت تلك
+الأحداث حتى ظهر الحد عن مقتل 19 فلسطينيا وجرح أكثر من 600 شخص إلى جانب
+جرح عشرات من أفراد المن الإسرائيلي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1650" END="1652">جرح</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E25-51" ROLE="Victim">
+      <extent>
+        <charseq START="1654" END="1683">عشرات من أفراد المن الإسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.3153-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.3153-T8" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001001.1300.3153-EV5-1">
+    <extent>
+      <charseq START="1700" END="1729">العنف اندلعت يوم
+الخميس الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1685" END="1870">ويذكر أن أعمال العنف اندلعت يوم
+الخميس الماضي بعد قيام الزعيم الإسرائيلي اليميني المتطرف آرييل شارون
+بزيارة الساحة الحرم الشريف في القدس وهى الزيارة التي لقيت تنديدا عربيا
+وإسلاميا واسعا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1700" END="1704">العنف</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.3153-T8-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1713" END="1729">يوم
+الخميس الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.3153-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.3153-E30" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001001.1300.3153-E33" ROLE="Destination"/>
+  <event_mention ID="VAR20001001.1300.3153-EV6-1">
+    <extent>
+      <charseq START="1740" END="1820">الزعيم الإسرائيلي اليميني المتطرف آرييل شارون
+بزيارة الساحة الحرم الشريف في القدس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1685" END="1870">ويذكر أن أعمال العنف اندلعت يوم
+الخميس الماضي بعد قيام الزعيم الإسرائيلي اليميني المتطرف آرييل شارون
+بزيارة الساحة الحرم الشريف في القدس وهى الزيارة التي لقيت تنديدا عربيا
+وإسلاميا واسعا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1786" END="1791">بزيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E30-56" ROLE="Artifact">
+      <extent>
+        <charseq START="1740" END="1772">الزعيم الإسرائيلي اليميني المتطرف</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E33-59" ROLE="Destination">
+      <extent>
+        <charseq START="1793" END="1820">الساحة الحرم الشريف في القدس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001001.1300.3153-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001001.1300.3153-E9" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001001.1300.3153-E34" ROLE="Place"/>
+  <event_argument REFID="VAR20001001.1300.3153-E6" ROLE="Target"/>
+  <event_mention ID="VAR20001001.1300.3153-EV7-1">
+    <extent>
+      <charseq START="1973" END="2079">المجزرة الوحشية التي
+ترتكبها قوات الاحتلال الإسرائيلي في القدس وسائر الأراضي الفلسطينية بحق
+الشعب الفلسطيني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1872" END="2079">من ناحية أخرى أصدر مجلس نواب الأردني بيانا الأحد أعرب
+فيه عن سخطه وإدانته واستنكاره الشديد لما وصفه بالمجزرة الوحشية التي
+ترتكبها قوات الاحتلال الإسرائيلي في القدس وسائر الأراضي الفلسطينية بحق
+الشعب الفلسطيني</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1973" END="1979">المجزرة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E9-67" ROLE="Attacker">
+      <extent>
+        <charseq START="1994" END="1994">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E34-70" ROLE="Place">
+      <extent>
+        <charseq START="2030" END="2034">القدس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001001.1300.3153-E6-72" ROLE="Target">
+      <extent>
+        <charseq START="2065" END="2079">الشعب الفلسطيني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

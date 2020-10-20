@@ -1,0 +1,1952 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001019.1400.0125.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001019.1400.0125">
+<entity ID="AFA20001019.1400.0125-E1" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E1-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="682" END="682">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="682" END="682">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E1-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="686" END="712">الحركات الطالبية والاصلاحية</charseq>
+    </extent>
+    <head>
+      <charseq START="686" END="692">الحركات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E2-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="792" END="798">سوهارتو</charseq>
+    </extent>
+    <head>
+      <charseq START="792" END="798">سوهارتو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E2-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1266" END="1272">سوهارتو</charseq>
+    </extent>
+    <head>
+      <charseq START="1266" END="1272">سوهارتو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سوهارتو">
+      <charseq START="792" END="798">سوهارتو</charseq>
+    </name>
+    <name NAME="سوهارتو">
+      <charseq START="1266" END="1272">سوهارتو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E3-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="882" END="897">اندي مالارانغينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="882" END="897">اندي مالارانغينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E3-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="867" END="897">المحلل السياسي اندي مالارانغينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="867" END="872">المحلل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اندي مالارانغينغ">
+      <charseq START="882" END="897">اندي مالارانغينغ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E4-3" TYPE="PRO" LDCTYPE="HLS" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="627" END="675">رابع اكثر دولة
+اكتظاظا في العالم (210 ملايين نسمة</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="630">رابع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-7" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="903" END="909">الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="903" END="909">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-15" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="917" END="917">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="917" END="917">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-16" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="923" END="923">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="923" END="923">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-28" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1369" END="1374">البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="1369" END="1374">البلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-30" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1447" END="1455">اندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1447" END="1455">اندونيسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-38" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2390" END="2393">بلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2390" END="2393">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1794" END="1802">اندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1794" END="1802">اندونيسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-49" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1941" END="1951">هذه الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="1945" END="1951">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-51" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2420" END="2421">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2420" END="2421">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2259" END="2268">لاندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2259" END="2268">لاندونيسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-63" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2287" END="2288">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2287" END="2288">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-81" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2706" END="2711">الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="2706" END="2711">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-99" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="292" END="351">هذا البلد الشاسع الذي تنخره اعمال العنف والتوترات
+الانفصالية</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="300">البلد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-100" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="318" END="318">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="318">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-106" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="258" END="266">اندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="266">اندونيسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-107" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2084" END="2093">لاندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2084" END="2093">لاندونيسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-108" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="309" END="312">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="312">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E4-119" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="637" END="640">دولة</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="640">دولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اندونيسيا">
+      <charseq START="1447" END="1455">اندونيسيا</charseq>
+    </name>
+    <name NAME="اندونيسيا">
+      <charseq START="1794" END="1802">اندونيسيا</charseq>
+    </name>
+    <name NAME="لاندونيسيا">
+      <charseq START="2259" END="2268">لاندونيسيا</charseq>
+    </name>
+    <name NAME="اندونيسيا">
+      <charseq START="258" END="266">اندونيسيا</charseq>
+    </name>
+    <name NAME="لاندونيسيا">
+      <charseq START="2084" END="2093">لاندونيسيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E5" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0125-E5-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="937" END="937">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="937" END="937">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E5-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="944" END="948">جميعا</charseq>
+    </extent>
+    <head>
+      <charseq START="944" END="948">جميعا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E6-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="980" END="990">الرئيس وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="980" END="985">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="987" END="990">وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="990">وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1013" END="1013">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1013" END="1013">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1027" END="1027">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1027" END="1027">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1104" END="1109">الرئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="1104" END="1109">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1122" END="1122">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1122" END="1122">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1384" END="1387">وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="1384" END="1387">وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1866" END="1869">وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="1866" END="1869">وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2482" END="2485">وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="2482" END="2485">وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-69" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2497" END="2497">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2497" END="2497">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-70" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2504" END="2504">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2504" END="2504">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-71" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2514" END="2514">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2514" END="2514">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-72" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2529" END="2529">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2529" END="2529">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2617" END="2620">وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="2617" END="2620">وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-78" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2635" END="2635">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2635" END="2635">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-80" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2701" END="2711">رئيس الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="2701" END="2704">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-82" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2719" END="2719">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2719" END="2719">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-83" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="229" END="266">اول رئيس ينتخب ديموقراطيا في اندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="231">اول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-84" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="238" END="238">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="238">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-98" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1874" END="1874">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1874" END="1874">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-102" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="188" END="202">عبد الرحمن وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="188" END="202">عبد الرحمن وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-103" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="227" END="227">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="227">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-105" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="233" END="236">رئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="236">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-109" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="371" END="405">الرئيس وحيد المسلم المعتدل (60 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="376">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-110" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="378" END="381">وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="381">وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-112" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="451" END="451">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="451">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-117" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="534" END="537">وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="537">وحيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E6-118" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="622" END="675">رئيس رابع اكثر دولة
+اكتظاظا في العالم (210 ملايين نسمة</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="625">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وحيد">
+      <charseq START="987" END="990">وحيد</charseq>
+    </name>
+    <name NAME="وحيد">
+      <charseq START="1384" END="1387">وحيد</charseq>
+    </name>
+    <name NAME="وحيد">
+      <charseq START="1866" END="1869">وحيد</charseq>
+    </name>
+    <name NAME="وحيد">
+      <charseq START="2482" END="2485">وحيد</charseq>
+    </name>
+    <name NAME="وحيد">
+      <charseq START="2617" END="2620">وحيد</charseq>
+    </name>
+    <name NAME="عبد الرحمن وحيد">
+      <charseq START="188" END="202">عبد الرحمن وحيد</charseq>
+    </name>
+    <name NAME="وحيد">
+      <charseq START="378" END="381">وحيد</charseq>
+    </name>
+    <name NAME="وحيد">
+      <charseq START="534" END="537">وحيد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E7-18" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1051" END="1054">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1051" END="1054">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E7-19" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1056" END="1056">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1056" END="1056">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E7-92" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1022" END="1026">نائبت</charseq>
+    </extent>
+    <head>
+      <charseq START="1022" END="1026">نائبت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E7-93" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1029" END="1049">ميغاواتي سوكارنوبوتري</charseq>
+    </extent>
+    <head>
+      <charseq START="1029" END="1049">ميغاواتي سوكارنوبوتري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميغاواتي سوكارنوبوتري">
+      <charseq START="1029" END="1049">ميغاواتي سوكارنوبوتري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E8-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1223" END="1237">مسؤولون حكوميون</charseq>
+    </extent>
+    <head>
+      <charseq START="1223" END="1229">مسؤولون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E8-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1236" END="1237">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1236" END="1237">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E9-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1239" END="1257">انصار النظام السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="1239" END="1243">انصار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E10-9" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="2028" END="2043">المجموعة الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="2028" END="2035">المجموعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E10-25" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="2026" END="2026">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2026" END="2026">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E11" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0125-E11-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1299" END="1300">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1299" END="1300">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E11-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1306" END="1306">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1306">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E12-31" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1512" END="1536">اتشيه (اقصى
+الشمال الغربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1512" END="1516">اتشيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اتشيه">
+      <charseq START="1512" END="1516">اتشيه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E13" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E13-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1548" END="1558">الانفصاليون</charseq>
+    </extent>
+    <head>
+      <charseq START="1548" END="1558">الانفصاليون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E13-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1543" END="1543">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1543" END="1543">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E14-34" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1584" END="1613">ايريان
+جايا، (بابوازيا الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1584" END="1594">ايريان
+جايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايريان جايا">
+      <charseq START="1584" END="1594">ايريان
+جايا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E15-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1598" END="1613">بابوازيا الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1598" END="1613">بابوازيا الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E15-86" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1661" END="1671">البابوازيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1661" END="1671">البابوازيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بابوازيا الغربية">
+      <charseq START="1598" END="1613">بابوازيا الغربية</charseq>
+    </name>
+    <name NAME="البابوازيين">
+      <charseq START="1661" END="1671">البابوازيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E16-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1637" END="1646">قوات الامن</charseq>
+    </extent>
+    <head>
+      <charseq START="1637" END="1646">قوات الامن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E17-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1649" END="1671">الانفصاليين
+البابوازيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1649" END="1659">الانفصاليين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E18" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0125-E18-17" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="2351" END="2371">ملايين
+القادمين الجدد</charseq>
+    </extent>
+    <head>
+      <charseq START="2351" END="2356">ملايين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E19-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="137" END="154">جاكرتا 10-19 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="142">جاكرتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E19-90" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="2048" END="2053">جاكرتا</charseq>
+    </extent>
+    <head>
+      <charseq START="2048" END="2053">جاكرتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جاكرتا">
+      <charseq START="137" END="142">جاكرتا</charseq>
+    </name>
+    <name NAME="جاكرتا">
+      <charseq START="2048" END="2053">جاكرتا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E20" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E20-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1760" END="1765">مسلمين</charseq>
+    </extent>
+    <head>
+      <charseq START="1760" END="1765">مسلمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E21" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E21-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1768" END="1774">مسيحيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1768" END="1774">مسيحيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E22" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E22-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1678" END="1686">جزر ملوكو</charseq>
+    </extent>
+    <head>
+      <charseq START="1678" END="1686">جزر ملوكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جزر ملوكو">
+      <charseq START="1678" END="1686">جزر ملوكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E23" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0125-E23-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1817" END="1825">مليون شخص</charseq>
+    </extent>
+    <head>
+      <charseq START="1823" END="1825">شخص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E23-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1805" END="1805">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1805" END="1805">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E24-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1847" END="1859">دبلوماسي غربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1847" END="1854">دبلوماسي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E25" TYPE="LOC" SUBTYPE="Region-General" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E25-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1894" END="1907">الجزر الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="1894" END="1898">الجزر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E27-68" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1701" END="1714">اربعة الاف شخص</charseq>
+    </extent>
+    <head>
+      <charseq START="1712" END="1714">شخص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E28-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2064" END="2124">الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية</charseq>
+    </extent>
+    <head>
+      <charseq START="2064" END="2073">الميليشيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E29-54" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2112" END="2124">تيمور الشرقية</charseq>
+    </extent>
+    <head>
+      <charseq START="2112" END="2124">تيمور الشرقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تيمور الشرقية">
+      <charseq START="2112" END="2124">تيمور الشرقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E30-55" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="2135" END="2172">ثلاثة من عناصر
+المفوضية العليا للاجئين</charseq>
+    </extent>
+    <head>
+      <charseq START="2135" END="2139">ثلاثة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E31-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2144" END="2172">عناصر
+المفوضية العليا للاجئين</charseq>
+    </extent>
+    <head>
+      <charseq START="2144" END="2148">عناصر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E32-59" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="2227" END="2227">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2227" END="2227">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E32-62" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="2283" END="2284">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2283" END="2284">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E32-87" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="2204" END="2221">كبرى الدول المانحة</charseq>
+    </extent>
+    <head>
+      <charseq START="2204" END="2207">كبرى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E33" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E33-57" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="2209" END="2221">الدول المانحة</charseq>
+    </extent>
+    <head>
+      <charseq START="2209" END="2213">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E34-60" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2232" END="2236">طوكيو</charseq>
+    </extent>
+    <head>
+      <charseq START="2232" END="2236">طوكيو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طوكيو">
+      <charseq START="2232" END="2236">طوكيو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E35-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2416" END="2419">سكان</charseq>
+    </extent>
+    <head>
+      <charseq START="2416" END="2419">سكان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E35-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2395" END="2395">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2395" END="2395">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E36-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2477" END="2485">خصوم وحيد</charseq>
+    </extent>
+    <head>
+      <charseq START="2477" END="2480">خصوم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E37" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0125-E37-88" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2488" END="2497">بعض انصاره</charseq>
+    </extent>
+    <head>
+      <charseq START="2488" END="2490">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E38-73" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2471" END="2471">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2471" END="2471">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E39-75" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2571" END="2577">50
+بلدا</charseq>
+    </extent>
+    <head>
+      <charseq START="2574" END="2577">بلدا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E40-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2667" END="2679">لجنة برلمانية</charseq>
+    </extent>
+    <head>
+      <charseq START="2667" END="2670">لجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E43" TYPE="WEA" SUBTYPE="Underspecified" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E43-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2059" END="2124">سلاح الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية</charseq>
+    </extent>
+    <head>
+      <charseq START="2059" END="2062">سلاح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E44-58" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1571" END="1577">اسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="1571" END="1577">اسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسلامية">
+      <charseq START="1571" END="1577">اسلامية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E45" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E45-89" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2150" END="2172">المفوضية العليا للاجئين</charseq>
+    </extent>
+    <head>
+      <charseq START="2150" END="2172">المفوضية العليا للاجئين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المفوضية العليا للاجئين">
+      <charseq START="2150" END="2172">المفوضية العليا للاجئين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E46" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E46-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="151" END="154">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="154">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="151" END="154">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1400.0125-E48" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0125-E48-95" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1693" END="1714">اكثر من اربعة الاف شخص</charseq>
+    </extent>
+    <head>
+      <charseq START="1693" END="1696">اكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E49" TYPE="LOC" SUBTYPE="Region-General" CLASS="GEN">
+  <entity_mention ID="AFA20001019.1400.0125-E49-96" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1783" END="1802">جميع انحاء اندونيسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1783" END="1786">جميع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E50" TYPE="PER" SUBTYPE="Indeterminate" CLASS="USP">
+  <entity_mention ID="AFA20001019.1400.0125-E50-97" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1957" END="1958">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="1957" END="1958">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E50-104" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2006" END="2006">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2006" END="2006">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E51" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E51-101" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1566" END="1577">دولة اسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="1566" END="1569">دولة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E55-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="439" END="439">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="439">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E55-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="460" END="461">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="461">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E55-111" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="446" END="461">حلفاؤه السياسيون</charseq>
+    </extent>
+    <head>
+      <charseq START="446" END="450">حلفاؤ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E56-113" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="494" END="503">الاصلاحيين</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="503">الاصلاحيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E57" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E57-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="509" END="509">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="509">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E57-114" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="515" END="548">الاحزاب التي اوصلت وحيد الى السلطة</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="521">الاحزاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E57-115" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="523" END="526">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="523" END="526">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1400.0125-E57-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="532" END="532">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="532" END="532">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1400.0125-E58" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1400.0125-E58-120" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="653" END="658">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="653" END="658">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="AFA20001019.1400.0125-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001019.1400.0125-V1-1">
+    <extent>
+      <charseq START="2241" END="2257">8،4 مليارات دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001019.1400.0125-V2" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001019.1400.0125-V2-1">
+    <extent>
+      <charseq START="2400" END="2411">15 في المائة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001019.1400.0125-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001019.1400.0125-V3-1">
+    <extent>
+      <charseq START="2423" END="2433">بدولار واحد</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001019.1400.0125-T1">
+  <timex2_mention ID="AFA20001019.1400.0125-T1-1">
+    <extent>
+      <charseq START="1720" END="1742">كانون
+الثاني/يناير 1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T2">
+  <timex2_mention ID="AFA20001019.1400.0125-T2-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-19 15:48:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T3">
+  <timex2_mention ID="AFA20001019.1400.0125-T3-1">
+    <extent>
+      <charseq START="144" END="148">10-19</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T4">
+  <timex2_mention ID="AFA20001019.1400.0125-T4-1">
+    <extent>
+      <charseq START="409" END="413">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T5">
+  <timex2_mention ID="AFA20001019.1400.0125-T5-1">
+    <extent>
+      <charseq START="553" END="578">20 تشرين الاول/اكتوبر
+1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T6">
+  <timex2_mention ID="AFA20001019.1400.0125-T6-1">
+    <extent>
+      <charseq START="581" END="589">خمس سنوات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T7">
+  <timex2_mention ID="AFA20001019.1400.0125-T7-1">
+    <extent>
+      <charseq START="803" END="816">ايار/مايو
+1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T8">
+  <timex2_mention ID="AFA20001019.1400.0125-T8-1">
+    <extent>
+      <charseq START="958" END="972">آب/اغسطس الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T9">
+  <timex2_mention ID="AFA20001019.1400.0125-T9-1">
+    <extent>
+      <charseq START="1476" END="1489">قبل اربعة اشهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T10">
+  <timex2_mention ID="AFA20001019.1400.0125-T10-1">
+    <extent>
+      <charseq START="2177" END="2195">ايلول/سبتمبر الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T11">
+  <timex2_mention ID="AFA20001019.1400.0125-T11-1">
+    <extent>
+      <charseq START="2435" END="2439">يوميا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T12">
+  <timex2_mention ID="AFA20001019.1400.0125-T12-1">
+    <extent>
+      <charseq START="2584" END="2592">سنة واحدة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T13">
+  <timex2_mention ID="AFA20001019.1400.0125-T13-1">
+    <extent>
+      <charseq START="175" END="181">قبل سنة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1400.0125-T14">
+  <timex2_mention ID="AFA20001019.1400.0125-T14-1">
+    <extent>
+      <charseq START="1190" END="1196">32 عاما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001019.1400.0125-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E46" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="137" END="154">جاكرتا 10-19 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E46-77" ROLE="Arg-1">
+      <extent>
+        <charseq START="151" END="154">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E19-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="137" END="154">جاكرتا 10-19 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="229" END="266">اول رئيس ينتخب ديموقراطيا في اندونيسيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E6-84" ROLE="Arg-1">
+      <extent>
+        <charseq START="238" END="238">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E4-106" ROLE="Arg-2">
+      <extent>
+        <charseq START="258" END="266">اندونيسيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001019.1400.0125-R2-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2701" END="2711">رئيس الدولة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E6-80" ROLE="Arg-1">
+      <extent>
+        <charseq START="2701" END="2711">رئيس الدولة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E4-81" ROLE="Arg-2">
+      <extent>
+        <charseq START="2706" END="2711">الدولة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001019.1400.0125-R2-3" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="621" END="675">لرئيس رابع اكثر دولة
+اكتظاظا في العالم (210 ملايين نسمة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E6-118" ROLE="Arg-1">
+      <extent>
+        <charseq START="622" END="675">رئيس رابع اكثر دولة
+اكتظاظا في العالم (210 ملايين نسمة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E4-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="627" END="675">رابع اكثر دولة
+اكتظاظا في العالم (210 ملايين نسمة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E55" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="446" END="461">حلفاؤه السياسيون</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E55-111" ROLE="Arg-1">
+      <extent>
+        <charseq START="446" END="461">حلفاؤه السياسيون</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E6-112" ROLE="Arg-2">
+      <extent>
+        <charseq START="451" END="451">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R4" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1022" END="1027">نائبته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E7-92" ROLE="Arg-1">
+      <extent>
+        <charseq START="1022" END="1026">نائبت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E6-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="1027" END="1027">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R5-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="1584" END="1613">ايريان
+جايا، (بابوازيا الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E14-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="1584" END="1613">ايريان
+جايا، (بابوازيا الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E15-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="1598" END="1613">بابوازيا الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E43" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2059" END="2124">سلاح الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E28-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="2064" END="2124">الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E43-91" ROLE="Arg-2">
+      <extent>
+        <charseq START="2059" END="2124">سلاح الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1649" END="1671">الانفصاليين
+البابوازيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E17-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="1649" END="1671">الانفصاليين
+البابوازيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E15-86" ROLE="Arg-2">
+      <extent>
+        <charseq START="1661" END="1671">البابوازيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E45" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2144" END="2172">عناصر
+المفوضية العليا للاجئين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E31-56" ROLE="Arg-1">
+      <extent>
+        <charseq START="2144" END="2172">عناصر
+المفوضية العليا للاجئين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E45-89" ROLE="Arg-2">
+      <extent>
+        <charseq START="2150" END="2172">المفوضية العليا للاجئين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1400.0125-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1400.0125-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1400.0125-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1400.0125-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2416" END="2421">سكانها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E35-64" ROLE="Arg-1">
+      <extent>
+        <charseq START="2416" END="2419">سكان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1400.0125-E4-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="2420" END="2421">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001019.1400.0125-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E6" ROLE="Person"/>
+  <event_mention ID="AFA20001019.1400.0125-EV1-1">
+    <extent>
+      <charseq START="188" END="218">عبد الرحمن وحيد
+الى سدة الرئاسة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="158" END="351">الامل الذي اثاره قبل سنة وصول عبد الرحمن وحيد
+الى سدة الرئاسة باعتباره اول رئيس ينتخب ديموقراطيا في اندونيسيا، تحول
+خيبة امل عميقة في هذا البلد الشاسع الذي تنخره اعمال العنف والتوترات
+الانفصالية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="212" END="218">الرئاسة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E6-102" ROLE="Person">
+      <extent>
+        <charseq START="188" END="202">عبد الرحمن وحيد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV2" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E6" ROLE="Person"/>
+  <event_argument REFID="AFA20001019.1400.0125-E4" ROLE="Place"/>
+  <event_mention ID="AFA20001019.1400.0125-EV2-1">
+    <extent>
+      <charseq START="238" END="266">ينتخب ديموقراطيا في اندونيسيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="158" END="351">الامل الذي اثاره قبل سنة وصول عبد الرحمن وحيد
+الى سدة الرئاسة باعتباره اول رئيس ينتخب ديموقراطيا في اندونيسيا، تحول
+خيبة امل عميقة في هذا البلد الشاسع الذي تنخره اعمال العنف والتوترات
+الانفصالية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="238" END="242">ينتخب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E6-84" ROLE="Person">
+      <extent>
+        <charseq START="238" END="238">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E4-106" ROLE="Place">
+      <extent>
+        <charseq START="258" END="266">اندونيسيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001019.1400.0125-EV3-1">
+    <extent>
+      <charseq START="320" END="330">اعمال العنف</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="158" END="351">الامل الذي اثاره قبل سنة وصول عبد الرحمن وحيد
+الى سدة الرئاسة باعتباره اول رئيس ينتخب ديموقراطيا في اندونيسيا، تحول
+خيبة امل عميقة في هذا البلد الشاسع الذي تنخره اعمال العنف والتوترات
+الانفصالية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="320" END="330">اعمال العنف</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV4" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E6" ROLE="Person"/>
+  <event_argument REFID="AFA20001019.1400.0125-T5" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001019.1400.0125-EV4-1">
+    <extent>
+      <charseq START="534" END="578">وحيد الى السلطة في 20 تشرين الاول/اكتوبر
+1999</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="509" END="675">تنتقد الاحزاب التي اوصلت وحيد الى السلطة في 20 تشرين الاول/اكتوبر
+1999 لخمس سنوات، الحصيلة السياسية والاقتصادية لرئيس رابع اكثر دولة
+اكتظاظا في العالم (210 ملايين نسمة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="543" END="548">السلطة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E6-117" ROLE="Person">
+      <extent>
+        <charseq START="534" END="537">وحيد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="553" END="578">20 تشرين الاول/اكتوبر
+1999</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV5" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E2" ROLE="Person"/>
+  <event_argument REFID="AFA20001019.1400.0125-T7" ROLE="Time-Holds"/>
+  <event_mention ID="AFA20001019.1400.0125-EV5-1">
+    <extent>
+      <charseq START="787" END="816">سقوط سوهارتو في ايار/مايو
+1998</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="681" END="857">وترى الحركات الطالبية والاصلاحية ان مكافحة الممارسات السابقة
+(المحسوبية والفساد) لا تتقدم بسرعة كافية منذ سقوط سوهارتو في ايار/مايو
+1998 على خلفية الاضطرابات والانهيار الاقتصادي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="787" END="790">سقوط</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E2-6" ROLE="Person">
+      <extent>
+        <charseq START="792" END="798">سوهارتو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-T7-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="803" END="816">ايار/مايو
+1998</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E11" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001019.1400.0125-E4" ROLE="Target"/>
+  <event_mention ID="AFA20001019.1400.0125-EV6-1">
+    <extent>
+      <charseq START="1299" END="1374">ها ارادت عرقلة الانتقال الديموقراطي وتأجيج اعمال العنف
+لزعزعة استقرار البلاد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1218" END="1374">اتهم مسؤولون حكوميون انصار النظام السابق بزعامة سوهارتو وبعض الاوساط
+العسكرية بأنها ارادت عرقلة الانتقال الديموقراطي وتأجيج اعمال العنف
+لزعزعة استقرار البلاد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1342" END="1352">اعمال العنف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E11-26" ROLE="Attacker">
+      <extent>
+        <charseq START="1299" END="1300">ها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E4-28" ROLE="Target">
+      <extent>
+        <charseq START="1369" END="1374">البلاد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E12" ROLE="Place"/>
+  <event_mention ID="AFA20001019.1400.0125-EV7-1">
+    <extent>
+      <charseq START="1499" END="1536">المواجهات في اتشيه (اقصى
+الشمال الغربي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1460" END="1577">ورغم توقيع هدنة قبل اربعة اشهر، استمرت المواجهات في اتشيه (اقصى
+الشمال الغربي) حيث يريد الانفصاليون اقامة دولة اسلامية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1499" END="1507">المواجهات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E12-31" ROLE="Place">
+      <extent>
+        <charseq START="1512" END="1536">اتشيه (اقصى
+الشمال الغربي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E48" ROLE="Victim"/>
+  <event_argument REFID="AFA20001019.1400.0125-E22" ROLE="Place"/>
+  <event_argument REFID="AFA20001019.1400.0125-T1" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001019.1400.0125-EV8-1">
+    <extent>
+      <charseq START="1678" END="1742">جزر ملوكو، قتل اكثر من اربعة الاف شخص منذ كانون
+الثاني/يناير 1999</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1674" END="1774">وفي جزر ملوكو، قتل اكثر من اربعة الاف شخص منذ كانون
+الثاني/يناير 1999 خلال مواجات بين مسلمين ومسيحيين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1689" END="1691">قتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E48-95" ROLE="Victim">
+      <extent>
+        <charseq START="1693" END="1714">اكثر من اربعة الاف شخص</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E22-43" ROLE="Place">
+      <extent>
+        <charseq START="1678" END="1686">جزر ملوكو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-T1-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="1720" END="1742">كانون
+الثاني/يناير 1999</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E20" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001019.1400.0125-E21" ROLE="Target"/>
+  <event_mention ID="AFA20001019.1400.0125-EV9-1">
+    <extent>
+      <charseq START="1749" END="1774">مواجات بين مسلمين ومسيحيين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1674" END="1774">وفي جزر ملوكو، قتل اكثر من اربعة الاف شخص منذ كانون
+الثاني/يناير 1999 خلال مواجات بين مسلمين ومسيحيين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1749" END="1754">مواجات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E20-41" ROLE="Attacker">
+      <extent>
+        <charseq START="1760" END="1765">مسلمين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E21-42" ROLE="Target">
+      <extent>
+        <charseq START="1768" END="1774">مسيحيين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV10" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E43" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001019.1400.0125-E30" ROLE="Victim"/>
+  <event_argument REFID="AFA20001019.1400.0125-T10" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001019.1400.0125-EV10-1">
+    <extent>
+      <charseq START="2059" END="2195">سلاح الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية بعد مقتل ثلاثة من عناصر
+المفوضية العليا للاجئين في ايلول/سبتمبر الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2023" END="2195">طلبت المجموعة الدولية من جاكرتا نزع سلاح الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية بعد مقتل ثلاثة من عناصر
+المفوضية العليا للاجئين في ايلول/سبتمبر الماضي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2130" END="2133">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E43-91" ROLE="Instrument">
+      <extent>
+        <charseq START="2059" END="2124">سلاح الميليشيات الموالية
+لاندونيسيا الرافضة لاستقلال تيمور الشرقية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E30-55" ROLE="Victim">
+      <extent>
+        <charseq START="2135" END="2172">ثلاثة من عناصر
+المفوضية العليا للاجئين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-T10-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="2177" END="2195">ايلول/سبتمبر الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV11" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E6" ROLE="Agent"/>
+  <event_argument REFID="AFA20001019.1400.0125-E39" ROLE="Destination"/>
+  <event_argument REFID="AFA20001019.1400.0125-T12" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001019.1400.0125-EV11-1">
+    <extent>
+      <charseq START="2529" END="2592">ه في السفر اذ سجل "رقما قياسيا" بلغ زيارة 50
+بلدا خلال سنة واحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2445" END="2592">بالاضافة الى هذه الحصيلة، ينتقد خصوم وحيد وبعض انصاره، اداءه
+وتصريحاته الغامضة ورغبته في السفر اذ سجل "رقما قياسيا" بلغ زيارة 50
+بلدا خلال سنة واحدة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2565" END="2569">زيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E6-72" ROLE="Agent">
+      <extent>
+        <charseq START="2529" END="2529">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E39-75" ROLE="Destination">
+      <extent>
+        <charseq START="2571" END="2577">50
+بلدا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-T12-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="2584" END="2592">سنة واحدة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV12" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E6" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001019.1400.0125-E40" ROLE="Prosecutor"/>
+  <event_mention ID="AFA20001019.1400.0125-EV12-1">
+    <extent>
+      <charseq START="2635" END="2687">ه في اطار فضيحتين ماليتين تتولى
+لجنة برلمانية التحقيق</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2605" END="2693">تلوثت نزاهة وحيد عندما ورد اسمه في اطار فضيحتين ماليتين تتولى
+لجنة برلمانية التحقيق فيهما</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2681" END="2687">التحقيق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E6-78" ROLE="Defendant">
+      <extent>
+        <charseq START="2635" END="2635">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E40-79" ROLE="Prosecutor">
+      <extent>
+        <charseq START="2667" END="2679">لجنة برلمانية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV13" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001019.1400.0125-E23" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001019.1400.0125-E49" ROLE="Origin"/>
+  <event_mention ID="AFA20001019.1400.0125-EV13-1">
+    <extent>
+      <charseq START="1783" END="1836">جميع انحاء اندونيسيا، يعاني حوالى مليون شخص من التهجير</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1779" END="1836">وفي جميع انحاء اندونيسيا، يعاني حوالى مليون شخص من التهجير</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1830" END="1836">التهجير</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E23-45" ROLE="Artifact">
+      <extent>
+        <charseq START="1817" END="1825">مليون شخص</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E49-96" ROLE="Origin">
+      <extent>
+        <charseq START="1783" END="1802">جميع انحاء اندونيسيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV14" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1400.0125-E32" ROLE="Giver"/>
+  <event_argument REFID="AFA20001019.1400.0125-E4" ROLE="Beneficiary"/>
+  <event_argument REFID="AFA20001019.1400.0125-V1" ROLE="Money"/>
+  <event_argument REFID="AFA20001019.1400.0125-E34" ROLE="Place"/>
+  <event_mention ID="AFA20001019.1400.0125-EV14-1">
+    <extent>
+      <charseq START="2204" END="2268">كبرى الدول المانحة افرجت في طوكيو عن 8،4 مليارات دولار لاندونيسيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2200" END="2288">لكن كبرى الدول المانحة افرجت في طوكيو عن 8،4 مليارات دولار لاندونيسيا
+تعبيرا عن دعمها لها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2215" END="2221">المانحة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E32-87" ROLE="Giver">
+      <extent>
+        <charseq START="2204" END="2221">كبرى الدول المانحة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E4-61" ROLE="Beneficiary">
+      <extent>
+        <charseq START="2259" END="2268">لاندونيسيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="2241" END="2257">8،4 مليارات دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E34-60" ROLE="Place">
+      <extent>
+        <charseq START="2232" END="2236">طوكيو</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1400.0125-EV15" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001019.1400.0125-E18" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001019.1400.0125-E4" ROLE="Destination"/>
+  <event_mention ID="AFA20001019.1400.0125-EV15-1">
+    <extent>
+      <charseq START="2351" END="2393">ملايين
+القادمين الجدد الى سوق العمل في بلاد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2293" END="2439">ولا زال الانتعاش الاقتصادي هشا وغير كاف حتى الان لاستيعاب ملايين
+القادمين الجدد الى سوق العمل في بلاد يعيش 15 في المائة من سكانها
+بدولار واحد يوميا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2358" END="2365">القادمين</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E18-17" ROLE="Artifact">
+      <extent>
+        <charseq START="2351" END="2371">ملايين
+القادمين الجدد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1400.0125-E4-38" ROLE="Destination">
+      <extent>
+        <charseq START="2390" END="2393">بلاد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

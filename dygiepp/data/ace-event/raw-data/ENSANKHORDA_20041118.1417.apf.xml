@@ -1,0 +1,1018 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ENSANKHORDA_20041118.1417.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ENSANKHORDA_20041118.1417">
+<entity ID="ENSANKHORDA_20041118.1417-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1518" END="1523">القتلى</charseq>
+    </extent>
+    <head>
+      <charseq START="1518" END="1523">القتلى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="790" END="820">3 مصريين على الحدود الأسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="792" END="797">مصريين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="826" END="827">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="826" END="827">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="866" END="867">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="866" END="867">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="873" END="874">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="873" END="874">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="881" END="882">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="881" END="882">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1207" END="1228">بالمصريين الذين قُتلوا</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1215">بالمصريين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-32" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1217" END="1221">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="1217" END="1221">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E1-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1227" END="1228">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1227" END="1228">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E2-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="810" END="820">الأسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="810" END="820">الأسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E2-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="845" END="854">الأسرائيلى</charseq>
+    </extent>
+    <head>
+      <charseq START="845" END="854">الأسرائيلى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأسرائيلية">
+      <charseq START="810" END="820">الأسرائيلية</charseq>
+    </name>
+    <name NAME="الأسرائيلى">
+      <charseq START="845" END="854">الأسرائيلى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E3-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="834" END="854">حرس الحدود الأسرائيلى</charseq>
+    </extent>
+    <head>
+      <charseq START="834" END="836">حرس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E3-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="861" END="862">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="862">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E5-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="979" END="986">شاب مصرى</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="981">شاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E5-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="971" END="971">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="971" END="971">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E6-16" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="983" END="986">مصرى</charseq>
+    </extent>
+    <head>
+      <charseq START="983" END="986">مصرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E6-77" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="429" END="434">المصرى</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="434">المصرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصرى">
+      <charseq START="983" END="986">مصرى</charseq>
+    </name>
+    <name NAME="المصرى">
+      <charseq START="429" END="434">المصرى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E7-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1061" END="1064">أحنا</charseq>
+    </extent>
+    <head>
+      <charseq START="1061" END="1064">أحنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E7-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1070" END="1071">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="1070" END="1071">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E7-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1095" END="1095">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1095" END="1095">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E7-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1046" END="1047">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1046" END="1047">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E8-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1100" END="1104">الجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="1100" END="1104">الجيش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E8-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1184" END="1188">الجيش</charseq>
+    </extent>
+    <head>
+      <charseq START="1184" END="1188">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E9" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E9-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1200" END="1205">اى أحد</charseq>
+    </extent>
+    <head>
+      <charseq START="1203" END="1205">أحد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E9-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1195" END="1195">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1195" END="1195">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E10" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E10-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="147" END="152">القتلى</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="152">القتلى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E10-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="314" END="314">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="314">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E10-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="160" END="161">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="161">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E10-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="298" END="304">الأموات</charseq>
+    </extent>
+    <head>
+      <charseq START="298" END="304">الأموات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E11-30" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1458" END="1475">فئة كبيرة من الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="1458" END="1460">فئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E11-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1479" END="1492">الشباب الجامعى</charseq>
+    </extent>
+    <head>
+      <charseq START="1479" END="1484">الشباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E12" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E12-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1648" END="1661">الأعداد الضخمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1648" END="1654">الأعداد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E13-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1782" END="1787">ستالين</charseq>
+    </extent>
+    <head>
+      <charseq START="1782" END="1787">ستالين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ستالين">
+      <charseq START="1782" END="1787">ستالين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E14" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E14-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1795" END="1802">شخص واحد</charseq>
+    </extent>
+    <head>
+      <charseq START="1795" END="1797">شخص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E15" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E15-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1825" END="1829">جماعة</charseq>
+    </extent>
+    <head>
+      <charseq START="1825" END="1829">جماعة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E16" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E16-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="688" END="688">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="688" END="688">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E16-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="695" END="697">نحن</charseq>
+    </extent>
+    <head>
+      <charseq START="695" END="697">نحن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E16-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="283" END="283">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="283">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E16-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="577" END="578">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="577" END="578">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E17" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E17-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="838" END="854">الحدود الأسرائيلى</charseq>
+    </extent>
+    <head>
+      <charseq START="838" END="843">الحدود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E17-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="803" END="820">الحدود الأسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="803" END="808">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E18" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E18-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1564" END="1564">ك</charseq>
+    </extent>
+    <head>
+      <charseq START="1564" END="1564">ك</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E19" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E19-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1648" END="1670">الأعداد الضخمة من البشر</charseq>
+    </extent>
+    <head>
+      <charseq START="1666" END="1670">البشر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E20" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E20-51" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="210" END="212">هذا</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="212">هذا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E21" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E21-52" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="217" END="219">ذاك</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="219">ذاك</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E22" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E22-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="894" END="900">الالغام</charseq>
+    </extent>
+    <head>
+      <charseq START="894" END="900">الالغام</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="745" END="745">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="745" END="745">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1058" END="1058">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="1058" END="1058">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1128" END="1128">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1128" END="1128">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1163" END="1165">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="1163" END="1165">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1175" END="1175">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1175" END="1175">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1356" END="1356">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1356" END="1356">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1672" END="1672">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1672" END="1672">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1327" END="1327">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="1327" END="1327">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="773" END="773">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="773">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="398" END="398">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="398">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="468" END="468">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="468">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="905" END="905">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="905" END="905">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1765" END="1765">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1765" END="1765">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="170" END="170">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="170" END="170">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="238" END="238">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="238">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="258" END="258">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="258">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E23-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="459" END="459">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="459">أ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E24" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E24-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1272" END="1276">البشر</charseq>
+    </extent>
+    <head>
+      <charseq START="1272" END="1276">البشر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E24-67" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="384" END="388">البشر</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="388">البشر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E24-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="547" END="551">البشر</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="551">البشر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E25-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="605" END="605">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="605">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E25-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="614" END="631">الزملاء فى الجامعة</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="620">الزملاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E26" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E26-74" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="625" END="631">الجامعة</charseq>
+    </extent>
+    <head>
+      <charseq START="625" END="631">الجامعة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E27" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E27-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="662" END="662">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="662">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E27-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="667" END="669">ناس</charseq>
+    </extent>
+    <head>
+      <charseq START="667" END="669">ناس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ENSANKHORDA_20041118.1417-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-37" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="1471" END="1475">الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="1471" END="1475">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-56" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="423" END="434">الشعب المصرى</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="427">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-57" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="420" END="434">كل الشعب المصرى</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="421">كل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-68" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="1279" END="1282">الكل</charseq>
+    </extent>
+    <head>
+      <charseq START="1279" END="1282">الكل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-69" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1340" END="1344">البلد</charseq>
+    </extent>
+    <head>
+      <charseq START="1340" END="1344">البلد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-70" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1413" END="1415">وطن</charseq>
+    </extent>
+    <head>
+      <charseq START="1413" END="1415">وطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-72" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1388" END="1397">لهذا الوطن</charseq>
+    </extent>
+    <head>
+      <charseq START="1393" END="1397">الوطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ENSANKHORDA_20041118.1417-E28-78" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="436" END="436">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="436">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ENSANKHORDA_20041118.1417-T1">
+  <timex2_mention ID="ENSANKHORDA_20041118.1417-T1-1">
+    <extent>
+      <charseq START="775" END="779">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ENSANKHORDA_20041118.1417-T2">
+  <timex2_mention ID="ENSANKHORDA_20041118.1417-T2-1">
+    <extent>
+      <charseq START="1303" END="1308">3 سنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ENSANKHORDA_20041118.1417-T3">
+  <timex2_mention ID="ENSANKHORDA_20041118.1417-T3-1">
+    <extent>
+      <charseq START="41" END="59">2004-11-18T14:17:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ENSANKHORDA_20041118.1417-T4">
+  <timex2_mention ID="ENSANKHORDA_20041118.1417-T4-1">
+    <extent>
+      <charseq START="117" END="135">2004-11-18T14:17:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ENSANKHORDA_20041118.1417-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ENSANKHORDA_20041118.1417-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="803" END="820">الحدود الأسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E17-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="803" END="820">الحدود الأسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E2-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="810" END="820">الأسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ENSANKHORDA_20041118.1417-R2" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E26" ROLE="Arg-2"/>
+  <relation_mention ID="ENSANKHORDA_20041118.1417-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="614" END="631">الزملاء فى الجامعة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E25-73" ROLE="Arg-1">
+      <extent>
+        <charseq START="614" END="631">الزملاء فى الجامعة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E26-74" ROLE="Arg-2">
+      <extent>
+        <charseq START="625" END="631">الجامعة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ENSANKHORDA_20041118.1417-R3" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ENSANKHORDA_20041118.1417-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="790" END="831">3 مصريين على الحدود الأسرائيلية
+قُتلوا خطأ</charseq>
+    </extent>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E1-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="790" END="820">3 مصريين على الحدود الأسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E17-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="803" END="820">الحدود الأسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ENSANKHORDA_20041118.1417-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="ENSANKHORDA_20041118.1417-E6" ROLE="Arg-2"/>
+  <relation_mention ID="ENSANKHORDA_20041118.1417-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="979" END="986">شاب مصرى</charseq>
+    </extent>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E5-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="979" END="986">شاب مصرى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ENSANKHORDA_20041118.1417-E6-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="983" END="986">مصرى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ENSANKHORDA_20041118.1417-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Past">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E19" ROLE="Victim"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV1-1">
+    <extent>
+      <charseq START="1644" END="1670">موت الأعداد الضخمة من البشر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1577" END="1670">لقد أستطاع الأعلام - بطريقة غير مقصودة - قتل الشعور الإنسانى أتجاه
+موت الأعداد الضخمة من البشر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1644" END="1646">موت</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E19-50" ROLE="Victim">
+      <extent>
+        <charseq START="1648" END="1670">الأعداد الضخمة من البشر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E3" ROLE="Attacker"/>
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E1" ROLE="Target"/>
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E22" ROLE="Instrument"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV2-1">
+    <extent>
+      <charseq START="834" END="900">حرس الحدود الأسرائيلى أعتقدوا انهم مخربون يحاولون زراعة بعض الالغام</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="834" END="900">حرس الحدود الأسرائيلى أعتقدوا انهم مخربون يحاولون زراعة بعض الالغام</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="884" END="888">زراعة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E3-9" ROLE="Attacker">
+      <extent>
+        <charseq START="834" END="854">حرس الحدود الأسرائيلى</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E1-13" ROLE="Target">
+      <extent>
+        <charseq START="873" END="874">ون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E22-54" ROLE="Instrument">
+      <extent>
+        <charseq START="894" END="900">الالغام</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Unspecified">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E20" ROLE="Victim"/>
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E21" ROLE="Victim"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV3-1">
+    <extent>
+      <charseq START="205" END="219">مصرع هذا أو ذاك</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="172" END="219">الشعور لا يتحرك أو يتأثر مع سماع مصرع هذا أو ذاك</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="205" END="208">مصرع</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E20-51" ROLE="Victim">
+      <extent>
+        <charseq START="210" END="212">هذا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E21-52" ROLE="Victim">
+      <extent>
+        <charseq START="217" END="219">ذاك</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Unspecified">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E27" ROLE="Victim"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV4-1">
+    <extent>
+      <charseq START="662" END="665">يقتل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="662" END="701">يقتل ناس هناك إذاً يجب أن نتظاهر نحن هنا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="662" END="665">يقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E27-4" ROLE="Victim">
+      <extent>
+        <charseq START="662" END="662">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV5" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Present">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E25" ROLE="Entity"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV5-1">
+    <extent>
+      <charseq START="590" END="631">المظاهرات التى يقوم بها الزملاء فى الجامعة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="586" END="660">حتى المظاهرات التى يقوم بها الزملاء فى الجامعة أصبحت كالعادة يجب
+القيام بها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="590" END="598">المظاهرات</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E25-73" ROLE="Entity">
+      <extent>
+        <charseq START="614" END="631">الزملاء فى الجامعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E1" ROLE="Victim"/>
+  <event_argument REFID="ENSANKHORDA_20041118.1417-T1" ROLE="Time-Within"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV6-1">
+    <extent>
+      <charseq START="775" END="820">اليوم خبر مصرع 3 مصريين على الحدود الأسرائيلية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="770" END="831">قرأت اليوم خبر مصرع 3 مصريين على الحدود الأسرائيلية
+قُتلوا خطأ</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="785" END="788">مصرع</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E1-6" ROLE="Victim">
+      <extent>
+        <charseq START="790" END="820">3 مصريين على الحدود الأسرائيلية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="775" END="779">اليوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E1" ROLE="Victim"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV7-1">
+    <extent>
+      <charseq START="1223" END="1228">قُتلوا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1192" END="1228">لم يهتم اى أحد بالمصريين الذين قُتلوا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1223" END="1228">قُتلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E1-33" ROLE="Victim">
+      <extent>
+        <charseq START="1227" END="1228">وا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Unspecified">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E14" ROLE="Victim"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV8-1">
+    <extent>
+      <charseq START="1791" END="1802">موت شخص واحد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1791" END="1842">موت شخص واحد هو كارثة ... لكن موت جماعة
+مجرد أحصائات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1791" END="1793">موت</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E14-41" ROLE="Victim">
+      <extent>
+        <charseq START="1795" END="1802">شخص واحد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ENSANKHORDA_20041118.1417-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Unspecified">
+  <event_argument REFID="ENSANKHORDA_20041118.1417-E15" ROLE="Victim"/>
+  <event_mention ID="ENSANKHORDA_20041118.1417-EV9-1">
+    <extent>
+      <charseq START="1821" END="1829">موت جماعة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1791" END="1842">موت شخص واحد هو كارثة ... لكن موت جماعة
+مجرد أحصائات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1821" END="1823">موت</charseq>
+    </anchor>
+    <event_mention_argument REFID="ENSANKHORDA_20041118.1417-E15-42" ROLE="Victim">
+      <extent>
+        <charseq START="1825" END="1829">جماعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

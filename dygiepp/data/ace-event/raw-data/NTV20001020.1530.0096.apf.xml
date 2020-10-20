@@ -1,0 +1,2490 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001020.1530.0096.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001020.1530.0096">
+<entity ID="NTV20001020.1530.0096-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E1-40" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1161" END="1170">الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1170">الإسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-56" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1568" END="1574">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1568" END="1574">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-57" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1622" END="1623">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1622" END="1623">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-59" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1725" END="1731">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1725" END="1731">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-64" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1813" END="1823">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1813" END="1823">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-72" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1936" END="1942">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1936" END="1942">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-75" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1973" END="1979">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1973" END="1979">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-77" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2000" END="2006">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2000" END="2006">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-104" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2733" END="2739">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2733" END="2739">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-106" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2757" END="2766">الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="2757" END="2766">الإسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-131" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1717" END="1717">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1717" END="1717">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-136" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2750" END="2766">المحتل الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="2750" END="2755">المحتل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E1-154" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="301" END="311">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="301" END="311">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإسرائيلي">
+      <charseq START="1161" END="1170">الإسرائيلي</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1568" END="1574">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1725" END="1731">إسرائيل</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="1813" END="1823">الإسرائيلية</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1936" END="1942">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1973" END="1979">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="2000" END="2006">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="2733" END="2739">إسرائيل</charseq>
+    </name>
+    <name NAME="الإسرائيلي">
+      <charseq START="2757" END="2766">الإسرائيلي</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="301" END="311">الإسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E2" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="316" END="333">الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="333">الأراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E2-37" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1129" END="1138">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1129" END="1138">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E2-46" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1383" END="1392">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1383" END="1392">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E2-60" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1737" END="1747">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1737" END="1747">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E2-90" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="2320" END="2330">الفلسطينيون</charseq>
+    </extent>
+    <head>
+      <charseq START="2320" END="2330">الفلسطينيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E2-94" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="2444" END="2454">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="2444" END="2454">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E2-95" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="2477" END="2478">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2477" END="2478">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E2-112" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2980" END="2989">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="2980" END="2989">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأراضي الفلسطينية">
+      <charseq START="316" END="333">الأراضي الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="1129" END="1138">الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="1383" END="1392">الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطينيين">
+      <charseq START="1737" END="1747">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطينيون">
+      <charseq START="2320" END="2330">الفلسطينيون</charseq>
+    </name>
+    <name NAME="الفلسطينيين">
+      <charseq START="2444" END="2454">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="2980" END="2989">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E3-3" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="387" END="401">السيد عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="391">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="393" END="401">عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="401">عمرو موسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="602" END="621">وزير
+الخارجية المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="605">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-30" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="968" END="987">وزير الخارجية المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="968" END="971">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="989" END="997">عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="989" END="997">عمرو موسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1177" END="1185">عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="1177" END="1185">عمرو موسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-43" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1292" END="1311">وزير
+الخارجية المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="1292" END="1295">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-84" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="69" END="83">السيد عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="73">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-129" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="75" END="83">عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="83">عمرو موسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-133" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1341" END="1341">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1341" END="1341">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-134" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="85" END="97">وزير الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="88">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-135" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1419" END="1419">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1419" END="1419">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-137" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="226" END="238">وزير الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="226" END="229">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-138" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="623" END="631">عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="631">عمرو موسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-146" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="210" END="224">السيد عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="214">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E3-147" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="216" END="224">عمرو موسى</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="224">عمرو موسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمرو موسى">
+      <charseq START="393" END="401">عمرو موسى</charseq>
+    </name>
+    <name NAME="عمرو موسى">
+      <charseq START="989" END="997">عمرو موسى</charseq>
+    </name>
+    <name NAME="عمرو موسى">
+      <charseq START="1177" END="1185">عمرو موسى</charseq>
+    </name>
+    <name NAME="عمرو موسى">
+      <charseq START="75" END="83">عمرو موسى</charseq>
+    </name>
+    <name NAME="عمرو موسى">
+      <charseq START="623" END="631">عمرو موسى</charseq>
+    </name>
+    <name NAME="عمرو موسى">
+      <charseq START="216" END="224">عمرو موسى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E4-7" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="444" END="448">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="448">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-8" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="517" END="523">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="523">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-9" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="546" END="551">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="551">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-11" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="572" END="576">عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="576">عربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-18" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="652" END="656">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="652" END="656">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-20" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="688" END="694">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="688" END="694">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-26" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="886" END="892">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="886" END="892">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-34" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1037" END="1040">عربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1037" END="1040">عربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-42" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1199" END="1205">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1199" END="1205">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-47" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1441" END="1444">عربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1441" END="1444">عربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-71" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1915" END="1918">عربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1915" END="1918">عربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-93" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2382" END="2386">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="2382" END="2386">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-99" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2596" END="2600">للعرب</charseq>
+    </extent>
+    <head>
+      <charseq START="2596" END="2600">للعرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-100" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2693" END="2696">نحنا</charseq>
+    </extent>
+    <head>
+      <charseq START="2693" END="2696">نحنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-101" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2698" END="2707">كجانب عربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2698" END="2702">كجانب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-102" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2704" END="2707">عربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2704" END="2707">عربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-116" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3137" END="3143">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="3137" END="3143">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-119" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3206" END="3210">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="3206" END="3210">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-123" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3395" END="3401">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="3395" END="3401">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-132" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="2741" END="2741">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2741" END="2741">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-142" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="117" END="121">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="121">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-144" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="162" END="168">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="168">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E4-151" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="258" END="262">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="262">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العرب">
+      <charseq START="444" END="448">العرب</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="517" END="523">العربية</charseq>
+    </name>
+    <name NAME="العربي">
+      <charseq START="546" END="551">العربي</charseq>
+    </name>
+    <name NAME="عربية">
+      <charseq START="572" END="576">عربية</charseq>
+    </name>
+    <name NAME="العرب">
+      <charseq START="652" END="656">العرب</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="688" END="694">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="886" END="892">العربية</charseq>
+    </name>
+    <name NAME="عربي">
+      <charseq START="1037" END="1040">عربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="1199" END="1205">العربية</charseq>
+    </name>
+    <name NAME="عربي">
+      <charseq START="1441" END="1444">عربي</charseq>
+    </name>
+    <name NAME="عربي">
+      <charseq START="1915" END="1918">عربي</charseq>
+    </name>
+    <name NAME="عربي">
+      <charseq START="2704" END="2707">عربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="3137" END="3143">العربية</charseq>
+    </name>
+    <name NAME="العرب">
+      <charseq START="3206" END="3210">العرب</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="3395" END="3401">العربية</charseq>
+    </name>
+    <name NAME="العرب">
+      <charseq START="117" END="121">العرب</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="162" END="168">العربية</charseq>
+    </name>
+    <name NAME="العرب">
+      <charseq START="258" END="262">العرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E8-15" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="616" END="621">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="616" END="621">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E8-32" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="982" END="987">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="982" END="987">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E8-45" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1306" END="1311">المصري</charseq>
+    </extent>
+    <head>
+      <charseq START="1306" END="1311">المصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المصري">
+      <charseq START="616" END="621">المصري</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="982" END="987">المصري</charseq>
+    </name>
+    <name NAME="المصري">
+      <charseq START="1306" END="1311">المصري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E11-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="722" END="728">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="722" END="728">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E11-22" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="713" END="713">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="713">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E11-124" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3414" END="3421">بالقاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="3414" END="3421">بالقاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="722" END="728">القاهرة</charseq>
+    </name>
+    <name NAME="بالقاهرة">
+      <charseq START="3414" END="3421">بالقاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E12" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001020.1530.0096-E12-23" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="854" END="901">حشد كبير من ممثلي وسائل
+الإعلام العربية والدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="854" END="856">حشد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E13-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="866" END="901">ممثلي وسائل
+الإعلام العربية والدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="866" END="870">ممثلي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E14-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="872" END="901">وسائل
+الإعلام العربية والدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="872" END="876">وسائل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E16" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001020.1530.0096-E16-27" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="914" END="927">عدد من الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="916">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E20-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1053" END="1057">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1053" END="1057">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="1053" END="1057">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E21-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1121" END="1138">للقيادة الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1121" END="1127">للقيادة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E21-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1148" END="1149">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1148" END="1149">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E23-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1154" END="1170">الجانب
+الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="1154" END="1159">الجانب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E30-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1493" END="1493">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1493" END="1493">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E30-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1499" END="1511">لرئيس
+الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="1499" END="1503">لرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E30-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1514" END="1536">وزير الخارجية اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1514" END="1517">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E30-55" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1538" END="1547">سليم الحصى</charseq>
+    </extent>
+    <head>
+      <charseq START="1538" END="1547">سليم الحصى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E30-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1681" END="1684">الحص</charseq>
+    </extent>
+    <head>
+      <charseq START="1681" END="1684">الحص</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سليم الحصى">
+      <charseq START="1538" END="1547">سليم الحصى</charseq>
+    </name>
+    <name NAME="الحص">
+      <charseq START="1681" END="1684">الحص</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E31-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1505" END="1511">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="1505" END="1511">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E32" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E32-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1519" END="1536">الخارجية اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1519" END="1526">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="1519" END="1526">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E33-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1528" END="1536">اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1528" END="1536">اللبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E33-62" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1792" END="1801">اللبنانيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1792" END="1801">اللبنانيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E33-114" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3001" END="3009">اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="3001" END="3009">اللبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اللبنانية">
+      <charseq START="1528" END="1536">اللبنانية</charseq>
+    </name>
+    <name NAME="اللبنانيين">
+      <charseq START="1792" END="1801">اللبنانيين</charseq>
+    </name>
+    <name NAME="اللبنانية">
+      <charseq START="3001" END="3009">اللبنانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E35-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1785" END="1823">الأسرى اللبنانيين في السجون الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1785" END="1790">الأسرى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E37-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1806" END="1823">السجون الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1806" END="1811">السجون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E39-65" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1834" END="1834">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1834" END="1834">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E39-67" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1836" END="1871">وزير الدولة
+للشئون الخارجية الجزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="1836" END="1839">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E39-70" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1873" END="1890">عبد العزيز بن خادم</charseq>
+    </extent>
+    <head>
+      <charseq START="1873" END="1890">عبد العزيز بن خادم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E39-108" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2834" END="2871">وزير الدولة للشئون الخارجية
+في الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="2834" END="2837">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E39-110" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2873" END="2890">عبد العزيز بن خادم</charseq>
+    </extent>
+    <head>
+      <charseq START="2873" END="2890">عبد العزيز بن خادم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد العزيز بن خادم">
+      <charseq START="1873" END="1890">عبد العزيز بن خادم</charseq>
+    </name>
+    <name NAME="عبد العزيز بن خادم">
+      <charseq START="2873" END="2890">عبد العزيز بن خادم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E40" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E40-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2388" END="2403">داخل الخط الأخضر</charseq>
+    </extent>
+    <head>
+      <charseq START="2393" END="2403">الخط الأخضر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخط الأخضر">
+      <charseq START="2393" END="2403">الخط الأخضر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E41" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E41-68" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2839" END="2844">الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="2839" END="2844">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E41-69" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1864" END="1871">الجزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="1864" END="1871">الجزائري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E41-73" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1949" END="1955">الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="1949" END="1955">الجزائر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E41-74" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1967" END="1968">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1967" END="1968">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E41-76" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1985" END="1985">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1985" END="1985">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E41-105" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1841" END="1846">الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="1841" END="1846">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E41-109" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2865" END="2871">الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="2865" END="2871">الجزائر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E41-111" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2892" END="2898">الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="2892" END="2898">الجزائر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزائري">
+      <charseq START="1864" END="1871">الجزائري</charseq>
+    </name>
+    <name NAME="الجزائر">
+      <charseq START="1949" END="1955">الجزائر</charseq>
+    </name>
+    <name NAME="الجزائر">
+      <charseq START="2865" END="2871">الجزائر</charseq>
+    </name>
+    <name NAME="الجزائر">
+      <charseq START="2892" END="2898">الجزائر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E45-78" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2056" END="2061">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="2056" END="2061">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E45-89" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2287" END="2292">السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="2287" END="2292">السوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E45-113" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2992" END="2998">السورية</charseq>
+    </extent>
+    <head>
+      <charseq START="2992" END="2998">السورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السوري">
+      <charseq START="2056" END="2061">السوري</charseq>
+    </name>
+    <name NAME="السوري">
+      <charseq START="2287" END="2292">السوري</charseq>
+    </name>
+    <name NAME="السورية">
+      <charseq START="2992" END="2998">السورية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E46-80" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2076" END="2088">وزير الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="2076" END="2079">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E46-82" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2090" END="2100">فاروق الشرع</charseq>
+    </extent>
+    <head>
+      <charseq START="2090" END="2100">فاروق الشرع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E46-86" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2261" END="2265">الشرع</charseq>
+    </extent>
+    <head>
+      <charseq START="2261" END="2265">الشرع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E46-87" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2273" END="2292">وزير الخارجية السوري</charseq>
+    </extent>
+    <head>
+      <charseq START="2273" END="2276">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E46-96" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2503" END="2503">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2503" END="2503">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E46-97" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2508" END="2512">الشرع</charseq>
+    </extent>
+    <head>
+      <charseq START="2508" END="2512">الشرع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E46-98" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2521" END="2521">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2521" END="2521">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E46-130" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2559" END="2559">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2559" END="2559">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فاروق الشرع">
+      <charseq START="2090" END="2100">فاروق الشرع</charseq>
+    </name>
+    <name NAME="الشرع">
+      <charseq START="2261" END="2265">الشرع</charseq>
+    </name>
+    <name NAME="الشرع">
+      <charseq START="2508" END="2512">الشرع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E47" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E47-81" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2081" END="2088">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="2081" END="2088">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E47-88" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2278" END="2285">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="2278" END="2285">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="2081" END="2088">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="2278" END="2285">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E49" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E49-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2237" END="2237">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2237" END="2237">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E49-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2245" END="2251">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="2245" END="2251">المنطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E51-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2352" END="2361">المستوطنين</charseq>
+    </extent>
+    <head>
+      <charseq START="2352" END="2361">المستوطنين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E52" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001020.1530.0096-E52-92" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="2368" END="2386">حوالي عشرة من العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="2374" END="2377">عشرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E54" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E54-103" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2712" END="2739">الأراضي
+المحتلة داخل إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2712" END="2718">الأراضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E60" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E60-115" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3027" END="3041">الحجرات المغلقة</charseq>
+    </extent>
+    <head>
+      <charseq START="3027" END="3033">الحجرات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E63-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="428" END="448">لوزراء الخارجية العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="433">لوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-16" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="637" END="656">وزراء الخارجية العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="641">وزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-19" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="670" END="671">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="671">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="921" END="927">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="921" END="927">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-117" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3191" END="3210">وزراء
+الخارجية العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="3191" END="3195">وزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-120" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3222" END="3223">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="3222" END="3223">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-121" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="3329" END="3342">السادة
+الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="3329" END="3334">السادة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-122" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3336" END="3342">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="3336" END="3342">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-140" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="102" END="121">وزراء الخارجية العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="106">وزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-143" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="126" END="127">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="126" END="127">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-149" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="243" END="262">وزراء الخارجية العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="243" END="247">وزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-152" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="267" END="268">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="268">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E63-153" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="281" END="282">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="282">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001020.1530.0096-E65" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E65-125" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3453" END="3494">مركز القاهرة الدولي
+للمؤتمرات في مدينة نصر</charseq>
+    </extent>
+    <head>
+      <charseq START="3453" END="3481">مركز القاهرة الدولي
+للمؤتمرات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مركز القاهرة الدولي للمؤتمرات">
+      <charseq START="3453" END="3481">مركز القاهرة الدولي
+للمؤتمرات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E66" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E66-126" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3486" END="3494">مدينة نصر</charseq>
+    </extent>
+    <head>
+      <charseq START="3486" END="3494">مدينة نصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مدينة نصر">
+      <charseq START="3486" END="3494">مدينة نصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E67-127" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3498" END="3526">رمضان حسين قناة النيل للأخبار</charseq>
+    </extent>
+    <head>
+      <charseq START="3498" END="3507">رمضان حسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رمضان حسين">
+      <charseq START="3498" END="3507">رمضان حسين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E68" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E68-128" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3509" END="3526">قناة النيل للأخبار</charseq>
+    </extent>
+    <head>
+      <charseq START="3509" END="3526">قناة النيل للأخبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قناة النيل للأخبار">
+      <charseq START="3509" END="3526">قناة النيل للأخبار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E73" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E73-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="607" END="614">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="607" END="614">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E73-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="973" END="980">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="973" END="980">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E73-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1297" END="1304">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="1297" END="1304">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E73-139" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="90" END="97">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="97">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E73-148" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="231" END="238">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="238">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="607" END="614">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="973" END="980">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="1297" END="1304">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="90" END="97">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="231" END="238">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001020.1530.0096-E75" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001020.1530.0096-E75-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="435" END="442">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="442">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E75-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="643" END="650">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="650">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E75-118" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3197" END="3204">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="3197" END="3204">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E75-141" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="108" END="115">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="115">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001020.1530.0096-E75-150" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="249" END="256">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="256">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="435" END="442">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="643" END="650">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="3197" END="3204">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="108" END="115">الخارجية</charseq>
+    </name>
+    <name NAME="الخارجية">
+      <charseq START="249" END="256">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="NTV20001020.1530.0096-T1">
+  <timex2_mention ID="NTV20001020.1530.0096-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/20/2000 15:31:36.43</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T2">
+  <timex2_mention ID="NTV20001020.1530.0096-T2-1">
+    <extent>
+      <charseq START="185" END="202">شهر مارس من كل عام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T3">
+  <timex2_mention ID="NTV20001020.1530.0096-T3-1">
+    <extent>
+      <charseq START="284" END="289">الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T4">
+  <timex2_mention ID="NTV20001020.1530.0096-T4-1">
+    <extent>
+      <charseq START="450" END="464">مساء أمس الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T5">
+  <timex2_mention ID="NTV20001020.1530.0096-T5-1">
+    <extent>
+      <charseq START="730" END="734">السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T6">
+  <timex2_mention ID="NTV20001020.1530.0096-T6-1">
+    <extent>
+      <charseq START="737" END="741">الأحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T7">
+  <timex2_mention ID="NTV20001020.1530.0096-T7-1">
+    <extent>
+      <charseq START="784" END="812">العاشرة والنصف من صباح الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T8">
+  <timex2_mention ID="NTV20001020.1530.0096-T8-1">
+    <extent>
+      <charseq START="826" END="845">الساعة والنصف الساعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001020.1530.0096-T9">
+  <timex2_mention ID="NTV20001020.1530.0096-T9-1">
+    <extent>
+      <charseq START="3423" END="3448">يومي السبت والأحد القادمين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001020.1530.0096-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E54" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E1" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R1-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="2712" END="2739">الأراضي
+المحتلة داخل إسرائيل</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E54-103" ROLE="Arg-1">
+      <extent>
+        <charseq START="2712" END="2739">الأراضي
+المحتلة داخل إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E1-104" ROLE="Arg-2">
+      <extent>
+        <charseq START="2733" END="2739">إسرائيل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E73" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="85" END="97">وزير الخارجية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E3-134" ROLE="Arg-1">
+      <extent>
+        <charseq START="85" END="97">وزير الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E73-139" ROLE="Arg-2">
+      <extent>
+        <charseq START="90" END="97">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R2-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="226" END="238">وزير الخارجية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E3-137" ROLE="Arg-1">
+      <extent>
+        <charseq START="226" END="238">وزير الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E73-148" ROLE="Arg-2">
+      <extent>
+        <charseq START="231" END="238">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R2-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="602" END="621">وزير
+الخارجية المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E3-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="602" END="621">وزير
+الخارجية المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E73-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="607" END="614">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R2-4" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="968" END="987">وزير الخارجية المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E3-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="968" END="987">وزير الخارجية المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E73-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="973" END="980">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R2-5" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1292" END="1311">وزير
+الخارجية المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E3-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1292" END="1311">وزير
+الخارجية المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E73-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="1297" END="1304">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E63" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E75" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="102" END="121">وزراء الخارجية العرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E63-140" ROLE="Arg-1">
+      <extent>
+        <charseq START="102" END="121">وزراء الخارجية العرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E75-141" ROLE="Arg-2">
+      <extent>
+        <charseq START="108" END="115">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R3-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="243" END="262">وزراء الخارجية العرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E63-149" ROLE="Arg-1">
+      <extent>
+        <charseq START="243" END="262">وزراء الخارجية العرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E75-150" ROLE="Arg-2">
+      <extent>
+        <charseq START="249" END="256">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R3-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="428" END="448">لوزراء الخارجية العرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E63-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="428" END="448">لوزراء الخارجية العرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E75-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="435" END="442">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R3-4" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="637" END="656">وزراء الخارجية العرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E63-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="637" END="656">وزراء الخارجية العرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E75-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="643" END="650">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R3-5" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="3191" END="3210">وزراء
+الخارجية العرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E63-117" ROLE="Arg-1">
+      <extent>
+        <charseq START="3191" END="3210">وزراء
+الخارجية العرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E75-118" ROLE="Arg-2">
+      <extent>
+        <charseq START="3197" END="3204">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E8" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="602" END="621">وزير
+الخارجية المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E3-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="602" END="621">وزير
+الخارجية المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E8-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="616" END="621">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R5-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1292" END="1311">وزير
+الخارجية المصري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E3-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1292" END="1311">وزير
+الخارجية المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E8-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="1306" END="1311">المصري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E14" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R10-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="866" END="901">ممثلي وسائل
+الإعلام العربية والدولية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E13-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="866" END="901">ممثلي وسائل
+الإعلام العربية والدولية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E14-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="872" END="901">وسائل
+الإعلام العربية والدولية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R12" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E2" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1121" END="1138">للقيادة الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E21-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="1121" END="1138">للقيادة الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E2-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="1129" END="1138">الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R13" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E1" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1154" END="1170">الجانب
+الإسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E23-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="1154" END="1170">الجانب
+الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E1-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="1161" END="1170">الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R15" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E31" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R15-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1499" END="1511">لرئيس
+الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E30-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1499" END="1511">لرئيس
+الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E31-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="1505" END="1511">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R16" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E32" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R16-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1514" END="1536">وزير الخارجية اللبنانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E30-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="1514" END="1536">وزير الخارجية اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E32-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="1519" END="1536">الخارجية اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R17" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E33" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R17-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1785" END="1823">الأسرى اللبنانيين في السجون الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E35-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="1785" END="1823">الأسرى اللبنانيين في السجون الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E33-62" ROLE="Arg-2">
+      <extent>
+        <charseq START="1792" END="1801">اللبنانيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R18" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E41" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R18-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1836" END="1871">وزير الدولة
+للشئون الخارجية الجزائري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E39-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="1836" END="1871">وزير الدولة
+للشئون الخارجية الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E41-105" ROLE="Arg-2">
+      <extent>
+        <charseq START="1841" END="1846">الدولة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R18-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2834" END="2871">وزير الدولة للشئون الخارجية
+في الجزائر</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E39-108" ROLE="Arg-1">
+      <extent>
+        <charseq START="2834" END="2871">وزير الدولة للشئون الخارجية
+في الجزائر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E41-68" ROLE="Arg-2">
+      <extent>
+        <charseq START="2839" END="2844">الدولة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R19" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E46" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E47" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R19-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2076" END="2088">وزير الخارجية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E46-80" ROLE="Arg-1">
+      <extent>
+        <charseq START="2076" END="2088">وزير الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E47-81" ROLE="Arg-2">
+      <extent>
+        <charseq START="2081" END="2088">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001020.1530.0096-R19-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2273" END="2292">وزير الخارجية السوري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E46-87" ROLE="Arg-1">
+      <extent>
+        <charseq START="2273" END="2292">وزير الخارجية السوري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E47-88" ROLE="Arg-2">
+      <extent>
+        <charseq START="2278" END="2285">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R24" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E65" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E66" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R24-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="3453" END="3494">مركز القاهرة الدولي
+للمؤتمرات في مدينة نصر</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E65-125" ROLE="Arg-1">
+      <extent>
+        <charseq START="3453" END="3494">مركز القاهرة الدولي
+للمؤتمرات في مدينة نصر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E66-126" ROLE="Arg-2">
+      <extent>
+        <charseq START="3486" END="3494">مدينة نصر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R25" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E67" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E68" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R25-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="3498" END="3526">رمضان حسين قناة النيل للأخبار</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E67-127" ROLE="Arg-1">
+      <extent>
+        <charseq START="3498" END="3526">رمضان حسين قناة النيل للأخبار</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E68-128" ROLE="Arg-2">
+      <extent>
+        <charseq START="3509" END="3526">قناة النيل للأخبار</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R26" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E33" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R26-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1519" END="1536">الخارجية اللبنانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E32-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="1519" END="1536">الخارجية اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E33-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="1528" END="1536">اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R27" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E41" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R27-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1836" END="1871">وزير الدولة
+للشئون الخارجية الجزائري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E39-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="1836" END="1871">وزير الدولة
+للشئون الخارجية الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E41-69" ROLE="Arg-2">
+      <extent>
+        <charseq START="1864" END="1871">الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R28" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E37" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E1" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R28-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1806" END="1823">السجون الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E37-63" ROLE="Arg-1">
+      <extent>
+        <charseq START="1806" END="1823">السجون الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E1-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="1813" END="1823">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R29" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E46" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E45" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R29-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2273" END="2292">وزير الخارجية السوري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E46-87" ROLE="Arg-1">
+      <extent>
+        <charseq START="2273" END="2292">وزير الخارجية السوري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E45-89" ROLE="Arg-2">
+      <extent>
+        <charseq START="2287" END="2292">السوري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001020.1530.0096-R30" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001020.1530.0096-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001020.1530.0096-E41" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001020.1530.0096-R30-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2834" END="2871">وزير الدولة للشئون الخارجية
+في الجزائر</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E39-108" ROLE="Arg-1">
+      <extent>
+        <charseq START="2834" END="2871">وزير الدولة للشئون الخارجية
+في الجزائر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001020.1530.0096-E41-109" ROLE="Arg-2">
+      <extent>
+        <charseq START="2865" END="2871">الجزائر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001020.1530.0096-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001020.1530.0096-E63" ROLE="Entity"/>
+  <event_argument REFID="NTV20001020.1530.0096-T2" ROLE="Time-Holds"/>
+  <event_mention ID="NTV20001020.1530.0096-EV1-1">
+    <extent>
+      <charseq START="102" END="202">وزراء الخارجية العرب أقروا مشروع
+القرار الخاص بانعقاد القمة العربية بصورة دورية في شهر مارس من كل عام</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="202">صرح السيد عمرو موسى وزير الخارجية أن وزراء الخارجية العرب أقروا مشروع
+القرار الخاص بانعقاد القمة العربية بصورة دورية في شهر مارس من كل عام</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="156" END="160">القمة</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E63-140" ROLE="Entity">
+      <extent>
+        <charseq START="102" END="121">وزراء الخارجية العرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-T2-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="185" END="202">شهر مارس من كل عام</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001020.1530.0096-E63" ROLE="Entity"/>
+  <event_argument REFID="NTV20001020.1530.0096-T3" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001020.1530.0096-EV2-1">
+    <extent>
+      <charseq START="273" END="289">اجتماعاتهم الخميس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="204" END="372">وأعلن السيد عمرو موسى وزير الخارجية أن وزراء الخارجية العرب بحثوا في
+اجتماعاتهم الخميس الممارسات الإسرائيلية في الأراضي الفلسطينية وهو
+الموضوع الذي ستناقشه القمة القادمة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="273" END="282">اجتماعاتهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E63-153" ROLE="Entity">
+      <extent>
+        <charseq START="281" END="282">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="284" END="289">الخميس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001020.1530.0096-E63" ROLE="Entity"/>
+  <event_argument REFID="NTV20001020.1530.0096-T4" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001020.1530.0096-EV3-1">
+    <extent>
+      <charseq START="412" END="464">الاجتماع المغلق لوزراء الخارجية العرب مساء أمس الخميس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="374" END="523">جاءت تصريحات السيد عمرو موسى في
+أعقاب الاجتماع المغلق لوزراء الخارجية العرب مساء أمس الخميس لمواصلة
+بحث المشروعات المدرجة على جدول أعمال القمة العربية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="412" END="419">الاجتماع</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E63-5" ROLE="Entity">
+      <extent>
+        <charseq START="428" END="448">لوزراء الخارجية العرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="450" END="464">مساء أمس الخميس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001020.1530.0096-E63" ROLE="Entity"/>
+  <event_mention ID="NTV20001020.1530.0096-EV4-1">
+    <extent>
+      <charseq START="664" END="671">اجتماعهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="527" END="750">وسط حالة من
+الترقب العربي والإقليمي وبمشاركة عربية تجاوزت التوقعات وبرئاسة وزير
+الخارجية المصري عمرو موسى بدأ وزراء الخارجية العرب أعمال اجتماعهم
+التحضيري للقمة العربية الاستثنائية التي تستضيفها القاهرة السبت والأحد
+القادمين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="664" END="671">اجتماعهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E63-19" ROLE="Entity">
+      <extent>
+        <charseq START="670" END="671">هم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001020.1530.0096-E12" ROLE="Entity"/>
+  <event_argument REFID="NTV20001020.1530.0096-E16" ROLE="Entity"/>
+  <event_argument REFID="NTV20001020.1530.0096-T7" ROLE="Time-Starting"/>
+  <event_mention ID="NTV20001020.1530.0096-EV5-1">
+    <extent>
+      <charseq START="752" END="927">الجلسة الافتتاحية التي بدأت عند العاشرة والنصف من صباح الخميس
+ودامت قرابة الساعة والنصف الساعة وحضرها حشد كبير من ممثلي وسائل
+الإعلام العربية والدولية شهدت كلمات عدد من الوزراء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="752" END="966">الجلسة الافتتاحية التي بدأت عند العاشرة والنصف من صباح الخميس
+ودامت قرابة الساعة والنصف الساعة وحضرها حشد كبير من ممثلي وسائل
+الإعلام العربية والدولية شهدت كلمات عدد من الوزراء وقد اتسمت في مجملها
+بالعقلانية والهدوء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="752" END="757">الجلسة</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E12-23" ROLE="Entity">
+      <extent>
+        <charseq START="854" END="901">حشد كبير من ممثلي وسائل
+الإعلام العربية والدولية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E16-27" ROLE="Entity">
+      <extent>
+        <charseq START="914" END="927">عدد من الوزراء</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-T7-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="784" END="812">العاشرة والنصف من صباح الخميس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001020.1530.0096-E1" ROLE="Attacker"/>
+  <event_argument REFID="NTV20001020.1530.0096-E2" ROLE="Target"/>
+  <event_mention ID="NTV20001020.1530.0096-EV6-1">
+    <extent>
+      <charseq START="1706" END="1747">العنف
+التي ترتكبها إسرائيل بحق الفلسطينيين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1675" END="1747">وطالب الحص بالتصدي لكافة أعمال العنف
+التي ترتكبها إسرائيل بحق الفلسطينيين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1706" END="1710">العنف</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E1-131" ROLE="Attacker">
+      <extent>
+        <charseq START="1717" END="1717">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E2-60" ROLE="Target">
+      <extent>
+        <charseq START="1737" END="1747">الفلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV7" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001020.1530.0096-E35" ROLE="Person"/>
+  <event_mention ID="NTV20001020.1530.0096-EV7-1">
+    <extent>
+      <charseq START="1767" END="1823">الإفراج الفوري
+عن الأسرى اللبنانيين في السجون الإسرائيلية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1751" END="1823">كما طالب بضرورة الإفراج الفوري
+عن الأسرى اللبنانيين في السجون الإسرائيلية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1767" END="1773">الإفراج</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E35-61" ROLE="Person">
+      <extent>
+        <charseq START="1785" END="1823">الأسرى اللبنانيين في السجون الإسرائيلية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001020.1530.0096-E2" ROLE="Target"/>
+  <event_mention ID="NTV20001020.1530.0096-EV8-1">
+    <extent>
+      <charseq START="2298" END="2330">المجازر التي تعرض لها
+الفلسطينيون</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2267" END="2437">وأشار وزير الخارجية السوري إلى المجازر التي تعرض لها
+الفلسطينيون ونبه إلى خطورة قيام المستوطنين بقتل حوالي عشرة من العرب
+داخل الخط الأخضر في سابقة خطيرة هي الأولى من نوعها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2298" END="2304">المجازر</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E2-90" ROLE="Target">
+      <extent>
+        <charseq START="2320" END="2330">الفلسطينيون</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001020.1530.0096-E52" ROLE="Victim"/>
+  <event_argument REFID="NTV20001020.1530.0096-E51" ROLE="Agent"/>
+  <event_mention ID="NTV20001020.1530.0096-EV9-1">
+    <extent>
+      <charseq START="2352" END="2386">المستوطنين بقتل حوالي عشرة من العرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2267" END="2437">وأشار وزير الخارجية السوري إلى المجازر التي تعرض لها
+الفلسطينيون ونبه إلى خطورة قيام المستوطنين بقتل حوالي عشرة من العرب
+داخل الخط الأخضر في سابقة خطيرة هي الأولى من نوعها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2363" END="2366">بقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E52-92" ROLE="Victim">
+      <extent>
+        <charseq START="2368" END="2386">حوالي عشرة من العرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E51-91" ROLE="Agent">
+      <extent>
+        <charseq START="2352" END="2361">المستوطنين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV10" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001020.1530.0096-E63" ROLE="Entity"/>
+  <event_mention ID="NTV20001020.1530.0096-EV10-1">
+    <extent>
+      <charseq START="3218" END="3223">جلستهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="3155" END="3317">وسط ظروف بالغة الدقة والحساسية أنهى وزراء
+الخارجية العرب أعمال جلستهم الافتتاحية العلنية وهى الجلسة التي اتسمت
+من خلال الكلمات التي ألقيت خلالها بالهدوء والعقلانية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="3218" END="3223">جلستهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E63-120" ROLE="Entity">
+      <extent>
+        <charseq START="3222" END="3223">هم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV11" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001020.1530.0096-E63" ROLE="Entity"/>
+  <event_mention ID="NTV20001020.1530.0096-EV11-1">
+    <extent>
+      <charseq START="3329" END="3352">السادة
+الوزراء إلى جلسات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="3319" END="3494">وقد انتقل السادة
+الوزراء إلى جلسات عمل مغلقة تمهيدا لإعداد جدول أعمال القمة العربية
+التي ستعقد بالقاهرة يومي السبت والأحد القادمين من مركز القاهرة الدولي
+للمؤتمرات في مدينة نصر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="3348" END="3352">جلسات</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E63-121" ROLE="Entity">
+      <extent>
+        <charseq START="3329" END="3342">السادة
+الوزراء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001020.1530.0096-EV12" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001020.1530.0096-E11" ROLE="Place"/>
+  <event_argument REFID="NTV20001020.1530.0096-E65" ROLE="Place"/>
+  <event_argument REFID="NTV20001020.1530.0096-T9" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001020.1530.0096-EV12-1">
+    <extent>
+      <charseq START="3408" END="3494">ستعقد بالقاهرة يومي السبت والأحد القادمين من مركز القاهرة الدولي
+للمؤتمرات في مدينة نصر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="3319" END="3494">وقد انتقل السادة
+الوزراء إلى جلسات عمل مغلقة تمهيدا لإعداد جدول أعمال القمة العربية
+التي ستعقد بالقاهرة يومي السبت والأحد القادمين من مركز القاهرة الدولي
+للمؤتمرات في مدينة نصر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="3408" END="3412">ستعقد</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E11-124" ROLE="Place">
+      <extent>
+        <charseq START="3414" END="3421">بالقاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-E65-125" ROLE="Place">
+      <extent>
+        <charseq START="3453" END="3494">مركز القاهرة الدولي
+للمؤتمرات في مدينة نصر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001020.1530.0096-T9-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="3423" END="3448">يومي السبت والأحد القادمين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

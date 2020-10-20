@@ -1,0 +1,587 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001115.1300.0078.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001115.1300.0078">
+<entity ID="ALH20001115.1300.0078-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2213" END="2218">السويد</charseq>
+    </extent>
+    <head>
+      <charseq START="2213" END="2218">السويد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السويد">
+      <charseq START="2213" END="2218">السويد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0078-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2221" END="2227">اليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="2221" END="2227">اليابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليابان">
+      <charseq START="2221" END="2227">اليابان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0078-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E3-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2424" END="2424">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2424" END="2424">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E3-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2430" END="2457">المستهلك السعودي محدود
+الدخل</charseq>
+    </extent>
+    <head>
+      <charseq START="2430" END="2437">المستهلك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E3-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2501" END="2501">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2501" END="2501">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0078-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E4-1" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="173" END="178">سعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="178">سعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-4" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2308" END="2315">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="2308" END="2315">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2439" END="2445">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="2439" END="2445">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-13" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="2691" END="2698">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="2691" END="2698">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1632" END="1639">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="1632" END="1639">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-15" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="2703" END="2703">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2703" END="2703">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-16" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="2708" END="2708">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2708" END="2708">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-18" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2737" END="2737">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2737" END="2737">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-19" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2743" END="2793">الدولة الخليجية الوحيدة التي لم تنضم اليها حتى الآن</charseq>
+    </extent>
+    <head>
+      <charseq START="2743" END="2748">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-21" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2767" END="2770">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="2767" END="2770">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-22" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2775" END="2775">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2775" END="2775">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-25" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="272" END="277">للبلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="277">للبلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1420" END="1427">للسعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="1420" END="1427">للسعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-34" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1570" END="1576">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="1570" END="1576">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-35" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1687" END="1694">للسعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="1687" END="1694">للسعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-37" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1979" END="1986">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="1979" END="1986">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-38" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="2066" END="2066">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2066" END="2066">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E4-39" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="2073" END="2079">الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="2073" END="2079">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سعودية">
+      <charseq START="173" END="178">سعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="2308" END="2315">السعودية</charseq>
+    </name>
+    <name NAME="السعودي">
+      <charseq START="2439" END="2445">السعودي</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="2691" END="2698">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="1632" END="1639">السعودية</charseq>
+    </name>
+    <name NAME="للسعودية">
+      <charseq START="1420" END="1427">للسعودية</charseq>
+    </name>
+    <name NAME="السعودي">
+      <charseq START="1570" END="1576">السعودي</charseq>
+    </name>
+    <name NAME="للسعودية">
+      <charseq START="1687" END="1694">للسعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="1979" END="1986">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0078-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E5-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2562" END="2562">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2562" END="2562">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E5-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2569" END="2581">منتجو الألبان</charseq>
+    </extent>
+    <head>
+      <charseq START="2569" END="2573">منتجو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E5-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2619" END="2620">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2619" END="2620">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0078-E6" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E6-20" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="2750" END="2757">الخليجية</charseq>
+    </extent>
+    <head>
+      <charseq START="2750" END="2757">الخليجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليجية">
+      <charseq START="2750" END="2757">الخليجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0078-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E9-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2321" END="2333">منظمة التجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="2321" END="2333">منظمة التجارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E9-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2728" END="2734">المنظمة</charseq>
+    </extent>
+    <head>
+      <charseq START="2728" END="2734">المنظمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E9-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2783" END="2784">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2783" END="2784">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E9-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="201" END="221">منظمة
+التجارة الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="221">منظمة
+التجارة الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E9-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="525" END="531">المنظمة</charseq>
+    </extent>
+    <head>
+      <charseq START="525" END="531">المنظمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E9-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1849" END="1855">المنظمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1849" END="1855">المنظمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منظمة التجارة">
+      <charseq START="2321" END="2333">منظمة التجارة</charseq>
+    </name>
+    <name NAME="منظمة التجارة الدولية">
+      <charseq START="201" END="221">منظمة
+التجارة الدولية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0078-E10" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E10-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="363" END="413">مركز الدكتور عاصم عرب للدراسات
+الاقتصادية والادارية</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="366">مركز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0078-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E11-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="368" END="383">الدكتور عاصم عرب</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="374">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E11-28" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="376" END="383">عاصم عرب</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="383">عاصم عرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E11-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="427" END="427">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="427">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عاصم عرب">
+      <charseq START="376" END="383">عاصم عرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0078-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E13-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="858" END="858">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="858">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001115.1300.0078-E13-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="861" END="866">الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="861" END="866">الحياة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحياة">
+      <charseq START="861" END="866">الحياة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001115.1300.0078-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E17-40" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="2187" END="2227">كل من المجموعة الأوروبية والسويد
+واليابان</charseq>
+    </extent>
+    <head>
+      <charseq START="2187" END="2188">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001115.1300.0078-E18" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001115.1300.0078-E18-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2193" END="2210">المجموعة الأوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="2193" END="2210">المجموعة الأوروبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المجموعة الأوروبية">
+      <charseq START="2193" END="2210">المجموعة الأوروبية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="ALH20001115.1300.0078-V1" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="ALH20001115.1300.0078-V1-1">
+    <extent>
+      <charseq START="1787" END="1797">12 في المئة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001115.1300.0078-V2" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="ALH20001115.1300.0078-V2-1">
+    <extent>
+      <charseq START="2102" END="2112">45
+في المئة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001115.1300.0078-T1">
+  <timex2_mention ID="ALH20001115.1300.0078-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0078-T2">
+  <timex2_mention ID="ALH20001115.1300.0078-T2-1">
+    <extent>
+      <charseq START="1457" END="1466">2000  2005</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0078-T3">
+  <timex2_mention ID="ALH20001115.1300.0078-T3-1">
+    <extent>
+      <charseq START="2266" END="2295">خلال فترة
+تراوح بين 6 و٩ سنوات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001115.1300.0078-T4">
+  <timex2_mention ID="ALH20001115.1300.0078-T4-1">
+    <extent>
+      <charseq START="2786" END="2793">حتى الآن</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001115.1300.0078-R1" TYPE="ORG-AFF" SUBTYPE="Ownership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0078-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0078-E10" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0078-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="363" END="413">مركز الدكتور عاصم عرب للدراسات
+الاقتصادية والادارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0078-E11-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="368" END="383">الدكتور عاصم عرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0078-E10-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="363" END="413">مركز الدكتور عاصم عرب للدراسات
+الاقتصادية والادارية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0078-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0078-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0078-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0078-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2430" END="2457">المستهلك السعودي محدود
+الدخل</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0078-E3-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="2430" END="2457">المستهلك السعودي محدود
+الدخل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0078-E4-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="2439" END="2445">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001115.1300.0078-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001115.1300.0078-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001115.1300.0078-E6" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001115.1300.0078-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2743" END="2793">الدولة الخليجية الوحيدة التي لم تنضم اليها حتى الآن</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001115.1300.0078-E4-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="2743" END="2793">الدولة الخليجية الوحيدة التي لم تنضم اليها حتى الآن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001115.1300.0078-E6-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="2750" END="2757">الخليجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001115.1300.0078-EV1" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001115.1300.0078-E4" ROLE="Giver"/>
+  <event_argument REFID="ALH20001115.1300.0078-V2" ROLE="Money"/>
+  <event_mention ID="ALH20001115.1300.0078-EV1-1">
+    <extent>
+      <charseq START="2052" END="2112">الاعانات التي تمنحها الحكومة للقطاع الزراعي يعادل 45
+في المئة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1989" END="2129">أما بالنسبة لقضية تقليص أو الغاء الدعم الزراعي، فإن حجم
+الدعم والاعانات التي تمنحها الحكومة للقطاع الزراعي يعادل 45
+في المئة من قيمة المنتجات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2052" END="2059">الاعانات</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001115.1300.0078-E4-39" ROLE="Giver">
+      <extent>
+        <charseq START="2073" END="2079">الحكومة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001115.1300.0078-V2-1" ROLE="Money">
+      <extent>
+        <charseq START="2102" END="2112">45
+في المئة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001115.1300.0078-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001115.1300.0078-T3" ROLE="Time-Holds"/>
+  <event_mention ID="ALH20001115.1300.0078-EV2-1">
+    <extent>
+      <charseq START="2252" END="2295">الدعم تدريجاً خلال فترة
+تراوح بين 6 و٩ سنوات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2230" END="2333">ومن المتوقع الغاء هذا الدعم تدريجاً خلال فترة
+تراوح بين 6 و٩ سنوات بعد انضمام السعودية الى منظمة التجارة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2252" END="2256">الدعم</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001115.1300.0078-T3-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="2266" END="2295">خلال فترة
+تراوح بين 6 و٩ سنوات</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

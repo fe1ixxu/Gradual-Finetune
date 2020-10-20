@@ -1,0 +1,1226 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001023.1530.0243.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001023.1530.0243">
+<entity ID="NTV20001023.1530.0243-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E1-72" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="207" END="212">جيبوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="212">جيبوتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جيبوتي">
+      <charseq START="207" END="212">جيبوتي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E2-12" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="764" END="778">محمد حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="778">محمد حسني مبارك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E2-68" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="757" END="778">الرئيس محمد حسني مبارك</charseq>
+    </extent>
+    <head>
+      <charseq START="757" END="762">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد حسني مبارك">
+      <charseq START="764" END="778">محمد حسني مبارك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E3-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="233" END="233">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="233">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E3-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="240" END="253">مستشار ه الخاص</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="245">مستشار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E3-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="255" END="269">فهمي أحمد الحاج</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="269">فهمي أحمد الحاج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فهمي أحمد الحاج">
+      <charseq START="255" END="269">فهمي أحمد الحاج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E5-8" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="289" END="295">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="295">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E5-27" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="497" END="503">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="503">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E5-55" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="92" END="96">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="92" END="96">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E5-56" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="739" END="743">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="743">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="289" END="295">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="497" END="503">العربية</charseq>
+    </name>
+    <name NAME="العرب">
+      <charseq START="92" END="96">العرب</charseq>
+    </name>
+    <name NAME="العرب">
+      <charseq START="739" END="743">العرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E7-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="307" END="321">الرئيس السوداني</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="312">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E7-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="323" END="336">عمر حسن البشير</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="336">عمر حسن البشير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمر حسن البشير">
+      <charseq START="323" END="336">عمر حسن البشير</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E8-11" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="314" END="321">السوداني</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="321">السوداني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السوداني">
+      <charseq START="314" END="321">السوداني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E10-16" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="363" END="377">الرئيس الجزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="368">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E10-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="379" END="397">عبد العزيز بوتفليقة</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="397">عبد العزيز بوتفليقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد العزيز بوتفليقة">
+      <charseq START="379" END="397">عبد العزيز بوتفليقة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E11-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="370" END="377">الجزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="377">الجزائري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزائري">
+      <charseq START="370" END="377">الجزائري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E13-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="435" END="451">الملك محمد السادس</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="439">الملك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E13-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="441" END="451">محمد السادس</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="451">محمد السادس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E13-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="453" END="463">عاهل المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="456">عاهل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد السادس">
+      <charseq START="441" END="451">محمد السادس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E16-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="458" END="463">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="458" END="463">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغرب">
+      <charseq START="458" END="463">المغرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E18" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001023.1530.0243-E18-18" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="781" END="794">عدد من الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="781" END="783">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001023.1530.0243-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E19-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="505" END="518">الرئيس اليميني</charseq>
+    </extent>
+    <head>
+      <charseq START="505" END="510">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E19-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="520" END="537">عل ي عبد الله صالح</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="537">عل ي عبد الله صالح</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عل ي عبد الله صالح">
+      <charseq START="520" END="537">عل ي عبد الله صالح</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E20-30" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="512" END="518">اليميني</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="518">اليميني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليميني">
+      <charseq START="512" END="518">اليميني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E22-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="540" END="547">أمير قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="543">أمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E22-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="549" END="573">الشيخ حمد بن خليفة آل ثان</charseq>
+    </extent>
+    <head>
+      <charseq START="549" END="553">الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E22-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="555" END="573">حمد بن خليفة آل ثان</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="573">حمد بن خليفة آل ثان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حمد بن خليفة آل ثان">
+      <charseq START="555" END="573">حمد بن خليفة آل ثان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E23-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="545" END="547">قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="547">قطر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قطر">
+      <charseq START="545" END="547">قطر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E25-39" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="576" END="590">الرئيس الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="581">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E25-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="592" END="610">عبد القاسم صلاد حسن</charseq>
+    </extent>
+    <head>
+      <charseq START="592" END="610">عبد القاسم صلاد حسن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد القاسم صلاد حسن">
+      <charseq START="592" END="610">عبد القاسم صلاد حسن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E26-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="788" END="794">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="788" END="794">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001023.1530.0243-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E27-40" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="583" END="590">الصومالي</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="590">الصومالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الصومالي">
+      <charseq START="583" END="590">الصومالي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E29-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="723" END="743">الزعماء والقادة العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="729">الزعماء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E29-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="732" END="743">القادة العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="732" END="737">القادة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E29-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="79" END="96">وفود الزعماء العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="79" END="82">وفود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E29-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="84" END="96">الزعماء العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="90">الزعماء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001023.1530.0243-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E30-1" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="643" END="654">فهد بن محمود</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="654">فهد بن محمود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E30-44" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="637" END="654">السيد فهد بن محمود</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="641">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E30-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="656" END="705">نائب رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="659">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فهد بن محمود">
+      <charseq START="643" END="654">فهد بن محمود</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E32-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="661" END="705">رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="664">رئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001023.1530.0243-E33" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E33-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="666" END="686">مجلس الوزراء العمان ي</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="677">مجلس الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E33-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="694" END="705">مجلس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="705">مجلس الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلس الوزراء">
+      <charseq START="666" END="677">مجلس الوزراء</charseq>
+    </name>
+    <name NAME="مجلس الوزراء">
+      <charseq START="694" END="705">مجلس الوزراء</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E34-48" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="679" END="686">العمان ي</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="686">العمان ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العمان ي">
+      <charseq START="679" END="686">العمان ي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E35-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="797" END="810">كبار المسئولين</charseq>
+    </extent>
+    <head>
+      <charseq START="802" END="810">المسئولين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001023.1530.0243-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E37-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="355" END="361">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="361">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E37-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="427" END="433">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="433">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E37-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="478" END="484">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="484">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E37-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="629" END="635">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="635">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E37-57" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="102" END="108">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="108">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E37-58" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="110" END="112">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="112">حيث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E37-67" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="749" END="755">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="749" END="755">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="355" END="361">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="427" END="433">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="478" END="484">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="629" END="635">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="102" END="108">القاهرة</charseq>
+    </name>
+    <name NAME="القاهرة">
+      <charseq START="749" END="755">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E38-60" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="118" END="162">ولي العهد السعودي
+والنائب الأول لرئيس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="120">ولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E38-62" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="137" END="162">النائب الأول لرئيس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="142">النائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E38-65" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="164" END="192">الأمير عبد الله بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="169">الأمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E38-66" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="171" END="192">عبد الله بن عبد العزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="192">عبد الله بن عبد العزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد الله بن عبد العزيز">
+      <charseq START="171" END="192">عبد الله بن عبد العزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E40" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E40-61" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="128" END="134">السعودي</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="134">السعودي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودي">
+      <charseq START="128" END="134">السعودي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001023.1530.0243-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E41-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="150" END="162">لرئيس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="150" END="154">لرئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001023.1530.0243-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E42-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="156" END="162">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="162">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001023.1530.0243-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001023.1530.0243-E44-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="238" END="238">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="238">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E44-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="247" END="247">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="247">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E44-70" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="202" END="212">رئيس
+جيبوتي</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="205">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001023.1530.0243-E44-71" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="214" END="231">إسماعيل عمر جي ل ا</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="231">إسماعيل عمر جي ل ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسماعيل عمر جي ل ا">
+      <charseq START="214" END="231">إسماعيل عمر جي ل ا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="NTV20001023.1530.0243-T1">
+  <timex2_mention ID="NTV20001023.1530.0243-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/23/2000 15:34:03.97</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001023.1530.0243-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E40" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="118" END="162">ولي العهد السعودي
+والنائب الأول لرئيس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E38-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="118" END="162">ولي العهد السعودي
+والنائب الأول لرئيس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E40-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="128" END="134">السعودي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E41" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="137" END="162">النائب الأول لرئيس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E38-62" ROLE="Arg-1">
+      <extent>
+        <charseq START="137" END="162">النائب الأول لرئيس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E41-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="150" END="162">لرئيس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E41" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E42" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="150" END="162">لرئيس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E41-63" ROLE="Arg-1">
+      <extent>
+        <charseq START="150" END="162">لرئيس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E42-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="156" END="162">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E44" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E1" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="202" END="212">رئيس
+جيبوتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E44-70" ROLE="Arg-1">
+      <extent>
+        <charseq START="202" END="212">رئيس
+جيبوتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E1-72" ROLE="Arg-2">
+      <extent>
+        <charseq START="207" END="212">جيبوتي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R5" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E44" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R5-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="240" END="253">مستشار ه الخاص</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E3-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="240" END="253">مستشار ه الخاص</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E44-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="247" END="247">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E8" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="307" END="321">الرئيس السوداني</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E7-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="307" END="321">الرئيس السوداني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E8-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="314" END="321">السوداني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E11" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="363" END="377">الرئيس الجزائري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E10-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="363" END="377">الرئيس الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E11-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="370" END="377">الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E16" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="453" END="463">عاهل المغرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E13-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="453" END="463">عاهل المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E16-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="458" END="463">المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E20" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="505" END="518">الرئيس اليميني</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E19-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="505" END="518">الرئيس اليميني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E20-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="512" END="518">اليميني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E23" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="540" END="547">أمير قطر</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E22-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="540" END="547">أمير قطر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E23-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="545" END="547">قطر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R11" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E27" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R11-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="576" END="590">الرئيس الصومالي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E25-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="576" END="590">الرئيس الصومالي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E27-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="583" END="590">الصومالي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R12" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E32" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="656" END="705">نائب رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E30-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="656" END="705">نائب رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E32-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="661" END="705">رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E33" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="661" END="705">رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E32-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="661" END="705">رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E33-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="666" END="686">مجلس الوزراء العمان ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001023.1530.0243-R14" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001023.1530.0243-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001023.1530.0243-E34" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001023.1530.0243-R14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="666" END="686">مجلس الوزراء العمان ي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E33-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="666" END="686">مجلس الوزراء العمان ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001023.1530.0243-E34-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="679" END="686">العمان ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001023.1530.0243-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E38" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E37" ROLE="Destination"/>
+  <event_mention ID="NTV20001023.1530.0243-EV1-1">
+    <extent>
+      <charseq START="102" END="162">القاهرة حيث وصل ولي العهد السعودي
+والنائب الأول لرئيس الوزراء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="192">هذا وقد تواصل وفود الزعماء العرب إلى القاهرة حيث وصل ولي العهد السعودي
+والنائب الأول لرئيس الوزراء الأمير عبد الله بن عبد العزيز</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="114" END="116">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E38-60" ROLE="Artifact">
+      <extent>
+        <charseq START="118" END="162">ولي العهد السعودي
+والنائب الأول لرئيس الوزراء</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E37-57" ROLE="Destination">
+      <extent>
+        <charseq START="102" END="108">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001023.1530.0243-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E7" ROLE="Artifact"/>
+  <event_mention ID="NTV20001023.1530.0243-EV2-1">
+    <extent>
+      <charseq START="298" END="321">وصل أيضا الرئيس السوداني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="297" END="336">ووصل أيضا الرئيس السوداني عمر حسن البشير</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="298" END="300">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E7-10" ROLE="Artifact">
+      <extent>
+        <charseq START="307" END="321">الرئيس السوداني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001023.1530.0243-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E10" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E37" ROLE="Destination"/>
+  <event_mention ID="NTV20001023.1530.0243-EV3-1">
+    <extent>
+      <charseq START="347" END="377">وصل إلى القاهرة الرئيس الجزائري</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="338" END="397">كذلك فقد وصل إلى القاهرة الرئيس الجزائري عبد العزيز بوتفليقة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="347" END="349">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E10-16" ROLE="Artifact">
+      <extent>
+        <charseq START="363" END="377">الرئيس الجزائري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E37-14" ROLE="Destination">
+      <extent>
+        <charseq START="355" END="361">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001023.1530.0243-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E19" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E22" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E25" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E37" ROLE="Destination"/>
+  <event_mention ID="NTV20001023.1530.0243-EV4-1">
+    <extent>
+      <charseq START="465" END="590">وصل أيضا إلى
+القاهرة لعقد القمة العربية الرئيس اليميني عل ي عبد الله صالح وأمير قطر
+الشيخ حمد بن خليفة آل ثان والرئيس الصومالي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="465" END="610">وصل أيضا إلى
+القاهرة لعقد القمة العربية الرئيس اليميني عل ي عبد الله صالح وأمير قطر
+الشيخ حمد بن خليفة آل ثان والرئيس الصومالي عبد القاسم صلاد حسن</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="465" END="467">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E19-29" ROLE="Artifact">
+      <extent>
+        <charseq START="505" END="518">الرئيس اليميني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E22-34" ROLE="Artifact">
+      <extent>
+        <charseq START="540" END="547">أمير قطر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E25-39" ROLE="Artifact">
+      <extent>
+        <charseq START="576" END="590">الرئيس الصومالي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E37-26" ROLE="Destination">
+      <extent>
+        <charseq START="478" END="484">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001023.1530.0243-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E30" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E37" ROLE="Destination"/>
+  <event_mention ID="NTV20001023.1530.0243-EV5-1">
+    <extent>
+      <charseq START="616" END="654">وصل
+أيضا إلى القاهرة السيد فهد بن محمود</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="612" END="705">كما وصل
+أيضا إلى القاهرة السيد فهد بن محمود نائب رئيس مجلس الوزراء العمان ي
+لشئون مجلس الوزراء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="616" END="618">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E30-44" ROLE="Artifact">
+      <extent>
+        <charseq START="637" END="654">السيد فهد بن محمود</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E37-42" ROLE="Destination">
+      <extent>
+        <charseq START="629" END="635">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001023.1530.0243-EV6" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E37" ROLE="Place"/>
+  <event_argument REFID="NTV20001023.1530.0243-E29" ROLE="Entity"/>
+  <event_argument REFID="NTV20001023.1530.0243-E2" ROLE="Entity"/>
+  <event_argument REFID="NTV20001023.1530.0243-E18" ROLE="Entity"/>
+  <event_mention ID="NTV20001023.1530.0243-EV6-1">
+    <extent>
+      <charseq START="715" END="794">استقبال الزعماء والقادة العرب إلى القاهرة
+الرئيس محمد حسني مبارك وعدد من الوزراء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="707" END="810">وكان في استقبال الزعماء والقادة العرب إلى القاهرة
+الرئيس محمد حسني مبارك وعدد من الوزراء وكبار المسئولين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="715" END="721">استقبال</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E37-67" ROLE="Place">
+      <extent>
+        <charseq START="749" END="755">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E29-51" ROLE="Entity">
+      <extent>
+        <charseq START="723" END="743">الزعماء والقادة العرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E2-68" ROLE="Entity">
+      <extent>
+        <charseq START="757" END="778">الرئيس محمد حسني مبارك</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E18-18" ROLE="Entity">
+      <extent>
+        <charseq START="781" END="794">عدد من الوزراء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001023.1530.0243-EV7" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E44" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E3" ROLE="Artifact"/>
+  <event_mention ID="NTV20001023.1530.0243-EV7-1">
+    <extent>
+      <charseq START="198" END="233">وصل رئيس
+جيبوتي إسماعيل عمر جي ل ا ي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="194" END="295">كما وصل رئيس
+جيبوتي إسماعيل عمر جي ل ا يرافقه مستشار ه الخاص فهمي أحمد الحاج
+للمشاركة في القمة العربية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="198" END="200">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E44-70" ROLE="Artifact">
+      <extent>
+        <charseq START="202" END="212">رئيس
+جيبوتي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E3-3" ROLE="Artifact">
+      <extent>
+        <charseq START="233" END="233">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001023.1530.0243-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001023.1530.0243-E13" ROLE="Artifact"/>
+  <event_argument REFID="NTV20001023.1530.0243-E37" ROLE="Destination"/>
+  <event_mention ID="NTV20001023.1530.0243-EV8-1">
+    <extent>
+      <charseq START="402" END="451">وصل في
+وقت لاحق أيضا إلى القاهرة الملك محمد السادس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="399" END="463">ثم وصل في
+وقت لاحق أيضا إلى القاهرة الملك محمد السادس عاهل المغرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="402" END="404">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E13-22" ROLE="Artifact">
+      <extent>
+        <charseq START="435" END="451">الملك محمد السادس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001023.1530.0243-E37-20" ROLE="Destination">
+      <extent>
+        <charseq START="427" END="433">القاهرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

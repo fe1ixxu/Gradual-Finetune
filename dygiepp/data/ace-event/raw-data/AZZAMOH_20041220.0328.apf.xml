@@ -1,0 +1,3437 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AZZAMOH_20041220.0328.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AZZAMOH_20041220.0328">
+<entity ID="AZZAMOH_20041220.0328-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E1-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="345" END="345">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="345">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E1-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="433" END="434">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="434">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E1-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="472" END="473">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="473">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E1-303" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="352" END="356">أجانب</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="356">أجانب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E2" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E2-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="376" END="376">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="376">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E2-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="287" END="287">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="287">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E3" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="383" END="387">شوارع</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="387">شوارع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E4" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="391" END="398">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="398">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E5" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="400" END="406">الفرنسي</charseq>
+    </extent>
+    <head>
+      <charseq START="400" END="406">الفرنسي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E6" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E6-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="408" END="415">الياباني</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="415">الياباني</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E7" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="421" END="426">الهندي</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="426">الهندي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E8-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="454" END="473">سفارات تابعة لبلادهم</charseq>
+    </extent>
+    <head>
+      <charseq START="454" END="459">سفارات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E9-15" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="467" END="471">لبلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="471">لبلاد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E10" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-16" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="494" END="508">الشعب الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="498">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="500" END="508">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="508">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-91" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1500" END="1511">الفلسطينية ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1500" END="1511">الفلسطينية ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-95" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1542" END="1556">الدولة المستقلة</charseq>
+    </extent>
+    <head>
+      <charseq START="1542" END="1547">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-100" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1574" END="1582">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="1574" END="1582">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-129" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1797" END="1799">أرض</charseq>
+    </extent>
+    <head>
+      <charseq START="1797" END="1799">أرض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-130" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1805" END="1814">أرض الجدود</charseq>
+    </extent>
+    <head>
+      <charseq START="1805" END="1807">أرض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-131" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1892" END="1895">لأرض</charseq>
+    </extent>
+    <head>
+      <charseq START="1892" END="1895">لأرض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-133" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1845" END="1854">شعب الخلود</charseq>
+    </extent>
+    <head>
+      <charseq START="1845" END="1847">شعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-134" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1887" END="1889">شعب</charseq>
+    </extent>
+    <head>
+      <charseq START="1887" END="1889">شعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-135" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1933" END="1933">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1933" END="1933">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-149" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2206" END="2211">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="2206" END="2211">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-158" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2313" END="2316">بلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2313" END="2316">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-275" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3733" END="3736">بلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="3733" END="3736">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-278" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3830" END="3833">بلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="3830" END="3833">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-279" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3827" END="3828">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="3827" END="3828">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E10-280" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="3873" END="3877">الوطن</charseq>
+    </extent>
+    <head>
+      <charseq START="3873" END="3877">الوطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطيني">
+      <charseq START="500" END="508">الفلسطيني</charseq>
+    </name>
+    <name NAME="الفلسطينية ا">
+      <charseq START="1500" END="1511">الفلسطينية ا</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="1574" END="1582">الفلسطيني</charseq>
+    </name>
+    <name NAME="فلسطين">
+      <charseq START="2206" END="2211">فلسطين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E12-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="626" END="638">جنود الاحتلال</charseq>
+    </extent>
+    <head>
+      <charseq START="626" END="629">جنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E12-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="645" END="646">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="646">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E12-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="661" END="662">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="662">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E13-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="648" END="652">مدرست</charseq>
+    </extent>
+    <head>
+      <charseq START="648" END="652">مدرست</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E13-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="987" END="991">مدارس</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="991">مدارس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E13-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1016" END="1017">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1016" END="1017">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E13-105" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1689" END="1693">مدارس</charseq>
+    </extent>
+    <head>
+      <charseq START="1689" END="1693">مدارس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E13-109" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1746" END="1750">مدرست</charseq>
+    </extent>
+    <head>
+      <charseq START="1746" END="1750">مدرست</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="653" END="654">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="653" END="654">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="673" END="674">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="674">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="677" END="679">نحن</charseq>
+    </extent>
+    <head>
+      <charseq START="677" END="679">نحن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="737" END="738">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="738">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="773" END="774">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="774">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="776" END="776">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="776">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="966" END="967">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="966" END="967">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="979" END="979">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="979">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-50" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="992" END="993">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="993">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1031" END="1032">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1031" END="1032">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1035" END="1036">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1035" END="1036">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1038" END="1038">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1038" END="1038">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1049" END="1049">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1049" END="1049">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1063" END="1064">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1063" END="1064">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1072" END="1073">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1072" END="1073">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-62" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1087" END="1087">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1087" END="1087">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1105" END="1105">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1105" END="1105">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-92" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1521" END="1522">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1521" END="1522">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-93" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1524" END="1524">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1524" END="1524">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-94" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1530" END="1531">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1530" END="1531">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-96" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1560" END="1561">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1560" END="1561">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-97" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1563" END="1563">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1563" END="1563">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-98" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1603" END="1604">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1603" END="1604">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-99" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1585" END="1585">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1585">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-101" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1655" END="1656">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1655" END="1656">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-102" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1663" END="1663">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1663" END="1663">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-103" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1670" END="1670">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1670" END="1670">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-104" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1694" END="1695">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1694" END="1695">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-151" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2240" END="2241">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2240" END="2241">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-152" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2243" END="2243">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2243" END="2243">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-153" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2257" END="2257">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2257" END="2257">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-154" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2264" END="2265">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2264" END="2265">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-160" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2367" END="2367">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2367" END="2367">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-161" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2371" END="2371">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2371" END="2371">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-162" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2392" END="2393">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2392" END="2393">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-238" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3485" END="3486">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3485" END="3486">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-239" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3505" END="3506">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3505" END="3506">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-240" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3565" END="3566">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3565" END="3566">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-241" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3607" END="3608">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3607" END="3608">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-242" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3610" END="3610">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3610" END="3610">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-243" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3636" END="3637">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3636" END="3637">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-244" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3639" END="3639">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3639" END="3639">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-245" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3646" END="3646">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3646" END="3646">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-246" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3658" END="3658">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3658" END="3658">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-247" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3665" END="3665">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3665" END="3665">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-248" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3674" END="3675">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3674" END="3675">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-249" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3707" END="3707">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3707" END="3707">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-250" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3737" END="3738">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3737" END="3738">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-251" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3741" END="3743">نحن</charseq>
+    </extent>
+    <head>
+      <charseq START="3741" END="3743">نحن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-252" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3766" END="3766">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3766" END="3766">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-253" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3781" END="3781">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3781" END="3781">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-254" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3834" END="3835">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3834" END="3835">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-255" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3866" END="3867">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3866" END="3867">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-298" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3930" END="3931">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3930" END="3931">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-300" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3956" END="3957">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3956" END="3957">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E14-301" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3937" END="3937">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3937" END="3937">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E15" TYPE="WEA" SUBTYPE="Projectile" CLASS="USP">
+  <entity_mention ID="AZZAMOH_20041220.0328-E15-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="664" END="668">النار</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="668">النار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E16" TYPE="WEA" SUBTYPE="Nuclear" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E16-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="796" END="806">قنابل نووية</charseq>
+    </extent>
+    <head>
+      <charseq START="796" END="800">قنابل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E17-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="836" END="836">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="836" END="836">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E17-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="841" END="853">جندي الاحتلال</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="844">جندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E17-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="933" END="933">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="933" END="933">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E18" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E18-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="872" END="876">البيت</charseq>
+    </extent>
+    <head>
+      <charseq START="872" END="876">البيت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-6" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="388" END="389">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="389">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-12" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="438" END="439">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="439">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="516" END="529">مدينتي العزيزة</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="520">مدينت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-68" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1169" END="1173">مدينت</charseq>
+    </extent>
+    <head>
+      <charseq START="1169" END="1173">مدينت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-114" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="168" END="169">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="168" END="169">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-167" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="147" END="154">رام الله</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="154">رام الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-214" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="156" END="159">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="159">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-227" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3276" END="3289">مدينتي الحبيبة</charseq>
+    </extent>
+    <head>
+      <charseq START="3276" END="3280">مدينت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-228" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3295" END="3298">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="3295" END="3298">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-229" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3310" END="3311">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="3310" END="3311">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-230" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3344" END="3344">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3344" END="3344">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-231" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3360" END="3361">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="3360" END="3361">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-232" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3379" END="3380">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="3379" END="3380">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-233" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="3329" END="3339">هذه المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="3333" END="3339">المدينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-258" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="132" END="169">مدينتي الرائعة رام الله التي أعيش فيها</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="136">مدينت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-259" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="182" END="224">تلك المدينة التي
+طالما حلمت في أن احل لغزها</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="192">المدينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-288" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="223" END="224">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="224">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-289" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="194" END="197">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="197">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-291" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="227" END="228">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="228">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-293" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="238" END="252">مدينة التناقضات</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="242">مدينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-294" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="267" END="268">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="268">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-295" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="279" END="279">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="279">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-296" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="276" END="277">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="277">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E19-302" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="349" END="350">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="349" END="350">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رام الله">
+      <charseq START="147" END="154">رام الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E20-283" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="883" END="887">والدت</charseq>
+    </extent>
+    <head>
+      <charseq START="883" END="887">والدت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E21-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1056" END="1056">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1056" END="1056">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E22-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1066" END="1071">أساتذت</charseq>
+    </extent>
+    <head>
+      <charseq START="1066" END="1071">أساتذت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E23-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1078" END="1084">المدارس</charseq>
+    </extent>
+    <head>
+      <charseq START="1078" END="1084">المدارس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E24-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1096" END="1102">الجوامع</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1102">الجوامع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E25-115" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2561" END="2573">محمد شبل صغير</charseq>
+    </extent>
+    <head>
+      <charseq START="2561" END="2573">محمد شبل صغير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E25-187" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2579" END="2591">عضواً في كشاف</charseq>
+    </extent>
+    <head>
+      <charseq START="2579" END="2585">عضواً ف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E25-299" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2555" END="2573">الفتى محمد شبل صغير</charseq>
+    </extent>
+    <head>
+      <charseq START="2555" END="2559">الفتى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد شبل صغير">
+      <charseq START="2561" END="2573">محمد شبل صغير</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E26-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1184" END="1188">شهداء</charseq>
+    </extent>
+    <head>
+      <charseq START="1184" END="1188">شهداء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E27-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1198" END="1201">أسرى</charseq>
+    </extent>
+    <head>
+      <charseq START="1198" END="1201">أسرى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E28-71" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1236" END="1237">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1236" END="1237">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E28-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1251" END="1252">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1251" END="1252">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E29" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E29-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1345" END="1350">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="1345" END="1350">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E29-155" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2249" END="2254">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="2249" END="2254">العالم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E29-156" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2273" END="2273">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2273" END="2273">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E30-82" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1374" END="1376">أبي</charseq>
+    </extent>
+    <head>
+      <charseq START="1374" END="1376">أبي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E31-83" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1379" END="1381">أمي</charseq>
+    </extent>
+    <head>
+      <charseq START="1379" END="1381">أمي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E32-84" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1388" END="1389">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="1388" END="1389">ان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E32-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1403" END="1404">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1403" END="1404">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E32-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1409" END="1410">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1409" END="1410">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E32-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1417" END="1418">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1417" END="1418">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E33-88" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1471" END="1474">أسلو</charseq>
+    </extent>
+    <head>
+      <charseq START="1471" END="1474">أسلو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أسلو">
+      <charseq START="1471" END="1474">أسلو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3922" END="3923">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="3922" END="3923">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-89" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1484" END="1489">الجنود</charseq>
+    </extent>
+    <head>
+      <charseq START="1484" END="1489">الجنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-267" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3574" END="3575">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="3574" END="3575">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-268" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3581" END="3581">و</charseq>
+    </extent>
+    <head>
+      <charseq START="3581" END="3581">و</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-269" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3692" END="3693">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="3692" END="3693">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-270" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3719" END="3720">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="3719" END="3720">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-271" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3758" END="3759">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="3758" END="3759">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E35-272" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3860" END="3861">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="3860" END="3861">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E36-90" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="1494" END="1518">المدن
+الفلسطينية الرئيسية</charseq>
+    </extent>
+    <head>
+      <charseq START="1494" END="1498">المدن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E39" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E39-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1754" END="1757">الكل</charseq>
+    </extent>
+    <head>
+      <charseq START="1754" END="1757">الكل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E39-111" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1759" END="1759">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1759" END="1759">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-112" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1780" END="1780">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1780" END="1780">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-113" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1786" END="1786">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1786" END="1786">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1792" END="1792">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1792" END="1792">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-117" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1800" END="1800">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1800" END="1800">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-118" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1820" END="1820">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1820" END="1820">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-119" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1826" END="1826">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1826" END="1826">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-120" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1832" END="1832">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1832" END="1832">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-121" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1840" END="1840">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1840" END="1840">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-122" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1860" END="1860">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1860" END="1860">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-123" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1866" END="1866">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1866" END="1866">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-124" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1878" END="1878">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1878" END="1878">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-125" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1890" END="1890">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1890" END="1890">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-126" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1896" END="1896">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1896" END="1896">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-127" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1902" END="1902">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1902" END="1902">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E40-128" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1919" END="1919">ض</charseq>
+    </extent>
+    <head>
+      <charseq START="1919" END="1919">ض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E41-132" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1809" END="1814">الجدود</charseq>
+    </extent>
+    <head>
+      <charseq START="1809" END="1814">الجدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E42-138" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2026" END="2029">حيفا</charseq>
+    </extent>
+    <head>
+      <charseq START="2026" END="2029">حيفا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حيفا">
+      <charseq START="2026" END="2029">حيفا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E43-139" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2032" END="2035">يافا</charseq>
+    </extent>
+    <head>
+      <charseq START="2032" END="2035">يافا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يافا">
+      <charseq START="2032" END="2035">يافا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E44-140" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2043" END="2128">قريتنا التي هُجّر جدي منها عام 48
+(كفر سابا) والتي لطالما حلمت بها عروساً رائعة الجمال</charseq>
+    </extent>
+    <head>
+      <charseq START="2043" END="2048">قريتنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E44-141" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="2050" END="2053">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="2050" END="2053">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E44-142" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="2067" END="2068">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2067" END="2068">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E44-143" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2078" END="2085">كفر سابا</charseq>
+    </extent>
+    <head>
+      <charseq START="2078" END="2085">كفر سابا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E44-144" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="2089" END="2092">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="2089" END="2092">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E44-145" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="2104" END="2104">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2104" END="2104">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E44-146" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="2107" END="2108">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2107" END="2108">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كفر سابا">
+      <charseq START="2078" END="2085">كفر سابا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E45-147" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2061" END="2062">جد</charseq>
+    </extent>
+    <head>
+      <charseq START="2061" END="2062">جد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E46" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E46-150" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2228" END="2235">الانترنت</charseq>
+    </extent>
+    <head>
+      <charseq START="2228" END="2235">الانترنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الانترنت">
+      <charseq START="2228" END="2235">الانترنت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E47" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E47-159" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2339" END="2344">الأقصى</charseq>
+    </extent>
+    <head>
+      <charseq START="2339" END="2344">الأقصى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأقصى">
+      <charseq START="2339" END="2344">الأقصى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E48" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E48-163" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2471" END="2471">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2471" END="2471">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E48-164" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2473" END="2486">كل مداخل
+المدن</charseq>
+    </extent>
+    <head>
+      <charseq START="2473" END="2474">كل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E48-165" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2476" END="2480">مداخل</charseq>
+    </extent>
+    <head>
+      <charseq START="2476" END="2480">مداخل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E49" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E49-166" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2482" END="2486">المدن</charseq>
+    </extent>
+    <head>
+      <charseq START="2482" END="2486">المدن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E50" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E50-168" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2520" END="2526">الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="2520" END="2526">الأطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E52-188" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2810" END="2836">فهذا الطفل عمرو ابن التاسعة</charseq>
+    </extent>
+    <head>
+      <charseq START="2815" END="2819">الطفل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E52-189" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2838" END="2838">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2838" END="2838">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E52-190" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2821" END="2824">عمرو</charseq>
+    </extent>
+    <head>
+      <charseq START="2821" END="2824">عمرو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E52-191" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2865" END="2865">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2865" END="2865">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E52-192" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2871" END="2871">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2871" END="2871">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمرو">
+      <charseq START="2821" END="2824">عمرو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E54-193" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2874" END="2882">ذلك الفتى</charseq>
+    </extent>
+    <head>
+      <charseq START="2878" END="2882">الفتى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E54-194" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2884" END="2884">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2884" END="2884">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E55" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E55-195" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2892" END="2909">الحي الذي أعيش
+فيه</charseq>
+    </extent>
+    <head>
+      <charseq START="2892" END="2895">الحي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E55-196" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2897" END="2900">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="2897" END="2900">الذي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-197" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="2917" END="2930">ابن الست سنوات</charseq>
+    </extent>
+    <head>
+      <charseq START="2917" END="2919">ابن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-198" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2912" END="2930">أبيّ ابن الست سنوات</charseq>
+    </extent>
+    <head>
+      <charseq START="2912" END="2914">أبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-199" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2937" END="2946">هو في بيته</charseq>
+    </extent>
+    <head>
+      <charseq START="2937" END="2938">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-200" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2946" END="2946">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2946" END="2946">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-201" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2957" END="2957">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2957" END="2957">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-206" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2988" END="2988">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2988" END="2988">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-207" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="3001" END="3001">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3001" END="3001">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E56-208" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2995" END="2995">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2995" END="2995">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E58" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E58-202" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2943" END="2945">بيت</charseq>
+    </extent>
+    <head>
+      <charseq START="2943" END="2945">بيت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E59" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E59-203" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2961" END="2961">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2961" END="2961">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E59-204" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2963" END="2967">رصاصة</charseq>
+    </extent>
+    <head>
+      <charseq START="2963" END="2967">رصاصة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E60" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E60-205" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2972" END="2988">مستوطنة
+قريبه منه</charseq>
+    </extent>
+    <head>
+      <charseq START="2972" END="2978">مستوطنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E61" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E61-209" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2992" END="2994">غير</charseq>
+    </extent>
+    <head>
+      <charseq START="2992" END="2994">غير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E61-210" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2998" END="3000">غير</charseq>
+    </extent>
+    <head>
+      <charseq START="2998" END="3000">غير</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E62" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E62-217" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3097" END="3098">من</charseq>
+    </extent>
+    <head>
+      <charseq START="3097" END="3098">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E62-218" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3104" END="3105">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="3104" END="3105">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E62-219" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3115" END="3116">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="3115" END="3116">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E63-220" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3154" END="3166">شقيقتي الصغرى</charseq>
+    </extent>
+    <head>
+      <charseq START="3154" END="3158">شقيقت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E63-221" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3171" END="3171">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3171" END="3171">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E63-222" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3193" END="3193">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3193" END="3193">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E63-223" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3197" END="3197">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3197" END="3197">أ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E64" TYPE="WEA" SUBTYPE="Projectile" CLASS="USP">
+  <entity_mention ID="AZZAMOH_20041220.0328-E64-224" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3227" END="3229">نار</charseq>
+    </extent>
+    <head>
+      <charseq START="3227" END="3229">نار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E65" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E65-225" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3254" END="3261">الطائرات</charseq>
+    </extent>
+    <head>
+      <charseq START="3254" END="3261">الطائرات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E65-226" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3263" END="3263">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3263" END="3263">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E66" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E66-234" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3432" END="3437">الجميع</charseq>
+    </extent>
+    <head>
+      <charseq START="3432" END="3437">الجميع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E66-235" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3443" END="3444">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="3443" END="3444">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E66-236" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3450" END="3451">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="3450" END="3451">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E66-237" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3461" END="3462">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="3461" END="3462">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E67-260" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="304" END="326">متعلمين أغنياء جداً جدا</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="310">متعلمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E68" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E68-261" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="329" END="342">فقراء جداً
+جدا</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="333">فقراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E69" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E69-262" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3523" END="3525">الي</charseq>
+    </extent>
+    <head>
+      <charseq START="3523" END="3525">الي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E69-263" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3527" END="3527">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3527" END="3527">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E69-264" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3544" END="3544">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3544" END="3544">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E69-265" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3538" END="3538">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3538" END="3538">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E71" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E71-266" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3535" END="3537">بيت</charseq>
+    </extent>
+    <head>
+      <charseq START="3535" END="3537">بيت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E72" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E72-273" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3992" END="3992">م</charseq>
+    </extent>
+    <head>
+      <charseq START="3992" END="3992">م</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E73" TYPE="GPE" SUBTYPE="Population-Center" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E73-274" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="3722" END="3726">المدن</charseq>
+    </extent>
+    <head>
+      <charseq START="3722" END="3726">المدن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E74" TYPE="FAC" SUBTYPE="Path" CLASS="GEN">
+  <entity_mention ID="AZZAMOH_20041220.0328-E74-276" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3761" END="3764">طريق</charseq>
+    </extent>
+    <head>
+      <charseq START="3761" END="3764">طريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E74-277" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3770" END="3777">ألف طريق</charseq>
+    </extent>
+    <head>
+      <charseq START="3774" END="3777">طريق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E75" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E75-256" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3925" END="3929">منازل</charseq>
+    </extent>
+    <head>
+      <charseq START="3925" END="3929">منازل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E75-257" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3952" END="3955">منزل</charseq>
+    </extent>
+    <head>
+      <charseq START="3952" END="3955">منزل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E76" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E76-281" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3968" END="3973">ر، قنا</charseq>
+    </extent>
+    <head>
+      <charseq START="3968" END="3973">ر، قنا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E77" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E77-282" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3975" END="3980">ل، حوا</charseq>
+    </extent>
+    <head>
+      <charseq START="3975" END="3980">ل، حوا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="521" END="521">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="521">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="555" END="555">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="555">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="594" END="594">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="594">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="596" END="596">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="596" END="596">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="720" END="720">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="720">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="811" END="811">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="811" END="811">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="813" END="813">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="813" END="813">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="860" END="860">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="860">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="863" END="863">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="863">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="878" END="878">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="878" END="878">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="888" END="888">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="888" END="888">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="941" END="941">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="941" END="941">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="962" END="962">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="962" END="962">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-65" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1146" END="1146">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1146" END="1146">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1148" END="1148">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1148" END="1148">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-67" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1174" END="1174">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1174" END="1174">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-73" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1282" END="1282">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1282" END="1282">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1284" END="1284">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1284" END="1284">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1293" END="1293">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1293" END="1293">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1317" END="1318">ني</charseq>
+    </extent>
+    <head>
+      <charseq START="1317" END="1318">ني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-77" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1323" END="1323">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1323" END="1323">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1325" END="1325">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1325" END="1325">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1331" END="1332">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1331" END="1332">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1339" END="1340">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="1339" END="1340">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-106" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1728" END="1728">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1728" END="1728">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-107" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1719" END="1719">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1719" END="1719">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-108" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1751" END="1751">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1751" END="1751">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-136" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1943" END="1943">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1943" END="1943">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-137" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1945" END="1945">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1945" END="1945">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-148" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2063" END="2063">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2063" END="2063">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-157" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2317" END="2317">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2317" END="2317">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-169" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2532" END="2532">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2532" END="2532">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-170" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2544" END="2544">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2544" END="2544">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-171" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2593" END="2593">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2593" END="2593">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-172" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2605" END="2605">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2605" END="2605">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-173" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2645" END="2645">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2645" END="2645">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-174" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2695" END="2695">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2695" END="2695">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-175" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2736" END="2736">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2736" END="2736">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-176" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2753" END="2753">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2753" END="2753">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-177" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2808" END="2808">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2808" END="2808">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-178" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2902" END="2902">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="2902" END="2902">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-179" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3088" END="3088">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3088" END="3088">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-180" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3159" END="3159">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3159" END="3159">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-181" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3174" END="3174">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3174" END="3174">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-182" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3187" END="3188">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="3187" END="3188">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-183" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3281" END="3281">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3281" END="3281">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-184" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3300" END="3300">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3300" END="3300">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-185" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3386" END="3386">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3386" END="3386">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-186" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3412" END="3412">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3412" END="3412">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-211" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3011" END="3011">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3011" END="3011">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-212" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3013" END="3013">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="3013" END="3013">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-213" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3033" END="3033">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3033" END="3033">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-215" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3054" END="3054">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3054" END="3054">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-216" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3064" END="3064">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="3064" END="3064">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-284" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="137" END="137">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="137">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-285" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="161" END="161">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="161">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-286" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="180" END="180">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="180">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-290" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="208" END="208">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="208">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AZZAMOH_20041220.0328-E78-292" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="236" END="236">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="236">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E79" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E79-297" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="292" END="302">مثقفين جهال</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="297">مثقفين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AZZAMOH_20041220.0328-E80" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AZZAMOH_20041220.0328-E80-287" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="101" END="104">azza</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="104">azza</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="azza">
+      <charseq START="101" END="104">azza</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AZZAMOH_20041220.0328-T1">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T1-1">
+    <extent>
+      <charseq START="108" END="126">2004-12-20T03:28:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T2">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T2-1">
+    <extent>
+      <charseq START="607" END="616">تلك الأيام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T3">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T3-1">
+    <extent>
+      <charseq START="693" END="702">تلك الأيام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T4">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T4-1">
+    <extent>
+      <charseq START="2070" END="2075">عام 48</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T5">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T5-1">
+    <extent>
+      <charseq START="2623" END="2640">اول
+أيام الانتفاضة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T6">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T6-1">
+    <extent>
+      <charseq START="2774" END="2779">اليومي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T7">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T7-1">
+    <extent>
+      <charseq START="3074" END="3079">كل يوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T8">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T8-1">
+    <extent>
+      <charseq START="3589" END="3593">الأمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T9">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T9-1">
+    <extent>
+      <charseq START="3652" END="3656">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T10">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T10-1">
+    <extent>
+      <charseq START="3880" END="3885">كل يوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AZZAMOH_20041220.0328-T11">
+  <timex2_mention ID="AZZAMOH_20041220.0328-T11-1">
+    <extent>
+      <charseq START="37" END="55">2004-12-20T03:28:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AZZAMOH_20041220.0328-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E48" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E49" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R1-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="2473" END="2486">كل مداخل
+المدن</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E48-164" ROLE="Arg-1">
+      <extent>
+        <charseq START="2473" END="2486">كل مداخل
+المدن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E49-166" ROLE="Arg-2">
+      <extent>
+        <charseq START="2482" END="2486">المدن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="132" END="169">مدينتي الرائعة رام الله التي أعيش فيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-284" ROLE="Arg-1">
+      <extent>
+        <charseq START="137" END="137">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E19-258" ROLE="Arg-2">
+      <extent>
+        <charseq START="132" END="169">مدينتي الرائعة رام الله التي أعيش فيها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R2-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="516" END="529">مدينتي العزيزة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="521" END="521">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E19-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="516" END="529">مدينتي العزيزة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R2-3" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1169" END="1174">مدينتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="1174" END="1174">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E19-68" ROLE="Arg-2">
+      <extent>
+        <charseq START="1169" END="1173">مدينت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R2-4" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3276" END="3289">مدينتي الحبيبة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-183" ROLE="Arg-1">
+      <extent>
+        <charseq START="3281" END="3281">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E19-227" ROLE="Arg-2">
+      <extent>
+        <charseq START="3276" END="3289">مدينتي الحبيبة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R3" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R3-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="132" END="169">مدينتي الرائعة رام الله التي أعيش فيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-285" ROLE="Arg-1">
+      <extent>
+        <charseq START="161" END="161">أ</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E19-167" ROLE="Arg-2">
+      <extent>
+        <charseq START="147" END="154">رام الله</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R4-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="383" END="389">شوارعها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E3-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="383" END="387">شوارع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E19-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="388" END="389">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="454" END="473">سفارات تابعة لبلادهم</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E8-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="454" END="473">سفارات تابعة لبلادهم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E9-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="467" END="471">لبلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E75" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R6-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3925" END="3931">منازلنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-298" ROLE="Arg-1">
+      <extent>
+        <charseq START="3930" END="3931">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E75-256" ROLE="Arg-2">
+      <extent>
+        <charseq START="3925" END="3929">منازل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R6-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3952" END="3957">منزلنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-300" ROLE="Arg-1">
+      <extent>
+        <charseq START="3956" END="3957">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E75-257" ROLE="Arg-2">
+      <extent>
+        <charseq START="3952" END="3955">منزل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="467" END="473">لبلادهم</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E1-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="472" END="473">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E9-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="467" END="471">لبلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="648" END="654">مدرستنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="653" END="654">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E13-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="648" END="652">مدرست</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R9-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1689" END="1695">مدارسنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-104" ROLE="Arg-1">
+      <extent>
+        <charseq START="1694" END="1695">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E13-105" ROLE="Arg-2">
+      <extent>
+        <charseq START="1689" END="1693">مدارس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R9-3" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="987" END="993">مدارسنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="992" END="993">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E13-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="987" END="991">مدارس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R10" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1066" END="1073">أساتذتنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E22-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="1066" END="1071">أساتذت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-59" ROLE="Arg-2">
+      <extent>
+        <charseq START="1072" END="1073">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1494" END="1518">المدن
+الفلسطينية الرئيسية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E36-90" ROLE="Arg-1">
+      <extent>
+        <charseq START="1494" END="1518">المدن
+الفلسطينية الرئيسية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E10-91" ROLE="Arg-2">
+      <extent>
+        <charseq START="1500" END="1511">الفلسطينية ا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R15" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R15-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1746" END="1751">مدرستي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-108" ROLE="Arg-1">
+      <extent>
+        <charseq START="1751" END="1751">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E13-109" ROLE="Arg-2">
+      <extent>
+        <charseq START="1746" END="1750">مدرست</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E41" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R16-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1805" END="1814">أرض الجدود</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E41-132" ROLE="Arg-1">
+      <extent>
+        <charseq START="1809" END="1814">الجدود</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E10-130" ROLE="Arg-2">
+      <extent>
+        <charseq START="1805" END="1814">أرض الجدود</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R17" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E45" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R17-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2061" END="2063">جدي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-148" ROLE="Arg-1">
+      <extent>
+        <charseq START="2063" END="2063">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E45-147" ROLE="Arg-2">
+      <extent>
+        <charseq START="2061" END="2062">جد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R18" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E40" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R18-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1887" END="1890">شعبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E40-125" ROLE="Arg-1">
+      <extent>
+        <charseq START="1890" END="1890">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E10-134" ROLE="Arg-2">
+      <extent>
+        <charseq START="1887" END="1889">شعب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R18-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1892" END="1896">لأرضي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E40-126" ROLE="Arg-1">
+      <extent>
+        <charseq START="1896" END="1896">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E10-131" ROLE="Arg-2">
+      <extent>
+        <charseq START="1892" END="1895">لأرض</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R20" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R20-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2313" END="2317">بلادي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-157" ROLE="Arg-1">
+      <extent>
+        <charseq START="2317" END="2317">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E10-158" ROLE="Arg-2">
+      <extent>
+        <charseq START="2313" END="2316">بلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R21" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E56" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E58" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R21-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2937" END="2946">هو في بيته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E56-199" ROLE="Arg-1">
+      <extent>
+        <charseq START="2937" END="2946">هو في بيته</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E58-202" ROLE="Arg-2">
+      <extent>
+        <charseq START="2943" END="2945">بيت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R22" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E56" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E58" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R22-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2943" END="2946">بيته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E56-200" ROLE="Arg-1">
+      <extent>
+        <charseq START="2946" END="2946">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E58-202" ROLE="Arg-2">
+      <extent>
+        <charseq START="2943" END="2945">بيت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R23" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E63" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R23-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3154" END="3166">شقيقتي الصغرى</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E63-220" ROLE="Arg-1">
+      <extent>
+        <charseq START="3154" END="3166">شقيقتي الصغرى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-180" ROLE="Arg-2">
+      <extent>
+        <charseq START="3159" END="3159">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R25" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E55" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R25-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="2892" END="2909">الحي الذي أعيش
+فيه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-178" ROLE="Arg-1">
+      <extent>
+        <charseq START="2902" END="2902">أ</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E55-195" ROLE="Arg-2">
+      <extent>
+        <charseq START="2892" END="2909">الحي الذي أعيش
+فيه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R26" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E78" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R26-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="883" END="888">والدتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E20-283" ROLE="Arg-1">
+      <extent>
+        <charseq START="883" END="887">والدت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E78-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="888" END="888">ي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R28" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R28-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3733" END="3738">بلادنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-250" ROLE="Arg-1">
+      <extent>
+        <charseq START="3737" END="3738">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E10-275" ROLE="Arg-2">
+      <extent>
+        <charseq START="3733" END="3736">بلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AZZAMOH_20041220.0328-R28-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3830" END="3835">بلادنا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E14-254" ROLE="Arg-1">
+      <extent>
+        <charseq START="3834" END="3835">نا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E10-278" ROLE="Arg-2">
+      <extent>
+        <charseq START="3830" END="3833">بلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AZZAMOH_20041220.0328-R30" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AZZAMOH_20041220.0328-E69" ROLE="Arg-1"/>
+  <relation_argument REFID="AZZAMOH_20041220.0328-E71" ROLE="Arg-2"/>
+  <relation_mention ID="AZZAMOH_20041220.0328-R30-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3535" END="3538">بيته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E69-265" ROLE="Arg-1">
+      <extent>
+        <charseq START="3538" END="3538">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AZZAMOH_20041220.0328-E71-266" ROLE="Arg-2">
+      <extent>
+        <charseq START="3535" END="3537">بيت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AZZAMOH_20041220.0328-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AZZAMOH_20041220.0328-E13" ROLE="Target"/>
+  <event_argument REFID="AZZAMOH_20041220.0328-E15" ROLE="Instrument"/>
+  <event_argument REFID="AZZAMOH_20041220.0328-T2" ROLE="Time-Within"/>
+  <event_argument REFID="AZZAMOH_20041220.0328-E12" ROLE="Attacker"/>
+  <event_mention ID="AZZAMOH_20041220.0328-EV1-1">
+    <extent>
+      <charseq START="607" END="668">تلك الأيام حين كان جنود الاحتلال يداهمون
+مدرستنا ويطلقون النار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="590" END="691">ولكني أذكر جيداً تلك الأيام حين كان جنود الاحتلال يداهمون
+مدرستنا ويطلقون النار علينا ونحن داخل الصفوف</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="640" END="646">يداهمون</charseq>
+    </anchor>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E13-26" ROLE="Target">
+      <extent>
+        <charseq START="648" END="652">مدرست</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E15-30" ROLE="Instrument">
+      <extent>
+        <charseq START="664" END="668">النار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="607" END="616">تلك الأيام</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E12-24" ROLE="Attacker">
+      <extent>
+        <charseq START="645" END="646">ون</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AZZAMOH_20041220.0328-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AZZAMOH_20041220.0328-E36" ROLE="Origin"/>
+  <event_argument REFID="AZZAMOH_20041220.0328-E35" ROLE="Artifact"/>
+  <event_mention ID="AZZAMOH_20041220.0328-EV2-1">
+    <extent>
+      <charseq START="1477" END="1518">انسحاب الجنود من المدن
+الفلسطينية الرئيسية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1433" END="1518">وجاءت أيام الهدوء والسلام فبعد معاهدة أسلو وانسحاب الجنود من المدن
+الفلسطينية الرئيسية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1477" END="1482">انسحاب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E36-90" ROLE="Origin">
+      <extent>
+        <charseq START="1494" END="1518">المدن
+الفلسطينية الرئيسية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E35-89" ROLE="Artifact">
+      <extent>
+        <charseq START="1484" END="1489">الجنود</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AZZAMOH_20041220.0328-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AZZAMOH_20041220.0328-E25" ROLE="Victim"/>
+  <event_mention ID="AZZAMOH_20041220.0328-EV3-1">
+    <extent>
+      <charseq START="2546" END="2573">باستشهاد
+الفتى محمد شبل صغير</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2529" END="2599">لا أنسى يوم علمت باستشهاد
+الفتى محمد شبل صغير كان عضواً في كشاف أعمل به</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2546" END="2553">باستشهاد</charseq>
+    </anchor>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E25-299" ROLE="Victim">
+      <extent>
+        <charseq START="2555" END="2573">الفتى محمد شبل صغير</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AZZAMOH_20041220.0328-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AZZAMOH_20041220.0328-E52" ROLE="Victim"/>
+  <event_mention ID="AZZAMOH_20041220.0328-EV4-1">
+    <extent>
+      <charseq START="2838" END="2843">يستشهد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2810" END="2871">فهذا الطفل عمرو ابن التاسعة
+يستشهد من جراء إصابة في عينه قتلته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2838" END="2843">يستشهد</charseq>
+    </anchor>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E52-189" ROLE="Victim">
+      <extent>
+        <charseq START="2838" END="2838">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AZZAMOH_20041220.0328-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AZZAMOH_20041220.0328-E59" ROLE="Instrument"/>
+  <event_argument REFID="AZZAMOH_20041220.0328-E54" ROLE="Victim"/>
+  <event_argument REFID="AZZAMOH_20041220.0328-E55" ROLE="Place"/>
+  <event_mention ID="AZZAMOH_20041220.0328-EV5-1">
+    <extent>
+      <charseq START="2874" END="2967">ذلك الفتى يسكن في الحي الذي أعيش
+فيه، أبيّ ابن الست سنوات قتل وهو في بيته وعلى سريره أتت رصاصة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2874" END="2988">ذلك الفتى يسكن في الحي الذي أعيش
+فيه، أبيّ ابن الست سنوات قتل وهو في بيته وعلى سريره أتت رصاصة من مستوطنة
+قريبه منه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2932" END="2934">قتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E59-204" ROLE="Instrument">
+      <extent>
+        <charseq START="2963" END="2967">رصاصة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E54-193" ROLE="Victim">
+      <extent>
+        <charseq START="2874" END="2882">ذلك الفتى</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E55-195" ROLE="Place">
+      <extent>
+        <charseq START="2892" END="2909">الحي الذي أعيش
+فيه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AZZAMOH_20041220.0328-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AZZAMOH_20041220.0328-E71" ROLE="Origin"/>
+  <event_argument REFID="AZZAMOH_20041220.0328-E14" ROLE="Artifact"/>
+  <event_mention ID="AZZAMOH_20041220.0328-EV6-1">
+    <extent>
+      <charseq START="3471" END="3537">منع التجول علينا ياههههههه لقد نسينا (ممنوع التجول والي يطلع من
+بيت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="3465" END="3544">يُفرض منع التجول علينا ياههههههه لقد نسينا (ممنوع التجول والي يطلع من
+بيته بنطخه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="3471" END="3473">منع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E71-266" ROLE="Origin">
+      <extent>
+        <charseq START="3535" END="3537">بيت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AZZAMOH_20041220.0328-E14-238" ROLE="Artifact">
+      <extent>
+        <charseq START="3485" END="3486">نا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

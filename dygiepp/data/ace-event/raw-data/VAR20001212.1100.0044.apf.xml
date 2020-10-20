@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001212.1100.0044.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001212.1100.0044">
+<entity ID="VAR20001212.1100.0044-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E1-4" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="505" END="506">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="505" END="506">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E1-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="482" END="488">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="488">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيل">
+      <charseq START="482" END="488">إسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E2-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="501" END="515">رئيسها المستقيل</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="504">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E2-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="517" END="527">إيهود باراك</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="527">إيهود باراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إيهود باراك">
+      <charseq START="517" END="527">إيهود باراك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E4-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="536" END="547">أطفال العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="536" END="540">أطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0044-E5" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="542" END="547">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="542" END="547">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0044-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E6-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="82" END="83">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="82" END="83">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0044-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E7-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="173" END="189">عبد الرحمن بن عمر</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="189">عبد الرحمن بن عمر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E7-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="191" END="225">رئيس
+الجمعية المغربية لحقوق الإنسان</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="194">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E7-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="227" END="227">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="227">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد الرحمن بن عمر">
+      <charseq START="173" END="189">عبد الرحمن بن عمر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E9-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="196" END="225">الجمعية المغربية لحقوق الإنسان</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="225">الجمعية المغربية لحقوق الإنسان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجمعية المغربية لحقوق الإنسان">
+      <charseq START="196" END="225">الجمعية المغربية لحقوق الإنسان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E10-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="299" END="319">مجلس النواب في الرباط</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="309">مجلس النواب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلس النواب">
+      <charseq START="299" END="309">مجلس النواب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E11-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="314" END="319">الرباط</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="319">الرباط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرباط">
+      <charseq START="314" END="319">الرباط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E12" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="VAR20001212.1100.0044-E12-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="330" END="343">للإنسان المتهم</charseq>
+    </extent>
+    <head>
+      <charseq START="330" END="336">للإنسان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E12-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="361" END="361">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="361">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001212.1100.0044-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E13-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="390" END="454">الدكتور
+نازل النجار المحتجز بالمقتضى الأدلة السرية بولاية فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="390" END="396">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E13-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="398" END="454">نازل النجار المحتجز بالمقتضى الأدلة السرية بولاية فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="408">نازل النجار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E13-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="456" END="456">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="456">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E13-23" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="472" END="472">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="472">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نازل النجار">
+      <charseq START="398" END="408">نازل النجار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E15-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="569" END="583">منظمة اليونيسيف</charseq>
+    </extent>
+    <head>
+      <charseq START="569" END="583">منظمة اليونيسيف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001212.1100.0044-E15-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="563" END="563">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="563" END="563">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منظمة اليونيسيف">
+      <charseq START="569" END="583">منظمة اليونيسيف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001212.1100.0044-E16" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="VAR20001212.1100.0044-E16-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="441" END="454">بولاية فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="454">بولاية فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بولاية فلوريدا">
+      <charseq START="441" END="454">بولاية فلوريدا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001212.1100.0044-T1">
+  <timex2_mention ID="VAR20001212.1100.0044-T1-1">
+    <extent>
+      <charseq START="474" END="478">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001212.1100.0044-T2">
+  <timex2_mention ID="VAR20001212.1100.0044-T2-1">
+    <extent>
+      <charseq START="35" END="56">12/12/2000 11:00:44.33</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001212.1100.0044-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0044-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0044-E9" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0044-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="191" END="225">رئيس
+الجمعية المغربية لحقوق الإنسان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0044-E7-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="191" END="225">رئيس
+الجمعية المغربية لحقوق الإنسان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0044-E9-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="196" END="225">الجمعية المغربية لحقوق الإنسان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001212.1100.0044-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001212.1100.0044-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001212.1100.0044-E11" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001212.1100.0044-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="299" END="319">مجلس النواب في الرباط</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001212.1100.0044-E10-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="299" END="319">مجلس النواب في الرباط</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001212.1100.0044-E11-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="314" END="319">الرباط</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001212.1100.0044-EV1" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001212.1100.0044-E6" ROLE="Entity"/>
+  <event_mention ID="VAR20001212.1100.0044-EV1-1">
+    <extent>
+      <charseq START="82" END="102">هم هي القيام بتظاهرات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="62" END="170">التهمة التي وجهت إليهم هي القيام بتظاهرات غير مرخص لها والتجمهر غير
+المسلح الذي من شأنه أن يمس بالأمن العمومي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="95" END="102">بتظاهرات</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0044-E6-1" ROLE="Entity">
+      <extent>
+        <charseq START="82" END="83">هم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0044-EV2" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Past">
+  <event_argument REFID="VAR20001212.1100.0044-E6" ROLE="Entity"/>
+  <event_mention ID="VAR20001212.1100.0044-EV2-1">
+    <extent>
+      <charseq START="82" END="124">هم هي القيام بتظاهرات غير مرخص لها والتجمهر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="62" END="170">التهمة التي وجهت إليهم هي القيام بتظاهرات غير مرخص لها والتجمهر غير
+المسلح الذي من شأنه أن يمس بالأمن العمومي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="118" END="124">التجمهر</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0044-E6-1" ROLE="Entity">
+      <extent>
+        <charseq START="82" END="83">هم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0044-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Other" POLARITY="Positive" GENERICITY="Generic" TENSE="Future">
+  <event_mention ID="VAR20001212.1100.0044-EV3-1">
+    <extent>
+      <charseq START="242" END="251">الاعتقالات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="173" END="388">عبد الرحمن بن عمر رئيس
+الجمعية المغربية لحقوق الإنسان يتحدث عن سلسلة الاعتقالات والمحاكمات
+المرتقبة بعد مظاهرات الاحتجاج أمام مجلس النواب في الرباط  لا يمكن
+للإنسان المتهم من الدفاع عن نفسه بمثل ذلك الملخص الغير كافي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="242" END="251">الاعتقالات</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0044-EV4" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Other" POLARITY="Positive" GENERICITY="Generic" TENSE="Future">
+  <event_mention ID="VAR20001212.1100.0044-EV4-1">
+    <extent>
+      <charseq START="254" END="262">المحاكمات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="173" END="388">عبد الرحمن بن عمر رئيس
+الجمعية المغربية لحقوق الإنسان يتحدث عن سلسلة الاعتقالات والمحاكمات
+المرتقبة بعد مظاهرات الاحتجاج أمام مجلس النواب في الرباط  لا يمكن
+للإنسان المتهم من الدفاع عن نفسه بمثل ذلك الملخص الغير كافي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="254" END="262">المحاكمات</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0044-EV5" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Past">
+  <event_mention ID="VAR20001212.1100.0044-EV5-1">
+    <extent>
+      <charseq START="277" END="283">مظاهرات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="173" END="388">عبد الرحمن بن عمر رئيس
+الجمعية المغربية لحقوق الإنسان يتحدث عن سلسلة الاعتقالات والمحاكمات
+المرتقبة بعد مظاهرات الاحتجاج أمام مجلس النواب في الرباط  لا يمكن
+للإنسان المتهم من الدفاع عن نفسه بمثل ذلك الملخص الغير كافي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="277" END="283">مظاهرات</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0044-EV6" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001212.1100.0044-E13" ROLE="Person"/>
+  <event_argument REFID="VAR20001212.1100.0044-T1" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001212.1100.0044-EV6-1">
+    <extent>
+      <charseq START="462" END="478">الإفراج عنه اليوم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="390" END="478">الدكتور
+نازل النجار المحتجز بالمقتضى الأدلة السرية بولاية فلوريدا يترقب
+الإفراج عنه اليوم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="462" END="468">الإفراج</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0044-E13-23" ROLE="Person">
+      <extent>
+        <charseq START="472" END="472">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0044-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="474" END="478">اليوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0044-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001212.1100.0044-E13" ROLE="Person"/>
+  <event_argument REFID="VAR20001212.1100.0044-E16" ROLE="Place"/>
+  <event_mention ID="VAR20001212.1100.0044-EV7-1">
+    <extent>
+      <charseq START="390" END="454">الدكتور
+نازل النجار المحتجز بالمقتضى الأدلة السرية بولاية فلوريدا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="390" END="478">الدكتور
+نازل النجار المحتجز بالمقتضى الأدلة السرية بولاية فلوريدا يترقب
+الإفراج عنه اليوم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="410" END="416">المحتجز</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0044-E13-18" ROLE="Person">
+      <extent>
+        <charseq START="390" END="454">الدكتور
+نازل النجار المحتجز بالمقتضى الأدلة السرية بولاية فلوريدا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0044-E16-21" ROLE="Place">
+      <extent>
+        <charseq START="441" END="454">بولاية فلوريدا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001212.1100.0044-EV8" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001212.1100.0044-E1" ROLE="Place"/>
+  <event_argument REFID="VAR20001212.1100.0044-E2" ROLE="Person"/>
+  <event_mention ID="VAR20001212.1100.0044-EV8-1">
+    <extent>
+      <charseq START="482" END="527">إسرائيل في ظل غياب رئيسها المستقيل إيهود باراك</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="482" END="527">إسرائيل في ظل غياب رئيسها المستقيل إيهود باراك</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="508" END="515">المستقيل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001212.1100.0044-E1-24" ROLE="Place">
+      <extent>
+        <charseq START="482" END="488">إسرائيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001212.1100.0044-E2-5" ROLE="Person">
+      <extent>
+        <charseq START="517" END="527">إيهود باراك</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,1226 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001116.1000.0070.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001116.1000.0070">
+<entity ID="AFA20001116.1000.0070-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E1-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="508" END="524">نائب رئيس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="511">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E1-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="526" END="534">طارق عزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="526" END="534">طارق عزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E1-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="685" END="688">عزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="685" END="688">عزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طارق عزيز">
+      <charseq START="526" END="534">طارق عزيز</charseq>
+    </name>
+    <name NAME="عزيز">
+      <charseq START="685" END="688">عزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E4-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="566" END="579">بالشعراء العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="566" END="573">بالشعراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E4-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="585" END="586">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="585" END="586">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E4-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="768" END="774">الشعراء</charseq>
+    </extent>
+    <head>
+      <charseq START="768" END="774">الشعراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E5-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="575" END="579">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="575" END="579">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E5-8" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="606" END="611">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="611">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E5-9" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="664" END="670">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="670">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E5-11" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="716" END="721">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="716" END="721">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E5-26" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="484" END="490">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="490">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E5-39" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="917" END="923">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="917" END="923">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العرب">
+      <charseq START="575" END="579">العرب</charseq>
+    </name>
+    <name NAME="العربي">
+      <charseq START="606" END="611">العربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="664" END="670">العربية</charseq>
+    </name>
+    <name NAME="العربي">
+      <charseq START="716" END="721">العربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="484" END="490">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="917" END="923">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E9-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="869" END="874">البصرة</charseq>
+    </extent>
+    <head>
+      <charseq START="869" END="874">البصرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E9-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1551" END="1562">مدينة البصرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1551" END="1562">مدينة البصرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E9-46" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1073" END="1084">مدينة البصرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1073" END="1084">مدينة البصرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E9-47" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1065" END="1065">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1065" END="1065">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البصرة">
+      <charseq START="869" END="874">البصرة</charseq>
+    </name>
+    <name NAME="مدينة البصرة">
+      <charseq START="1551" END="1562">مدينة البصرة</charseq>
+    </name>
+    <name NAME="مدينة البصرة">
+      <charseq START="1073" END="1084">مدينة البصرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E10-42" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1337" END="1360">الشاعر العراقي سامي مهدى</charseq>
+    </extent>
+    <head>
+      <charseq START="1337" END="1342">الشاعر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E10-54" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1330" END="1330">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1330" END="1330">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E10-59" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1352" END="1360">سامي مهدى</charseq>
+    </extent>
+    <head>
+      <charseq START="1352" END="1360">سامي مهدى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سامي مهدى">
+      <charseq START="1352" END="1360">سامي مهدى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E11-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1344" END="1350">العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="1344" END="1350">العراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1467" END="1472">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="1467" END="1472">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-28" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="318" END="324">العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="324">العراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-33" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="312" END="324">الشعب العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="316">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-45" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="980" END="985">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="980" END="985">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-48" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1186" END="1191">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="1186" END="1191">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-56" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1397" END="1402">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="1397" END="1402">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1631" END="1636">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="1631" END="1636">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E11-74" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="367" END="372">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="372">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العراقي">
+      <charseq START="1344" END="1350">العراقي</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="1467" END="1472">العراق</charseq>
+    </name>
+    <name NAME="العراقي">
+      <charseq START="318" END="324">العراقي</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="980" END="985">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="1186" END="1191">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="1397" END="1402">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="1631" END="1636">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="367" END="372">العراق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E12" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E12-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1701" END="1716">مطار صدام الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1701" END="1716">مطار صدام الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مطار صدام الدولي">
+      <charseq START="1701" END="1716">مطار صدام الدولي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E13-20" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1683" END="1688">اردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="1683" END="1688">اردنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E13-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1755" END="1760">اردنيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1755" END="1760">اردنيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E13-75" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="375" END="380">الاردن</charseq>
+    </extent>
+    <head>
+      <charseq START="375" END="380">الاردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اردنية">
+      <charseq START="1683" END="1688">اردنية</charseq>
+    </name>
+    <name NAME="اردنيا">
+      <charseq START="1755" END="1760">اردنيا</charseq>
+    </name>
+    <name NAME="الاردن">
+      <charseq START="375" END="380">الاردن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E14" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E14-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1677" END="1688">طائرة اردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="1677" END="1681">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E14-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1675" END="1675">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1675" END="1675">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E14-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1735" END="1735">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1735" END="1735">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E14-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1696" END="1696">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1696" END="1696">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E15-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1767" END="1768">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1767" END="1768">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E16-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1749" END="1760">مثقفا اردنيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1749" END="1753">مثقفا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E20" TYPE="LOC" SUBTYPE="Address" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E20-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1617" END="1666">مسقط راس شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+    </extent>
+    <head>
+      <charseq START="1617" END="1620">مسقط</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E21-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="513" END="516">رئيس</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="516">رئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E22" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001116.1000.0070-E22-34" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="876" END="892">اكثر من مئتي شاعر</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="879">اكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E23-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="518" END="524">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="524">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E24" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="AFA20001116.1000.0070-E24-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="895" END="898">مثقف</charseq>
+    </extent>
+    <head>
+      <charseq START="895" END="898">مثقف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E25" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="AFA20001116.1000.0070-E25-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="901" END="904">اديب</charseq>
+    </extent>
+    <head>
+      <charseq START="901" END="904">اديب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E26-38" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="909" END="923">البلدان العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="909" END="915">البلدان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E28" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001116.1000.0070-E28-35" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="926" END="944">اكثر
+من خمسين شاعرا</charseq>
+    </extent>
+    <head>
+      <charseq START="926" END="929">اكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E29-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="934" END="944">خمسين شاعرا</charseq>
+    </extent>
+    <head>
+      <charseq START="940" END="944">شاعرا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E30" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001116.1000.0070-E30-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="947" END="950">مثقف</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="950">مثقف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E31-44" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="955" END="970">البلدان الاجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="955" END="961">البلدان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E32" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E32-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1495" END="1500">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="1495" END="1500">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E32-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="292" END="297">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="297">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E32-49" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1207" END="1216">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1207" END="1216">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E32-76" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="383" END="388">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="388">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلسطين">
+      <charseq START="1495" END="1500">فلسطين</charseq>
+    </name>
+    <name NAME="فلسطين">
+      <charseq START="292" END="297">فلسطين</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="1207" END="1216">الفلسطينية</charseq>
+    </name>
+    <name NAME="فلسطين">
+      <charseq START="383" END="388">فلسطين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E33-50" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1243" END="1250">الاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="1243" END="1250">الاميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركي">
+      <charseq START="1243" END="1250">الاميركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E35" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E35-51" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1279" END="1300">وكالة الانباء العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1279" END="1300">وكالة الانباء العراقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E35-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1277" END="1277">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1277" END="1277">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وكالة الانباء العراقية">
+      <charseq START="1279" END="1300">وكالة الانباء العراقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E36-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1305" END="1313">المشاركين</charseq>
+    </extent>
+    <head>
+      <charseq START="1305" END="1313">المشاركين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E36-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1365" END="1366">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1365" END="1366">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E36-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1411" END="1412">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1411" END="1412">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E37" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E37-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1582" END="1589">قطار خاص</charseq>
+    </extent>
+    <head>
+      <charseq START="1582" END="1585">قطار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E38-60" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1626" END="1666">شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+    </extent>
+    <head>
+      <charseq START="1626" END="1629">شاعر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E38-62" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1645" END="1666">الراحل بدر شاكر السياب</charseq>
+    </extent>
+    <head>
+      <charseq START="1652" END="1666">بدر شاكر السياب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بدر شاكر السياب">
+      <charseq START="1652" END="1666">بدر شاكر السياب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E40-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="884" END="892">مئتي شاعر</charseq>
+    </extent>
+    <head>
+      <charseq START="889" END="892">شاعر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E41-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1739" END="1746">95 شاعرا</charseq>
+    </extent>
+    <head>
+      <charseq START="1742" END="1746">شاعرا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E42-66" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1770" END="1779">فخرى قعوار</charseq>
+    </extent>
+    <head>
+      <charseq START="1770" END="1779">فخرى قعوار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E42-67" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1781" END="1807">رئيس رابطة الكتاب الاردنيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1781" END="1784">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E42-70" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1762" END="1762">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1762" END="1762">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فخرى قعوار">
+      <charseq START="1770" END="1779">فخرى قعوار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E44" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E44-68" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1786" END="1807">رابطة الكتاب الاردنيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1786" END="1807">رابطة الكتاب الاردنيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رابطة الكتاب الاردنيين">
+      <charseq START="1786" END="1807">رابطة الكتاب الاردنيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E45-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="862" END="866">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="862" END="866">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E45-71" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="129" END="145">بغداد 11-16 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="133">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="862" END="866">بغداد</charseq>
+    </name>
+    <name NAME="بغداد">
+      <charseq START="129" END="133">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E46" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E46-72" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="142" END="145">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="145">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="142" END="145">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E47-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1530" END="1536">الشعراء</charseq>
+    </extent>
+    <head>
+      <charseq START="1530" END="1536">الشعراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E47-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1544" END="1545">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1544" END="1545">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001116.1000.0070-E47-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="358" END="362">شعراء</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="362">شعراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001116.1000.0070-E51" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E51-77" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="391" END="397">السودان</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="397">السودان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السودان">
+      <charseq START="391" END="397">السودان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E52" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E52-78" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="400" END="406">الجزائر</charseq>
+    </extent>
+    <head>
+      <charseq START="400" END="406">الجزائر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزائر">
+      <charseq START="400" END="406">الجزائر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E53" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E53-79" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="409" END="418">سلطنة عمان</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="418">سلطنة عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سلطنة عمان">
+      <charseq START="409" END="418">سلطنة عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001116.1000.0070-E54" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001116.1000.0070-E54-80" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="421" END="427">البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="427">البحرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البحرين">
+      <charseq START="421" END="427">البحرين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001116.1000.0070-T1">
+  <timex2_mention ID="AFA20001116.1000.0070-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-16 12:35:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T2">
+  <timex2_mention ID="AFA20001116.1000.0070-T2-1">
+    <extent>
+      <charseq START="551" END="558">الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T3">
+  <timex2_mention ID="AFA20001116.1000.0070-T3-1">
+    <extent>
+      <charseq START="838" END="843">اسبوعا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T4">
+  <timex2_mention ID="AFA20001116.1000.0070-T4-1">
+    <extent>
+      <charseq START="991" END="1005">منتصف السبعينات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T5">
+  <timex2_mention ID="AFA20001116.1000.0070-T5-1">
+    <extent>
+      <charseq START="1027" END="1031">سنويا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T6">
+  <timex2_mention ID="AFA20001116.1000.0070-T6-1">
+    <extent>
+      <charseq START="135" END="139">11-16</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T7">
+  <timex2_mention ID="AFA20001116.1000.0070-T7-1">
+    <extent>
+      <charseq START="177" END="187">اليوم الاول</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T8">
+  <timex2_mention ID="AFA20001116.1000.0070-T8-1">
+    <extent>
+      <charseq START="235" END="242">الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T9">
+  <timex2_mention ID="AFA20001116.1000.0070-T9-1">
+    <extent>
+      <charseq START="1086" END="1104">قبل اكثر من الف عام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T10">
+  <timex2_mention ID="AFA20001116.1000.0070-T10-1">
+    <extent>
+      <charseq START="1140" END="1147">الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T11">
+  <timex2_mention ID="AFA20001116.1000.0070-T11-1">
+    <extent>
+      <charseq START="1564" END="1572">يوم السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001116.1000.0070-T12">
+  <timex2_mention ID="AFA20001116.1000.0070-T12-1">
+    <extent>
+      <charseq START="1718" END="1729">عصر الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001116.1000.0070-R1" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001116.1000.0070-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="508" END="524">نائب رئيس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="508" END="524">نائب رئيس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E21-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="513" END="516">رئيس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001116.1000.0070-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E46" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E45" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001116.1000.0070-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="129" END="145">بغداد 11-16 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E46-72" ROLE="Arg-1">
+      <extent>
+        <charseq START="142" END="145">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E45-71" ROLE="Arg-2">
+      <extent>
+        <charseq START="129" END="145">بغداد 11-16 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001116.1000.0070-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E11" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E10" ROLE="Arg-1"/>
+  <relation_mention ID="AFA20001116.1000.0070-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1337" END="1360">الشاعر العراقي سامي مهدى</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E11-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="1344" END="1350">العراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E10-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="1337" END="1360">الشاعر العراقي سامي مهدى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001116.1000.0070-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001116.1000.0070-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1626" END="1666">شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E38-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="1626" END="1666">شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E11-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="1631" END="1636">العراق</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001116.1000.0070-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001116.1000.0070-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1677" END="1688">طائرة اردنية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E13-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="1683" END="1688">اردنية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E14-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="1677" END="1688">طائرة اردنية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001116.1000.0070-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001116.1000.0070-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1749" END="1760">مثقفا اردنيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E16-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="1749" END="1760">مثقفا اردنيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E13-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="1755" END="1760">اردنيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001116.1000.0070-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E42" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E44" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001116.1000.0070-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1781" END="1807">رئيس رابطة الكتاب الاردنيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E42-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="1781" END="1807">رئيس رابطة الكتاب الاردنيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E44-68" ROLE="Arg-2">
+      <extent>
+        <charseq START="1786" END="1807">رابطة الكتاب الاردنيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001116.1000.0070-R8" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001116.1000.0070-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001116.1000.0070-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001116.1000.0070-R8-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1617" END="1666">مسقط راس شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E38-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="1626" END="1666">شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001116.1000.0070-E20-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="1617" END="1666">مسقط راس شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001116.1000.0070-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001116.1000.0070-E45" ROLE="Place"/>
+  <event_argument REFID="AFA20001116.1000.0070-E9" ROLE="Place"/>
+  <event_mention ID="AFA20001116.1000.0070-EV1-1">
+    <extent>
+      <charseq START="851" END="874">جلساتها في
+بغداد والبصرة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="793" END="970">ويشارك في الدورة الحالية للمهرجان التي تستمر اسبوعا وتعقد جلساتها في
+بغداد والبصرة اكثر من مئتي شاعر ومثقف واديب من البلدان العربية واكثر
+من خمسين شاعرا ومثقف من البلدان الاجنبية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="851" END="857">جلساتها</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E45-32" ROLE="Place">
+      <extent>
+        <charseq START="862" END="866">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E9-12" ROLE="Place">
+      <extent>
+        <charseq START="869" END="874">البصرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001116.1000.0070-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001116.1000.0070-E37" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001116.1000.0070-E47" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001116.1000.0070-E9" ROLE="Destination"/>
+  <event_mention ID="AFA20001116.1000.0070-EV2-1">
+    <extent>
+      <charseq START="1538" END="1589">سيتوجهون الى مدينة البصرة يوم السبت
+على متن قطار خاص</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1506" END="1666">وحسب البرنامج المعد فان الشعراء سيتوجهون الى مدينة البصرة يوم السبت
+على متن قطار خاص لعقد اربع جلسات شعرية قرب مسقط راس شاعر العراق الكبير
+الراحل بدر شاكر السياب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1538" END="1545">سيتوجهون</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E37-58" ROLE="Vehicle">
+      <extent>
+        <charseq START="1582" END="1589">قطار خاص</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E47-17" ROLE="Artifact">
+      <extent>
+        <charseq START="1544" END="1545">ون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E9-18" ROLE="Destination">
+      <extent>
+        <charseq START="1551" END="1562">مدينة البصرة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001116.1000.0070-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001116.1000.0070-E14" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001116.1000.0070-E12" ROLE="Destination"/>
+  <event_mention ID="AFA20001116.1000.0070-EV3-1">
+    <extent>
+      <charseq START="1693" END="1716">هبطت في مطار صدام الدولي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1671" END="1828">وكانت طائرة اردنية قد هبطت في مطار صدام الدولي عصر الثلاثاء وهي تقل
+95 شاعرا ومثقفا اردنيا يتقدمهم فخرى قعوار رئيس رابطة الكتاب الاردنيين
+للمشاركة في المهرجان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1693" END="1696">هبطت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E14-63" ROLE="Vehicle">
+      <extent>
+        <charseq START="1696" END="1696">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E12-19" ROLE="Destination">
+      <extent>
+        <charseq START="1701" END="1716">مطار صدام الدولي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001116.1000.0070-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001116.1000.0070-E14" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001116.1000.0070-E12" ROLE="Destination"/>
+  <event_mention ID="AFA20001116.1000.0070-EV4-1">
+    <extent>
+      <charseq START="1701" END="1737">مطار صدام الدولي عصر الثلاثاء وهي تقل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1671" END="1828">وكانت طائرة اردنية قد هبطت في مطار صدام الدولي عصر الثلاثاء وهي تقل
+95 شاعرا ومثقفا اردنيا يتقدمهم فخرى قعوار رئيس رابطة الكتاب الاردنيين
+للمشاركة في المهرجان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1735" END="1737">تقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E14-23" ROLE="Vehicle">
+      <extent>
+        <charseq START="1735" END="1735">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001116.1000.0070-E12-19" ROLE="Destination">
+      <extent>
+        <charseq START="1701" END="1716">مطار صدام الدولي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

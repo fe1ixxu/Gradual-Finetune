@@ -1,0 +1,766 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001212.1000.0028.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001212.1000.0028">
+<entity ID="AFA20001212.1000.0028-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E1-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="340" END="344">بغداد</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="344">بغداد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E1-23" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="790" END="805">العاصمة العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="796">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بغداد">
+      <charseq START="340" END="344">بغداد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E2-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="369" END="376">الاردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="376">الاردنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E2-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="654" END="659">الاردن</charseq>
+    </extent>
+    <head>
+      <charseq START="654" END="659">الاردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E2-15" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="674" END="674">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="674" END="674">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E2-32" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="200" END="205">الاردن</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="205">الاردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E2-33" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="164" END="170">الاردني</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="170">الاردني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E2-35" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="229" END="229">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="229">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E2-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="301" END="308">الاردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="301" END="308">الاردنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاردنية">
+      <charseq START="369" END="376">الاردنية</charseq>
+    </name>
+    <name NAME="الاردن">
+      <charseq START="654" END="659">الاردن</charseq>
+    </name>
+    <name NAME="الاردن">
+      <charseq START="200" END="205">الاردن</charseq>
+    </name>
+    <name NAME="الاردني">
+      <charseq START="164" END="170">الاردني</charseq>
+    </name>
+    <name NAME="الاردنية">
+      <charseq START="301" END="308">الاردنية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E3-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="428" END="462">لجنة العقوبات التابعة
+للامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="440">لجنة العقوبات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجنة العقوبات">
+      <charseq START="428" END="440">لجنة العقوبات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E4-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="450" END="462">للامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="462">للامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E4-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="830" END="842">الامم المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="830" END="842">الامم المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للامم المتحدة">
+      <charseq START="450" END="462">للامم المتحدة</charseq>
+    </name>
+    <name NAME="الامم المتحدة">
+      <charseq START="830" END="842">الامم المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E5-8" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="473" END="479">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="473" END="479">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E5-9" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="471" END="471">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="471">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E5-10" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="498" END="499">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="499">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E5-11" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="501" END="501">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="501">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="473" END="479">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E6-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="679" END="683">طائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="683">طائرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E6-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="685" END="685">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="685" END="685">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001212.1000.0028-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E7-20" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="669" END="672">عربي</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="672">عربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عربي">
+      <charseq START="669" END="672">عربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E8-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="727" END="756">الخطوط الجوية الملكية الاردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="756">الخطوط الجوية الملكية الاردنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E8-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="722" END="722">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="722" END="722">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E8-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="814" END="814">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="814" END="814">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخطوط الجوية الملكية الاردنية">
+      <charseq START="727" END="756">الخطوط الجوية الملكية الاردنية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E9-13" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="583" END="588">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="588">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E9-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="710" END="715">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="715">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E9-19" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="661" END="672">اول بلد عربي</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="667">بلد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E9-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="798" END="805">العراقية</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="805">العراقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E9-37" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="251" END="256">العراق</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="256">العراق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العراق">
+      <charseq START="583" END="588">العراق</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="710" END="715">العراق</charseq>
+    </name>
+    <name NAME="العراقية">
+      <charseq START="798" END="805">العراقية</charseq>
+    </name>
+    <name NAME="العراق">
+      <charseq START="251" END="256">العراق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E10-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="121" END="136">عمان 12-12 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="124">عمان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عمان">
+      <charseq START="121" END="124">عمان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E11-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="133" END="136">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="136">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="133" END="136">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E12-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="387" END="387">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="387">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E12-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="144" END="170">مدير الطيران المدني الاردني</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="147">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E12-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="180">جهاد رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="180">جهاد رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E12-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="267" END="270">رشيد</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="270">رشيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جهاد رشيد">
+      <charseq START="172" END="180">جهاد رشيد</charseq>
+    </name>
+    <name NAME="رشيد">
+      <charseq START="267" END="270">رشيد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E15-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="149" END="162">الطيران المدني</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="162">الطيران المدني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الطيران المدني">
+      <charseq START="149" END="162">الطيران المدني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E17-2" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="318" END="318">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="318">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E17-12" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="578" END="580">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="578" END="580">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E17-34" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="211" END="214">لمصر</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="214">لمصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E17-36" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="245" END="245">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="245">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E17-42" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="313" END="315">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="315">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="578" END="580">مصر</charseq>
+    </name>
+    <name NAME="لمصر">
+      <charseq START="211" END="214">لمصر</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="313" END="315">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001212.1000.0028-E19" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001212.1000.0028-E19-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="284" END="284">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="284">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001212.1000.0028-E19-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="287" END="308">وكالة الانباء الاردنية</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="299">وكالة الانباء</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وكالة الانباء">
+      <charseq START="287" END="299">وكالة الانباء</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001212.1000.0028-T1">
+  <timex2_mention ID="AFA20001212.1000.0028-T1-1">
+    <extent>
+      <charseq START="126" END="130">12-12</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001212.1000.0028-T2">
+  <timex2_mention ID="AFA20001212.1000.0028-T2-1">
+    <extent>
+      <charseq START="182" END="195">اليوم
+الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001212.1000.0028-T3">
+  <timex2_mention ID="AFA20001212.1000.0028-T3-1">
+    <extent>
+      <charseq START="346" END="354">كل ثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001212.1000.0028-T4">
+  <timex2_mention ID="AFA20001212.1000.0028-T4-1">
+    <extent>
+      <charseq START="758" END="762">حاليا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001212.1000.0028-T5">
+  <timex2_mention ID="AFA20001212.1000.0028-T5-1">
+    <extent>
+      <charseq START="778" END="784">اسبوعيا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001212.1000.0028-T6">
+  <timex2_mention ID="AFA20001212.1000.0028-T6-1">
+    <extent>
+      <charseq START="593" END="618">تشرين الثاني/نوفمبر الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001212.1000.0028-T7">
+  <timex2_mention ID="AFA20001212.1000.0028-T7-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-12 10:01:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001212.1000.0028-T8">
+  <timex2_mention ID="AFA20001212.1000.0028-T8-1">
+    <extent>
+      <charseq START="635" END="644">تسعة اعوام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001212.1000.0028-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001212.1000.0028-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001212.1000.0028-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001212.1000.0028-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="121" END="136">عمان 12-12 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E11-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="133" END="136">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E10-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="121" END="136">عمان 12-12 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001212.1000.0028-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001212.1000.0028-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001212.1000.0028-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001212.1000.0028-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="144" END="170">مدير الطيران المدني الاردني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E12-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="144" END="170">مدير الطيران المدني الاردني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E15-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="149" END="162">الطيران المدني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001212.1000.0028-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001212.1000.0028-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001212.1000.0028-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001212.1000.0028-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="144" END="170">مدير الطيران المدني الاردني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E15-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="149" END="162">الطيران المدني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E2-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="164" END="170">الاردني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001212.1000.0028-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001212.1000.0028-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001212.1000.0028-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001212.1000.0028-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="287" END="308">وكالة الانباء الاردنية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E19-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="287" END="308">وكالة الانباء الاردنية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E2-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="301" END="308">الاردنية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001212.1000.0028-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001212.1000.0028-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001212.1000.0028-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001212.1000.0028-R5-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="428" END="462">لجنة العقوبات التابعة
+للامم المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E3-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="428" END="462">لجنة العقوبات التابعة
+للامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E4-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="450" END="462">للامم المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001212.1000.0028-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001212.1000.0028-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001212.1000.0028-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001212.1000.0028-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="790" END="805">العاصمة العراقية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E1-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="790" END="805">العاصمة العراقية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001212.1000.0028-E9-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="798" END="805">العراقية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001212.1000.0028-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001212.1000.0028-E6" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001212.1000.0028-E2" ROLE="Agent"/>
+  <event_argument REFID="AFA20001212.1000.0028-E9" ROLE="Destination"/>
+  <event_mention ID="AFA20001212.1000.0028-EV1-1">
+    <extent>
+      <charseq START="674" END="715">يرسل طائرة تحمل مساعدات انسانية الى العراق</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="649" END="715">وكان الاردن اول بلد عربي يرسل طائرة تحمل مساعدات انسانية الى العراق</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="674" END="677">يرسل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E6-16" ROLE="Vehicle">
+      <extent>
+        <charseq START="679" END="683">طائرة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E2-15" ROLE="Agent">
+      <extent>
+        <charseq START="674" END="674">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E9-18" ROLE="Destination">
+      <extent>
+        <charseq START="710" END="715">العراق</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001212.1000.0028-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001212.1000.0028-E1" ROLE="Destination"/>
+  <event_argument REFID="AFA20001212.1000.0028-E17" ROLE="Origin"/>
+  <event_argument REFID="AFA20001212.1000.0028-T3" ROLE="Time-At-Beginning"/>
+  <event_mention ID="AFA20001212.1000.0028-EV2-1">
+    <extent>
+      <charseq START="313" END="354">مصر ستسير رحلة
+اسبوعية الى بغداد كل ثلاثاء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="261" END="376">واوضح رشيد في تصريح نقلته وكالة الانباء الاردنية ان مصر ستسير رحلة
+اسبوعية الى بغداد كل ثلاثاء تعبر الاجواء الاردنية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="323" END="326">رحلة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E1-4" ROLE="Destination">
+      <extent>
+        <charseq START="340" END="344">بغداد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E17-42" ROLE="Origin">
+      <extent>
+        <charseq START="313" END="315">مصر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001212.1000.0028-T3-1" ROLE="Time-At-Beginning">
+      <extent>
+        <charseq START="346" END="354">كل ثلاثاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001212.1000.0028-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001212.1000.0028-E8" ROLE="Agent"/>
+  <event_argument REFID="AFA20001212.1000.0028-E1" ROLE="Destination"/>
+  <event_argument REFID="AFA20001212.1000.0028-T5" ROLE="Time-At-Beginning"/>
+  <event_mention ID="AFA20001212.1000.0028-EV3-1">
+    <extent>
+      <charseq START="727" END="805">الخطوط الجوية الملكية الاردنية حاليا بتسيير رحلتين اسبوعيا الى
+العاصمة العراقية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="721" END="842">وتقوم الخطوط الجوية الملكية الاردنية حاليا بتسيير رحلتين اسبوعيا الى
+العاصمة العراقية بعد ان تحصل على موافقة الامم المتحدة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="771" END="776">رحلتين</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E8-21" ROLE="Agent">
+      <extent>
+        <charseq START="727" END="756">الخطوط الجوية الملكية الاردنية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E1-23" ROLE="Destination">
+      <extent>
+        <charseq START="790" END="805">العاصمة العراقية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001212.1000.0028-T5-1" ROLE="Time-At-Beginning">
+      <extent>
+        <charseq START="778" END="784">اسبوعيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001212.1000.0028-EV4" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001212.1000.0028-E3" ROLE="Entity"/>
+  <event_argument REFID="AFA20001212.1000.0028-E5" ROLE="Entity"/>
+  <event_mention ID="AFA20001212.1000.0028-EV4-1">
+    <extent>
+      <charseq START="428" END="471">لجنة العقوبات التابعة
+للامم المتحدة حيث قدمت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="381" END="512">الا انه اوضح ان هذا القرار يبقى مرتبطا بموافقة لجنة العقوبات التابعة
+للامم المتحدة حيث قدمت القاهرة طلبا بهذا الصدد وهي تنتظر الجواب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="468" END="471">قدمت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E3-6" ROLE="Entity">
+      <extent>
+        <charseq START="428" END="462">لجنة العقوبات التابعة
+للامم المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001212.1000.0028-E5-9" ROLE="Entity">
+      <extent>
+        <charseq START="471" END="471">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

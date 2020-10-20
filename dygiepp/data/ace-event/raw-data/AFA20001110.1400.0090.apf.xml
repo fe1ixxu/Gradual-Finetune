@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001110.1400.0090.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001110.1400.0090">
+<entity ID="AFA20001110.1400.0090-E1" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="289" END="295">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="289" END="295">الحجارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001110.1400.0090-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="87" END="105">نيقوسيا 11-10 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="87" END="93">نيقوسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نيقوسيا">
+      <charseq START="87" END="93">نيقوسيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E3" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="333" END="349">للرصاص الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="338">للرصاص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001110.1400.0090-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E4-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="340" END="349">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="349">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسرائيلي">
+      <charseq START="340" END="349">الاسرائيلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E5-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="396" END="399">اوبك</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="399">اوبك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E5-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="523" END="524">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="523" END="524">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E5-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="569" END="569">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="569" END="569">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E5-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="418" END="501">منظمة
+الدول المصدرة للنفط (اوبك) المتخوفة من انهيار اسعار النفط مع انتهاء
+فصل الشتاء</charseq>
+    </extent>
+    <head>
+      <charseq START="418" END="442">منظمة
+الدول المصدرة للنفط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E5-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="445" END="448">اوبك</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="448">اوبك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E5-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="412" END="412">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="412">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوبك">
+      <charseq START="445" END="448">اوبك</charseq>
+    </name>
+    <name NAME="اوبك">
+      <charseq START="396" END="399">اوبك</charseq>
+    </name>
+    <name NAME="منظمة الدول المصدرة للنفط">
+      <charseq START="418" END="442">منظمة
+الدول المصدرة للنفط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E6-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="402" END="406">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="406">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باريس">
+      <charseq START="402" END="406">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E7-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="283" END="307">راشقي الحجارة
+الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="287">راشقي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001110.1400.0090-E8" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E8-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="297" END="307">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="307">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E8-11" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="237" END="246">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="246">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينيين">
+      <charseq START="297" END="307">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="237" END="246">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E10-17" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="258" END="270">المصورون منهم</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="265">المصورون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001110.1400.0090-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E11-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="102" END="105">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="102" END="105">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="102" END="105">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E12" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E12-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="166" END="177">الشرق-الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="166" END="177">الشرق-الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق-الاوسط">
+      <charseq START="166" END="177">الشرق-الاوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E13-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="183" END="192">صحافة  غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="187">صحافة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001110.1400.0090-E14" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E14-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="190" END="192">غزة</charseq>
+    </extent>
+    <head>
+      <charseq START="190" END="192">غزة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غزة">
+      <charseq START="190" END="192">غزة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0090-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0090-E15-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="203" END="246">الصحافيون الذين "يغطون"
+الانتفاضة الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="203" END="211">الصحافيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E15-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="269" END="270">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="270">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E15-22" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="213" END="217">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="217">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E15-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="223" END="224">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="224">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0090-E15-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="276" END="277">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="276" END="277">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001110.1400.0090-T1">
+  <timex2_mention ID="AFA20001110.1400.0090-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-10 14:12:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0090-T2">
+  <timex2_mention ID="AFA20001110.1400.0090-T2-1">
+    <extent>
+      <charseq START="95" END="99">11-10</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0090-T3">
+  <timex2_mention ID="AFA20001110.1400.0090-T3-1">
+    <extent>
+      <charseq START="151" END="162">لليوم
+الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0090-T4">
+  <timex2_mention ID="AFA20001110.1400.0090-T4-1">
+    <extent>
+      <charseq START="357" END="374">حوالي الساعة 00،15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0090-T5">
+  <timex2_mention ID="AFA20001110.1400.0090-T5-1">
+    <extent>
+      <charseq START="492" END="501">فصل الشتاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0090-T6">
+  <timex2_mention ID="AFA20001110.1400.0090-T6-1">
+    <extent>
+      <charseq START="526" END="539">للاشهر المقبلة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0090-T7">
+  <timex2_mention ID="AFA20001110.1400.0090-T7-1">
+    <extent>
+      <charseq START="575" END="579">الاحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001110.1400.0090-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001110.1400.0090-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001110.1400.0090-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001110.1400.0090-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="87" END="105">نيقوسيا 11-10 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E11-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="102" END="105">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E2-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="87" END="105">نيقوسيا 11-10 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001110.1400.0090-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001110.1400.0090-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001110.1400.0090-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001110.1400.0090-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="183" END="192">صحافة  غزة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E13-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="183" END="192">صحافة  غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E14-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="190" END="192">غزة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001110.1400.0090-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001110.1400.0090-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001110.1400.0090-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001110.1400.0090-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="333" END="349">للرصاص الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E4-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="340" END="349">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E3-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="333" END="349">للرصاص الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001110.1400.0090-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001110.1400.0090-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001110.1400.0090-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001110.1400.0090-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="283" END="307">راشقي الحجارة
+الفلسطينيين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E7-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="283" END="307">راشقي الحجارة
+الفلسطينيين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001110.1400.0090-E1-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="289" END="295">الحجارة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001110.1400.0090-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001110.1400.0090-E15" ROLE="Target"/>
+  <event_mention ID="AFA20001110.1400.0090-EV1-1">
+    <extent>
+      <charseq START="203" END="246">الصحافيون الذين "يغطون"
+الانتفاضة الفلسطينية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="198" END="349">اصبح الصحافيون الذين "يغطون"
+الانتفاضة الفلسطينية، ولا سيما المصورون منهم، مثلهم مثل راشقي الحجارة
+الفلسطينيين، من بين الاهداف المعرضة للرصاص الاسرائيلي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="227" END="235">الانتفاضة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001110.1400.0090-E15-12" ROLE="Target">
+      <extent>
+        <charseq START="203" END="246">الصحافيون الذين "يغطون"
+الانتفاضة الفلسطينية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001110.1400.0090-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001110.1400.0090-E5" ROLE="Entity"/>
+  <event_argument REFID="AFA20001110.1400.0090-T7" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001110.1400.0090-EV2-1">
+    <extent>
+      <charseq START="556" END="579">اجتماع
+وزاري تعقده الاحد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="412" END="627">تحاول منظمة
+الدول المصدرة للنفط (اوبك) المتخوفة من انهيار اسعار النفط مع انتهاء
+فصل الشتاء تحديد اسس استراتيجيتها للاشهر المقبلة بشكل اوضح خلال اجتماع
+وزاري تعقده الاحد، في حين لا يتوقع الاعلان عن زيادة جديدة للانتاج</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="556" END="561">اجتماع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001110.1400.0090-E5-8" ROLE="Entity">
+      <extent>
+        <charseq START="569" END="569">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001110.1400.0090-T7-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="575" END="579">الاحد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

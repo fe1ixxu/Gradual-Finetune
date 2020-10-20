@@ -1,0 +1,1616 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001014.1300.0106.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001014.1300.0106">
+<entity ID="ALH20001014.1300.0106-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="495" END="508">نظيره الافريقي</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="498">نظير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E1-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="490" END="490">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="490">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E2" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E2-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="501" END="508">الافريقي</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="508">الافريقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E2-71" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2017" END="2024">الافارقة</charseq>
+    </extent>
+    <head>
+      <charseq START="2017" END="2024">الافارقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الافريقي">
+      <charseq START="501" END="508">الافريقي</charseq>
+    </name>
+    <name NAME="الافارقة">
+      <charseq START="2017" END="2024">الافارقة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E3" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E3-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="535" END="540">الخارج</charseq>
+    </extent>
+    <head>
+      <charseq START="535" END="540">الخارج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E4-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="640" END="641">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="641">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="692" END="703">لاعبي القارة</charseq>
+    </extent>
+    <head>
+      <charseq START="692" END="696">لاعبي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E6" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E6-9" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="676" END="703">العدد الهائل من لاعبي القارة</charseq>
+    </extent>
+    <head>
+      <charseq START="676" END="680">العدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E7" TYPE="ORG" SUBTYPE="Sports" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E7-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="877" END="898">بعض
+الاتحادات الآسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="879">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E8-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="881" END="898">الاتحادات الآسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="881" END="889">الاتحادات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E8-112" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="904" END="905">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="904" END="905">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="ALH20001014.1300.0106-E9-22" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1047" END="1051">الدول</charseq>
+    </extent>
+    <head>
+      <charseq START="1047" END="1051">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E10-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1067" END="1086">مدربين لدرجات الشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="1067" END="1072">مدربين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E10-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1116" END="1129">هؤلاء المدربين</charseq>
+    </extent>
+    <head>
+      <charseq START="1122" END="1129">المدربين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E11" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001014.1300.0106-E11-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1081" END="1086">الشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="1081" END="1086">الشباب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E11-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1170" END="1175">الشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="1170" END="1175">الشباب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E12-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1091" END="1099">٢٢ اتحادا</charseq>
+    </extent>
+    <head>
+      <charseq START="1094" END="1099">اتحادا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E13-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1150" END="1185">خبراء لتطوير قطاعات الشباب والناشئين</charseq>
+    </extent>
+    <head>
+      <charseq START="1150" END="1154">خبراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E14" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001014.1300.0106-E14-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1178" END="1185">الناشئين</charseq>
+    </extent>
+    <head>
+      <charseq START="1178" END="1185">الناشئين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E15" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E15-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1493" END="1533">الاتحاد الذي اوصيناه التعاقد مع مدرب معين</charseq>
+    </extent>
+    <head>
+      <charseq START="1493" END="1499">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E15-41" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1501" END="1504">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="1501" END="1504">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E15-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1512" END="1512">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1512" END="1512">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E15-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1535" END="1535">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1535" END="1535">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E16" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E16-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1543" END="1543">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1543" END="1543">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E16-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1525" END="1533">مدرب معين</charseq>
+    </extent>
+    <head>
+      <charseq START="1525" END="1528">مدرب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E17-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1568" END="1610">المدرب الوطني هو الأحق بتدريب
+المنتخب الاول</charseq>
+    </extent>
+    <head>
+      <charseq START="1568" END="1573">المدرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E17-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1582" END="1583">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1582" END="1583">هو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E18" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E18-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1598" END="1610">المنتخب الاول</charseq>
+    </extent>
+    <head>
+      <charseq START="1598" END="1604">المنتخب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E18-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1674" END="1686">المنتخب الاول</charseq>
+    </extent>
+    <head>
+      <charseq START="1674" END="1680">المنتخب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E19-49" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1616" END="1629">كوريا الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="1616" END="1629">كوريا الجنوبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوريا الجنوبية">
+      <charseq START="1616" END="1629">كوريا الجنوبية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E20-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1655" END="1665">بمدرب اجنبي</charseq>
+    </extent>
+    <head>
+      <charseq START="1655" END="1659">بمدرب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E21" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E21-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1766" END="1781">منتخبات شرق آسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1766" END="1772">منتخبات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E21-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1760" END="1760">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1760" END="1760">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E21-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1786" END="1787">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1786" END="1787">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E21-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1792" END="1792">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1792" END="1792">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E22" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E22-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1774" END="1781">شرق آسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1778" END="1781">آسيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E23" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E23-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1821" END="1889">منتخبات غرب آسيا التي تلاقي بعضها البعض في كثير من
+التجمعات الاقليمية</charseq>
+    </extent>
+    <head>
+      <charseq START="1821" END="1827">منتخبات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E23-60" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1838" END="1841">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1838" END="1841">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E23-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1843" END="1843">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1843" END="1843">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E23-64" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1852" END="1853">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1852" END="1853">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E24" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E24-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1829" END="1836">غرب آسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1833" END="1836">آسيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E25" TYPE="ORG" SUBTYPE="Sports" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E25-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1849" END="1859">بعضها البعض</charseq>
+    </extent>
+    <head>
+      <charseq START="1849" END="1851">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E26" TYPE="ORG" SUBTYPE="Sports" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E26-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1855" END="1859">البعض</charseq>
+    </extent>
+    <head>
+      <charseq START="1855" END="1859">البعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E27" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E27-65" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1903" END="1918">الآسيوي الافريقي</charseq>
+    </extent>
+    <head>
+      <charseq START="1903" END="1918">الآسيوي الافريقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E27-67" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1956" END="1973">الآسيوية الافريقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1956" END="1973">الآسيوية الافريقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E27-68" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1993" END="2000">القارتين</charseq>
+    </extent>
+    <head>
+      <charseq START="1993" END="2000">القارتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الآسيوي الافريقي">
+      <charseq START="1903" END="1918">الآسيوي الافريقي</charseq>
+    </name>
+    <name NAME="الآسيوية الافريقية">
+      <charseq START="1956" END="1973">الآسيوية الافريقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E30-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2008" END="2024">للاصدقاء الافارقة</charseq>
+    </extent>
+    <head>
+      <charseq START="2008" END="2015">للاصدقاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E30-73" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2054" END="2058">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="2054" END="2058">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E30-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2063" END="2064">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="2063" END="2064">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E30-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2051" END="2105">هم الذين
+قرروا تجميد بعض الاتفاقات وفضلوا عدم الاستمرار</charseq>
+    </extent>
+    <head>
+      <charseq START="2051" END="2052">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E30-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2090" END="2091">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="2090" END="2091">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E30-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2116" END="2117">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2116" END="2117">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E30-79" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2119" END="2120">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2119" END="2120">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E30-80" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2128" END="2129">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="2128" END="2129">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E32-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="708" END="708">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="708" END="708">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="992" END="992">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="992" END="992">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1752" END="1756">الدبل</charseq>
+    </extent>
+    <head>
+      <charseq START="1752" END="1756">الدبل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-66" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1938" END="1942">الدبل</charseq>
+    </extent>
+    <head>
+      <charseq START="1938" END="1942">الدبل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-77" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2108" END="2108">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2108" END="2108">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-85" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2204" END="2208">الدبل</charseq>
+    </extent>
+    <head>
+      <charseq START="2204" END="2208">الدبل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-86" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2214" END="2214">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2214" END="2214">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-95" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="979" END="983">الدبل</charseq>
+    </extent>
+    <head>
+      <charseq START="979" END="983">الدبل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-98" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="266" END="278">عبدالله الدبل</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="278">عبدالله الدبل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-110" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1713" END="1713">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1713" END="1713">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-116" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="171" END="264">رئيس لجنة التطوير والدراسات في الاتحاد الآسيوي لكرة
+القدم وعضو اللجنة الفنية في الاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="174">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E32-117" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="230" END="264">عضو اللجنة الفنية في الاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="232">عضو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الدبل">
+      <charseq START="1752" END="1756">الدبل</charseq>
+    </name>
+    <name NAME="الدبل">
+      <charseq START="1938" END="1942">الدبل</charseq>
+    </name>
+    <name NAME="الدبل">
+      <charseq START="2204" END="2208">الدبل</charseq>
+    </name>
+    <name NAME="الدبل">
+      <charseq START="979" END="983">الدبل</charseq>
+    </name>
+    <name NAME="عبدالله الدبل">
+      <charseq START="266" END="278">عبدالله الدبل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E33" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E33-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1033" END="1036">آسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1033" END="1036">آسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E33-87" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2257" END="2263">الآسيوي</charseq>
+    </extent>
+    <head>
+      <charseq START="2257" END="2263">الآسيوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E33-94" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="698" END="703">القارة</charseq>
+    </extent>
+    <head>
+      <charseq START="698" END="703">القارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E33-102" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="891" END="898">الآسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="898">الآسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E33-103" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="994" END="1001">الآسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="994" END="1001">الآسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E33-123" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="303" END="310">الآسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="310">الآسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E33-126" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="410" END="417">الآسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="410" END="417">الآسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E33-128" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="445" END="451">الآسيوي</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="451">الآسيوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آسيا">
+      <charseq START="1033" END="1036">آسيا</charseq>
+    </name>
+    <name NAME="الآسيوي">
+      <charseq START="2257" END="2263">الآسيوي</charseq>
+    </name>
+    <name NAME="الآسيوية">
+      <charseq START="891" END="898">الآسيوية</charseq>
+    </name>
+    <name NAME="الآسيوية">
+      <charseq START="994" END="1001">الآسيوية</charseq>
+    </name>
+    <name NAME="الآسيوية">
+      <charseq START="303" END="310">الآسيوية</charseq>
+    </name>
+    <name NAME="الآسيوية">
+      <charseq START="410" END="417">الآسيوية</charseq>
+    </name>
+    <name NAME="الآسيوي">
+      <charseq START="445" END="451">الآسيوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E34" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E34-88" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2293" END="2322">بعض الدول التي وصفها
+بالمتطورة</charseq>
+    </extent>
+    <head>
+      <charseq START="2293" END="2295">بعض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E34-91" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="2303" END="2306">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="2303" END="2306">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E34-92" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="2311" END="2312">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2311" END="2312">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E35" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E35-72" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1235" END="1251">للاتحادات المحلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1235" END="1243">للاتحادات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E36-90" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2297" END="2322">الدول التي وصفها
+بالمتطورة</charseq>
+    </extent>
+    <head>
+      <charseq START="2297" END="2301">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E37" TYPE="ORG" SUBTYPE="Sports" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E37-89" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1314" END="1327">لبعض
+الاتحادات</charseq>
+    </extent>
+    <head>
+      <charseq START="1314" END="1317">لبعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E38" TYPE="ORG" SUBTYPE="Sports" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E38-96" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1365" END="1391">الكثير من
+الاتحادات الوطنية</charseq>
+    </extent>
+    <head>
+      <charseq START="1365" END="1370">الكثير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E38-111" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1400" END="1401">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1400" END="1401">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E39" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E39-97" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1375" END="1391">الاتحادات الوطنية</charseq>
+    </extent>
+    <head>
+      <charseq START="1375" END="1383">الاتحادات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E40" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E40-99" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1715" END="1745">للمنتخبات المشاركة في النهائىات</charseq>
+    </extent>
+    <head>
+      <charseq START="1715" END="1723">للمنتخبات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E41" TYPE="ORG" SUBTYPE="Sports" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E41-100" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1319" END="1327">الاتحادات</charseq>
+    </extent>
+    <head>
+      <charseq START="1319" END="1327">الاتحادات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E42" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E42-101" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="794" END="795">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="794" END="795">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E45" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0106-E45-104" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="524" END="530">الآسيوي</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="530">الآسيوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E45-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="518" END="518">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="518">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E45-106" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="545" END="545">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="545">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E45-107" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="550" END="550">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="550">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E45-108" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="588" END="588">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="588">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E46-109" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="623" END="648">الآسيويين المحترفين خارجيا</charseq>
+    </extent>
+    <head>
+      <charseq START="623" END="631">الآسيويين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E47" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001014.1300.0106-E47-114" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1457" END="1462">مدربين</charseq>
+    </extent>
+    <head>
+      <charseq START="1457" END="1462">مدربين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E47-115" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1477" END="1478">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1477" END="1478">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E50" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E50-118" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="234" END="264">اللجنة الفنية في الاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="246">اللجنة الفنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اللجنة الفنية">
+      <charseq START="234" END="246">اللجنة الفنية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E51" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E51-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1200" END="1213">الاتحاد
+الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="1200" END="1213">الاتحاد
+الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E51-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1233" END="1233">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1233" END="1233">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E51-119" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="251" END="264">الاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="264">الاتحاد الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاتحاد الدولي">
+      <charseq START="1200" END="1213">الاتحاد
+الدولي</charseq>
+    </name>
+    <name NAME="الاتحاد الدولي">
+      <charseq START="251" END="264">الاتحاد الدولي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E52" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E52-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="727" END="741">الاتحاد الآسيوي</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="741">الاتحاد الآسيوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E52-120" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="202" END="227">الاتحاد الآسيوي لكرة
+القدم</charseq>
+    </extent>
+    <head>
+      <charseq START="202" END="227">الاتحاد الآسيوي لكرة
+القدم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاتحاد الآسيوي">
+      <charseq START="727" END="741">الاتحاد الآسيوي</charseq>
+    </name>
+    <name NAME="الاتحاد الآسيوي لكرة القدم">
+      <charseq START="202" END="227">الاتحاد الآسيوي لكرة
+القدم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E53" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E53-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="988" END="1001">لجنته الآسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="988" END="991">لجنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="807" END="807">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="807">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="839" END="840">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="839" END="840">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1007" END="1008">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1007" END="1008">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1044" END="1045">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1044" END="1045">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1103" END="1103">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1103" END="1103">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1137" END="1138">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1137" END="1138">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1140" END="1140">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1140" END="1140">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1359" END="1360">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1359" END="1360">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1436" END="1438">نحن</charseq>
+    </extent>
+    <head>
+      <charseq START="1436" END="1438">نحن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1440" END="1440">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1440" END="1440">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1484" END="1484">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1484" END="1484">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1510" END="1511">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="1510" END="1511">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-69" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2005" END="2006">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2005" END="2006">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-81" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2132" END="2134">نحن</charseq>
+    </extent>
+    <head>
+      <charseq START="2132" END="2134">نحن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-82" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2139" END="2139">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2139" END="2139">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-83" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2168" END="2171">فنحن</charseq>
+    </extent>
+    <head>
+      <charseq START="2168" END="2171">فنحن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-84" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2173" END="2173">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2173" END="2173">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E53-121" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="176" END="197">لجنة التطوير والدراسات</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="197">لجنة التطوير والدراسات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجنة التطوير والدراسات">
+      <charseq START="176" END="197">لجنة التطوير والدراسات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E54" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E54-113" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="335" END="336">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="336">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E54-122" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="293" END="318">الاتحادات الآسيوية المحلية</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="301">الاتحادات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E57" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E57-124" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="366" END="371">العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="366" END="371">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0106-E58" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E58-125" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="395" END="400">الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="400">الحياة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحياة">
+      <charseq START="395" END="400">الحياة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0106-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0106-E60-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="456" END="456">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="456" END="456">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E60-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="475" END="475">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="475">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E60-93" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="499" END="499">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="499" END="499">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0106-E60-127" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="438" END="451">اللاعب الآسيوي</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="443">اللاعب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ALH20001014.1300.0106-T1">
+  <timex2_mention ID="ALH20001014.1300.0106-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-14</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001014.1300.0106-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E53" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E52" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="176" END="227">لجنة التطوير والدراسات في الاتحاد الآسيوي لكرة
+القدم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E53-121" ROLE="Arg-1">
+      <extent>
+        <charseq START="176" END="197">لجنة التطوير والدراسات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E52-120" ROLE="Arg-2">
+      <extent>
+        <charseq START="202" END="227">الاتحاد الآسيوي لكرة
+القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E33" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E54" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001014.1300.0106-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="293" END="318">الاتحادات الآسيوية المحلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E33-123" ROLE="Arg-2">
+      <extent>
+        <charseq START="303" END="310">الآسيوية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E54-122" ROLE="Arg-1">
+      <extent>
+        <charseq START="293" END="318">الاتحادات الآسيوية المحلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E33" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="692" END="703">لاعبي القارة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E5-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="692" END="703">لاعبي القارة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E33-94" ROLE="Arg-2">
+      <extent>
+        <charseq START="698" END="703">القارة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E33" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="881" END="898">الاتحادات الآسيوية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E8-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="881" END="898">الاتحادات الآسيوية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E33-102" ROLE="Arg-2">
+      <extent>
+        <charseq START="891" END="898">الآسيوية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E53" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="171" END="264">رئيس لجنة التطوير والدراسات في الاتحاد الآسيوي لكرة
+القدم وعضو اللجنة الفنية في الاتحاد الدولي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E32-116" ROLE="Arg-1">
+      <extent>
+        <charseq START="171" END="264">رئيس لجنة التطوير والدراسات في الاتحاد الآسيوي لكرة
+القدم وعضو اللجنة الفنية في الاتحاد الدولي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E53-121" ROLE="Arg-2">
+      <extent>
+        <charseq START="176" END="197">لجنة التطوير والدراسات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R6" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E50" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="230" END="264">عضو اللجنة الفنية في الاتحاد الدولي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E32-117" ROLE="Arg-1">
+      <extent>
+        <charseq START="230" END="264">عضو اللجنة الفنية في الاتحاد الدولي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E50-118" ROLE="Arg-2">
+      <extent>
+        <charseq START="234" END="264">اللجنة الفنية في الاتحاد الدولي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E60" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E33" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="438" END="451">اللاعب الآسيوي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E60-127" ROLE="Arg-1">
+      <extent>
+        <charseq START="438" END="451">اللاعب الآسيوي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E33-128" ROLE="Arg-2">
+      <extent>
+        <charseq START="445" END="451">الآسيوي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="495" END="508">نظيره الافريقي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E1-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="495" END="508">نظيره الافريقي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E2-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="501" END="508">الافريقي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R9" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E53" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="988" END="1001">لجنته الآسيوية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E32-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="992" END="992">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E53-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="988" END="1001">لجنته الآسيوية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R10-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1493" END="1533">الاتحاد الذي اوصيناه التعاقد مع مدرب معين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E16-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="1525" END="1533">مدرب معين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E15-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="1493" END="1533">الاتحاد الذي اوصيناه التعاقد مع مدرب معين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E22" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R11-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1766" END="1781">منتخبات شرق آسيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E21-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="1766" END="1781">منتخبات شرق آسيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E22-55" ROLE="Arg-2">
+      <extent>
+        <charseq START="1774" END="1781">شرق آسيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E24" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R12-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1821" END="1889">منتخبات غرب آسيا التي تلاقي بعضها البعض في كثير من
+التجمعات الاقليمية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E23-58" ROLE="Arg-1">
+      <extent>
+        <charseq START="1821" END="1889">منتخبات غرب آسيا التي تلاقي بعضها البعض في كثير من
+التجمعات الاقليمية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E24-59" ROLE="Arg-2">
+      <extent>
+        <charseq START="1829" END="1836">غرب آسيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0106-R13" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0106-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0106-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0106-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2008" END="2024">للاصدقاء الافارقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E30-70" ROLE="Arg-1">
+      <extent>
+        <charseq START="2008" END="2024">للاصدقاء الافارقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0106-E2-71" ROLE="Arg-2">
+      <extent>
+        <charseq START="2017" END="2024">الافارقة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001014.1300.0106-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Generic" TENSE="Present">
+  <event_argument REFID="ALH20001014.1300.0106-E45" ROLE="Person"/>
+  <event_argument REFID="ALH20001014.1300.0106-E3" ROLE="Place"/>
+  <event_mention ID="ALH20001014.1300.0106-EV1-1">
+    <extent>
+      <charseq START="518" END="540">يحترف الآسيوي في الخارج</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="511" END="600">وعندما يحترف الآسيوي في الخارج
+فانه لا يتأقلم سريعاً مع الاجواء الجديدة التي يجد نفسه
+فيها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="518" END="522">يحترف</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E45-105" ROLE="Person">
+      <extent>
+        <charseq START="518" END="518">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E3-6" ROLE="Place">
+      <extent>
+        <charseq START="535" END="540">الخارج</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001014.1300.0106-EV2" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001014.1300.0106-E16" ROLE="Person"/>
+  <event_argument REFID="ALH20001014.1300.0106-E15" ROLE="Entity"/>
+  <event_mention ID="ALH20001014.1300.0106-EV2-1">
+    <extent>
+      <charseq START="1535" END="1543">يلغي
+عقده</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1419" END="1610">فعلى سبيل
+المثال نحن نوصي بالتعاقد مع مدربين بعد التقصي عنهم، ثم
+نكتشف ان الاتحاد الذي اوصيناه التعاقد مع مدرب معين يلغي
+عقده بعد فترة وجيزة بحجة ان المدرب الوطني هو الأحق بتدريب
+المنتخب الاول</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1540" END="1543">عقده</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E16-36" ROLE="Person">
+      <extent>
+        <charseq START="1543" END="1543">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E15-45" ROLE="Entity">
+      <extent>
+        <charseq START="1535" END="1535">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001014.1300.0106-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_mention ID="ALH20001014.1300.0106-EV3-1">
+    <extent>
+      <charseq START="1445" END="1452">بالتعاقد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1419" END="1610">فعلى سبيل
+المثال نحن نوصي بالتعاقد مع مدربين بعد التقصي عنهم، ثم
+نكتشف ان الاتحاد الذي اوصيناه التعاقد مع مدرب معين يلغي
+عقده بعد فترة وجيزة بحجة ان المدرب الوطني هو الأحق بتدريب
+المنتخب الاول</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1445" END="1452">بالتعاقد</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="ALH20001014.1300.0106-EV4" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001014.1300.0106-E10" ROLE="Person"/>
+  <event_argument REFID="ALH20001014.1300.0106-E53" ROLE="Entity"/>
+  <event_mention ID="ALH20001014.1300.0106-EV4-1">
+    <extent>
+      <charseq START="1044" END="1086">نا الدول في التعاقد مع مدربين لدرجات الشباب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1039" END="1129">وساعدنا الدول في التعاقد مع مدربين لدرجات الشباب في
+٢٢ اتحاداً ونتكفل برواتب هؤلاء المدربين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1056" END="1062">التعاقد</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E10-23" ROLE="Person">
+      <extent>
+        <charseq START="1067" END="1086">مدربين لدرجات الشباب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E53-21" ROLE="Entity">
+      <extent>
+        <charseq START="1044" END="1045">نا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001014.1300.0106-EV5" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001014.1300.0106-E13" ROLE="Person"/>
+  <event_argument REFID="ALH20001014.1300.0106-E53" ROLE="Entity"/>
+  <event_mention ID="ALH20001014.1300.0106-EV5-1">
+    <extent>
+      <charseq START="1140" END="1185">نتعاقد مع
+خبراء لتطوير قطاعات الشباب والناشئين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1131" END="1185">كما اننا نتعاقد مع
+خبراء لتطوير قطاعات الشباب والناشئين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1140" END="1145">نتعاقد</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E13-30" ROLE="Person">
+      <extent>
+        <charseq START="1150" END="1185">خبراء لتطوير قطاعات الشباب والناشئين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001014.1300.0106-E53-29" ROLE="Entity">
+      <extent>
+        <charseq START="1140" END="1140">ن</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

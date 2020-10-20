@@ -1,0 +1,970 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001208.1400.0107.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001208.1400.0107">
+<entity ID="AFA20001208.1400.0107-E1" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E1-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="400" END="418">جنوب المحيط الهادىء</charseq>
+    </extent>
+    <head>
+      <charseq START="405" END="418">المحيط الهادىء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1400.0107-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E2-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="459" END="466">برنت جيت</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="466">برنت جيت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E2-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="447" END="457">قائد المكوك</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="450">قائد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E2-17" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="629" END="631">جيت</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="631">جيت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E2-22" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="679" END="679">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="679">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="برنت جيت">
+      <charseq START="459" END="466">برنت جيت</charseq>
+    </name>
+    <name NAME="جيت">
+      <charseq START="629" END="631">جيت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E4" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E4-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="486" END="519">المركبتين اللتين التحمتا قبل اسبوع</charseq>
+    </extent>
+    <head>
+      <charseq START="486" END="494">المركبتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E4-14" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="496" END="501">اللتين</charseq>
+    </extent>
+    <head>
+      <charseq START="496" END="501">اللتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E4-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="509" END="509">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="509">ا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1400.0107-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E5-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="674" END="687">زملائه الاربعة</charseq>
+    </extent>
+    <head>
+      <charseq START="674" END="678">زملائ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E5-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="681" END="687">الاربعة</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="687">الاربعة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1400.0107-E7" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E7-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="689" END="720">مركبة
+"يونيتي" في المحطة الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="689" END="701">مركبة
+"يونيتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مركبة يونيتي">
+      <charseq START="689" END="701">مركبة
+"يونيتي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E8-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="743" END="769">رواد المحطة الدولية الثلاثة</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="746">رواد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E8-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="763" END="769">الثلاثة</charseq>
+    </extent>
+    <head>
+      <charseq START="763" END="769">الثلاثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E8-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="772" END="773">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="773">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1400.0107-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E10-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="784" END="794">وليام
+شيفرد</charseq>
+    </extent>
+    <head>
+      <charseq START="784" END="794">وليام
+شيفرد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وليام شيفرد">
+      <charseq START="784" END="794">وليام
+شيفرد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E11-35" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="797" END="835">الروسيان يوري غيدزينكو وسيرغي كريكاليوف</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="804">الروسيان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الروسيان">
+      <charseq START="797" END="804">الروسيان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E12-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="775" END="794">الاميركي وليام
+شيفرد</charseq>
+    </extent>
+    <head>
+      <charseq START="775" END="782">الاميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركي">
+      <charseq START="775" END="782">الاميركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E13-37" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="806" END="818">يوري غيدزينكو</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="818">يوري غيدزينكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يوري غيدزينكو">
+      <charseq START="806" END="818">يوري غيدزينكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E14-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="821" END="835">سيرغي كريكاليوف</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="835">سيرغي كريكاليوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سيرغي كريكاليوف">
+      <charseq START="821" END="835">سيرغي كريكاليوف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E15-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="121" END="137">واشنطن 12-8 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="126">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="121" END="126">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E16-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="134" END="137">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="137">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="134" END="137">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E17-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="581" END="591">طاقم المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="584">طاقم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E17-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="596" END="597">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="596" END="597">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E17-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="599" END="599">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="599">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E17-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="141" END="141">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="141">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E17-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="146" END="179">افراد طاقم المحطة الفضائية الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="150">افراد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E17-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="152" END="179">طاقم المحطة الفضائية الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="155">طاقم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E17-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="205" END="206">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="206">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1400.0107-E18" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E18-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="338" END="418">المحطة التي تتحرك بسرعة تقدر ب27 الف كلم في الساعة موجودة فوق
+جنوب المحيط الهادىء</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="343">المحطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-3" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="345" END="348">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="348">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="350" END="350">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="350">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="564" END="569">المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="569">المحطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="586" END="591">المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="591">المحطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="707" END="720">المحطة الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="707" END="720">المحطة الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="748" END="761">المحطة الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="761">المحطة الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="157" END="179">المحطة الفضائية الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="179">المحطة الفضائية الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="236" END="241">المحطة</charseq>
+    </extent>
+    <head>
+      <charseq START="236" END="241">المحطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E18-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="336" END="336">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="336">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المحطة الدولية">
+      <charseq START="707" END="720">المحطة الدولية</charseq>
+    </name>
+    <name NAME="المحطة الدولية">
+      <charseq START="748" END="761">المحطة الدولية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E19" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E19-31" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="222" END="225">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="225">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E19-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="227" END="227">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="227">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E19-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="216" END="277">الكوة التي تفصل بين المحطة والمكوك
+انديفور الذي يحمل خمسة رواد</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="220">الكوة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E19-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="468" END="519">الكوة الفاصلة بين
+المركبتين اللتين التحمتا قبل اسبوع</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="472">الكوة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1400.0107-E20" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E20-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="452" END="457">المكوك</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="457">المكوك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E20-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="642" END="647">المكوك</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="647">المكوك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E20-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="244" END="277">المكوك
+انديفور الذي يحمل خمسة رواد</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="257">المكوك
+انديفور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E20-53" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="259" END="262">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="262">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E20-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="264" END="264">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="264">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المكوك انديفور">
+      <charseq START="244" END="257">المكوك
+انديفور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001208.1400.0107-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E21-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="603" END="604">كم</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="604">كم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E21-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="637" END="647">طاقم المكوك</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="640">طاقم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E21-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="656" END="656">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="656">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E21-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="740" END="741">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="740" END="741">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E21-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="531" END="536">الطاقم</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="536">الطاقم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E21-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="269" END="277">خمسة رواد</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="277">رواد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E21-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="538" END="538">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="538">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E21-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="666" END="666">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="666">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001208.1400.0107-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001208.1400.0107-E22-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="324" END="327">ناسا</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="327">ناسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E22-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="301" END="327">وكالة الفضاء
+الاميركية ناسا</charseq>
+    </extent>
+    <head>
+      <charseq START="301" END="322">وكالة الفضاء
+الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001208.1400.0107-E22-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="297" END="297">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="297">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ناسا">
+      <charseq START="324" END="327">ناسا</charseq>
+    </name>
+    <name NAME="وكالة الفضاء الاميركية">
+      <charseq START="301" END="322">وكالة الفضاء
+الاميركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001208.1400.0107-T1">
+  <timex2_mention ID="AFA20001208.1400.0107-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-08 16:32:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1400.0107-T2">
+  <timex2_mention ID="AFA20001208.1400.0107-T2-1">
+    <extent>
+      <charseq START="128" END="131">12-8</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1400.0107-T3">
+  <timex2_mention ID="AFA20001208.1400.0107-T3-1">
+    <extent>
+      <charseq START="181" END="192">اليوم
+الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1400.0107-T4">
+  <timex2_mention ID="AFA20001208.1400.0107-T4-1">
+    <extent>
+      <charseq START="427" END="441">الساعة 36،14 تغ</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001208.1400.0107-T5">
+  <timex2_mention ID="AFA20001208.1400.0107-T5-1">
+    <extent>
+      <charseq START="511" END="519">قبل اسبوع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001208.1400.0107-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="447" END="457">قائد المكوك</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E2-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="447" END="457">قائد المكوك</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E20-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="452" END="457">المكوك</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E15" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001208.1400.0107-T2" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001208.1400.0107-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="121" END="137">واشنطن 12-8 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E16-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="134" END="137">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E15-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="121" END="137">واشنطن 12-8 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="128" END="131">12-8</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="581" END="591">طاقم المحطة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E17-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="581" END="591">طاقم المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E18-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="586" END="591">المحطة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001208.1400.0107-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="146" END="179">افراد طاقم المحطة الفضائية الدولية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E17-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="152" END="179">طاقم المحطة الفضائية الدولية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E18-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="157" END="179">المحطة الفضائية الدولية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="637" END="647">طاقم المكوك</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E21-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="637" END="647">طاقم المكوك</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E20-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="642" END="647">المكوك</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001208.1400.0107-R4-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="244" END="277">المكوك
+انديفور الذي يحمل خمسة رواد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E21-55" ROLE="Arg-1">
+      <extent>
+        <charseq START="269" END="277">خمسة رواد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E20-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="244" END="277">المكوك
+انديفور الذي يحمل خمسة رواد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R5" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R5-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="674" END="687">زملائه الاربعة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E2-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="679" END="679">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E5-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="674" END="687">زملائه الاربعة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="743" END="769">رواد المحطة الدولية الثلاثة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E8-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="743" END="769">رواد المحطة الدولية الثلاثة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E18-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="748" END="761">المحطة الدولية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="775" END="794">الاميركي وليام
+شيفرد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E10-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="784" END="794">وليام
+شيفرد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E12-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="775" END="794">الاميركي وليام
+شيفرد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="797" END="835">الروسيان يوري غيدزينكو وسيرغي كريكاليوف</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E13-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="806" END="818">يوري غيدزينكو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E11-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="797" END="835">الروسيان يوري غيدزينكو وسيرغي كريكاليوف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001208.1400.0107-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001208.1400.0107-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001208.1400.0107-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001208.1400.0107-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="797" END="835">الروسيان يوري غيدزينكو وسيرغي كريكاليوف</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E14-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="821" END="835">سيرغي كريكاليوف</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001208.1400.0107-E11-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="797" END="835">الروسيان يوري غيدزينكو وسيرغي كريكاليوف</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001208.1400.0107-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001208.1400.0107-E17" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001208.1400.0107-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001208.1400.0107-EV1-1">
+    <extent>
+      <charseq START="181" END="206">اليوم
+الجمعة اول زيارة لهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="141" END="327">تلقى افراد طاقم المحطة الفضائية الدولية اليوم
+الجمعة اول زيارة لهم اثر فتح الكوة التي تفصل بين المحطة والمكوك
+انديفور الذي يحمل خمسة رواد بحسب الصور التي بثتها وكالة الفضاء
+الاميركية ناسا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="198" END="202">زيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E17-48" ROLE="Artifact">
+      <extent>
+        <charseq START="205" END="206">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001208.1400.0107-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="181" END="192">اليوم
+الجمعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001208.1400.0107-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001208.1400.0107-E21" ROLE="Agent"/>
+  <event_argument REFID="AFA20001208.1400.0107-E18" ROLE="Destination"/>
+  <event_mention ID="AFA20001208.1400.0107-EV2-1">
+    <extent>
+      <charseq START="531" END="569">الطاقم يطلب اذنا بالصعود
+الى متن المحطة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="423" END="569">وفي الساعة 36،14 تغ فتح قائد المكوك برنت جيت الكوة الفاصلة بين
+المركبتين اللتين التحمتا قبل اسبوع. وقال ان "الطاقم يطلب اذنا بالصعود
+الى متن المحطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="548" END="554">بالصعود</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E21-50" ROLE="Agent">
+      <extent>
+        <charseq START="531" END="536">الطاقم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E18-12" ROLE="Destination">
+      <extent>
+        <charseq START="564" END="569">المحطة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001208.1400.0107-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001208.1400.0107-E21" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001208.1400.0107-E17" ROLE="Agent"/>
+  <event_mention ID="AFA20001208.1400.0107-EV3-1">
+    <extent>
+      <charseq START="581" END="618">طاقم المحطة "اننا نمنحكم الاذن بالصعود</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="575" END="618">واجاب طاقم المحطة "اننا نمنحكم الاذن بالصعود</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="612" END="618">بالصعود</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E21-16" ROLE="Artifact">
+      <extent>
+        <charseq START="603" END="604">كم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E17-10" ROLE="Agent">
+      <extent>
+        <charseq START="581" END="591">طاقم المحطة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001208.1400.0107-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001208.1400.0107-E21" ROLE="Artifact"/>
+  <event_mention ID="AFA20001208.1400.0107-EV4-1">
+    <extent>
+      <charseq START="652" END="656">طريقه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="625" END="720">ورد جيت ان "طاقم المكوك في طريقه" قبل ان يدخل مع زملائه الاربعة مركبة
+"يونيتي" في المحطة الدولية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="652" END="656">طريقه</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E21-20" ROLE="Artifact">
+      <extent>
+        <charseq START="656" END="656">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001208.1400.0107-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001208.1400.0107-E21" ROLE="Entity"/>
+  <event_argument REFID="AFA20001208.1400.0107-E8" ROLE="Entity"/>
+  <event_mention ID="AFA20001208.1400.0107-EV5-1">
+    <extent>
+      <charseq START="733" END="769">استقبالهم رواد المحطة الدولية الثلاثة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="725" END="835">وكان في استقبالهم رواد المحطة الدولية الثلاثة وهم الاميركي وليام
+شيفرد والروسيان يوري غيدزينكو وسيرغي كريكاليوف</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="733" END="741">استقبالهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E21-26" ROLE="Entity">
+      <extent>
+        <charseq START="740" END="741">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001208.1400.0107-E8-27" ROLE="Entity">
+      <extent>
+        <charseq START="743" END="769">رواد المحطة الدولية الثلاثة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

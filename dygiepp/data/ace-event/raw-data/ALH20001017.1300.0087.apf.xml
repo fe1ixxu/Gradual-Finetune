@@ -1,0 +1,2030 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001017.1300.0087.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001017.1300.0087">
+<entity ID="ALH20001017.1300.0087-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E1-2" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="497" END="518">اربع من
+جمهورياته الست</charseq>
+    </extent>
+    <head>
+      <charseq START="497" END="500">اربع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E1-30" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="761" END="787">كل أو بعض الدول
+التي انفصلت</charseq>
+    </extent>
+    <head>
+      <charseq START="761" END="762">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E2-4" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="505" END="518">جمهورياته الست</charseq>
+    </extent>
+    <head>
+      <charseq START="505" END="512">جمهوريات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E2-143" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="521" END="558">هي سلوفينيا وكرواتيا والبوسنة ومقدونيا</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="522">هي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="524" END="531">سلوفينيا</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="531">سلوفينيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E3-60" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2591" END="2598">سلوفينيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2591" END="2598">سلوفينيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E3-93" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1948" END="1958">السلوفينيون</charseq>
+    </extent>
+    <head>
+      <charseq START="1948" END="1958">السلوفينيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سلوفينيا">
+      <charseq START="524" END="531">سلوفينيا</charseq>
+    </name>
+    <name NAME="سلوفينيا">
+      <charseq START="2591" END="2598">سلوفينيا</charseq>
+    </name>
+    <name NAME="السلوفينيون">
+      <charseq START="1948" END="1958">السلوفينيون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E4-6" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="534" END="540">كرواتيا</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="540">كرواتيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E4-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2565" END="2571">كرواتيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2565" END="2571">كرواتيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E4-92" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1961" END="1967">الكروات</charseq>
+    </extent>
+    <head>
+      <charseq START="1961" END="1967">الكروات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كرواتيا">
+      <charseq START="534" END="540">كرواتيا</charseq>
+    </name>
+    <name NAME="كرواتيا">
+      <charseq START="2565" END="2571">كرواتيا</charseq>
+    </name>
+    <name NAME="الكروات">
+      <charseq START="1961" END="1967">الكروات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E5-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="543" END="549">البوسنة</charseq>
+    </extent>
+    <head>
+      <charseq START="543" END="549">البوسنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E5-59" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2574" END="2588">البوسنة  الهرسك</charseq>
+    </extent>
+    <head>
+      <charseq START="2574" END="2588">البوسنة  الهرسك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E5-62" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1508" END="1522">البوسنة  الهرسك</charseq>
+    </extent>
+    <head>
+      <charseq START="1508" END="1522">البوسنة  الهرسك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E5-63" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1540" END="1541">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1540" END="1541">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E5-94" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1970" END="1978">البوسنيون</charseq>
+    </extent>
+    <head>
+      <charseq START="1970" END="1978">البوسنيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البوسنة">
+      <charseq START="543" END="549">البوسنة</charseq>
+    </name>
+    <name NAME="البوسنة الهرسك">
+      <charseq START="2574" END="2588">البوسنة  الهرسك</charseq>
+    </name>
+    <name NAME="البوسنة الهرسك">
+      <charseq START="1508" END="1522">البوسنة  الهرسك</charseq>
+    </name>
+    <name NAME="البوسنيون">
+      <charseq START="1970" END="1978">البوسنيون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E6-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="552" END="558">مقدونيا</charseq>
+    </extent>
+    <head>
+      <charseq START="552" END="558">مقدونيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E6-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2615" END="2621">مقدونيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2615" END="2621">مقدونيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E6-78" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1685" END="1691">مقدونيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1685" END="1691">مقدونيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E6-79" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1719" END="1720">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1719" END="1720">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E6-81" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1725" END="1725">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1725" END="1725">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مقدونيا">
+      <charseq START="552" END="558">مقدونيا</charseq>
+    </name>
+    <name NAME="مقدونيا">
+      <charseq START="2615" END="2621">مقدونيا</charseq>
+    </name>
+    <name NAME="مقدونيا">
+      <charseq START="1685" END="1691">مقدونيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E7-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="694" END="703">ميلوشيفيتش</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="703">ميلوشيفيتش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E7-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="746" END="746">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="746" END="746">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E7-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="752" END="752">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="752">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميلوشيفيتش">
+      <charseq START="694" END="703">ميلوشيفيتش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E8-27" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="829" END="829">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="829">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E8-28" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="795" END="796">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="796">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E8-31" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="837" END="837">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="837">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E8-132" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="771" END="787">الدول
+التي انفصلت</charseq>
+    </extent>
+    <head>
+      <charseq START="771" END="775">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E8-135" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="777" END="780">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="777" END="780">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E8-136" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="787" END="787">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="787" END="787">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E9" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E9-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2650" END="2673">حدود اراضي جمهورية صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2650" END="2653">حدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E10-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="586" END="595">كوشتونيتسا</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="595">كوشتونيتسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="681" END="681">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="681">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-22" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1018" END="1027">كوشتونيتسا</charseq>
+    </extent>
+    <head>
+      <charseq START="1018" END="1027">كوشتونيتسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-99" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2147" END="2156">كوشتونيتسا</charseq>
+    </extent>
+    <head>
+      <charseq START="2147" END="2156">كوشتونيتسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-100" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2158" END="2158">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2158" END="2158">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-138" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1081" END="1081">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1081" END="1081">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-148" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="178" END="195">فويسلاف كوشتونيتسا</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="195">فويسلاف كوشتونيتسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-150" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="152" END="176">الرئيس اليوغوسلافي الجديد</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="157">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-151" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="201" END="201">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="201">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-154" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="361" END="378">فويسلاف كوشتونيتسا</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="378">فويسلاف كوشتونيتسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E10-155" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="342" END="359">الرئيس اليوغوسلافي</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="347">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوشتونيتسا">
+      <charseq START="586" END="595">كوشتونيتسا</charseq>
+    </name>
+    <name NAME="كوشتونيتسا">
+      <charseq START="1018" END="1027">كوشتونيتسا</charseq>
+    </name>
+    <name NAME="كوشتونيتسا">
+      <charseq START="2147" END="2156">كوشتونيتسا</charseq>
+    </name>
+    <name NAME="فويسلاف كوشتونيتسا">
+      <charseq START="178" END="195">فويسلاف كوشتونيتسا</charseq>
+    </name>
+    <name NAME="فويسلاف كوشتونيتسا">
+      <charseq START="361" END="378">فويسلاف كوشتونيتسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E11-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1134" END="1135">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1134" END="1135">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E11-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1087" END="1102">أهل الجبل الأسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1087" END="1089">أهل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E11-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1110" END="1111">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1110" END="1111">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E11-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1152" END="1153">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1153">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E11-90" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1988" END="2003">أهل الجبل الأسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1988" END="1990">أهل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E12-33" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2601" END="2612">الجبل الأسود</charseq>
+    </extent>
+    <head>
+      <charseq START="2601" END="2612">الجبل الأسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E12-42" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1091" END="1102">الجبل الأسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1091" END="1102">الجبل الأسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E12-68" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1610" END="1621">الجبل الأسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1610" END="1621">الجبل الأسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E12-73" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1626" END="1627">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1626" END="1627">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E12-74" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1632" END="1632">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1632" END="1632">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E12-77" TYPE="PRO" LDCTYPE="PTV" ROLE="GPE">
+    <extent>
+      <charseq START="1652" END="1665">جزءاً من صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1652" END="1655">جزءا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E12-89" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1992" END="2003">الجبل الأسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1992" END="2003">الجبل الأسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E12-134" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1604" END="1604">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1604" END="1604">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجبل الأسود">
+      <charseq START="2601" END="2612">الجبل الأسود</charseq>
+    </name>
+    <name NAME="الجبل الأسود">
+      <charseq START="1091" END="1102">الجبل الأسود</charseq>
+    </name>
+    <name NAME="الجبل الأسود">
+      <charseq START="1610" END="1621">الجبل الأسود</charseq>
+    </name>
+    <name NAME="الجبل الأسود">
+      <charseq START="1992" END="2003">الجبل الأسود</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E13-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2558" END="2562">صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2558" END="2562">صربيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E13-45" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1158" END="1162">صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1158" END="1162">صربيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E13-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2661" END="2673">جمهورية صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2661" END="2673">جمهورية صربيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E13-76" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1661" END="1665">صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1661" END="1665">صربيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E13-82" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1731" END="1735">صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1731" END="1735">صربيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E13-106" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2125" END="2129">صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2125" END="2129">صربيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E13-144" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1981" END="1985">الصرب</charseq>
+    </extent>
+    <head>
+      <charseq START="1981" END="1985">الصرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E13-146" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2725" END="2729">صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2725" END="2729">صربيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صربيا">
+      <charseq START="2558" END="2562">صربيا</charseq>
+    </name>
+    <name NAME="صربيا">
+      <charseq START="1158" END="1162">صربيا</charseq>
+    </name>
+    <name NAME="جمهورية صربيا">
+      <charseq START="2661" END="2673">جمهورية صربيا</charseq>
+    </name>
+    <name NAME="صربيا">
+      <charseq START="1661" END="1665">صربيا</charseq>
+    </name>
+    <name NAME="صربيا">
+      <charseq START="1731" END="1735">صربيا</charseq>
+    </name>
+    <name NAME="صربيا">
+      <charseq START="2125" END="2129">صربيا</charseq>
+    </name>
+    <name NAME="الصرب">
+      <charseq START="1981" END="1985">الصرب</charseq>
+    </name>
+    <name NAME="صربيا">
+      <charseq START="2725" END="2729">صربيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E14-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1226" END="1252">المؤسسات الأوروبية والدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="1226" END="1233">المؤسسات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E15" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E15-48" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1235" END="1243">الأوروبية</charseq>
+    </extent>
+    <head>
+      <charseq START="1235" END="1243">الأوروبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E15-55" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1443" END="1448">أوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="1443" END="1448">أوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأوروبية">
+      <charseq START="1235" END="1243">الأوروبية</charseq>
+    </name>
+    <name NAME="أوروبا">
+      <charseq START="1443" END="1448">أوروبا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E17-52" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1276" END="1326">باقي
+الدول التي تشكلت بعد انهيار يوغوسلافيا السابقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1281" END="1285">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E17-53" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="1287" END="1290">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1287" END="1290">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E17-54" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1296" END="1296">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1296" END="1296">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E18" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E18-67" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2628" END="2639">اقليم كوسوفو</charseq>
+    </extent>
+    <head>
+      <charseq START="2628" END="2639">اقليم كوسوفو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E18-128" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2054" END="2059">كوسوفو</charseq>
+    </extent>
+    <head>
+      <charseq START="2054" END="2059">كوسوفو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E18-129" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2169" END="2174">كوسوفو</charseq>
+    </extent>
+    <head>
+      <charseq START="2169" END="2174">كوسوفو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E18-130" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2719" END="2719">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2719" END="2719">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اقليم كوسوفو">
+      <charseq START="2628" END="2639">اقليم كوسوفو</charseq>
+    </name>
+    <name NAME="كوسوفو">
+      <charseq START="2054" END="2059">كوسوفو</charseq>
+    </name>
+    <name NAME="كوسوفو">
+      <charseq START="2169" END="2174">كوسوفو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E19-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1537" END="1565">شعبها متكون من الصرب والكروات</charseq>
+    </extent>
+    <head>
+      <charseq START="1537" END="1539">شعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E19-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1586" END="1594">هذا
+الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="1590" END="1594">الشعب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E20-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1571" END="1594">المسلمين هم من هذا
+الشعب</charseq>
+    </extent>
+    <head>
+      <charseq START="1571" END="1578">المسلمين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E20-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1580" END="1581">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1580" END="1581">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E21" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E21-83" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1745" END="1751">البلقان</charseq>
+    </extent>
+    <head>
+      <charseq START="1745" END="1751">البلقان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البلقان">
+      <charseq START="1745" END="1751">البلقان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E22" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E22-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2655" END="2673">اراضي جمهورية صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2655" END="2659">اراضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E23-86" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1896" END="1911">السلاف الجنوبيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1896" END="1901">السلاف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E24-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1928" END="2037">شعوب الدولة الجديدة السلوفينيون والكروات والبوسنيون والصرب
+وأهل الجبل الأسود والمقدونيون هم من الشعوب السلافية</charseq>
+    </extent>
+    <head>
+      <charseq START="1928" END="1931">شعوب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E24-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1925" END="2037">كل
+شعوب الدولة الجديدة السلوفينيون والكروات والبوسنيون والصرب
+وأهل الجبل الأسود والمقدونيون هم من الشعوب السلافية</charseq>
+    </extent>
+    <head>
+      <charseq START="1925" END="1926">كل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E24-96" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2017" END="2018">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2017" END="2018">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E28-95" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2006" END="2015">المقدونيون</charseq>
+    </extent>
+    <head>
+      <charseq START="2006" END="2015">المقدونيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المقدونيون">
+      <charseq START="2006" END="2015">المقدونيون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E29-102" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="2102" END="2129">الاقليم الذي هو جزء من صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2102" END="2108">الاقليم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E29-103" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE">
+    <extent>
+      <charseq START="2110" END="2113">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="2110" END="2113">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E29-104" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2115" END="2116">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="2115" END="2116">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E29-105" TYPE="PRO" LDCTYPE="PTV" ROLE="LOC">
+    <extent>
+      <charseq START="2118" END="2129">جزء من صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2118" END="2120">جزء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E30-97" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="2043" END="2059">الألبان في كوسوفو</charseq>
+    </extent>
+    <head>
+      <charseq START="2043" END="2049">الألبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E30-98" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2071" END="2072">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="2071" END="2072">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E30-108" TYPE="NOM" LDCTYPE="NOM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="2086" END="2129">أقلية عرقية،
+في الاقليم الذي هو جزء من صربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2086" END="2090">أقلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E30-109" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2179" END="2185">الألبان</charseq>
+    </extent>
+    <head>
+      <charseq START="2179" END="2185">الألبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الألبان">
+      <charseq START="2179" END="2185">الألبان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E31" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001017.1300.0087-E31-101" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2074" END="2077">شعبا</charseq>
+    </extent>
+    <head>
+      <charseq START="2074" END="2077">شعبا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E32-112" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1863" END="1877">الشعوب
+السلافية</charseq>
+    </extent>
+    <head>
+      <charseq START="1863" END="1868">الشعوب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E32-113" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2023" END="2037">الشعوب السلافية</charseq>
+    </extent>
+    <head>
+      <charseq START="2023" END="2028">الشعوب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E33-117" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2284" END="2284">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2284" END="2284">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E33-118" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2291" END="2316">ملك من سلالة كاراجورجيفيتش</charseq>
+    </extent>
+    <head>
+      <charseq START="2291" END="2293">ملك</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E34-119" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2304" END="2316">كاراجورجيفيتش</charseq>
+    </extent>
+    <head>
+      <charseq START="2304" END="2316">كاراجورجيفيتش</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كاراجورجيفيتش">
+      <charseq START="2304" END="2316">كاراجورجيفيتش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E35-3" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="513" END="513">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="513">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-10" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="563" END="569">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="563" END="569">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="710" END="719">يوغوسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="710" END="719">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-19" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="888" END="912">الدولة
+القديمة يوغوسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="888" END="893">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-20" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="938" END="939">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="938" END="939">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-24" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="814" END="834">الدولة التي كانت فيها</charseq>
+    </extent>
+    <head>
+      <charseq START="814" END="819">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-25" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="821" END="824">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="824">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-26" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="833" END="834">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="833" END="834">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-32" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="845" END="846">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="845" END="846">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-34" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1009" END="1010">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1010">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-35" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="989" END="1010">الدولة التي
+كانوا فيها</charseq>
+    </extent>
+    <head>
+      <charseq START="989" END="994">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-36" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="996" END="999">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="996" END="999">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-37" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1122" END="1140">للدولة
+التي هم فيها</charseq>
+    </extent>
+    <head>
+      <charseq START="1122" END="1127">للدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-38" TYPE="PRO" LDCTYPE="WHQ" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1129" END="1132">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1129" END="1132">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-39" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1139" END="1140">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1139" END="1140">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-46" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1182" END="1187">الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="1182" END="1187">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-49" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1255" END="1265">كدولة جديدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1259">كدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-50" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1309" END="1326">يوغوسلافيا السابقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1309" END="1318">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-51" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1335" END="1359">اتحاد
+صربيا والجبل الأسود</charseq>
+    </extent>
+    <head>
+      <charseq START="1335" END="1359">اتحاد
+صربيا والجبل الأسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-56" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1371" END="1388">يوغوسلافيا السابقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1371" END="1380">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-57" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1394" END="1394">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1394" END="1394">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-58" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1458" END="1489">دولة الصرب والكروات
+والسلوفينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1458" END="1489">دولة الصرب والكروات
+والسلوفينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-66" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="903" END="912">يوغوسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="903" END="912">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-75" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1644" END="1650">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="1644" END="1650">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-80" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1709" END="1714">الدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="1709" END="1714">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-84" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1797" END="1806">يوغوسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="1797" END="1806">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-87" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="159" END="169">اليوغوسلافي</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="169">اليوغوسلافي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-88" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1933" END="1946">الدولة الجديدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1933" END="1938">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-107" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2206" END="2212">للاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2206" END="2212">للاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-110" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2220" END="2229">يوغوسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2220" END="2229">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-111" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2218" END="2218">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2218" END="2218">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-114" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2265" END="2265">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2265" END="2265">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-115" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2271" END="2281">دولة مركزية</charseq>
+    </extent>
+    <head>
+      <charseq START="2271" END="2274">دولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-116" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2288" END="2289">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2288" END="2289">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-120" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2332" END="2333">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2332" END="2333">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-127" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2478" END="2487">يوغوسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2478" END="2487">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-152" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="220" END="229">يوغوسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="229">يوغوسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-156" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="349" END="359">اليوغوسلافي</charseq>
+    </extent>
+    <head>
+      <charseq START="349" END="359">اليوغوسلافي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-161" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="445" END="463">الاتحاد
+اليوغوسلافي</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="463">الاتحاد
+اليوغوسلافي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-162" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="476" END="476">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="476">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E35-163" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="275" END="334">اتحاد صربيا والجبل الأسود«، الذي »يعبر عن
+واقع الحال الراهنة</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="299">اتحاد صربيا والجبل الأسود</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يوغوسلافيا">
+      <charseq START="710" END="719">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="يوغوسلافيا">
+      <charseq START="1309" END="1318">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="اتحاد صربيا والجبل الأسود">
+      <charseq START="1335" END="1359">اتحاد
+صربيا والجبل الأسود</charseq>
+    </name>
+    <name NAME="يوغوسلافيا">
+      <charseq START="1371" END="1380">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="دولة الصرب والكروات والسلوفينيين">
+      <charseq START="1458" END="1489">دولة الصرب والكروات
+والسلوفينيين</charseq>
+    </name>
+    <name NAME="يوغوسلافيا">
+      <charseq START="903" END="912">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="يوغوسلافيا">
+      <charseq START="1797" END="1806">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="اليوغوسلافي">
+      <charseq START="159" END="169">اليوغوسلافي</charseq>
+    </name>
+    <name NAME="يوغوسلافيا">
+      <charseq START="2220" END="2229">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="يوغوسلافيا">
+      <charseq START="2478" END="2487">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="يوغوسلافيا">
+      <charseq START="220" END="229">يوغوسلافيا</charseq>
+    </name>
+    <name NAME="اليوغوسلافي">
+      <charseq START="349" END="359">اليوغوسلافي</charseq>
+    </name>
+    <name NAME="الاتحاد اليوغوسلافي">
+      <charseq START="445" END="463">الاتحاد
+اليوغوسلافي</charseq>
+    </name>
+    <name NAME="اتحاد صربيا والجبل الأسود">
+      <charseq START="275" END="299">اتحاد صربيا والجبل الأسود</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E36" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E36-121" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2327" END="2342">أقسامها الادارية</charseq>
+    </extent>
+    <head>
+      <charseq START="2327" END="2331">أقسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E36-122" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2322" END="2322">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2322" END="2322">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E37" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001017.1300.0087-E37-123" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2350" END="2355">الشعوب</charseq>
+    </extent>
+    <head>
+      <charseq START="2350" END="2355">الشعوب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E38" TYPE="LOC" SUBTYPE="Water-Body" CLASS="GEN">
+  <entity_mention ID="ALH20001017.1300.0087-E38-124" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2380" END="2386">الأنهار</charseq>
+    </extent>
+    <head>
+      <charseq START="2380" END="2386">الأنهار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E39" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="GEN">
+  <entity_mention ID="ALH20001017.1300.0087-E39-125" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2389" END="2394">الجبال</charseq>
+    </extent>
+    <head>
+      <charseq START="2389" END="2394">الجبال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E40" TYPE="LOC" SUBTYPE="Region-General" CLASS="GEN">
+  <entity_mention ID="ALH20001017.1300.0087-E40-126" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2397" END="2403">المناطق</charseq>
+    </extent>
+    <head>
+      <charseq START="2397" END="2403">المناطق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E41" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001017.1300.0087-E41-133" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="922" END="926">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="922" END="926">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E41-137" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="933" END="934">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="933" END="934">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E41-139" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="941" END="942">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="941" END="942">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E41-140" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="951" END="952">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="952">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E41-141" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="962" END="963">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="962" END="963">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E41-142" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1004" END="1005">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1004" END="1005">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E43-145" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1552" END="1556">الصرب</charseq>
+    </extent>
+    <head>
+      <charseq START="1552" END="1556">الصرب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E45-147" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1559" END="1565">الكروات</charseq>
+    </extent>
+    <head>
+      <charseq START="1559" END="1565">الكروات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E47-149" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2463" END="2466">تيتو</charseq>
+    </extent>
+    <head>
+      <charseq START="2463" END="2466">تيتو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تيتو">
+      <charseq START="2463" END="2466">تيتو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E50" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E50-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="393" END="393">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="393">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E50-157" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="396" END="439">صحيفة »داناس« المستقلة الصادرة في بلغراد أمس</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="407">صحيفة »داناس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة »داناس">
+      <charseq START="396" END="407">صحيفة »داناس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E51-158" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2446" END="2466">الشيوعيين بقيادة
+تيتو</charseq>
+    </extent>
+    <head>
+      <charseq START="2446" END="2454">الشيوعيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E52" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="ALH20001017.1300.0087-E52-131" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="767" END="787">بعض الدول
+التي انفصلت</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="769">بعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001017.1300.0087-E53" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E53-159" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="430" END="435">بلغراد</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="435">بلغراد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بلغراد">
+      <charseq START="430" END="435">بلغراد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001017.1300.0087-E54" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001017.1300.0087-E54-64" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2494" END="2532">جمهورية يوغوسلافيا
+الاشتراكية الاتحادية</charseq>
+    </extent>
+    <head>
+      <charseq START="2494" END="2532">جمهورية يوغوسلافيا
+الاشتراكية الاتحادية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E54-65" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="2536" END="2536">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2536" END="2536">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001017.1300.0087-E54-160" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2545" END="2621">ست جمهوريات »صربيا وكرواتيا
+والبوسنة  الهرسك وسلوفينيا والجبل الأسود ومقدونيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2548" END="2555">جمهوريات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جمهورية يوغوسلافيا الاشتراكية الاتحادية">
+      <charseq START="2494" END="2532">جمهورية يوغوسلافيا
+الاشتراكية الاتحادية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001017.1300.0087-T1">
+  <timex2_mention ID="ALH20001017.1300.0087-T1-1">
+    <extent>
+      <charseq START="571" END="578">عام ٢٩٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001017.1300.0087-T2">
+  <timex2_mention ID="ALH20001017.1300.0087-T2-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-17</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001017.1300.0087-T3">
+  <timex2_mention ID="ALH20001017.1300.0087-T3-1">
+    <extent>
+      <charseq START="1396" END="1403">عام ٨١٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001017.1300.0087-T4">
+  <timex2_mention ID="ALH20001017.1300.0087-T4-1">
+    <extent>
+      <charseq START="1765" END="1775">في عام ٩٢٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001017.1300.0087-T5">
+  <timex2_mention ID="ALH20001017.1300.0087-T5-1">
+    <extent>
+      <charseq START="2433" END="2440">عام ٦٤٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001017.1300.0087-T6">
+  <timex2_mention ID="ALH20001017.1300.0087-T6-1">
+    <extent>
+      <charseq START="2693" END="2700">عام ٤٧٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001017.1300.0087-T7">
+  <timex2_mention ID="ALH20001017.1300.0087-T7-1">
+    <extent>
+      <charseq START="437" END="439">أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001017.1300.0087-T8">
+  <timex2_mention ID="ALH20001017.1300.0087-T8-1">
+    <extent>
+      <charseq START="1737" END="1756">منذ حرب البلقان ٢١٩١</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001017.1300.0087-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="152" END="176">الرئيس اليوغوسلافي الجديد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E10-150" ROLE="Arg-1">
+      <extent>
+        <charseq START="152" END="176">الرئيس اليوغوسلافي الجديد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E35-87" ROLE="Arg-2">
+      <extent>
+        <charseq START="159" END="169">اليوغوسلافي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001017.1300.0087-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="342" END="359">الرئيس اليوغوسلافي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E10-155" ROLE="Arg-1">
+      <extent>
+        <charseq START="342" END="359">الرئيس اليوغوسلافي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E35-156" ROLE="Arg-2">
+      <extent>
+        <charseq START="349" END="359">اليوغوسلافي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E50" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E53" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="396" END="439">صحيفة »داناس« المستقلة الصادرة في بلغراد أمس</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E50-157" ROLE="Arg-1">
+      <extent>
+        <charseq START="396" END="439">صحيفة »داناس« المستقلة الصادرة في بلغراد أمس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E53-159" ROLE="Arg-2">
+      <extent>
+        <charseq START="430" END="435">بلغراد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R4" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1087" END="1102">أهل الجبل الأسود</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E11-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="1087" END="1102">أهل الجبل الأسود</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E12-42" ROLE="Arg-2">
+      <extent>
+        <charseq START="1091" END="1102">الجبل الأسود</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R5" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1122" END="1140">للدولة
+التي هم فيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E11-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="1134" END="1135">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E35-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="1139" END="1140">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1226" END="1252">المؤسسات الأوروبية والدولية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E14-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="1226" END="1252">المؤسسات الأوروبية والدولية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E15-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="1235" END="1243">الأوروبية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1537" END="1565">شعبها متكون من الصرب والكروات</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E19-69" ROLE="Arg-1">
+      <extent>
+        <charseq START="1537" END="1565">شعبها متكون من الصرب والكروات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E5-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="1540" END="1541">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1652" END="1665">جزءاً من صربيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E12-77" ROLE="Arg-1">
+      <extent>
+        <charseq START="1652" END="1665">جزءاً من صربيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E13-76" ROLE="Arg-2">
+      <extent>
+        <charseq START="1661" END="1665">صربيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2118" END="2129">جزء من صربيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E29-105" ROLE="Arg-1">
+      <extent>
+        <charseq START="2118" END="2129">جزء من صربيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E13-106" ROLE="Arg-2">
+      <extent>
+        <charseq START="2125" END="2129">صربيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2327" END="2342">أقسامها الادارية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E36-121" ROLE="Arg-1">
+      <extent>
+        <charseq START="2327" END="2342">أقسامها الادارية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E35-120" ROLE="Arg-2">
+      <extent>
+        <charseq START="2332" END="2333">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R11" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E41" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="989" END="1010">الدولة التي
+كانوا فيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E41-142" ROLE="Arg-1">
+      <extent>
+        <charseq START="1004" END="1005">وا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E35-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="989" END="1010">الدولة التي
+كانوا فيها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R12" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R12-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1925" END="2037">كل
+شعوب الدولة الجديدة السلوفينيون والكروات والبوسنيون والصرب
+وأهل الجبل الأسود والمقدونيون هم من الشعوب السلافية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E24-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="1928" END="2037">شعوب الدولة الجديدة السلوفينيون والكروات والبوسنيون والصرب
+وأهل الجبل الأسود والمقدونيون هم من الشعوب السلافية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E35-88" ROLE="Arg-2">
+      <extent>
+        <charseq START="1933" END="1946">الدولة الجديدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R13" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E34" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R13-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2291" END="2316">ملك من سلالة كاراجورجيفيتش</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E33-118" ROLE="Arg-1">
+      <extent>
+        <charseq START="2291" END="2316">ملك من سلالة كاراجورجيفيتش</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E34-119" ROLE="Arg-2">
+      <extent>
+        <charseq START="2304" END="2316">كاراجورجيفيتش</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R14" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R14-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="2650" END="2673">حدود اراضي جمهورية صربيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E22-85" ROLE="Arg-1">
+      <extent>
+        <charseq START="2655" END="2673">اراضي جمهورية صربيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E13-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="2661" END="2673">جمهورية صربيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001017.1300.0087-R15" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001017.1300.0087-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001017.1300.0087-E18" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001017.1300.0087-R15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2043" END="2059">الألبان في كوسوفو</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E30-97" ROLE="Arg-1">
+      <extent>
+        <charseq START="2043" END="2059">الألبان في كوسوفو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001017.1300.0087-E18-128" ROLE="Arg-2">
+      <extent>
+        <charseq START="2054" END="2059">كوسوفو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001017.1300.0087-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001017.1300.0087-T3" ROLE="Time-After"/>
+  <event_mention ID="ALH20001017.1300.0087-EV1-1">
+    <extent>
+      <charseq START="1396" END="1422">عام ٨١٩١، كأحد نتاجات
+الحرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1362" END="1489">ويذكر أن يوغوسلافيا السابقة تشكلت عام ٨١٩١، كأحد نتاجات
+الحرب العالمية الأولى في أوروبا، وباسم »دولة الصرب والكروات
+والسلوفينيين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1418" END="1422">الحرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001017.1300.0087-T3-1" ROLE="Time-After">
+      <extent>
+        <charseq START="1396" END="1403">عام ٨١٩١</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001017.1300.0087-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001017.1300.0087-T8" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001017.1300.0087-EV2-1">
+    <extent>
+      <charseq START="1737" END="1756">منذ حرب البلقان ٢١٩١</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1492" END="1756">ولم يتضمن الاسم البوسنة  الهرسك، على أساس
+ان شعبها متكون من الصرب والكروات وان المسلمين هم من هذا
+الشعب، كما لم يتضمن الجبل الأسود لأنها كانت عند تشكيل
+الاتحاد جزءاً من صربيا، اضافة الى ان اسم مقدونيا لم يخل في
+تسمية الدولة لأنها كانت ضمن صربيا منذ حرب البلقان ٢١٩١</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1741" END="1743">حرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001017.1300.0087-T8-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1737" END="1756">منذ حرب البلقان ٢١٩١</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001017.1300.0087-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="ALH20001017.1300.0087-EV3-1">
+    <extent>
+      <charseq START="2242" END="2246">الحرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2214" END="2403">وبقيت يوغوسلافيا حتى انتهاء الحرب العالمية الثانية تعتبر
+دولة مركزية، يحكمها ملك من سلالة كاراجورجيفيتش ولا تحمل
+أقسامها الادارية اسماء الشعوب، وإنما اسماء مستمدة من
+الأنهار والجبال والمناطق</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2242" END="2246">الحرب</charseq>
+    </anchor>
+  </event_mention>
+</event>
+</document>
+</source_file>

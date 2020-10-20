@@ -1,0 +1,1403 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001015.1300.0060.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001015.1300.0060">
+<entity ID="ALH20001015.1300.0060-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="447" END="451">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="451">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E1-3" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="453" END="465">عاصمة »ثنائية</charseq>
+    </extent>
+    <head>
+      <charseq START="453" END="457">عاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E1-4" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="488" END="489">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="489">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E1-67" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1755" END="1759">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="1755" END="1759">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E1-71" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1827" END="1860">القدس عاصمة »للفلسطينيين ولإسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1827" END="1831">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E1-91" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="442" END="442">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="442">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E1-92" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1833" END="1860">عاصمة »للفلسطينيين ولإسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1833" END="1837">عاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="447" END="451">القدس</charseq>
+    </name>
+    <name NAME="القدس">
+      <charseq START="1755" END="1759">القدس</charseq>
+    </name>
+    <name NAME="القدس">
+      <charseq START="1827" END="1831">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E2" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E2-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="470" END="489">الأماكن المقدسة فيها</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="476">الأماكن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E2-90" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1909" END="1923">الأماكن المقدسة</charseq>
+    </extent>
+    <head>
+      <charseq START="1909" END="1915">الأماكن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E3-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="707" END="715">شرم الشيخ</charseq>
+    </extent>
+    <head>
+      <charseq START="707" END="715">شرم الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شرم الشيخ">
+      <charseq START="707" END="715">شرم الشيخ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E4-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="723" END="769">رئيس
+لجنة الشؤون الخارجية في مجلس الدوما النواب</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="726">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E4-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="771" END="784">دميتري
+روغوزين</charseq>
+    </extent>
+    <head>
+      <charseq START="771" END="784">دميتري
+روغوزين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E4-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="795" END="795">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="795">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E4-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="919" END="919">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="919" END="919">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E4-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1009" END="1009">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1009">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دميتري روغوزين">
+      <charseq START="771" END="784">دميتري
+روغوزين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E6-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="752" END="762">مجلس الدوما</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="762">مجلس الدوما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E6-94" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="764" END="769">النواب</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="769">النواب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلس الدوما">
+      <charseq START="752" END="762">مجلس الدوما</charseq>
+    </name>
+    <name NAME="النواب">
+      <charseq START="764" END="769">النواب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E7-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="728" END="769">لجنة الشؤون الخارجية في مجلس الدوما النواب</charseq>
+    </extent>
+    <head>
+      <charseq START="728" END="731">لجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E8-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="797" END="809">وزير الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="800">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E8-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="811" END="823">ايغور ايفانوف</charseq>
+    </extent>
+    <head>
+      <charseq START="811" END="823">ايغور ايفانوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E8-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="868" END="873">الوزير</charseq>
+    </extent>
+    <head>
+      <charseq START="868" END="873">الوزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E8-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1075" END="1081">ايفانوف</charseq>
+    </extent>
+    <head>
+      <charseq START="1075" END="1081">ايفانوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E8-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1201" END="1201">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1201" END="1201">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايغور ايفانوف">
+      <charseq START="811" END="823">ايغور ايفانوف</charseq>
+    </name>
+    <name NAME="ايفانوف">
+      <charseq START="1075" END="1081">ايفانوف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E10-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="802" END="809">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="802" END="809">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="802" END="809">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E11-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="829" END="843">القيادة
+الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="835">القيادة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E11-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="852" END="852">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="852" END="852">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E12-23" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="837" END="843">الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="843">الروسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E12-26" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="898" END="902">روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="898" END="902">روسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E12-33" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1005" END="1008">بلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="1005" END="1008">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E12-37" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1112" END="1117">الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="1112" END="1117">الروسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E12-84" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="2007" END="2011">روسيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2007" END="2011">روسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الروسية">
+      <charseq START="837" END="843">الروسية</charseq>
+    </name>
+    <name NAME="روسيا">
+      <charseq START="898" END="902">روسيا</charseq>
+    </name>
+    <name NAME="الروسي">
+      <charseq START="1112" END="1117">الروسي</charseq>
+    </name>
+    <name NAME="روسيا">
+      <charseq START="2007" END="2011">روسيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E14-28" TYPE="NOM" LDCTYPE="NOM" ROLE="PER">
+    <extent>
+      <charseq START="931" END="940">الأميركيين</charseq>
+    </extent>
+    <head>
+      <charseq START="931" END="940">الأميركيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E14-29" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="976" END="977">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="976" END="977">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E14-30" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="987" END="988">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="988">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E14-31" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="994" END="995">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="994" END="995">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E14-34" TYPE="PRO" LDCTYPE="PRO" ROLE="PER">
+    <extent>
+      <charseq START="1034" END="1035">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1034" END="1035">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E14-83" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1999" END="2004">أميركا</charseq>
+    </extent>
+    <head>
+      <charseq START="1999" END="2004">أميركا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أميركا">
+      <charseq START="1999" END="2004">أميركا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E15-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1102" END="1117">التلفزيون الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="1102" END="1110">التلفزيون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E17" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E17-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1170" END="1179">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1170" END="1179">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E17-49" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1296" END="1313">الأراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1296" END="1313">الأراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E17-53" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1362" END="1371">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1362" END="1371">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E17-65" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1684" END="1694">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1684" END="1694">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E17-72" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1840" END="1850">للفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1840" END="1850">للفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E17-81" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="1977" END="1987">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1977" END="1987">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E17-95" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1163" END="1179">السلطة الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1163" END="1168">السلطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينية">
+      <charseq START="1170" END="1179">الفلسطينية</charseq>
+    </name>
+    <name NAME="الأراضي الفلسطينية">
+      <charseq START="1296" END="1313">الأراضي الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="1362" END="1371">الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطينيين">
+      <charseq START="1684" END="1694">الفلسطينيين</charseq>
+    </name>
+    <name NAME="للفلسطينيين">
+      <charseq START="1840" END="1850">للفلسطينيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E19-1" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="184" END="204">الرئيس فلاديمير بوتين</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="189">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E19-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="512" END="516">بوتين</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="516">بوتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E19-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="633" END="633">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="633" END="633">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E19-88" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="191" END="204">فلاديمير بوتين</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="204">فلاديمير بوتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بوتين">
+      <charseq START="512" END="516">بوتين</charseq>
+    </name>
+    <name NAME="فلاديمير بوتين">
+      <charseq START="191" END="204">فلاديمير بوتين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E20-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1228" END="1231">قوات</charseq>
+    </extent>
+    <head>
+      <charseq START="1228" END="1231">قوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E20-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1255" END="1255">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1255">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E21-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1239" END="1278">المواقع التي كانت فيها قبل اندلاع الأزمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1239" END="1245">المواقع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E21-46" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1247" END="1250">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1247" END="1250">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E21-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1259" END="1260">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1259" END="1260">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E22-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1355" END="1371">الشرطة الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1355" END="1360">الشرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="ALH20001015.1300.0060-E24-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1403" END="1417">الأماكن
+الدينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1403" END="1409">الأماكن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E25-55" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1434" END="1451">الرئيس بيل كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="1434" END="1439">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E25-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1441" END="1451">بيل كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="1441" END="1451">بيل كلينتون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيل كلينتون">
+      <charseq START="1441" END="1451">بيل كلينتون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="USP">
+  <entity_mention ID="ALH20001015.1300.0060-E27-57" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1515" END="1520">بلد
+ما</charseq>
+    </extent>
+    <head>
+      <charseq START="1515" END="1517">بلد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E28-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1578" END="1632">بريماكوف، الذي يعد من أبرز
+الخبراء في شؤون الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="1578" END="1585">بريماكوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-59" TYPE="PRO" LDCTYPE="WHQ" LDCATR="TRUE">
+    <extent>
+      <charseq START="1588" END="1591">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="1588" END="1591">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-60" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1593" END="1593">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1593" END="1593">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-61" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1600" END="1632">أبرز
+الخبراء في شؤون الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="1600" END="1603">أبرز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-68" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1767" END="1774">بريماكوف</charseq>
+    </extent>
+    <head>
+      <charseq START="1767" END="1774">بريماكوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-69" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1778" END="1778">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1778" END="1778">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-70" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1780" END="1780">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1780" END="1780">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-79" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1930" END="1948">رئيس
+الوزراء السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="1930" END="1933">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-89" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1889" END="1889">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1889" END="1889">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-108" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="371" END="389">رئيس الوزراء السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="374">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-109" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="391" END="405">يفغيني
+بريماكوف</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="405">يفغيني
+بريماكوف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E28-111" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="435" END="435">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="435">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بريماكوف">
+      <charseq START="1578" END="1585">بريماكوف</charseq>
+    </name>
+    <name NAME="بريماكوف">
+      <charseq START="1767" END="1774">بريماكوف</charseq>
+    </name>
+    <name NAME="يفغيني بريماكوف">
+      <charseq START="391" END="405">يفغيني
+بريماكوف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E29-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1605" END="1632">الخبراء في شؤون الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="1605" END="1611">الخبراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E30-74" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1789" END="1810">البطريرك اليكسي الثاني</charseq>
+    </extent>
+    <head>
+      <charseq START="1789" END="1796">البطريرك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E30-75" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1798" END="1810">اليكسي الثاني</charseq>
+    </extent>
+    <head>
+      <charseq START="1798" END="1803">اليكسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليكسي">
+      <charseq START="1798" END="1803">اليكسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E32-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1874" END="1883">هيئة
+دولية</charseq>
+    </extent>
+    <head>
+      <charseq START="1874" END="1877">هيئة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E32-77" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1868" END="1868">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1868" END="1868">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E32-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1893" END="1894">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1893" END="1894">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E34" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E34-86" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="2019" END="2034">الاتحاد الأوروبي</charseq>
+    </extent>
+    <head>
+      <charseq START="2019" END="2034">الاتحاد الأوروبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاتحاد الأوروبي">
+      <charseq START="2019" END="2034">الاتحاد الأوروبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E35-87" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="733" END="747">الشؤون الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="733" END="747">الشؤون الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشؤون الخارجية">
+      <charseq START="733" END="747">الشؤون الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E37" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E37-63" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1621" END="1632">الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="1621" END="1632">الشرق الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E37-96" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="223" END="234">الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="234">الشرق الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق الأوسط">
+      <charseq START="1621" END="1632">الشرق الأوسط</charseq>
+    </name>
+    <name NAME="الشرق الأوسط">
+      <charseq START="223" END="234">الشرق الأوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E38-8" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="636" END="640">عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="640">عرفات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E38-97" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="241" END="257">الرئيس ياسر عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="246">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E38-98" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="248" END="257">ياسر عرفات</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="257">ياسر عرفات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عرفات">
+      <charseq START="636" END="640">عرفات</charseq>
+    </name>
+    <name NAME="ياسر عرفات">
+      <charseq START="248" END="257">ياسر عرفات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E40-9" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="643" END="647">باراك</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="647">باراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E40-100" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="260" END="282">رئيس الوزراء الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="263">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E40-101" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="284" END="294">ايهود باراك</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="294">ايهود باراك</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باراك">
+      <charseq START="643" END="647">باراك</charseq>
+    </name>
+    <name NAME="ايهود باراك">
+      <charseq START="284" END="294">ايهود باراك</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E42-80" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1935" END="1941">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="1935" END="1941">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E42-102" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="265" END="271">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="271">الوزراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E42-110" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="376" END="382">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="382">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001015.1300.0060-E43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E43-38" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1154" END="1160">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1154" END="1160">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-41" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1204" END="1217">الدولة العبرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1204" END="1217">الدولة العبرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-42" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1223" END="1223">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1223" END="1223">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-44" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1232" END="1233">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1232" END="1233">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-50" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1282" END="1282">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1282" END="1282">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-51" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1316" END="1316">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1316" END="1316">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-64" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1675" END="1681">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1675" END="1681">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-66" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1729" END="1735">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1729" END="1735">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-73" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1853" END="1860">لإسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1853" END="1860">لإسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-82" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1990" END="1996">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1990" END="1996">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E43-103" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="273" END="282">الإسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="282">الإسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيل">
+      <charseq START="1154" END="1160">إسرائيل</charseq>
+    </name>
+    <name NAME="الدولة العبرية">
+      <charseq START="1204" END="1217">الدولة العبرية</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1675" END="1681">إسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1729" END="1735">إسرائيل</charseq>
+    </name>
+    <name NAME="لإسرائيل">
+      <charseq START="1853" END="1860">لإسرائيل</charseq>
+    </name>
+    <name NAME="إسرائيل">
+      <charseq START="1990" END="1996">إسرائيل</charseq>
+    </name>
+    <name NAME="الإسرائيلي">
+      <charseq START="273" END="282">الإسرائيلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E45-10" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="672" END="676">موسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="676">موسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E45-93" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="681" END="681">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="681" END="681">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E45-104" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="325" END="329">موسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="325" END="329">موسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E45-105" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="335" END="335">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="335">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="موسكو">
+      <charseq START="672" END="676">موسكو</charseq>
+    </name>
+    <name NAME="موسكو">
+      <charseq START="325" END="329">موسكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001015.1300.0060-E46" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001015.1300.0060-E46-85" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="2014" END="2016">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="2014" END="2016">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001015.1300.0060-E46-106" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="359" END="361">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="361">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="2014" END="2016">مصر</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="359" END="361">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001015.1300.0060-T1">
+  <timex2_mention ID="ALH20001015.1300.0060-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001015.1300.0060-R1" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E7" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="723" END="769">رئيس
+لجنة الشؤون الخارجية في مجلس الدوما النواب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E4-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="723" END="769">رئيس
+لجنة الشؤون الخارجية في مجلس الدوما النواب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E7-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="728" END="769">لجنة الشؤون الخارجية في مجلس الدوما النواب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E6" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="723" END="769">رئيس
+لجنة الشؤون الخارجية في مجلس الدوما النواب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E7-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="728" END="769">لجنة الشؤون الخارجية في مجلس الدوما النواب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E6-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="752" END="762">مجلس الدوما</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E40" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E42" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="260" END="282">رئيس الوزراء الإسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E40-100" ROLE="Arg-1">
+      <extent>
+        <charseq START="260" END="282">رئيس الوزراء الإسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E42-102" ROLE="Arg-2">
+      <extent>
+        <charseq START="265" END="271">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R4" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E42" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="371" END="389">رئيس الوزراء السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E28-108" ROLE="Arg-1">
+      <extent>
+        <charseq START="371" END="389">رئيس الوزراء السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E42-110" ROLE="Arg-2">
+      <extent>
+        <charseq START="376" END="382">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001015.1300.0060-R4-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1930" END="1948">رئيس
+الوزراء السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E28-79" ROLE="Arg-1">
+      <extent>
+        <charseq START="1930" END="1948">رئيس
+الوزراء السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E42-80" ROLE="Arg-2">
+      <extent>
+        <charseq START="1935" END="1941">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="469" END="489">والأماكن المقدسة فيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E2-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="470" END="489">الأماكن المقدسة فيها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E1-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="488" END="489">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E10" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="797" END="809">وزير الخارجية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E8-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="797" END="809">وزير الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E10-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="802" END="809">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="829" END="843">القيادة
+الروسية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E11-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="829" END="843">القيادة
+الروسية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E12-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="837" END="843">الروسية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1102" END="1117">التلفزيون الروسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E15-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="1102" END="1117">التلفزيون الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E12-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="1112" END="1117">الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E43" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1228" END="1233">قواتها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E20-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="1228" END="1231">قوات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E43-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="1232" END="1233">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001015.1300.0060-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001015.1300.0060-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001015.1300.0060-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001015.1300.0060-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1355" END="1371">الشرطة الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E22-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="1355" END="1371">الشرطة الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001015.1300.0060-E17-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="1362" END="1371">الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001015.1300.0060-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001015.1300.0060-E4" ROLE="Entity"/>
+  <event_argument REFID="ALH20001015.1300.0060-E8" ROLE="Entity"/>
+  <event_mention ID="ALH20001015.1300.0060-EV1-1">
+    <extent>
+      <charseq START="791" END="809">لقائه وزير الخارجية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="718" END="823">وقال رئيس
+لجنة الشؤون الخارجية في مجلس الدوما النواب دميتري
+روغوزين، اثر لقائه وزير الخارجية ايغور ايفانوف</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="791" END="794">لقائ</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001015.1300.0060-E4-17" ROLE="Entity">
+      <extent>
+        <charseq START="795" END="795">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001015.1300.0060-E8-19" ROLE="Entity">
+      <extent>
+        <charseq START="797" END="809">وزير الخارجية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001015.1300.0060-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001015.1300.0060-E20" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001015.1300.0060-E43" ROLE="Agent"/>
+  <event_argument REFID="ALH20001015.1300.0060-E21" ROLE="Destination"/>
+  <event_mention ID="ALH20001015.1300.0060-EV2-1">
+    <extent>
+      <charseq START="1223" END="1278">تسحب قواتها إلى
+المواقع التي كانت فيها قبل اندلاع الأزمة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1070" END="1278">وكان ايفانوف اعترف في تصريح إلى التلفزيون الروسي بأن
+الوساطة التي تولاها اخفقت، وحض إسرائيل والسلطة الفلسطينية
+على وقف العنف، مطالباً الدولة العبرية بأن تسحب قواتها إلى
+المواقع التي كانت فيها قبل اندلاع الأزمة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1223" END="1226">تسحب</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001015.1300.0060-E20-43" ROLE="Artifact">
+      <extent>
+        <charseq START="1228" END="1231">قوات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001015.1300.0060-E43-42" ROLE="Agent">
+      <extent>
+        <charseq START="1223" END="1223">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001015.1300.0060-E21-45" ROLE="Destination">
+      <extent>
+        <charseq START="1239" END="1278">المواقع التي كانت فيها قبل اندلاع الأزمة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

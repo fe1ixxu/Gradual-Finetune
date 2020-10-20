@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001014.1300.0100.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001014.1300.0100">
+<entity ID="ALH20001014.1300.0100-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="293" END="302">راي
+بارلور</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="302">راي
+بارلور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E1-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="344" END="344">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="344">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E1-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="291" END="291">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="291">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="راي بارلور">
+      <charseq START="293" END="302">راي
+بارلور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E2" TYPE="ORG" SUBTYPE="Media" CLASS="USP">
+  <entity_mention ID="ALH20001014.1300.0100-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="380" END="388">بعض الصحف</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="382">بعض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E2-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="378" END="378">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="378">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0100-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E3-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="414" END="428">الحارس الفنلندي</charseq>
+    </extent>
+    <head>
+      <charseq START="414" END="419">الحارس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E3-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="430" END="439">انتي نييمي</charseq>
+    </extent>
+    <head>
+      <charseq START="430" END="439">انتي نييمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E3-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="448" END="448">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="448" END="448">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انتي نييمي">
+      <charseq START="430" END="439">انتي نييمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E5-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="421" END="428">الفنلندي</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="428">الفنلندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفنلندي">
+      <charseq START="421" END="428">الفنلندي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E6-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="450" END="463">تيدي شيرينغهام</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="463">تيدي شيرينغهام</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تيدي شيرينغهام">
+      <charseq START="450" END="463">تيدي شيرينغهام</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E7-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="510" END="510">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="510" END="510">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E7-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="503" END="504">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="503" END="504">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E7-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="512" END="525">صحيفة »غارديان</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="525">صحيفة »غارديان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة »غارديان">
+      <charseq START="512" END="525">صحيفة »غارديان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E8-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="588" END="594">مرسيليا</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="594">مرسيليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مرسيليا">
+      <charseq START="588" END="594">مرسيليا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E9-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="597" END="602">موناكو</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="602">موناكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="موناكو">
+      <charseq START="597" END="602">موناكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E10" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E10-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="628" END="637">سانت اتيان</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="637">سانت اتيان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سانت اتيان">
+      <charseq START="628" END="637">سانت اتيان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E11" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E11-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="640" END="644">تولوز</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="644">تولوز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تولوز">
+      <charseq START="640" END="644">تولوز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E12-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="397" END="399">سار</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="399">سار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E12-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="534" END="536">سار</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="536">سار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E12-21" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="117" END="129">الحكم
+الفرنسي</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="121">الحكم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E12-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="131" END="137">الن سار</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="137">الن سار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E12-32" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="139" END="142">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="142">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E12-36" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="239" END="239">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="239">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E12-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="273" END="273">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="273">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الن سار">
+      <charseq START="131" END="137">الن سار</charseq>
+    </name>
+    <name NAME="سار">
+      <charseq START="397" END="399">سار</charseq>
+    </name>
+    <name NAME="سار">
+      <charseq START="534" END="536">سار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E13-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="69" END="79">لندن  أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="72">لندن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لندن">
+      <charseq START="69" END="72">لندن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E14-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="75" END="79">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="79">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="75" END="79">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E15-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="384" END="388">الصحف</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="388">الصحف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E15-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="86" END="101">الصحف الانكليزية</charseq>
+    </extent>
+    <head>
+      <charseq START="86" END="90">الصحف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E15-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="84" END="84">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="84">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E15-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="110" END="111">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="111">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E15-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="238" END="238">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="238">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001014.1300.0100-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E16-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="92" END="101">الانكليزية</charseq>
+    </extent>
+    <head>
+      <charseq START="92" END="101">الانكليزية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E16-39" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="264" END="265">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="265">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الانكليزية">
+      <charseq START="92" END="101">الانكليزية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E19-31" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="123" END="129">الفرنسي</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="129">الفرنسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفرنسي">
+      <charseq START="123" END="129">الفرنسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E20" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E20-33" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="155" END="161">انكلترا</charseq>
+    </extent>
+    <head>
+      <charseq START="155" END="161">انكلترا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001014.1300.0100-E20-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="259" END="263">منتخب</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="263">منتخب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="انكلترا">
+      <charseq START="155" END="161">انكلترا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E21" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E21-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="164" END="169">فنلندا</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="169">فنلندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فنلندا">
+      <charseq START="164" END="169">فنلندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001014.1300.0100-E22" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001014.1300.0100-E22-35" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="200" END="205">اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="205">اوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوروبا">
+      <charseq START="200" END="205">اوروبا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001014.1300.0100-T1">
+  <timex2_mention ID="ALH20001014.1300.0100-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-14</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0100-T2">
+  <timex2_mention ID="ALH20001014.1300.0100-T2-1">
+    <extent>
+      <charseq START="227" END="230">٢٠٠٢</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0100-T3">
+  <timex2_mention ID="ALH20001014.1300.0100-T3-1">
+    <extent>
+      <charseq START="607" END="624">نيسان ابريل الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001014.1300.0100-T4">
+  <timex2_mention ID="ALH20001014.1300.0100-T4-1">
+    <extent>
+      <charseq START="649" END="664">آب اغسطس 
+الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001014.1300.0100-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0100-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0100-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0100-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="69" END="79">لندن  أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E14-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="75" END="79">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E13-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="69" END="79">لندن  أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0100-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0100-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0100-E16" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0100-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="86" END="101">الصحف الانكليزية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E15-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="86" END="101">الصحف الانكليزية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E16-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="92" END="101">الانكليزية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0100-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0100-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0100-E16" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0100-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="259" END="265">منتخبها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E20-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="259" END="263">منتخب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E16-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="264" END="265">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0100-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0100-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0100-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0100-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="414" END="428">الحارس الفنلندي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E3-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="414" END="428">الحارس الفنلندي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E5-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="421" END="428">الفنلندي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001014.1300.0100-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001014.1300.0100-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001014.1300.0100-E19" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001014.1300.0100-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="117" END="230">الحكم
+الفرنسي الن سار الذي قاد مباراة انكلترا وفنلندا ضمن الجولة
+الثالثة من تصفيات اوروبا المؤهلة الى مونديال ٢٠٠٢</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E12-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="117" END="129">الحكم
+الفرنسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001014.1300.0100-E19-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="123" END="129">الفرنسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

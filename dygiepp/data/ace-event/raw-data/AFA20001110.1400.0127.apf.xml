@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001110.1400.0127.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001110.1400.0127">
+<entity ID="AFA20001110.1400.0127-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0127-E1-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="487" END="487">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="487">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E1-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="439" END="439">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="439">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E1-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="444" END="465">المتحدث باسم
+شركة فورد</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="450">المتحدث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E1-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="467" END="478">مارك ويلفورد</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="478">مارك ويلفورد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مارك ويلفورد">
+      <charseq START="467" END="478">مارك ويلفورد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0127-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0127-E2-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="586" END="587">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="587">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E2-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="603" END="604">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="604">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001110.1400.0127-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0127-E3-8" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="515" END="547">مسؤول آخر في الشركة مارتن وايتيكر</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="519">مسؤول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E3-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="535" END="547">مارتن وايتيكر</charseq>
+    </extent>
+    <head>
+      <charseq START="535" END="547">مارتن وايتيكر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مارتن وايتيكر">
+      <charseq START="535" END="547">مارتن وايتيكر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0127-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0127-E5-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="103" END="106">بيرث</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="106">بيرث</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيرث">
+      <charseq START="103" END="106">بيرث</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0127-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0127-E6-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="331" END="331">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="331">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="324" END="324">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="324">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="114" END="118">ساينز</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="118">ساينز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="143" END="143">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="143" END="143">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="161" END="161">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="161">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="218" END="218">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="218">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="251" END="251">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="251">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="255" END="255">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="255">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="281" END="281">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="281">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="356" END="356">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="356" END="356">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E6-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="396" END="400">ساينز</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="400">ساينز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ساينز">
+      <charseq START="114" END="118">ساينز</charseq>
+    </name>
+    <name NAME="ساينز">
+      <charseq START="396" END="400">ساينز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0127-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0127-E7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="167" END="179">سائقين عديدين</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="172">سائقين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E7-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="178" END="179">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="179">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E7-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="185" END="186">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="186">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001110.1400.0127-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001110.1400.0127-E8-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="483" END="486">شركت</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="486">شركت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E8-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="492" END="492">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="492">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E8-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="528" END="533">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="528" END="533">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E8-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="294" END="303">شركة)
+فورد</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="303">شركة)
+فورد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E8-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="308" END="308">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="308">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001110.1400.0127-E8-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="457" END="465">شركة فورد</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="465">شركة فورد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة) فورد">
+      <charseq START="294" END="303">شركة)
+فورد</charseq>
+    </name>
+    <name NAME="شركة فورد">
+      <charseq START="457" END="465">شركة فورد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001110.1400.0127-E9" TYPE="LOC" SUBTYPE="Region-General" CLASS="GEN">
+  <entity_mention ID="AFA20001110.1400.0127-E9-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="232" END="245">المكان المناسب</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="237">المكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001110.1400.0127-T1">
+  <timex2_mention ID="AFA20001110.1400.0127-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-10 17:22:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0127-T2">
+  <timex2_mention ID="AFA20001110.1400.0127-T2-1">
+    <extent>
+      <charseq START="372" END="384">صباح غد السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001110.1400.0127-T3">
+  <timex2_mention ID="AFA20001110.1400.0127-T3-1">
+    <extent>
+      <charseq START="265" END="268">الان</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001110.1400.0127-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001110.1400.0127-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001110.1400.0127-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001110.1400.0127-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="444" END="465">المتحدث باسم
+شركة فورد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001110.1400.0127-E1-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="444" END="465">المتحدث باسم
+شركة فورد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001110.1400.0127-E8-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="457" END="465">شركة فورد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001110.1400.0127-R1-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="483" END="487">شركته</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001110.1400.0127-E1-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="487" END="487">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001110.1400.0127-E8-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="483" END="486">شركت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001110.1400.0127-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001110.1400.0127-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001110.1400.0127-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001110.1400.0127-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="515" END="547">مسؤول آخر في الشركة مارتن وايتيكر</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001110.1400.0127-E3-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="515" END="547">مسؤول آخر في الشركة مارتن وايتيكر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001110.1400.0127-E8-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="528" END="533">الشركة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001110.1400.0127-EV1" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Other" POLARITY="Negative" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001110.1400.0127-E8" ROLE="Plaintiff"/>
+  <event_mention ID="AFA20001110.1400.0127-EV1-1">
+    <extent>
+      <charseq START="483" END="505">شركته لن تطلب الاستئناف</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="390" END="505">وادلى ساينز بهذا التصريح فور اعلان القرار قبل ان يؤكد المتحدث باسم
+شركة فورد مارك ويلفورد ان شركته لن تطلب الاستئناف</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="497" END="505">الاستئناف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001110.1400.0127-E8-2" ROLE="Plaintiff">
+      <extent>
+        <charseq START="483" END="486">شركت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

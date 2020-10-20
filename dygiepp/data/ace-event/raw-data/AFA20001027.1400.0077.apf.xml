@@ -1,0 +1,907 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001027.1400.0077.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001027.1400.0077">
+<entity ID="AFA20001027.1400.0077-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E1-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="528" END="538">لخمسة اطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="538">اطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.1400.0077-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E2-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="540" END="559">اهالي واصدقاء ضحاياه</charseq>
+    </extent>
+    <head>
+      <charseq START="540" END="544">اهالي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E2-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="843" END="844">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="843" END="844">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E2-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="805" END="818">عائلات الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="805" END="810">عائلات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.1400.0077-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E3-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="547" END="559">اصدقاء ضحاياه</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="552">اصدقاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.1400.0077-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E4-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="554" END="559">ضحاياه</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="558">ضحايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E4-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="656" END="662">الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="662">الضحايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E4-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="812" END="818">الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="818">الضحايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E4-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="247" END="253">13 شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="253">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.1400.0077-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="577" END="583">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="577" END="583">المحكمة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.1400.0077-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E6-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="588" END="615">سبوكين، شرق واشنطن (شمال غرب</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="593">سبوكين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سبوكين">
+      <charseq START="588" END="593">سبوكين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E7-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="596" END="615">شرق واشنطن (شمال غرب</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="605">واشنطن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.1400.0077-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E8-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="631" END="643">اوندرايا سميث</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="643">اوندرايا سميث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E8-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="645" END="662">والدة احدى الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="649">والدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E8-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="625" END="625">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="625" END="625">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوندرايا سميث">
+      <charseq START="631" END="643">اوندرايا سميث</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E10-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="664" END="692">ساني اوستر التي عثر على
+جثتها</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="673">ساني اوستر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E10-21" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="675" END="678">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="675" END="678">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E10-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="691" END="692">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="692">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E10-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="651" END="662">احدى الضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="651" END="654">احدى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ساني اوستر">
+      <charseq START="664" END="673">ساني اوستر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E11-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="192" END="206">القضاء الاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="197">القضاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.1400.0077-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E12-1" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="452" END="457">المتهم</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="457">المتهم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="479" END="488">هذا الاخير</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="488">الاخير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="503" END="503">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="503" END="503">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="514" END="538">المتهم وهو اب لخمسة اطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="514" END="519">المتهم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-5" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="522" END="523">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="523">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="559" END="559">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="559" END="559">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="570" END="570">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="570">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="732" END="736">ياتيس</charseq>
+    </extent>
+    <head>
+      <charseq START="732" END="736">ياتيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-24" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="773" END="773">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="773" END="773">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-25" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="829" END="829">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="829">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="874" END="878">ياتيس</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="878">ياتيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="917" END="917">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="917" END="917">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="212" END="253">روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="225">روبرت
+لي ياتيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="629" END="629">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="629">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="525" END="538">اب لخمسة اطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="525" END="526">اب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="346" END="359">ياتيس (48 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="350">ياتيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-49" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="386" END="386">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="386">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E12-50" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="394" END="394">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="394">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ياتيس">
+      <charseq START="732" END="736">ياتيس</charseq>
+    </name>
+    <name NAME="ياتيس">
+      <charseq START="874" END="878">ياتيس</charseq>
+    </name>
+    <name NAME="روبرت لي ياتيس">
+      <charseq START="212" END="225">روبرت
+لي ياتيس</charseq>
+    </name>
+    <name NAME="ياتيس">
+      <charseq START="346" END="350">ياتيس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E13-36" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="442" END="442">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="442">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E13-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="422" END="434">ستيف تاكرجادج</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="434">ستيف تاكرجادج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E13-38" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="409" END="434">المدعي العام ستيف تاكرجادج</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="414">المدعي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ستيف تاكرجادج">
+      <charseq START="422" END="434">ستيف تاكرجادج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E14-40" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="767" END="767">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="767">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E14-41" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="769" END="779">ابنته البكر</charseq>
+    </extent>
+    <head>
+      <charseq START="769" END="772">ابنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.1400.0077-E14-42" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="781" END="784">ساشا</charseq>
+    </extent>
+    <head>
+      <charseq START="781" END="784">ساشا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ساشا">
+      <charseq START="781" END="784">ساشا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E15-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="149" END="184">سياتل (الولايات المتحدة) 10-27 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="153">سياتل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سياتل">
+      <charseq START="149" END="153">سياتل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E16-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="156" END="171">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="171">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="156" END="171">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E17-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="181" END="184">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="184">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="181" END="184">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.1400.0077-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001027.1400.0077-E19-46" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="199" END="206">الاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="206">الاميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركي">
+      <charseq START="199" END="206">الاميركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001027.1400.0077-V1" TYPE="Crime">
+  <value_mention ID="AFA20001027.1400.0077-V1-1">
+    <extent>
+      <charseq START="234" END="253">بقتل واغتصاب 13 شخصا</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001027.1400.0077-V2" TYPE="Sentence">
+  <value_mention ID="AFA20001027.1400.0077-V2-1">
+    <extent>
+      <charseq START="310" END="336">غرامة قيمتها ستون الف دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001027.1400.0077-V3" TYPE="Sentence">
+  <value_mention ID="AFA20001027.1400.0077-V3-1">
+    <extent>
+      <charseq START="279" END="302">بالسجن
+لاكثر من 440 عاما</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001027.1400.0077-V4" TYPE="Crime">
+  <value_mention ID="AFA20001027.1400.0077-V4-1">
+    <extent>
+      <charseq START="883" END="899">جريمتي قتل اخريين</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001027.1400.0077-V5" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001027.1400.0077-V5-1">
+    <extent>
+      <charseq START="323" END="336">ستون الف دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001027.1400.0077-T1">
+  <timex2_mention ID="AFA20001027.1400.0077-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-27 14:31:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.1400.0077-T2">
+  <timex2_mention ID="AFA20001027.1400.0077-T2-1">
+    <extent>
+      <charseq START="174" END="178">10-27</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.1400.0077-T3">
+  <timex2_mention ID="AFA20001027.1400.0077-T3-1">
+    <extent>
+      <charseq START="255" END="277">في السنوات ال25 الماضية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.1400.0077-T4">
+  <timex2_mention ID="AFA20001027.1400.0077-T4-1">
+    <extent>
+      <charseq START="697" END="700">1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.1400.0077-T5">
+  <timex2_mention ID="AFA20001027.1400.0077-T5-1">
+    <extent>
+      <charseq START="286" END="302">لاكثر من 440 عاما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001027.1400.0077-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E16" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="149" END="184">سياتل (الولايات المتحدة) 10-27 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E15-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="149" END="184">سياتل (الولايات المتحدة) 10-27 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E16-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="156" END="171">الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E16" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="149" END="184">سياتل (الولايات المتحدة) 10-27 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E17-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="181" END="184">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E16-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="156" END="171">الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R3" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="525" END="538">اب لخمسة اطفال</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E12-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="525" END="538">اب لخمسة اطفال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E1-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="528" END="538">لخمسة اطفال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R4" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="547" END="559">اصدقاء ضحاياه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E3-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="547" END="559">اصدقاء ضحاياه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E4-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="554" END="559">ضحاياه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R5" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="645" END="662">والدة احدى الضحايا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E8-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="645" END="662">والدة احدى الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E10-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="651" END="662">احدى الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R6" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R6-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="769" END="779">ابنته البكر</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E14-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="769" END="779">ابنته البكر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E12-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="773" END="773">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R7" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="805" END="818">عائلات الضحايا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E2-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="805" END="818">عائلات الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E4-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="812" END="818">الضحايا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="192" END="206">القضاء الاميركي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E11-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="192" END="206">القضاء الاميركي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E19-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="199" END="206">الاميركي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.1400.0077-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.1400.0077-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.1400.0077-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.1400.0077-R9-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="588" END="615">سبوكين، شرق واشنطن (شمال غرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E6-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="588" END="615">سبوكين، شرق واشنطن (شمال غرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.1400.0077-E7-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="596" END="615">شرق واشنطن (شمال غرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001027.1400.0077-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.1400.0077-E12" ROLE="Person"/>
+  <event_argument REFID="AFA20001027.1400.0077-E11" ROLE="Agent"/>
+  <event_argument REFID="AFA20001027.1400.0077-V1" ROLE="Crime"/>
+  <event_argument REFID="AFA20001027.1400.0077-T5" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001027.1400.0077-EV1-1">
+    <extent>
+      <charseq START="192" END="302">القضاء الاميركي على روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا في السنوات ال25 الماضية بالسجن
+لاكثر من 440 عاما</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="188" END="336">حكم القضاء الاميركي على روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا في السنوات ال25 الماضية بالسجن
+لاكثر من 440 عاما وبدفع غرامة قيمتها ستون الف دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="279" END="284">بالسجن</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E12-31" ROLE="Person">
+      <extent>
+        <charseq START="212" END="253">روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E11-32" ROLE="Agent">
+      <extent>
+        <charseq START="192" END="206">القضاء الاميركي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="234" END="253">بقتل واغتصاب 13 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-T5-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="286" END="302">لاكثر من 440 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.1400.0077-EV2" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.1400.0077-E12" ROLE="Entity"/>
+  <event_argument REFID="AFA20001027.1400.0077-E11" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001027.1400.0077-V5" ROLE="Money"/>
+  <event_argument REFID="AFA20001027.1400.0077-V1" ROLE="Crime"/>
+  <event_mention ID="AFA20001027.1400.0077-EV2-1">
+    <extent>
+      <charseq START="192" END="336">القضاء الاميركي على روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا في السنوات ال25 الماضية بالسجن
+لاكثر من 440 عاما وبدفع غرامة قيمتها ستون الف دولار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="188" END="336">حكم القضاء الاميركي على روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا في السنوات ال25 الماضية بالسجن
+لاكثر من 440 عاما وبدفع غرامة قيمتها ستون الف دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="310" END="314">غرامة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E12-31" ROLE="Entity">
+      <extent>
+        <charseq START="212" END="253">روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E11-32" ROLE="Adjudicator">
+      <extent>
+        <charseq START="192" END="206">القضاء الاميركي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-V5-1" ROLE="Money">
+      <extent>
+        <charseq START="323" END="336">ستون الف دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="234" END="253">بقتل واغتصاب 13 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.1400.0077-EV3" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.1400.0077-E11" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001027.1400.0077-E12" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001027.1400.0077-V3" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001027.1400.0077-V2" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001027.1400.0077-V1" ROLE="Crime"/>
+  <event_mention ID="AFA20001027.1400.0077-EV3-1">
+    <extent>
+      <charseq START="188" END="336">حكم القضاء الاميركي على روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا في السنوات ال25 الماضية بالسجن
+لاكثر من 440 عاما وبدفع غرامة قيمتها ستون الف دولار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="188" END="336">حكم القضاء الاميركي على روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا في السنوات ال25 الماضية بالسجن
+لاكثر من 440 عاما وبدفع غرامة قيمتها ستون الف دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="188" END="190">حكم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E11-32" ROLE="Adjudicator">
+      <extent>
+        <charseq START="192" END="206">القضاء الاميركي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E12-31" ROLE="Defendant">
+      <extent>
+        <charseq START="212" END="253">روبرت
+لي ياتيس المتهم بقتل واغتصاب 13 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-V3-1" ROLE="Sentence">
+      <extent>
+        <charseq START="279" END="302">بالسجن
+لاكثر من 440 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-V2-1" ROLE="Sentence">
+      <extent>
+        <charseq START="310" END="336">غرامة قيمتها ستون الف دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="234" END="253">بقتل واغتصاب 13 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.1400.0077-EV4" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.1400.0077-E12" ROLE="Defendant"/>
+  <event_mention ID="AFA20001027.1400.0077-EV4-1">
+    <extent>
+      <charseq START="346" END="377">ياتيس (48 عاما) من عقوبة الاعدام</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="341" END="399">ونجا ياتيس (48 عاما) من عقوبة الاعدام باعترافه بجرائمه ال13</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="371" END="377">الاعدام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E12-48" ROLE="Defendant">
+      <extent>
+        <charseq START="346" END="359">ياتيس (48 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.1400.0077-EV5" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001027.1400.0077-E12" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001027.1400.0077-V4" ROLE="Crime"/>
+  <event_mention ID="AFA20001027.1400.0077-EV5-1">
+    <extent>
+      <charseq START="867" END="899">محاكمة ياتيس عن جريمتي قتل اخريين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="849" END="932">ومن المقرر ان تتم محاكمة ياتيس عن جريمتي قتل اخريين يمكن ان يحكم عليه
+فيهما بالاعدام</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="867" END="872">محاكمة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.1400.0077-E12-29" ROLE="Defendant">
+      <extent>
+        <charseq START="874" END="878">ياتيس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.1400.0077-V4-1" ROLE="Crime">
+      <extent>
+        <charseq START="883" END="899">جريمتي قتل اخريين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

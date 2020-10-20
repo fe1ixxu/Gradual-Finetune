@@ -1,0 +1,1977 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001114.1300.0096.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001114.1300.0096">
+<entity ID="ALH20001114.1300.0096-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E1-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="588" END="606">الامير
+نواف بن فيصل</charseq>
+    </extent>
+    <head>
+      <charseq START="588" END="593">الامير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E1-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="595" END="606">نواف بن فيصل</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="606">نواف بن فيصل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E1-135" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="582" END="585">نائب</charseq>
+    </extent>
+    <head>
+      <charseq START="582" END="585">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نواف بن فيصل">
+      <charseq START="595" END="606">نواف بن فيصل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E2-2" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2989" END="2994">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2989" END="2994">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E2-136" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3160" END="3166">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="3160" END="3166">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E2-138" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="348" END="354">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="354">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E2-139" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="531" END="537">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="537">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E2-140" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="3202" END="3206">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="3202" END="3206">العرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E2-141" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2499" END="2504">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2499" END="2504">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E2-142" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1430" END="1436">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1430" END="1436">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E2-143" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="844" END="850">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="844" END="850">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربي">
+      <charseq START="2989" END="2994">العربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="3160" END="3166">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="348" END="354">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="531" END="537">العربية</charseq>
+    </name>
+    <name NAME="العرب">
+      <charseq START="3202" END="3206">العرب</charseq>
+    </name>
+    <name NAME="العربي">
+      <charseq START="2499" END="2504">العربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="1430" END="1436">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="844" END="850">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E3-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="609" END="624">اللجنة التنفيذية</charseq>
+    </extent>
+    <head>
+      <charseq START="609" END="614">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E3-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="648" END="649">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="648" END="649">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E3-122" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="659" END="659">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="659">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E3-123" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="661" END="661">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="661" END="661">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E4" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E4-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="408" END="421">الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="421">الاتحاد العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="573" END="579">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="579">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="948" END="961">الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="948" END="961">الاتحاد العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1202" END="1215">الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1202" END="1215">الاتحاد العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1244" END="1244">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1244" END="1244">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1327" END="1327">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1327" END="1327">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1289" END="1289">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1289" END="1289">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2024" END="2037">الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2024" END="2037">الاتحاد العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2085" END="2091">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2085" END="2091">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2121" END="2127">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2121" END="2127">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2269" END="2282">الاتحاد
+العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2269" END="2282">الاتحاد
+العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2315" END="2328">للاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2315" END="2328">للاتحاد العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-93" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3744" END="3768">الاتحاد العربي لكرة القدم</charseq>
+    </extent>
+    <head>
+      <charseq START="3744" END="3768">الاتحاد العربي لكرة القدم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-102" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2782" END="2795">للاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2782" END="2795">للاتحاد العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-105" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1128" END="1141">الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1128" END="1141">الاتحاد العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-124" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1304" END="1305">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1304" END="1305">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E4-125" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1307" END="1307">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1307" END="1307">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاتحاد العربي">
+      <charseq START="408" END="421">الاتحاد العربي</charseq>
+    </name>
+    <name NAME="الاتحاد العربي">
+      <charseq START="948" END="961">الاتحاد العربي</charseq>
+    </name>
+    <name NAME="الاتحاد العربي">
+      <charseq START="1202" END="1215">الاتحاد العربي</charseq>
+    </name>
+    <name NAME="الاتحاد العربي">
+      <charseq START="2024" END="2037">الاتحاد العربي</charseq>
+    </name>
+    <name NAME="الاتحاد العربي">
+      <charseq START="2269" END="2282">الاتحاد
+العربي</charseq>
+    </name>
+    <name NAME="للاتحاد العربي">
+      <charseq START="2315" END="2328">للاتحاد العربي</charseq>
+    </name>
+    <name NAME="الاتحاد العربي لكرة القدم">
+      <charseq START="3744" END="3768">الاتحاد العربي لكرة القدم</charseq>
+    </name>
+    <name NAME="للاتحاد العربي">
+      <charseq START="2782" END="2795">للاتحاد العربي</charseq>
+    </name>
+    <name NAME="الاتحاد العربي">
+      <charseq START="1128" END="1141">الاتحاد العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="627" END="649">كل اللجان المنبثقة منها</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="628">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E6" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E6-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="752" END="758">الاشقاء</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="758">الاشقاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E7-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="921" END="935">الاندية الكبيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="921" END="927">الاندية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E7-104" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1096" END="1102">الاندية</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1102">الاندية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E8-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1174" END="1190">الاتحادات
+المحلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1174" END="1182">الاتحادات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E8-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1228" END="1228">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1228" END="1228">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E8-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1250" END="1250">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1250" END="1250">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E8-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1260" END="1261">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1260" END="1261">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E8-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2217" END="2233">اتحاداتهم الوطنية</charseq>
+    </extent>
+    <head>
+      <charseq START="2217" END="2223">اتحادات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E8-88" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3505" END="3521">الاتحادات المحلية</charseq>
+    </extent>
+    <head>
+      <charseq START="3505" END="3513">الاتحادات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E8-133" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1300" END="1301">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1300" END="1301">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E8-134" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1319" END="1320">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1319" END="1320">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E9-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1255" END="1259">انديت</charseq>
+    </extent>
+    <head>
+      <charseq START="1255" END="1259">انديت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E9-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1490" END="1494">انديت</charseq>
+    </extent>
+    <head>
+      <charseq START="1490" END="1494">انديت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E10-28" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="1424" END="1436">الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1424" END="1428">الدول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E10-100" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1495" END="1496">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1495" END="1496">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E11" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E11-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1557" END="1564">الجماهير</charseq>
+    </extent>
+    <head>
+      <charseq START="1557" END="1564">الجماهير</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E12-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1598" END="1610">النادي المضيف</charseq>
+    </extent>
+    <head>
+      <charseq START="1598" END="1603">النادي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E12-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1593" END="1593">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1593" END="1593">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E13-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1783" END="1796">لجنة
+المسابقات</charseq>
+    </extent>
+    <head>
+      <charseq START="1783" END="1786">لجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E13-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1778" END="1778">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1778" END="1778">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E14-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1972" END="1987">اللجنة الاعلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="1972" END="1977">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2057" END="2072">اللجنة الاعلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="2057" END="2062">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2298" END="2328">اللجنة الاعلامية للاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2298" END="2303">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2333" END="2333">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2333" END="2333">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2357" END="2358">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2357" END="2358">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2370" END="2371">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2370" END="2371">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-58" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2376" END="2376">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2376" END="2376">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2446" END="2447">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2446" END="2447">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-60" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2452" END="2452">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2452" END="2452">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E14-101" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2765" END="2812">اللجنة الاعلامية للاتحاد العربي
+للالعاب الرياضية</charseq>
+    </extent>
+    <head>
+      <charseq START="2765" END="2770">اللجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E15-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2019" END="2037">اسرة الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2019" END="2022">اسرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E16-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1077" END="1083">الخضيري</charseq>
+    </extent>
+    <head>
+      <charseq START="1077" END="1083">الخضيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-19" TYPE="PRO" LDCTYPE="PTV" LDCATR="FALSE">
+    <extent>
+      <charseq START="2009" END="2037">واحداً من اسرة الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2009" END="2013">واحدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1769" END="1775">الخضيرى</charseq>
+    </extent>
+    <head>
+      <charseq START="1769" END="1775">الخضيرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1995" END="2001">الخضيري</charseq>
+    </extent>
+    <head>
+      <charseq START="1995" END="2001">الخضيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-41" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2007" END="2007">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2007" END="2007">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2052" END="2052">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2052" END="2052">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-65" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2723" END="2724">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="2723" END="2724">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2726" END="2726">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2726" END="2726">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-67" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2737" END="2757">نائب
+رئىس هذا الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2737" END="2740">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-80" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="213" END="225">منصور الخضيري</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="225">منصور الخضيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-83" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3240" END="3252">منصور الخضيري</charseq>
+    </extent>
+    <head>
+      <charseq START="3240" END="3252">منصور الخضيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-91" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="3723" END="3729">الخضيري</charseq>
+    </extent>
+    <head>
+      <charseq START="3723" END="3729">الخضيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-108" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="385" END="385">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="385">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-117" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2437" END="2437">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="2437" END="2437">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-145" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="309" END="333">رئيس لجنة الاعلام
+الرياضي</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="312">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E16-155" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="227" END="333">وكيل الرئىس العام المساعد للشؤون الفنية
+بالرئاسة العامة لرعاية الشباب في السعودية رئيس لجنة الاعلام
+الرياضي</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="230">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخضيري">
+      <charseq START="1077" END="1083">الخضيري</charseq>
+    </name>
+    <name NAME="الخضيرى">
+      <charseq START="1769" END="1775">الخضيرى</charseq>
+    </name>
+    <name NAME="الخضيري">
+      <charseq START="1995" END="2001">الخضيري</charseq>
+    </name>
+    <name NAME="منصور الخضيري">
+      <charseq START="213" END="225">منصور الخضيري</charseq>
+    </name>
+    <name NAME="منصور الخضيري">
+      <charseq START="3240" END="3252">منصور الخضيري</charseq>
+    </name>
+    <name NAME="الخضيري">
+      <charseq START="3723" END="3729">الخضيري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E17" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E17-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2080" END="2091">لجان الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2080" END="2083">لجان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E17-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2099" END="2100">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2099" END="2100">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E17-103" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2168" END="2177">هذه اللجان</charseq>
+    </extent>
+    <head>
+      <charseq START="2172" END="2177">اللجان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E18-47" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2162" END="2177">اعضاء هذه اللجان</charseq>
+    </extent>
+    <head>
+      <charseq START="2162" END="2166">اعضاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E18-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2188" END="2189">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2188" END="2189">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E18-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2224" END="2225">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2224" END="2225">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E18-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2245" END="2246">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2245" END="2246">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E19" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E19-61" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2532" END="2565">كوادر مميزة من الصحافيين والمعلقين</charseq>
+    </extent>
+    <head>
+      <charseq START="2532" END="2536">كوادر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E19-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2823" END="2829">الكوادر</charseq>
+    </extent>
+    <head>
+      <charseq START="2823" END="2829">الكوادر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E20" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E20-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2547" END="2555">الصحافيين</charseq>
+    </extent>
+    <head>
+      <charseq START="2547" END="2555">الصحافيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E20-84" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3356" END="3364">الصحافيين</charseq>
+    </extent>
+    <head>
+      <charseq START="3356" END="3364">الصحافيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E20-128" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3376" END="3376">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3376" END="3376">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E20-129" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3413" END="3413">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3413" END="3413">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E20-130" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3425" END="3425">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3425" END="3425">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E21" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E21-63" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2558" END="2565">المعلقين</charseq>
+    </extent>
+    <head>
+      <charseq START="2558" END="2565">المعلقين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E22-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2574" END="2595">مخرجي البرامج الرياضية</charseq>
+    </extent>
+    <head>
+      <charseq START="2574" END="2578">مخرجي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E23-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="232" END="307">الرئىس العام المساعد للشؤون الفنية
+بالرئاسة العامة لرعاية الشباب في السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="237">الرئىس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E23-121" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="245" END="251">المساعد</charseq>
+    </extent>
+    <head>
+      <charseq START="245" END="251">المساعد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E24" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E24-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3462" END="3467">مؤسسته</charseq>
+    </extent>
+    <head>
+      <charseq START="3462" END="3466">مؤسست</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E24-68" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2689" END="2719">الاتحاد العربي للصحافة الرياضية</charseq>
+    </extent>
+    <head>
+      <charseq START="2689" END="2719">الاتحاد العربي للصحافة الرياضية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E24-99" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3282" END="3312">الاتحاد العربي للصحافة
+الرياضية</charseq>
+    </extent>
+    <head>
+      <charseq START="3282" END="3312">الاتحاد العربي للصحافة
+الرياضية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E24-126" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2747" END="2757">هذا الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="2751" END="2757">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E24-127" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3343" END="3349">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="3343" END="3349">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاتحاد العربي للصحافة الرياضية">
+      <charseq START="2689" END="2719">الاتحاد العربي للصحافة الرياضية</charseq>
+    </name>
+    <name NAME="الاتحاد العربي للصحافة الرياضية">
+      <charseq START="3282" END="3312">الاتحاد العربي للصحافة
+الرياضية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E25" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E25-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2874" END="2882">الاتحادين</charseq>
+    </extent>
+    <head>
+      <charseq START="2874" END="2882">الاتحادين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E26-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2933" END="2952">جميع من يعنيهم الامر</charseq>
+    </extent>
+    <head>
+      <charseq START="2933" END="2936">جميع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E26-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2945" END="2946">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2945" END="2946">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E27" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E27-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2980" END="2994">الاعلامي العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2980" END="2987">الاعلامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E27-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3028" END="3028">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3028" END="3028">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E27-75" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3055" END="3055">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3055" END="3055">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E27-76" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3090" END="3090">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3090" END="3090">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E27-77" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3102" END="3102">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3102" END="3102">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E27-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3108" END="3109">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="3108" END="3109">هو</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E28" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E28-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3072" END="3080">المحاضرين</charseq>
+    </extent>
+    <head>
+      <charseq START="3072" END="3080">المحاضرين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E29-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3181" END="3206">الاعلاميين الرياضيين
+العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="3181" END="3190">الاعلاميين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E29-82" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3220" END="3221">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="3220" END="3221">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E30" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E30-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3431" END="3437">الصحافي</charseq>
+    </extent>
+    <head>
+      <charseq START="3431" END="3437">الصحافي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E30-86" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3444" END="3444">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3444" END="3444">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E30-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3467" END="3467">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3467" END="3467">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E31" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="ALH20001114.1300.0096-E31-89" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3604" END="3610">لحاملها</charseq>
+    </extent>
+    <head>
+      <charseq START="3604" END="3608">لحامل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E31-97" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3897" END="3902">حاملها</charseq>
+    </extent>
+    <head>
+      <charseq START="3897" END="3902">حاملها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E31-98" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3921" END="3921">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="3921" END="3921">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E31-131" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3781" END="3782">من</charseq>
+    </extent>
+    <head>
+      <charseq START="3781" END="3782">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E31-132" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3784" END="3784">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="3784" END="3784">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E32" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E32-90" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3704" END="3709">الجميع</charseq>
+    </extent>
+    <head>
+      <charseq START="3704" END="3709">الجميع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E33-92" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3738" END="3768">ممثلي الاتحاد العربي لكرة القدم</charseq>
+    </extent>
+    <head>
+      <charseq START="3738" END="3742">ممثلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E33-94" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3770" END="3771">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="3770" END="3771">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E34" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E34-95" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3817" END="3840">اللجان الاعلامية
+الوطنية</charseq>
+    </extent>
+    <head>
+      <charseq START="3817" END="3822">اللجان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E35" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E35-96" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="3843" END="3866">الروابط الصحافية المحلية</charseq>
+    </extent>
+    <head>
+      <charseq START="3843" END="3849">الروابط</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E36-106" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2742" END="2745">رئىس</charseq>
+    </extent>
+    <head>
+      <charseq START="2742" END="2745">رئىس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E37" TYPE="GPE" SUBTYPE="Nation" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0096-E37-107" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="3052" END="3054">بلد</charseq>
+    </extent>
+    <head>
+      <charseq START="3052" END="3054">بلد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E46" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E46-109" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3015" END="3016">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3015" END="3016">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-110" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3580" END="3580">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3580" END="3580">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-111" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3713" END="3714">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3713" END="3714">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-112" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3808" END="3809">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="3808" END="3809">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-113" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3811" END="3811">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3811" END="3811">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1576" END="1576">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1576" END="1576">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-115" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="3692" END="3692">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="3692" END="3692">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2962" END="2962">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2962" END="2962">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-118" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1411" END="1411">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1411" END="1411">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-119" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1470" END="1470">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1470" END="1470">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-120" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1506" END="1506">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1506" END="1506">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E46-137" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="268" END="295">الرئاسة العامة لرعاية الشباب</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="295">الرئاسة العامة لرعاية الشباب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرئاسة العامة لرعاية الشباب">
+      <charseq START="268" END="295">الرئاسة العامة لرعاية الشباب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E47" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E47-144" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="300" END="307">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="307">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودية">
+      <charseq START="300" END="307">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E49" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E49-146" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="314" END="333">لجنة الاعلام
+الرياضي</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="333">لجنة الاعلام
+الرياضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجنة الاعلام الرياضي">
+      <charseq START="314" END="333">لجنة الاعلام
+الرياضي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E50-147" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="395" END="421">القائمين على الاتحاد العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="402">القائمين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E50-148" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="427" END="428">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="427" END="428">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0096-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E51-149" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="469" END="493">الأمير الراحل فيصل بن فهد</charseq>
+    </extent>
+    <head>
+      <charseq START="469" END="474">الأمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E51-150" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="483" END="493">فيصل بن فهد</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="493">فيصل بن فهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فيصل بن فهد">
+      <charseq START="483" END="493">فيصل بن فهد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0096-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0096-E53-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="942" END="942">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="942">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E53-6" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="586" END="586">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="586">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E53-152" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="548" END="566">الأمير سلطان بن فهد</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="553">الأمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E53-153" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="555" END="566">سلطان بن فهد</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="566">سلطان بن فهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0096-E53-154" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="568" END="579">رئىس الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="571">رئىس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سلطان بن فهد">
+      <charseq START="555" END="566">سلطان بن فهد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001114.1300.0096-T1">
+  <timex2_mention ID="ALH20001114.1300.0096-T1-1">
+    <extent>
+      <charseq START="2386" END="2390">سنتين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001114.1300.0096-T2">
+  <timex2_mention ID="ALH20001114.1300.0096-T2-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-14</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001114.1300.0096-R1" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E23" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="227" END="333">وكيل الرئىس العام المساعد للشؤون الفنية
+بالرئاسة العامة لرعاية الشباب في السعودية رئيس لجنة الاعلام
+الرياضي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E16-155" ROLE="Arg-1">
+      <extent>
+        <charseq START="227" END="333">وكيل الرئىس العام المساعد للشؤون الفنية
+بالرئاسة العامة لرعاية الشباب في السعودية رئيس لجنة الاعلام
+الرياضي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E23-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="232" END="307">الرئىس العام المساعد للشؤون الفنية
+بالرئاسة العامة لرعاية الشباب في السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R2" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E24" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3462" END="3467">مؤسسته</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E30-87" ROLE="Arg-1">
+      <extent>
+        <charseq START="3467" END="3467">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E24-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="3462" END="3467">مؤسسته</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E46" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E47" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="267" END="307">بالرئاسة العامة لرعاية الشباب في السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E46-137" ROLE="Arg-1">
+      <extent>
+        <charseq START="268" END="295">الرئاسة العامة لرعاية الشباب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E47-144" ROLE="Arg-2">
+      <extent>
+        <charseq START="300" END="307">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R4" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E20" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2532" END="2595">كوادر مميزة من الصحافيين والمعلقين
+وايضاً مخرجي البرامج الرياضية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E19-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="2532" END="2565">كوادر مميزة من الصحافيين والمعلقين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E20-62" ROLE="Arg-2">
+      <extent>
+        <charseq START="2547" END="2555">الصحافيين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R5" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E21" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2532" END="2595">كوادر مميزة من الصحافيين والمعلقين
+وايضاً مخرجي البرامج الرياضية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E19-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="2532" END="2565">كوادر مميزة من الصحافيين والمعلقين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E21-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="2558" END="2565">المعلقين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R6" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E22" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2532" END="2595">كوادر مميزة من الصحافيين والمعلقين
+وايضاً مخرجي البرامج الرياضية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E19-61" ROLE="Arg-1">
+      <extent>
+        <charseq START="2532" END="2565">كوادر مميزة من الصحافيين والمعلقين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E22-64" ROLE="Arg-2">
+      <extent>
+        <charseq START="2574" END="2595">مخرجي البرامج الرياضية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E37" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R7-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="3052" END="3055">بلده</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E27-75" ROLE="Arg-1">
+      <extent>
+        <charseq START="3055" END="3055">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E37-107" ROLE="Arg-2">
+      <extent>
+        <charseq START="3052" END="3054">بلد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E46" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="227" END="307">وكيل الرئىس العام المساعد للشؤون الفنية
+بالرئاسة العامة لرعاية الشباب في السعودية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E23-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="232" END="307">الرئىس العام المساعد للشؤون الفنية
+بالرئاسة العامة لرعاية الشباب في السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E46-137" ROLE="Arg-2">
+      <extent>
+        <charseq START="268" END="295">الرئاسة العامة لرعاية الشباب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E49" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="309" END="333">رئيس لجنة الاعلام
+الرياضي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E16-145" ROLE="Arg-1">
+      <extent>
+        <charseq START="309" END="333">رئيس لجنة الاعلام
+الرياضي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E49-146" ROLE="Arg-2">
+      <extent>
+        <charseq START="314" END="333">لجنة الاعلام
+الرياضي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E53" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="568" END="579">رئىس الاتحاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E53-154" ROLE="Arg-1">
+      <extent>
+        <charseq START="568" END="579">رئىس الاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E4-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="573" END="579">الاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R11" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E53" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E1" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001114.1300.0096-R11-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="582" END="586">نائبه</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E53-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="586" END="586">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E1-135" ROLE="Arg-1">
+      <extent>
+        <charseq START="582" END="585">نائب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R12" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R12-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1255" END="1261">انديتها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E9-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="1255" END="1259">انديت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E8-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="1260" END="1261">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R13" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E10" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E2" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001114.1300.0096-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1424" END="1436">الدول العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E10-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="1424" END="1436">الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E2-142" ROLE="Arg-1">
+      <extent>
+        <charseq START="1430" END="1436">العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R14" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R14-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1490" END="1496">انديتها</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E10-100" ROLE="Arg-1">
+      <extent>
+        <charseq START="1495" END="1496">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E9-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="1490" END="1494">انديت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R15" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E4" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E15" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001114.1300.0096-R15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2009" END="2037">واحداً من اسرة الاتحاد العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E4-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="2024" END="2037">الاتحاد العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E15-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="2019" END="2037">اسرة الاتحاد العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R16" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2080" END="2091">لجان الاتحاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E17-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="2080" END="2091">لجان الاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E4-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="2085" END="2091">الاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R17" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R17-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2162" END="2177">اعضاء هذه اللجان</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E18-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="2162" END="2177">اعضاء هذه اللجان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E17-103" ROLE="Arg-2">
+      <extent>
+        <charseq START="2168" END="2177">هذه اللجان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R18" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E24" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R18-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2737" END="2757">نائب
+رئىس هذا الاتحاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E16-67" ROLE="Arg-1">
+      <extent>
+        <charseq START="2737" END="2757">نائب
+رئىس هذا الاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E24-126" ROLE="Arg-2">
+      <extent>
+        <charseq START="2747" END="2757">هذا الاتحاد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R19" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R19-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2765" END="2812">اللجنة الاعلامية للاتحاد العربي
+للالعاب الرياضية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E14-101" ROLE="Arg-1">
+      <extent>
+        <charseq START="2765" END="2812">اللجنة الاعلامية للاتحاد العربي
+للالعاب الرياضية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E4-102" ROLE="Arg-2">
+      <extent>
+        <charseq START="2782" END="2795">للاتحاد العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001114.1300.0096-R19-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2298" END="2328">اللجنة الاعلامية للاتحاد العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E14-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="2298" END="2328">اللجنة الاعلامية للاتحاد العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E4-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="2315" END="2328">للاتحاد العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R20" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R20-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="3738" END="3768">ممثلي الاتحاد العربي لكرة القدم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E33-92" ROLE="Arg-1">
+      <extent>
+        <charseq START="3738" END="3768">ممثلي الاتحاد العربي لكرة القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E4-93" ROLE="Arg-2">
+      <extent>
+        <charseq START="3744" END="3768">الاتحاد العربي لكرة القدم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R21" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E50" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R21-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="395" END="421">القائمين على الاتحاد العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E50-147" ROLE="Arg-1">
+      <extent>
+        <charseq START="395" END="421">القائمين على الاتحاد العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E4-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="408" END="421">الاتحاد العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0096-R23" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0096-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0096-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0096-R23-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2217" END="2233">اتحاداتهم الوطنية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E18-49" ROLE="Arg-1">
+      <extent>
+        <charseq START="2224" END="2225">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0096-E8-50" ROLE="Arg-2">
+      <extent>
+        <charseq START="2217" END="2233">اتحاداتهم الوطنية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001114.1300.0096-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="ALH20001114.1300.0096-E6" ROLE="Entity"/>
+  <event_mention ID="ALH20001114.1300.0096-EV1-1">
+    <extent>
+      <charseq START="747" END="758">لقاء الاشقاء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="540" END="775">أوضح ان الأمير سلطان بن فهد رئىس الاتحاد ونائبه الامير
+نواف بن فيصل واللجنة التنفيذية وكل اللجان المنبثقة منها، ما
+انفكت تعمل على ترجمة هذا الهدف الى واقع ملموس باحياء
+النشاطات المختلفة وفي مقدمها استمرارية لقاء الاشقاء من خلال
+البطولات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="747" END="750">لقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001114.1300.0096-E6-13" ROLE="Entity">
+      <extent>
+        <charseq START="752" END="758">الاشقاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001114.1300.0096-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001114.1300.0096-E14" ROLE="Entity"/>
+  <event_mention ID="ALH20001114.1300.0096-EV2-1">
+    <extent>
+      <charseq START="2376" END="2380">تجتمع</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2287" END="2390">واعترف بان اللجنة الاعلامية للاتحاد العربي باتت
+بحاجة الـى تفعيل ادوارها، موضحاً انها لم تجتمع منذ سنتين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2376" END="2380">تجتمع</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001114.1300.0096-E14-58" ROLE="Entity">
+      <extent>
+        <charseq START="2376" END="2376">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001114.1300.0096-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Unspecified">
+  <event_argument REFID="ALH20001114.1300.0096-E28" ROLE="Artifact"/>
+  <event_mention ID="ALH20001114.1300.0096-EV3-1">
+    <extent>
+      <charseq START="3065" END="3080">انتقال المحاضرين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="3009" END="3120">من خطتنا الوصول
+اليه واقامة دورات مكثفة في بلده عن طريق انتقال المحاضرين
+الى موقعه من دون ان يتحمل هو عناء السفر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="3065" END="3070">انتقال</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001114.1300.0096-E28-79" ROLE="Artifact">
+      <extent>
+        <charseq START="3072" END="3080">المحاضرين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

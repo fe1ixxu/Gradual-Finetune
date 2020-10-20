@@ -1,0 +1,1618 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001027.0000.0005.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001027.0000.0005">
+<entity ID="AFA20001027.0000.0005-E1" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="468" END="503">قرب سياتل (شمال غرب الولايات
+المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="476">سياتل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E2" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="479" END="503">شمال غرب الولايات
+المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="503">الولايات
+المتحدة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E3" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="424" END="430">متفجرات</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="430">متفجرات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E3-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="521" END="539">60 كلغ من المتفجرات</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="539">المتفجرات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E4-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="594" END="597">كندا</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="597">كندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E4-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1312" END="1315">كندا</charseq>
+    </extent>
+    <head>
+      <charseq START="1312" END="1315">كندا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كندا">
+      <charseq START="594" END="597">كندا</charseq>
+    </name>
+    <name NAME="كندا">
+      <charseq START="1312" END="1315">كندا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E5-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="782" END="791">لوس انجليس</charseq>
+    </extent>
+    <head>
+      <charseq START="782" END="791">لوس انجليس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوس انجليس">
+      <charseq START="782" END="791">لوس انجليس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E6-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="806" END="815">جون كوغنور</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="815">جون كوغنور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E6-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="799" END="845">القاضي جون كوغنور من
+المحكمة الفدرالية في سياتل</charseq>
+    </extent>
+    <head>
+      <charseq START="799" END="804">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E6-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="922" END="927">القاضي</charseq>
+    </extent>
+    <head>
+      <charseq START="922" END="927">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E6-45" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1343" END="1355">للقاضي كوغنور</charseq>
+    </extent>
+    <head>
+      <charseq START="1343" END="1348">للقاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E6-46" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1350" END="1355">كوغنور</charseq>
+    </extent>
+    <head>
+      <charseq START="1350" END="1355">كوغنور</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جون كوغنور">
+      <charseq START="806" END="815">جون كوغنور</charseq>
+    </name>
+    <name NAME="كوغنور">
+      <charseq START="1350" END="1355">كوغنور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E8-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="841" END="845">سياتل</charseq>
+    </extent>
+    <head>
+      <charseq START="841" END="845">سياتل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E8-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1065" END="1069">سياتل</charseq>
+    </extent>
+    <head>
+      <charseq START="1065" END="1069">سياتل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سياتل">
+      <charseq START="841" END="845">سياتل</charseq>
+    </name>
+    <name NAME="سياتل">
+      <charseq START="1065" END="1069">سياتل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E9-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="568" END="583">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="583">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E9-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="670" END="685">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="685">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E9-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="954" END="962">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="962">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E9-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1002" END="1017">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1002" END="1017">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E9-44" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="1321" END="1336">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1321" END="1336">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E9-63" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="148" END="153">اميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="153">اميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E9-67" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="205" END="220">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="205" END="220">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E9-72" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="366" END="381">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="366" END="381">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="568" END="583">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="670" END="685">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="954" END="962">الاميركية</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="1002" END="1017">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="1321" END="1336">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="اميركي">
+      <charseq START="148" END="153">اميركي</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="205" END="220">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="366" END="381">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E10-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="980" END="985">كنديين</charseq>
+    </extent>
+    <head>
+      <charseq START="980" END="985">كنديين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E11-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1152" END="1184">متحدثة باسم قصر العدل
+في مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="1152" END="1157">متحدثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E11-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1186" END="1199">سولانج دوهاميل</charseq>
+    </extent>
+    <head>
+      <charseq START="1186" END="1199">سولانج دوهاميل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E11-58" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1150" END="1150">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1150" END="1150">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سولانج دوهاميل">
+      <charseq START="1186" END="1199">سولانج دوهاميل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E12-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1254" END="1336">شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1254" END="1257">شقيق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E12-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1367" END="1367">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1367" END="1367">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E12-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1388" END="1388">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1388" END="1388">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E13" TYPE="WEA" SUBTYPE="Exploding" CLASS="GEN">
+  <entity_mention ID="AFA20001027.0000.0005-E13-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1287" END="1291">قنابل</charseq>
+    </extent>
+    <head>
+      <charseq START="1287" END="1291">قنابل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E14-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1302" END="1307">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="1302" END="1307">الشرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E15-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="114" END="133">مونتريال 10-27 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="121">مونتريال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E15-19" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="902" END="909">مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="902" END="909">مونتريال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E15-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="933" END="940">مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="933" END="940">مونتريال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E15-29" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1103" END="1110">مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="1103" END="1110">مونتريال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E15-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1177" END="1184">مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="1177" END="1184">مونتريال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E15-64" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="169" END="176">مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="169" END="176">مونتريال</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مونتريال">
+      <charseq START="114" END="121">مونتريال</charseq>
+    </name>
+    <name NAME="مونتريال">
+      <charseq START="902" END="909">مونتريال</charseq>
+    </name>
+    <name NAME="مونتريال">
+      <charseq START="933" END="940">مونتريال</charseq>
+    </name>
+    <name NAME="مونتريال">
+      <charseq START="1103" END="1110">مونتريال</charseq>
+    </name>
+    <name NAME="مونتريال">
+      <charseq START="1177" END="1184">مونتريال</charseq>
+    </name>
+    <name NAME="مونتريال">
+      <charseq START="169" END="176">مونتريال</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E17-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1164" END="1184">قصر العدل
+في مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="1164" END="1172">قصر العدل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قصر العدل">
+      <charseq START="1164" END="1172">قصر العدل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E18-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="820" END="845">المحكمة الفدرالية في سياتل</charseq>
+    </extent>
+    <head>
+      <charseq START="820" END="836">المحكمة الفدرالية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E19-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="946" END="962">المحاكم الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="946" END="952">المحاكم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E19-59" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="967" END="967">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="967" END="967">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E20" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E20-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1054" END="1069">زنزانته في سياتل</charseq>
+    </extent>
+    <head>
+      <charseq START="1054" END="1059">زنزانت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E21-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="513" END="513">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="513">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="551" END="551">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="551">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="643" END="643">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="643">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="897" END="909">رسام مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="900">رسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1046" END="1049">رسام</charseq>
+    </extent>
+    <head>
+      <charseq START="1046" END="1049">رسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1060" END="1060">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1060" END="1060">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-40" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1272" END="1275">رسام</charseq>
+    </extent>
+    <head>
+      <charseq START="1272" END="1275">رسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1381" END="1382">هو</charseq>
+    </extent>
+    <head>
+      <charseq START="1381" END="1382">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1384" END="1388">شقيقه</charseq>
+    </extent>
+    <head>
+      <charseq START="1384" END="1387">شقيق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-60" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="273" END="297">الارهابي الجزائري المفترض</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="280">الارهابي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="299" END="307">احمد رسام</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="307">احمد رسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-71" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="338" END="341">رسام</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="341">رسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E21-74" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="450" END="450">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="450">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رسام">
+      <charseq START="897" END="900">رسام</charseq>
+    </name>
+    <name NAME="رسام">
+      <charseq START="1046" END="1049">رسام</charseq>
+    </name>
+    <name NAME="رسام">
+      <charseq START="1272" END="1275">رسام</charseq>
+    </name>
+    <name NAME="احمد رسام">
+      <charseq START="299" END="307">احمد رسام</charseq>
+    </name>
+    <name NAME="رسام">
+      <charseq START="338" END="341">رسام</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E22" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001027.0000.0005-E22-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="884" END="885">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="884" END="885">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E22-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="894" END="895">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="894" END="895">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E22-56" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="863" END="879">نحو اثني عشر شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="879">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E25-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1201" END="1216">لوكالة فرانس برس</charseq>
+    </extent>
+    <head>
+      <charseq START="1201" END="1216">لوكالة فرانس برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E25-57" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="130" END="133">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="133">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لوكالة فرانس برس">
+      <charseq START="1201" END="1216">لوكالة فرانس برس</charseq>
+    </name>
+    <name NAME="اف ب">
+      <charseq START="130" END="133">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E26-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="144" END="153">قاض اميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="146">قاض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E29-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1093" END="1110">الشهود في
+مونتريال</charseq>
+    </extent>
+    <head>
+      <charseq START="1093" END="1098">الشهود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E29-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1226" END="1252">الشهود الذين ادلوا باقوالهم</charseq>
+    </extent>
+    <head>
+      <charseq START="1226" END="1231">الشهود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E29-36" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1233" END="1237">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="1233" END="1237">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E29-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1242" END="1243">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1242" END="1243">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E29-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1251" END="1252">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1251" END="1252">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E29-65" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="185" END="188">شهود</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="188">شهود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E29-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="198" END="199">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="199">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001027.0000.0005-E29-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="257" END="258">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="258">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E30-69" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="282" END="289">الجزائري</charseq>
+    </extent>
+    <head>
+      <charseq START="282" END="289">الجزائري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزائري">
+      <charseq START="282" END="289">الجزائري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001027.0000.0005-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001027.0000.0005-E31-70" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="319" END="328">مصدر قضائي</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="322">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001027.0000.0005-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="AFA20001027.0000.0005-E32-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="402" END="405">مبنى</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="405">مبنى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="AFA20001027.0000.0005-V1" TYPE="Crime">
+  <value_mention ID="AFA20001027.0000.0005-V1-1">
+    <extent>
+      <charseq START="383" END="430">بالتآمر بهدف تدمير
+مبنى وبالارهاب وحيازة متفجرات</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001027.0000.0005-V2" TYPE="Crime">
+  <value_mention ID="AFA20001027.0000.0005-V2-1">
+    <extent>
+      <charseq START="1264" END="1291">بمساعدة رسام على اعداد
+قنابل</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001027.0000.0005-T1">
+  <timex2_mention ID="AFA20001027.0000.0005-T1-1">
+    <extent>
+      <charseq START="625" END="628">1994</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T2">
+  <timex2_mention ID="AFA20001027.0000.0005-T2-1">
+    <extent>
+      <charseq START="735" END="745">العام الفين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T3">
+  <timex2_mention ID="AFA20001027.0000.0005-T3-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-27 05:03:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T4">
+  <timex2_mention ID="AFA20001027.0000.0005-T4-1">
+    <extent>
+      <charseq START="123" END="127">10-27</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T5">
+  <timex2_mention ID="AFA20001027.0000.0005-T5-1">
+    <extent>
+      <charseq START="847" END="857">هذا الاسبوع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T6">
+  <timex2_mention ID="AFA20001027.0000.0005-T6-1">
+    <extent>
+      <charseq START="155" END="164">امس الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T7">
+  <timex2_mention ID="AFA20001027.0000.0005-T7-1">
+    <extent>
+      <charseq START="348" END="361">مطلع هذا العام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T8">
+  <timex2_mention ID="AFA20001027.0000.0005-T8-1">
+    <extent>
+      <charseq START="225" END="240">اذار/مارس المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001027.0000.0005-T9">
+  <timex2_mention ID="AFA20001027.0000.0005-T9-1">
+    <extent>
+      <charseq START="452" END="466">قبل عيد الميلاد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001027.0000.0005-R1" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="897" END="909">رسام مونتريال</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E21-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="897" END="909">رسام مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E15-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="902" END="909">مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R2-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="1254" END="1336">شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E12-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="1254" END="1336">شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E21-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="1272" END="1275">رسام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="114" END="133">مونتريال 10-27 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E25-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="130" END="133">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E15-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="114" END="133">مونتريال 10-27 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="144" END="153">قاض اميركي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E26-62" ROLE="Arg-1">
+      <extent>
+        <charseq START="144" END="153">قاض اميركي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E9-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="148" END="153">اميركي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E30" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="273" END="297">الارهابي الجزائري المفترض</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E21-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="273" END="297">الارهابي الجزائري المفترض</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E30-69" ROLE="Arg-2">
+      <extent>
+        <charseq START="282" END="289">الجزائري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="820" END="845">المحكمة الفدرالية في سياتل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E18-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="820" END="845">المحكمة الفدرالية في سياتل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E8-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="841" END="845">سياتل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E9" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="946" END="962">المحاكم الاميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E19-51" ROLE="Arg-1">
+      <extent>
+        <charseq START="946" END="962">المحاكم الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E9-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="954" END="962">الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1054" END="1069">زنزانته في سياتل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E20-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="1054" END="1069">زنزانته في سياتل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E8-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="1065" END="1069">سياتل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1054" END="1069">زنزانته في سياتل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E21-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="1060" END="1060">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E20-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="1054" END="1069">زنزانته في سياتل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R10" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1384" END="1388">شقيقه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E21-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1384" END="1388">شقيقه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E12-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="1388" END="1388">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R11" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1152" END="1184">متحدثة باسم قصر العدل
+في مونتريال</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E11-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="1152" END="1184">متحدثة باسم قصر العدل
+في مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E17-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="1164" END="1184">قصر العدل
+في مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R12-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1164" END="1184">قصر العدل
+في مونتريال</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E17-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="1164" END="1184">قصر العدل
+في مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E15-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="1177" END="1184">مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R13-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="468" END="503">قرب سياتل (شمال غرب الولايات
+المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="468" END="503">قرب سياتل (شمال غرب الولايات
+المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E2-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="479" END="503">شمال غرب الولايات
+المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R14" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="799" END="845">القاضي جون كوغنور من
+المحكمة الفدرالية في سياتل</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E6-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="799" END="845">القاضي جون كوغنور من
+المحكمة الفدرالية في سياتل</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E18-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="820" END="845">المحكمة الفدرالية في سياتل</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001027.0000.0005-R15" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001027.0000.0005-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001027.0000.0005-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001027.0000.0005-R15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1093" END="1110">الشهود في
+مونتريال</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E29-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="1093" END="1110">الشهود في
+مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001027.0000.0005-E15-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="1103" END="1110">مونتريال</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001027.0000.0005-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001027.0000.0005-E29" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Destination"/>
+  <event_argument REFID="AFA20001027.0000.0005-E15" ROLE="Origin"/>
+  <event_argument REFID="AFA20001027.0000.0005-T8" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001027.0000.0005-EV1-1">
+    <extent>
+      <charseq START="169" END="240">مونتريال
+لاقوال شهود لن يتوجهوا الى الولايات المتحدة في اذار/مارس المقبل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="138" END="328">استمع قاض اميركي امس الخميس في مونتريال
+لاقوال شهود لن يتوجهوا الى الولايات المتحدة في اذار/مارس المقبل
+للادلاء بشهاداتهم في اطار قضية الارهابي الجزائري المفترض احمد رسام،
+كما افاد مصدر قضائي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="193" END="199">يتوجهوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E29-66" ROLE="Artifact">
+      <extent>
+        <charseq START="198" END="199">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-67" ROLE="Destination">
+      <extent>
+        <charseq START="205" END="220">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E15-64" ROLE="Origin">
+      <extent>
+        <charseq START="169" END="176">مونتريال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T8-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="225" END="240">اذار/مارس المقبل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E21" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Place"/>
+  <event_argument REFID="AFA20001027.0000.0005-V1" ROLE="Crime"/>
+  <event_argument REFID="AFA20001027.0000.0005-T7" ROLE="Time-At-Beginning"/>
+  <event_mention ID="AFA20001027.0000.0005-EV2-1">
+    <extent>
+      <charseq START="338" END="430">رسام اتهم مطلع هذا العام في الولايات المتحدة بالتآمر بهدف تدمير
+مبنى وبالارهاب وحيازة متفجرات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="333" END="430">وكان رسام اتهم مطلع هذا العام في الولايات المتحدة بالتآمر بهدف تدمير
+مبنى وبالارهاب وحيازة متفجرات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="343" END="346">اتهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E21-71" ROLE="Defendant">
+      <extent>
+        <charseq START="338" END="341">رسام</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-72" ROLE="Place">
+      <extent>
+        <charseq START="366" END="381">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="383" END="430">بالتآمر بهدف تدمير
+مبنى وبالارهاب وحيازة متفجرات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T7-1" ROLE="Time-At-Beginning">
+      <extent>
+        <charseq START="348" END="361">مطلع هذا العام</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E21" ROLE="Person"/>
+  <event_argument REFID="AFA20001027.0000.0005-E1" ROLE="Place"/>
+  <event_argument REFID="AFA20001027.0000.0005-T9" ROLE="Time-Before"/>
+  <event_mention ID="AFA20001027.0000.0005-EV3-1">
+    <extent>
+      <charseq START="441" END="503">القبض عليه قبل عيد الميلاد قرب سياتل (شمال غرب الولايات
+المتحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="435" END="628">والقي القبض عليه قبل عيد الميلاد قرب سياتل (شمال غرب الولايات
+المتحدة) وبحيازته حوالي 60 كلغ من المتفجرات بينما كان يحاول الدخول الى
+الولايات المتحدة قادما من كندا حيث وصل بجواز سفر مزور في 1994</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="441" END="445">القبض</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E21-74" ROLE="Person">
+      <extent>
+        <charseq START="450" END="450">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E1-2" ROLE="Place">
+      <extent>
+        <charseq START="468" END="503">قرب سياتل (شمال غرب الولايات
+المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T9-1" ROLE="Time-Before">
+      <extent>
+        <charseq START="452" END="466">قبل عيد الميلاد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E21" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Destination"/>
+  <event_argument REFID="AFA20001027.0000.0005-E4" ROLE="Origin"/>
+  <event_argument REFID="AFA20001027.0000.0005-T9" ROLE="Time-Before"/>
+  <event_argument REFID="AFA20001027.0000.0005-T1" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001027.0000.0005-EV4-1">
+    <extent>
+      <charseq START="452" END="628">قبل عيد الميلاد قرب سياتل (شمال غرب الولايات
+المتحدة) وبحيازته حوالي 60 كلغ من المتفجرات بينما كان يحاول الدخول الى
+الولايات المتحدة قادما من كندا حيث وصل بجواز سفر مزور في 1994</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="435" END="628">والقي القبض عليه قبل عيد الميلاد قرب سياتل (شمال غرب الولايات
+المتحدة) وبحيازته حوالي 60 كلغ من المتفجرات بينما كان يحاول الدخول الى
+الولايات المتحدة قادما من كندا حيث وصل بجواز سفر مزور في 1994</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="585" END="589">قادما</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E21-7" ROLE="Artifact">
+      <extent>
+        <charseq START="551" END="551">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-8" ROLE="Destination">
+      <extent>
+        <charseq START="568" END="583">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E4-9" ROLE="Origin">
+      <extent>
+        <charseq START="594" END="597">كندا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T9-1" ROLE="Time-Before">
+      <extent>
+        <charseq START="452" END="466">قبل عيد الميلاد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="625" END="628">1994</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E21" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Destination"/>
+  <event_argument REFID="AFA20001027.0000.0005-E4" ROLE="Origin"/>
+  <event_argument REFID="AFA20001027.0000.0005-T1" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001027.0000.0005-EV5-1">
+    <extent>
+      <charseq START="551" END="628">يحاول الدخول الى
+الولايات المتحدة قادما من كندا حيث وصل بجواز سفر مزور في 1994</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="435" END="628">والقي القبض عليه قبل عيد الميلاد قرب سياتل (شمال غرب الولايات
+المتحدة) وبحيازته حوالي 60 كلغ من المتفجرات بينما كان يحاول الدخول الى
+الولايات المتحدة قادما من كندا حيث وصل بجواز سفر مزور في 1994</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="603" END="605">وصل</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E21-7" ROLE="Artifact">
+      <extent>
+        <charseq START="551" END="551">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-8" ROLE="Destination">
+      <extent>
+        <charseq START="568" END="583">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E4-9" ROLE="Origin">
+      <extent>
+        <charseq START="594" END="597">كندا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="625" END="628">1994</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E21" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Destination"/>
+  <event_argument REFID="AFA20001027.0000.0005-E4" ROLE="Origin"/>
+  <event_argument REFID="AFA20001027.0000.0005-T9" ROLE="Time-Before"/>
+  <event_argument REFID="AFA20001027.0000.0005-T1" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001027.0000.0005-EV6-1">
+    <extent>
+      <charseq START="452" END="628">قبل عيد الميلاد قرب سياتل (شمال غرب الولايات
+المتحدة) وبحيازته حوالي 60 كلغ من المتفجرات بينما كان يحاول الدخول الى
+الولايات المتحدة قادما من كندا حيث وصل بجواز سفر مزور في 1994</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="435" END="628">والقي القبض عليه قبل عيد الميلاد قرب سياتل (شمال غرب الولايات
+المتحدة) وبحيازته حوالي 60 كلغ من المتفجرات بينما كان يحاول الدخول الى
+الولايات المتحدة قادما من كندا حيث وصل بجواز سفر مزور في 1994</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="557" END="562">الدخول</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E21-7" ROLE="Artifact">
+      <extent>
+        <charseq START="551" END="551">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-8" ROLE="Destination">
+      <extent>
+        <charseq START="568" END="583">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E4-9" ROLE="Origin">
+      <extent>
+        <charseq START="594" END="597">كندا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T9-1" ROLE="Time-Before">
+      <extent>
+        <charseq START="452" END="466">قبل عيد الميلاد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="625" END="628">1994</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E21" ROLE="Person"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Place"/>
+  <event_mention ID="AFA20001027.0000.0005-EV7-1">
+    <extent>
+      <charseq START="638" END="685">توقيفه قد اثار مجددا المخاوف في الولايات المتحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="633" END="745">وكان توقيفه قد اثار مجددا المخاوف في الولايات المتحدة من تنفيذ
+اعتداءات خلال الاحتفالات بالانتقال الى العام الفين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="638" END="643">توقيفه</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E21-10" ROLE="Person">
+      <extent>
+        <charseq START="643" END="643">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-11" ROLE="Place">
+      <extent>
+        <charseq START="670" END="685">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Place"/>
+  <event_argument REFID="AFA20001027.0000.0005-T2" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001027.0000.0005-EV8-1">
+    <extent>
+      <charseq START="670" END="745">الولايات المتحدة من تنفيذ
+اعتداءات خلال الاحتفالات بالانتقال الى العام الفين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="633" END="745">وكان توقيفه قد اثار مجددا المخاوف في الولايات المتحدة من تنفيذ
+اعتداءات خلال الاحتفالات بالانتقال الى العام الفين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="696" END="703">اعتداءات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-11" ROLE="Place">
+      <extent>
+        <charseq START="670" END="685">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-T2-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="735" END="745">العام الفين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV9" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001027.0000.0005-E6" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001027.0000.0005-E21" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001027.0000.0005-E5" ROLE="Place"/>
+  <event_mention ID="AFA20001027.0000.0005-EV9-1">
+    <extent>
+      <charseq START="759" END="909">المحاكمة التي ستجرى في لوس انجليس استمع القاضي جون كوغنور من
+المحكمة الفدرالية في سياتل هذا الاسبوع الى نحو اثني عشر شخصا عرفوا او
+عاشروا رسام مونتريال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="750" END="909">وفي اطار المحاكمة التي ستجرى في لوس انجليس استمع القاضي جون كوغنور من
+المحكمة الفدرالية في سياتل هذا الاسبوع الى نحو اثني عشر شخصا عرفوا او
+عاشروا رسام مونتريال</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="759" END="766">المحاكمة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E6-14" ROLE="Adjudicator">
+      <extent>
+        <charseq START="799" END="845">القاضي جون كوغنور من
+المحكمة الفدرالية في سياتل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E21-18" ROLE="Defendant">
+      <extent>
+        <charseq START="897" END="909">رسام مونتريال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E5-12" ROLE="Place">
+      <extent>
+        <charseq START="782" END="791">لوس انجليس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV10" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E6" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001027.0000.0005-E15" ROLE="Destination"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Origin"/>
+  <event_mention ID="AFA20001027.0000.0005-EV10-1">
+    <extent>
+      <charseq START="918" END="1017">جاء القاضي الى مونتريال لان المحاكم الاميركية لا تستطيع ارغام
+كنديين على الذهاب الى الولايات المتحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="914" END="1032">وقد جاء القاضي الى مونتريال لان المحاكم الاميركية لا تستطيع ارغام
+كنديين على الذهاب الى الولايات المتحدة للادلاء بشهادة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="918" END="920">جاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E6-20" ROLE="Artifact">
+      <extent>
+        <charseq START="922" END="927">القاضي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E15-21" ROLE="Destination">
+      <extent>
+        <charseq START="933" END="940">مونتريال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-24" ROLE="Origin">
+      <extent>
+        <charseq START="1002" END="1017">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV11" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001027.0000.0005-E10" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Destination"/>
+  <event_argument REFID="AFA20001027.0000.0005-E15" ROLE="Origin"/>
+  <event_mention ID="AFA20001027.0000.0005-EV11-1">
+    <extent>
+      <charseq START="933" END="1017">مونتريال لان المحاكم الاميركية لا تستطيع ارغام
+كنديين على الذهاب الى الولايات المتحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="914" END="1032">وقد جاء القاضي الى مونتريال لان المحاكم الاميركية لا تستطيع ارغام
+كنديين على الذهاب الى الولايات المتحدة للادلاء بشهادة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="991" END="996">الذهاب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E10-23" ROLE="Artifact">
+      <extent>
+        <charseq START="980" END="985">كنديين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-24" ROLE="Destination">
+      <extent>
+        <charseq START="1002" END="1017">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E15-21" ROLE="Origin">
+      <extent>
+        <charseq START="933" END="940">مونتريال</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV12" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001027.0000.0005-E12" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001027.0000.0005-V2" ROLE="Crime"/>
+  <event_mention ID="AFA20001027.0000.0005-EV12-1">
+    <extent>
+      <charseq START="1254" END="1336">شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1221" END="1388">وبين الشهود الذين ادلوا باقوالهم شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة، قال للقاضي كوغنور
+ان ليس لديه اي فكرة اين هو شقيقه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1259" END="1262">متهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E12-39" ROLE="Defendant">
+      <extent>
+        <charseq START="1254" END="1336">شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-V2-1" ROLE="Crime">
+      <extent>
+        <charseq START="1264" END="1291">بمساعدة رسام على اعداد
+قنابل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001027.0000.0005-EV13" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001027.0000.0005-E12" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001027.0000.0005-E14" ROLE="Prosecutor"/>
+  <event_argument REFID="AFA20001027.0000.0005-E4" ROLE="Place"/>
+  <event_argument REFID="AFA20001027.0000.0005-E9" ROLE="Place"/>
+  <event_argument REFID="AFA20001027.0000.0005-V2" ROLE="Crime"/>
+  <event_mention ID="AFA20001027.0000.0005-EV13-1">
+    <extent>
+      <charseq START="1254" END="1336">شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1221" END="1388">وبين الشهود الذين ادلوا باقوالهم شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة، قال للقاضي كوغنور
+ان ليس لديه اي فكرة اين هو شقيقه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1293" END="1297">ملاحق</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E12-39" ROLE="Defendant">
+      <extent>
+        <charseq START="1254" END="1336">شقيق متهم بمساعدة رسام على اعداد
+قنابل ملاحق من الشرطة في كندا وفي الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E14-42" ROLE="Prosecutor">
+      <extent>
+        <charseq START="1302" END="1307">الشرطة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E4-43" ROLE="Place">
+      <extent>
+        <charseq START="1312" END="1315">كندا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-E9-44" ROLE="Place">
+      <extent>
+        <charseq START="1321" END="1336">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001027.0000.0005-V2-1" ROLE="Crime">
+      <extent>
+        <charseq START="1264" END="1291">بمساعدة رسام على اعداد
+قنابل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

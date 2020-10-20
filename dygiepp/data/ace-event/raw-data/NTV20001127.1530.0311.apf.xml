@@ -1,0 +1,895 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001127.1530.0311.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001127.1530.0311">
+<entity ID="NTV20001127.1530.0311-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E1-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="609" END="612">دمشق</charseq>
+    </extent>
+    <head>
+      <charseq START="609" END="612">دمشق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دمشق">
+      <charseq START="609" END="612">دمشق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E2-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="663" END="684">الدكتور أحمد يوسف أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="663" END="669">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E2-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="628" END="661">مدير
+مركز الدراسات والبحوث العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="631">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E2-36" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="671" END="684">أحمد يوسف أحمد</charseq>
+    </extent>
+    <head>
+      <charseq START="671" END="684">أحمد يوسف أحمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أحمد يوسف أحمد">
+      <charseq START="671" END="684">أحمد يوسف أحمد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E4" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001127.1530.0311-E4-8" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="702" END="795">حشد كبير من الخبراء والمتخصصين في الدراسات السياسية والشئون
+الاستراتيجية من مصر والعالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="702" END="704">حشد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E5-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="714" END="720">الخبراء</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="720">الخبراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E6-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="723" END="795">المتخصصين في الدراسات السياسية والشئون
+الاستراتيجية من مصر والعالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="731">المتخصصين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E7-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="778" END="780">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="778" END="780">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="778" END="780">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E8-12" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="783" END="795">العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="783" END="795">العالم العربي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E9-15" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="806" END="811">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="811">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E9-51" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="537" END="542">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="542">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمني">
+      <charseq START="806" END="811">اليمني</charseq>
+    </name>
+    <name NAME="اليمني">
+      <charseq START="537" END="542">اليمني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E10-18" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="913" END="917">عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="917">عربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E10-19" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1140" END="1145">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1140" END="1145">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E10-20" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1566" END="1572">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1566" END="1572">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عربية">
+      <charseq START="913" END="917">عربية</charseq>
+    </name>
+    <name NAME="العربي">
+      <charseq START="1140" END="1145">العربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="1566" END="1572">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E13-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1926" END="1933">القيادات</charseq>
+    </extent>
+    <head>
+      <charseq START="1926" END="1933">القيادات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E14" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="NTV20001127.1530.0311-E14-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1936" END="1943">الجماهير</charseq>
+    </extent>
+    <head>
+      <charseq START="1936" END="1943">الجماهير</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E15-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1982" END="1990">إسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1982" END="1990">إسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيلية">
+      <charseq START="1982" END="1990">إسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E16-25" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1993" END="1999">أمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="1993" END="1999">أمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أمريكية">
+      <charseq START="1993" END="1999">أمريكية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E17-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2044" END="2072">رمضان حسين قناة النيل للأخبار</charseq>
+    </extent>
+    <head>
+      <charseq START="2044" END="2053">رمضان حسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رمضان حسين">
+      <charseq START="2044" END="2053">رمضان حسين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E18" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E18-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2055" END="2072">قناة النيل للأخبار</charseq>
+    </extent>
+    <head>
+      <charseq START="2055" END="2072">قناة النيل للأخبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قناة النيل للأخبار">
+      <charseq START="2055" END="2072">قناة النيل للأخبار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E19" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E19-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="69" END="103">المركز العربي للدراسات الاستراتيجية</charseq>
+    </extent>
+    <head>
+      <charseq START="69" END="103">المركز العربي للدراسات الاستراتيجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E19-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="570" END="612">المركز العربي للدراسات الاستراتيجية في دمشق</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="604">المركز العربي للدراسات الاستراتيجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E19-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="371" END="405">المركز العربي للدراسات الاستراتيجية</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="405">المركز العربي للدراسات الاستراتيجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المركز العربي للدراسات الاستراتيجية">
+      <charseq START="69" END="103">المركز العربي للدراسات الاستراتيجية</charseq>
+    </name>
+    <name NAME="المركز العربي للدراسات الاستراتيجية">
+      <charseq START="570" END="604">المركز العربي للدراسات الاستراتيجية</charseq>
+    </name>
+    <name NAME="المركز العربي للدراسات الاستراتيجية">
+      <charseq START="371" END="405">المركز العربي للدراسات الاستراتيجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E20" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E20-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1028" END="1032">الحجر</charseq>
+    </extent>
+    <head>
+      <charseq START="1028" END="1032">الحجر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E21-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1222" END="1222">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1222" END="1222">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E21-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1228" END="1236">المشاركون</charseq>
+    </extent>
+    <head>
+      <charseq START="1228" END="1236">المشاركون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E21-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="970" END="978">المجتمعين</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="978">المجتمعين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E21-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1818" END="1826">المشاركون</charseq>
+    </extent>
+    <head>
+      <charseq START="1818" END="1826">المشاركون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E21-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1833" END="1834">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1833" END="1834">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E22-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2004" END="2042">مقر الأمانة العامة
+لجامعة الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="2004" END="2006">مقر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E23" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E23-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="633" END="661">مركز الدراسات والبحوث العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="633" END="661">مركز الدراسات والبحوث العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E23-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="117" END="145">مركز الدراسات
+والبحوث العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="145">مركز الدراسات
+والبحوث العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E23-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="419" END="447">مركز
+الدراسات والبحوث العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="419" END="447">مركز
+الدراسات والبحوث العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مركز الدراسات والبحوث العربية">
+      <charseq START="633" END="661">مركز الدراسات والبحوث العربية</charseq>
+    </name>
+    <name NAME="مركز الدراسات والبحوث العربية">
+      <charseq START="117" END="145">مركز الدراسات
+والبحوث العربية</charseq>
+    </name>
+    <name NAME="مركز الدراسات والبحوث العربية">
+      <charseq START="419" END="447">مركز
+الدراسات والبحوث العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E24-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="160" END="178">مقر الجامعة العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="160" END="162">مقر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E24-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="457" END="484">مقر الجامعة العربية بالقاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="459">مقر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E25-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2023" END="2042">لجامعة الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="2023" END="2042">لجامعة الدول العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E25-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="164" END="178">الجامعة العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="178">الجامعة العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E25-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="461" END="475">الجامعة العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="475">الجامعة العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجامعة الدول العربية">
+      <charseq START="2023" END="2042">لجامعة الدول العربية</charseq>
+    </name>
+    <name NAME="الجامعة العربية">
+      <charseq START="164" END="178">الجامعة العربية</charseq>
+    </name>
+    <name NAME="الجامعة العربية">
+      <charseq START="461" END="475">الجامعة العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E26" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E26-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="879" END="885">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="879" END="885">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E26-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="871" END="871">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="871" END="871">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E26-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="264" END="270">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="270">المنطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E27" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E27-42" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="287" END="296">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="296">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينية">
+      <charseq START="287" END="296">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E28-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="328" END="349">مراكز الدراسات
+والبحوث</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="332">مراكز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001127.1530.0311-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E29-21" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1585" END="1591">القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1591">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E29-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="477" END="484">بالقاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="484">بالقاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="1585" END="1591">القاهرة</charseq>
+    </name>
+    <name NAME="بالقاهرة">
+      <charseq START="477" END="484">بالقاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001127.1530.0311-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001127.1530.0311-E30-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="891" END="891">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="891">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E30-14" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="799" END="818">الرئيس اليمني السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="799" END="804">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E30-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="828" END="828">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="828" END="828">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E30-50" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="530" END="549">للرئيس اليمني السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="530" END="535">للرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E30-52" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="551" END="563">علي ناصر محمد</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="563">علي ناصر محمد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001127.1530.0311-E30-53" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="565" END="612">مدير المركز العربي للدراسات الاستراتيجية في دمشق</charseq>
+    </extent>
+    <head>
+      <charseq START="565" END="568">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علي ناصر محمد">
+      <charseq START="551" END="563">علي ناصر محمد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="NTV20001127.1530.0311-T1">
+  <timex2_mention ID="NTV20001127.1530.0311-T1-1">
+    <extent>
+      <charseq START="39" END="60">11/27/2000 15:35:11.60</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001127.1530.0311-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E24" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="160" END="178">مقر الجامعة العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E25-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="164" END="178">الجامعة العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E24-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="160" END="178">مقر الجامعة العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001127.1530.0311-R1-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="457" END="484">مقر الجامعة العربية بالقاهرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E25-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="461" END="475">الجامعة العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E24-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="457" END="484">مقر الجامعة العربية بالقاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E9" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="530" END="549">للرئيس اليمني السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E30-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="530" END="549">للرئيس اليمني السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E9-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="537" END="542">اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001127.1530.0311-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="799" END="818">الرئيس اليمني السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E30-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="799" END="818">الرئيس اليمني السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E9-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="806" END="811">اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E19" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="565" END="612">مدير المركز العربي للدراسات الاستراتيجية في دمشق</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E30-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="565" END="612">مدير المركز العربي للدراسات الاستراتيجية في دمشق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E19-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="570" END="612">المركز العربي للدراسات الاستراتيجية في دمشق</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E23" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="628" END="661">مدير
+مركز الدراسات والبحوث العربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E2-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="628" END="661">مدير
+مركز الدراسات والبحوث العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E23-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="633" END="661">مركز الدراسات والبحوث العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E18" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="2044" END="2072">رمضان حسين قناة النيل للأخبار</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E17-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="2044" END="2072">رمضان حسين قناة النيل للأخبار</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E18-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="2055" END="2072">قناة النيل للأخبار</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E22" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="2004" END="2072">مقر الأمانة العامة
+لجامعة الدول العربية رمضان حسين قناة النيل للأخبار</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E25-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="2023" END="2042">لجامعة الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E22-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="2004" END="2042">مقر الأمانة العامة
+لجامعة الدول العربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E29" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="457" END="484">مقر الجامعة العربية بالقاهرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E24-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="457" END="484">مقر الجامعة العربية بالقاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E29-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="477" END="484">بالقاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R10" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E7" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="723" END="795">المتخصصين في الدراسات السياسية والشئون
+الاستراتيجية من مصر والعالم العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E6-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="723" END="795">المتخصصين في الدراسات السياسية والشئون
+الاستراتيجية من مصر والعالم العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E7-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="778" END="780">مصر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001127.1530.0311-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001127.1530.0311-E19" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001127.1530.0311-E1" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001127.1530.0311-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="570" END="612">المركز العربي للدراسات الاستراتيجية في دمشق</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E19-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="570" END="612">المركز العربي للدراسات الاستراتيجية في دمشق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001127.1530.0311-E1-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="609" END="612">دمشق</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001127.1530.0311-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_mention ID="NTV20001127.1530.0311-EV1-1">
+    <extent>
+      <charseq START="277" END="285">الانتفاضة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="272" END="349">فرضت الانتفاضة الفلسطينية ذاتها على دوائر مشروع القرار ومراكز الدراسات
+والبحوث</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="277" END="285">الانتفاضة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="NTV20001127.1530.0311-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001127.1530.0311-E4" ROLE="Entity"/>
+  <event_mention ID="NTV20001127.1530.0311-EV2-1">
+    <extent>
+      <charseq START="692" END="795">شارك فيها
+حشد كبير من الخبراء والمتخصصين في الدراسات السياسية والشئون
+الاستراتيجية من مصر والعالم العربي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="686" END="795">بينما شارك فيها
+حشد كبير من الخبراء والمتخصصين في الدراسات السياسية والشئون
+الاستراتيجية من مصر والعالم العربي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="692" END="695">شارك</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001127.1530.0311-E4-8" ROLE="Entity">
+      <extent>
+        <charseq START="702" END="795">حشد كبير من الخبراء والمتخصصين في الدراسات السياسية والشئون
+الاستراتيجية من مصر والعالم العربي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001127.1530.0311-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_mention ID="NTV20001127.1530.0311-EV3-1">
+    <extent>
+      <charseq START="1147" END="1155">للانتفاضة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1103" END="1155">أخيرا تناولت حلقة النقاش أشكال
+الدعم العربي للانتفاضة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1147" END="1155">للانتفاضة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="NTV20001127.1530.0311-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_mention ID="NTV20001127.1530.0311-EV4-1">
+    <extent>
+      <charseq START="1250" END="1254">الحرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1208" END="1353">وفي هذا الصدد تدارس المشاركون في احتمالات الحرب النظامية
+الشاملة من زوايا التحالفات السياسية وطبيعة الخطط العسكرية اللازمة
+للتعامل مع هذا الاحتمال</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1250" END="1254">الحرب</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="NTV20001127.1530.0311-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_mention ID="NTV20001127.1530.0311-EV5-1">
+    <extent>
+      <charseq START="1484" END="1492">للانتفاضة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1467" END="1664">الدعم الدبلوماسي للانتفاضة كان إذن أحد أبرز الموضوعات التي تم بحثها مع
+تحليل لتأثيرات قرارات القمة العربية الأخيرة في القاهرة وما تبعها من
+خطوات في هذا الخصوص للضغط السياسي والإنهاك الدبلوماسي للخصم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1484" END="1492">للانتفاضة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="NTV20001127.1530.0311-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_mention ID="NTV20001127.1530.0311-EV6-1">
+    <extent>
+      <charseq START="1857" END="1865">للانتفاضة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1818" END="1999">المشاركون تدارسوا كذلك الدعم الجماهيري للانتفاضة من زوايا تنظيم الحركة
+الجماهيرية دون تكريث لحاله تناقض بين القيادات والجماهير وتفعيل حركة
+المقاطعة الجماهيرية لسلع إسرائيلية وأمريكية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1857" END="1865">للانتفاضة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+</document>
+</source_file>

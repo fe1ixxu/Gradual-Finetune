@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001028.1300.0829.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001028.1300.0829">
+<entity ID="VAR20001028.1300.0829-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="413" END="419">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="413" END="419">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001028.1300.0829-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="421" END="431">ديفيد ترمبل</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="431">ديفيد ترمبل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E2-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="438" END="438">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="438">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E2-5" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="433" END="436">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="436">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E2-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="475" END="475">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="475">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E2-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="478" END="478">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="478">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E2-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="408" END="456">رئيس الوزراء ديفيد ترمبل الذي يتزعم الحزب الوحدوي</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="411">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ديفيد ترمبل">
+      <charseq START="421" END="431">ديفيد ترمبل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E3-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="610" END="648">المؤسسات البريطانية الأيرلندية المشتركة</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="617">المؤسسات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001028.1300.0829-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E4-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="619" END="628">البريطانية</charseq>
+    </extent>
+    <head>
+      <charseq START="619" END="628">البريطانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البريطانية">
+      <charseq START="619" END="628">البريطانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E5-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="590" END="597">حزب عسكر</charseq>
+    </extent>
+    <head>
+      <charseq START="590" END="597">حزب عسكر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E5-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="604" END="604">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="604">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حزب عسكر">
+      <charseq START="590" END="597">حزب عسكر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E6-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="630" END="639">الأيرلندية</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="639">الأيرلندية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E6-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="237" END="245">الايرلندي</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="245">الايرلندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E6-26" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="156" END="172">أيرالندا الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="172">أيرالندا الشمالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E6-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="323" END="331">الايرلندي</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="331">الايرلندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الايرلندي">
+      <charseq START="237" END="245">الايرلندي</charseq>
+    </name>
+    <name NAME="أيرالندا الشمالية">
+      <charseq START="156" END="172">أيرالندا الشمالية</charseq>
+    </name>
+    <name NAME="الايرلندي">
+      <charseq START="323" END="331">الايرلندي</charseq>
+    </name>
+    <name NAME="الأيرلندية">
+      <charseq START="630" END="639">الأيرلندية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E7-18" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="490" END="499">الجمهوريين</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="499">الجمهوريين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجمهوريين">
+      <charseq START="490" END="499">الجمهوريين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E8" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E8-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="567" END="571">أسلحت</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="571">أسلحت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E8-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="216" END="245">أسلحة الجيش الجمهوري الايرلندي</charseq>
+    </extent>
+    <head>
+      <charseq START="216" END="220">أسلحة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E8-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="364" END="367">سلاح</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="367">سلاح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001028.1300.0829-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E9-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="543" END="556">الجيش الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="543" END="556">الجيش الجمهوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E9-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="537" END="537">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="537">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E9-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="572" END="572">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="572">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E9-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="339" END="339">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="339">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E9-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="222" END="245">الجيش الجمهوري الايرلندي</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="235">الجيش الجمهوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E9-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="344" END="357">الجيش الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="357">الجيش الجمهوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E9-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="368" END="368">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="368">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجيش الجمهوري">
+      <charseq START="222" END="235">الجيش الجمهوري</charseq>
+    </name>
+    <name NAME="الجيش الجمهوري">
+      <charseq START="344" END="357">الجيش الجمهوري</charseq>
+    </name>
+    <name NAME="الجيش الجمهوري">
+      <charseq START="543" END="556">الجيش الجمهوري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E12" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E12-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="91" END="120">القسم العربي لإذاعة صوت أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="102">القسم العربي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001028.1300.0829-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E13-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="65" END="65">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="65">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E13-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="104" END="120">لإذاعة صوت أمريكا</charseq>
+    </extent>
+    <head>
+      <charseq START="104" END="120">لإذاعة صوت أمريكا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لإذاعة صوت أمريكا">
+      <charseq START="104" END="120">لإذاعة صوت أمريكا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E14-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="444" END="456">الحزب الوحدوي</charseq>
+    </extent>
+    <head>
+      <charseq START="444" END="448">الحزب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E14-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="128" END="172">حزب
+استرا الوحدوي الرئيس في أيرالندا الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="144">حزب
+استرا الوحدوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001028.1300.0829-E14-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="281" END="290">حزب السترا</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="290">حزب السترا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حزب استرا الوحدوي">
+      <charseq START="128" END="144">حزب
+استرا الوحدوي</charseq>
+    </name>
+    <name NAME="حزب السترا">
+      <charseq START="281" END="290">حزب السترا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001028.1300.0829-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001028.1300.0829-E15-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="308" END="331">حكومة الائتلاف الايرلندي</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="312">حكومة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="VAR20001028.1300.0829-T1">
+  <timex2_mention ID="VAR20001028.1300.0829-T1-1">
+    <extent>
+      <charseq START="376" END="399">الثلاثين من الشهر القادم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001028.1300.0829-T2">
+  <timex2_mention ID="VAR20001028.1300.0829-T2-1">
+    <extent>
+      <charseq START="39" END="60">10/28/2000 13:13:49.37</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001028.1300.0829-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001028.1300.0829-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="128" END="172">حزب
+استرا الوحدوي الرئيس في أيرالندا الشمالية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E14-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="128" END="172">حزب
+استرا الوحدوي الرئيس في أيرالندا الشمالية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E6-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="156" END="172">أيرالندا الشمالية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001028.1300.0829-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E13" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001028.1300.0829-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="91" END="120">القسم العربي لإذاعة صوت أمريكا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E12-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="91" END="120">القسم العربي لإذاعة صوت أمريكا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E13-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="104" END="120">لإذاعة صوت أمريكا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001028.1300.0829-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E1" ROLE="Arg-2"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E2" ROLE="Arg-1"/>
+  <relation_mention ID="VAR20001028.1300.0829-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="408" END="456">رئيس الوزراء ديفيد ترمبل الذي يتزعم الحزب الوحدوي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E1-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="413" END="419">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E2-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="408" END="456">رئيس الوزراء ديفيد ترمبل الذي يتزعم الحزب الوحدوي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001028.1300.0829-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001028.1300.0829-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="216" END="245">أسلحة الجيش الجمهوري الايرلندي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E9-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="222" END="245">الجيش الجمهوري الايرلندي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E6-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="237" END="245">الايرلندي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001028.1300.0829-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E8" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001028.1300.0829-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="216" END="245">أسلحة الجيش الجمهوري الايرلندي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E9-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="222" END="245">الجيش الجمهوري الايرلندي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E8-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="216" END="245">أسلحة الجيش الجمهوري الايرلندي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001028.1300.0829-R5-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="364" END="368">سلاحه</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E9-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="368" END="368">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E8-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="364" END="367">سلاح</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001028.1300.0829-R5-3" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="567" END="572">أسلحته</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E9-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="572" END="572">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E8-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="567" END="571">أسلحت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001028.1300.0829-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E14" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001028.1300.0829-R7-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="408" END="456">رئيس الوزراء ديفيد ترمبل الذي يتزعم الحزب الوحدوي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E2-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="408" END="456">رئيس الوزراء ديفيد ترمبل الذي يتزعم الحزب الوحدوي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E14-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="444" END="456">الحزب الوحدوي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001028.1300.0829-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001028.1300.0829-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="610" END="648">المؤسسات البريطانية الأيرلندية المشتركة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E3-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="610" END="648">المؤسسات البريطانية الأيرلندية المشتركة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E4-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="619" END="628">البريطانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001028.1300.0829-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001028.1300.0829-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001028.1300.0829-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001028.1300.0829-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="610" END="648">المؤسسات البريطانية الأيرلندية المشتركة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E3-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="610" END="648">المؤسسات البريطانية الأيرلندية المشتركة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001028.1300.0829-E6-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="630" END="639">الأيرلندية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,1575 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001129.1800.0122.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001129.1800.0122">
+<entity ID="AFA20001129.1800.0122-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E1-52" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="830" END="838">فرانس برس</charseq>
+    </extent>
+    <head>
+      <charseq START="830" END="838">فرانس برس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E1-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="133" END="136">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="136">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فرانس برس">
+      <charseq START="830" END="838">فرانس برس</charseq>
+    </name>
+    <name NAME="اف ب">
+      <charseq START="133" END="136">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001129.1800.0122-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E2-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="145" END="154">مصدر قضائي</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="148">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E3-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="159" END="178">محكمة بيروت العسكرية</charseq>
+    </extent>
+    <head>
+      <charseq START="159" END="169">محكمة بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E3-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="184" END="184">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="184" END="184">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E3-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1423" END="1438">المحكمة العسكرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1423" END="1429">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E3-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1473" END="1473">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1473" END="1473">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E3-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1523" END="1524">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1523" END="1524">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E3-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1655" END="1655">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1655" END="1655">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E3-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1662" END="1668">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1662" END="1668">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E3-57" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1516" END="1516">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1516" END="1516">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة بيروت">
+      <charseq START="159" END="169">محكمة بيروت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001129.1800.0122-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E4-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="212" END="221">13 لبنانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="221">لبنانيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E5-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="252" END="258">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="258">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E5-7" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="273" END="274">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="274">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E5-9" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="424" END="428">العدو</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="428">العدو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E5-13" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="731" END="744">الدولة العبرية</charseq>
+    </extent>
+    <head>
+      <charseq START="731" END="744">الدولة العبرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E5-14" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="756" END="757">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="756" END="757">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E5-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1371" END="1377">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1371" END="1377">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E5-42" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1765" END="1771">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="1765" END="1771">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E5-58" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="337" END="338">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="338">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسرائيل">
+      <charseq START="252" END="258">اسرائيل</charseq>
+    </name>
+    <name NAME="الدولة العبرية">
+      <charseq START="731" END="744">الدولة العبرية</charseq>
+    </name>
+    <name NAME="اسرائيل">
+      <charseq START="1371" END="1377">اسرائيل</charseq>
+    </name>
+    <name NAME="اسرائيل">
+      <charseq START="1765" END="1771">اسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001129.1800.0122-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E6-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="268" END="274">اراضيها</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="272">اراضي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E7-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="302" END="318">جيش لبنان الجنوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="302" END="304">جيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E8-21" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1223" END="1229">لبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1223" END="1229">لبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1273" END="1279">لبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1273" END="1279">لبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-32" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1601" END="1608">اللبناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1601" END="1608">اللبناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-43" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1790" END="1805">الدولة اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1790" END="1795">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-44" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="1783" END="1783">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1783" END="1783">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-50" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1948" END="1952">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="1948" END="1952">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-51" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="306" END="310">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="306" END="310">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="538" END="544">لبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="544">لبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-55" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="594" END="600">لبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="594" END="600">لبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E8-56" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1797" END="1805">اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="1797" END="1805">اللبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لبنانية">
+      <charseq START="1223" END="1229">لبنانية</charseq>
+    </name>
+    <name NAME="لبنانية">
+      <charseq START="1273" END="1279">لبنانية</charseq>
+    </name>
+    <name NAME="اللبناني">
+      <charseq START="1601" END="1608">اللبناني</charseq>
+    </name>
+    <name NAME="لبنان">
+      <charseq START="1948" END="1952">لبنان</charseq>
+    </name>
+    <name NAME="لبنانية">
+      <charseq START="538" END="544">لبنانية</charseq>
+    </name>
+    <name NAME="لبنانية">
+      <charseq START="594" END="600">لبنانية</charseq>
+    </name>
+    <name NAME="اللبنانية">
+      <charseq START="1797" END="1805">اللبنانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001129.1800.0122-E9" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001129.1800.0122-E9-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="435" END="441">مقاومين</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="441">مقاومين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="699" END="709">2200 لبناني</charseq>
+    </extent>
+    <head>
+      <charseq START="704" END="709">لبناني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E10-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="725" END="726">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="726">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E11-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="762" END="771">جنوب لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="771">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E11-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1723" END="1745">المنطقة المحتلة السابقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1723" END="1729">المنطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E12-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="821" END="821">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="821">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E12-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="823" END="847">مراسلة فرانس برس القضائية</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="828">مراسلة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E13-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1159" END="1167">المحكومون</charseq>
+    </extent>
+    <head>
+      <charseq START="1159" END="1167">المحكومون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E14" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001129.1800.0122-E14-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1251" END="1256">للرجال</charseq>
+    </extent>
+    <head>
+      <charseq START="1251" END="1256">للرجال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E15" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="AFA20001129.1800.0122-E15-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1301" END="1306">للنساء</charseq>
+    </extent>
+    <head>
+      <charseq START="1301" END="1306">للنساء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E18" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001129.1800.0122-E18-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1345" END="1357">لبعض المتهمين</charseq>
+    </extent>
+    <head>
+      <charseq START="1345" END="1348">لبعض</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E19-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1350" END="1357">المتهمين</charseq>
+    </extent>
+    <head>
+      <charseq START="1350" END="1357">المتهمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E20-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1392" END="1406">ميليشيا الجنوبي</charseq>
+    </extent>
+    <head>
+      <charseq START="1392" END="1398">ميليشيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E20-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="294" END="338">ميليشيا جيش لبنان الجنوبي
+السابقة التابعة لها</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="300">ميليشيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E21-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1585" END="1608">حزب الله الشيعي اللبناني</charseq>
+    </extent>
+    <head>
+      <charseq START="1585" END="1592">حزب الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حزب الله">
+      <charseq START="1585" END="1592">حزب الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001129.1800.0122-E23" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001129.1800.0122-E23-35" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1681" END="1702">عدد من مسؤولي المعارضة</charseq>
+    </extent>
+    <head>
+      <charseq START="1681" END="1683">عدد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E23-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1675" END="1675">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1675" END="1675">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E24-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1688" END="1702">مسؤولي المعارضة</charseq>
+    </extent>
+    <head>
+      <charseq START="1688" END="1693">مسؤولي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E25-38" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1695" END="1702">المعارضة</charseq>
+    </extent>
+    <head>
+      <charseq START="1695" END="1702">المعارضة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E26-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1718" END="1745">سكان المنطقة المحتلة السابقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1718" END="1721">سكان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E26-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1750" END="1751">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1750" END="1751">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E26-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1759" END="1760">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1759" END="1760">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E26-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1787" END="1788">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1787" END="1788">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001129.1800.0122-E27" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E27-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1817" END="1835">منظمة العفو الدولية</charseq>
+    </extent>
+    <head>
+      <charseq START="1817" END="1835">منظمة العفو الدولية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E27-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1815" END="1815">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1815" END="1815">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E27-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1842" END="1842">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1842" END="1842">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001129.1800.0122-E27-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1885" END="1885">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1885" END="1885">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="منظمة العفو الدولية">
+      <charseq START="1817" END="1835">منظمة العفو الدولية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001129.1800.0122-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001129.1800.0122-E31-59" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="120" END="136">بيروت 11-29 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="124">بيروت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيروت">
+      <charseq START="120" END="124">بيروت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001129.1800.0122-V1" TYPE="Crime">
+  <value_mention ID="AFA20001129.1800.0122-V1-1">
+    <extent>
+      <charseq START="239" END="258">"التعامل" مع
+اسرائيل</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V2" TYPE="Crime">
+  <value_mention ID="AFA20001129.1800.0122-V2-1">
+    <extent>
+      <charseq START="262" END="274">دخول" اراضيها</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V3" TYPE="Crime">
+  <value_mention ID="AFA20001129.1800.0122-V3-1">
+    <extent>
+      <charseq START="277" END="338">"التجند" في صفوف ميليشيا جيش لبنان الجنوبي
+السابقة التابعة لها</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V4" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V4-1">
+    <extent>
+      <charseq START="375" END="382">بالاعدام</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V5" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V5-1">
+    <extent>
+      <charseq START="392" END="404">بالسجن المؤبد</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V6" TYPE="Crime">
+  <value_mention ID="AFA20001129.1800.0122-V6-1">
+    <extent>
+      <charseq START="413" END="441">التعامل مع العدو وقتل مقاومين</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V7" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V7-1">
+    <extent>
+      <charseq START="486" END="544">السجن لمدة ثلاثة اسابيع مع غرامة مقدارها مليون ليرة لبنانية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V8" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V8-1">
+    <extent>
+      <charseq START="563" END="600">دفع غرامة مقدارها 500 الف ليرة لبنانية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V9" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V9-1">
+    <extent>
+      <charseq START="909" END="916">بالاعدام</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V10" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V10-1">
+    <extent>
+      <charseq START="925" END="931">بالمؤبد</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V11" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V11-1">
+    <extent>
+      <charseq START="971" END="988">السجن لمدة 15 عاما</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V12" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V12-1">
+    <extent>
+      <charseq START="1011" END="1029">لم تتعد العشر سنوات</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V13" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V13-1">
+    <extent>
+      <charseq START="1069" END="1090">السجن لعام واحد وعامين</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V14" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V14-1">
+    <extent>
+      <charseq START="1189" END="1256">بدفع غرامات تراوحت بين مليون ليرة لبنانية (666
+دولار) بالنسبة للرجال</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V15" TYPE="Sentence">
+  <value_mention ID="AFA20001129.1800.0122-V15-1">
+    <extent>
+      <charseq START="1260" END="1306">500 الف ليرة لبنانية (333 دولار) بالنسبة
+للنساء</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V16" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V16-1">
+    <extent>
+      <charseq START="527" END="544">مليون ليرة لبنانية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V17" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V17-1">
+    <extent>
+      <charseq START="547" END="555">666
+دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V18" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V18-1">
+    <extent>
+      <charseq START="581" END="600">500 الف ليرة لبنانية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V19" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V19-1">
+    <extent>
+      <charseq START="603" END="611">333 دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V20" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V20-1">
+    <extent>
+      <charseq START="1212" END="1229">مليون ليرة لبنانية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V21" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V21-1">
+    <extent>
+      <charseq START="1232" END="1240">666
+دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V22" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V22-1">
+    <extent>
+      <charseq START="1260" END="1279">500 الف ليرة لبنانية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001129.1800.0122-V23" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001129.1800.0122-V23-1">
+    <extent>
+      <charseq START="1282" END="1290">333 دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001129.1800.0122-T1">
+  <timex2_mention ID="AFA20001129.1800.0122-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-29 18:03:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T2">
+  <timex2_mention ID="AFA20001129.1800.0122-T2-1">
+    <extent>
+      <charseq START="126" END="130">11-29</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T3">
+  <timex2_mention ID="AFA20001129.1800.0122-T3-1">
+    <extent>
+      <charseq START="186" END="199">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T4">
+  <timex2_mention ID="AFA20001129.1800.0122-T4-1">
+    <extent>
+      <charseq START="492" END="508">لمدة ثلاثة اسابيع</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T5">
+  <timex2_mention ID="AFA20001129.1800.0122-T5-1">
+    <extent>
+      <charseq START="662" END="675">5 حزيران/يونيو</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T6">
+  <timex2_mention ID="AFA20001129.1800.0122-T6-1">
+    <extent>
+      <charseq START="776" END="787">24 ايار/مايو</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T7">
+  <timex2_mention ID="AFA20001129.1800.0122-T7-1">
+    <extent>
+      <charseq START="793" END="799">22 عاما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T8">
+  <timex2_mention ID="AFA20001129.1800.0122-T8-1">
+    <extent>
+      <charseq START="875" END="882">حتى الان</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T9">
+  <timex2_mention ID="AFA20001129.1800.0122-T9-1">
+    <extent>
+      <charseq START="982" END="988">15 عاما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T10">
+  <timex2_mention ID="AFA20001129.1800.0122-T10-1">
+    <extent>
+      <charseq START="1019" END="1029">العشر سنوات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T11">
+  <timex2_mention ID="AFA20001129.1800.0122-T11-1">
+    <extent>
+      <charseq START="1075" END="1083">لعام واحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T12">
+  <timex2_mention ID="AFA20001129.1800.0122-T12-1">
+    <extent>
+      <charseq START="1086" END="1090">عامين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T13">
+  <timex2_mention ID="AFA20001129.1800.0122-T13-1">
+    <extent>
+      <charseq START="1488" END="1504">ثلاث مرات اسبوعيا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T14">
+  <timex2_mention ID="AFA20001129.1800.0122-T14-1">
+    <extent>
+      <charseq START="1542" END="1554">اسبوعية
+واحدة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001129.1800.0122-T15">
+  <timex2_mention ID="AFA20001129.1800.0122-T15-1">
+    <extent>
+      <charseq START="1847" END="1865">حزيران/يونيو الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001129.1800.0122-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="294" END="338">ميليشيا جيش لبنان الجنوبي
+السابقة التابعة لها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E20-27" ROLE="Arg-1">
+      <extent>
+        <charseq START="294" END="338">ميليشيا جيش لبنان الجنوبي
+السابقة التابعة لها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E7-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="302" END="318">جيش لبنان الجنوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R2" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E25" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1688" END="1702">مسؤولي المعارضة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E24-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="1688" END="1702">مسؤولي المعارضة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E25-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="1695" END="1702">المعارضة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R3" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1718" END="1745">سكان المنطقة المحتلة السابقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E26-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="1718" END="1745">سكان المنطقة المحتلة السابقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E11-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="1723" END="1745">المنطقة المحتلة السابقة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E31" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="120" END="136">بيروت 11-29 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E1-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="133" END="136">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E31-59" ROLE="Arg-2">
+      <extent>
+        <charseq START="120" END="136">بيروت 11-29 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R5-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="268" END="274">اراضيها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E6-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="268" END="274">اراضيها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E5-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="273" END="274">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="823" END="847">مراسلة فرانس برس القضائية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E12-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="823" END="847">مراسلة فرانس برس القضائية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E1-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="830" END="838">فرانس برس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R7" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E24" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1681" END="1702">عدد من مسؤولي المعارضة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E23-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="1681" END="1702">عدد من مسؤولي المعارضة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E24-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="1688" END="1702">مسؤولي المعارضة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1585" END="1608">حزب الله الشيعي اللبناني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E21-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="1585" END="1608">حزب الله الشيعي اللبناني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E8-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="1601" END="1608">اللبناني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001129.1800.0122-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001129.1800.0122-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001129.1800.0122-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001129.1800.0122-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="302" END="318">جيش لبنان الجنوبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E7-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="302" END="318">جيش لبنان الجنوبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001129.1800.0122-E8-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="306" END="310">لبنان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001129.1800.0122-EV1" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V16" ROLE="Money"/>
+  <event_argument REFID="AFA20001129.1800.0122-V17" ROLE="Money"/>
+  <event_argument REFID="AFA20001129.1800.0122-V18" ROLE="Money"/>
+  <event_argument REFID="AFA20001129.1800.0122-V19" ROLE="Money"/>
+  <event_mention ID="AFA20001129.1800.0122-EV1-1">
+    <extent>
+      <charseq START="513" END="611">غرامة مقدارها مليون ليرة لبنانية (666
+دولار) وبين دفع غرامة مقدارها 500 الف ليرة لبنانية (333 دولار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="444" END="611">وتراوحت سائر الاحكام وهي احكام حضورية
+بين السجن لمدة ثلاثة اسابيع مع غرامة مقدارها مليون ليرة لبنانية (666
+دولار) وبين دفع غرامة مقدارها 500 الف ليرة لبنانية (333 دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="513" END="517">غرامة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V16-1" ROLE="Money">
+      <extent>
+        <charseq START="527" END="544">مليون ليرة لبنانية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V17-1" ROLE="Money">
+      <extent>
+        <charseq START="547" END="555">666
+دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V18-1" ROLE="Money">
+      <extent>
+        <charseq START="581" END="600">500 الف ليرة لبنانية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V19-1" ROLE="Money">
+      <extent>
+        <charseq START="603" END="611">333 دولار</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV2" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001129.1800.0122-T5" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001129.1800.0122-EV2-1">
+    <extent>
+      <charseq START="662" END="691">5 حزيران/يونيو موعد بدء
+محاكمة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="617" END="811">وبذلك يرتفع الى 1581 عدد الاحكام الصادرة منذ 5 حزيران/يونيو موعد بدء
+محاكمة حوالى 2200 لبناني يشتبه في تعاونهم مع الدولة العبرية قبل
+انسحابها من جنوب لبنان في 24 ايار/مايو بعد 22 عاما من الاحتلال</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="686" END="691">محاكمة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T5-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="662" END="675">5 حزيران/يونيو</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV3" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-E3" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001129.1800.0122-E4" ROLE="Defendant"/>
+  <event_argument REFID="AFA20001129.1800.0122-V1" ROLE="Crime"/>
+  <event_argument REFID="AFA20001129.1800.0122-V2" ROLE="Crime"/>
+  <event_argument REFID="AFA20001129.1800.0122-V3" ROLE="Crime"/>
+  <event_argument REFID="AFA20001129.1800.0122-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001129.1800.0122-EV3-1">
+    <extent>
+      <charseq START="159" END="338">محكمة بيروت العسكرية اصدرت
+اليوم الاربعاء احكاما بحق 13 لبنانيا بتهم تتراوح بين "التعامل" مع
+اسرائيل و"دخول" اراضيها و"التجند" في صفوف ميليشيا جيش لبنان الجنوبي
+السابقة التابعة لها</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="140" END="338">افاد مصدر قضائي ان محكمة بيروت العسكرية اصدرت
+اليوم الاربعاء احكاما بحق 13 لبنانيا بتهم تتراوح بين "التعامل" مع
+اسرائيل و"دخول" اراضيها و"التجند" في صفوف ميليشيا جيش لبنان الجنوبي
+السابقة التابعة لها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="201" END="206">احكاما</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E3-2" ROLE="Adjudicator">
+      <extent>
+        <charseq START="159" END="178">محكمة بيروت العسكرية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E4-4" ROLE="Defendant">
+      <extent>
+        <charseq START="212" END="221">13 لبنانيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V1-1" ROLE="Crime">
+      <extent>
+        <charseq START="239" END="258">"التعامل" مع
+اسرائيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V2-1" ROLE="Crime">
+      <extent>
+        <charseq START="262" END="274">دخول" اراضيها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V3-1" ROLE="Crime">
+      <extent>
+        <charseq START="277" END="338">"التجند" في صفوف ميليشيا جيش لبنان الجنوبي
+السابقة التابعة لها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="186" END="199">اليوم الاربعاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV4" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-E15" ROLE="Entity"/>
+  <event_argument REFID="AFA20001129.1800.0122-V22" ROLE="Money"/>
+  <event_mention ID="AFA20001129.1800.0122-EV4-1">
+    <extent>
+      <charseq START="1190" END="1306">دفع غرامات تراوحت بين مليون ليرة لبنانية (666
+دولار) بالنسبة للرجال و 500 الف ليرة لبنانية (333 دولار) بالنسبة
+للنساء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1172" END="1306">كما قضت العقوبات بدفع غرامات تراوحت بين مليون ليرة لبنانية (666
+دولار) بالنسبة للرجال و 500 الف ليرة لبنانية (333 دولار) بالنسبة
+للنساء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1190" END="1192">دفع</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E15-20" ROLE="Entity">
+      <extent>
+        <charseq START="1301" END="1306">للنساء</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V22-1" ROLE="Money">
+      <extent>
+        <charseq START="1260" END="1279">500 الف ليرة لبنانية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV5" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V4" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-V5" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-V6" ROLE="Crime"/>
+  <event_mention ID="AFA20001129.1800.0122-EV5-1">
+    <extent>
+      <charseq START="356" END="441">حكمين غيابيين واحد بالاعدام والثاني بالسجن المؤبد بتهمة
+"التعامل مع العدو وقتل مقاومين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="343" END="442">شملت الاحكام حكمين غيابيين واحد بالاعدام والثاني بالسجن المؤبد بتهمة
+"التعامل مع العدو وقتل مقاومين"</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="356" END="360">حكمين</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V4-1" ROLE="Sentence">
+      <extent>
+        <charseq START="375" END="382">بالاعدام</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V5-1" ROLE="Sentence">
+      <extent>
+        <charseq START="392" END="404">بالسجن المؤبد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V6-1" ROLE="Crime">
+      <extent>
+        <charseq START="413" END="441">التعامل مع العدو وقتل مقاومين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001129.1800.0122-T4" ROLE="Time-Holds"/>
+  <event_mention ID="AFA20001129.1800.0122-EV6-1">
+    <extent>
+      <charseq START="486" END="508">السجن لمدة ثلاثة اسابيع</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="444" END="611">وتراوحت سائر الاحكام وهي احكام حضورية
+بين السجن لمدة ثلاثة اسابيع مع غرامة مقدارها مليون ليرة لبنانية (666
+دولار) وبين دفع غرامة مقدارها 500 الف ليرة لبنانية (333 دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="486" END="490">السجن</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T4-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="492" END="508">لمدة ثلاثة اسابيع</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV7" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V7" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-V8" ROLE="Sentence"/>
+  <event_mention ID="AFA20001129.1800.0122-EV7-1">
+    <extent>
+      <charseq START="457" END="600">الاحكام وهي احكام حضورية
+بين السجن لمدة ثلاثة اسابيع مع غرامة مقدارها مليون ليرة لبنانية (666
+دولار) وبين دفع غرامة مقدارها 500 الف ليرة لبنانية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="444" END="611">وتراوحت سائر الاحكام وهي احكام حضورية
+بين السجن لمدة ثلاثة اسابيع مع غرامة مقدارها مليون ليرة لبنانية (666
+دولار) وبين دفع غرامة مقدارها 500 الف ليرة لبنانية (333 دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="457" END="463">الاحكام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V7-1" ROLE="Sentence">
+      <extent>
+        <charseq START="486" END="544">السجن لمدة ثلاثة اسابيع مع غرامة مقدارها مليون ليرة لبنانية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V8-1" ROLE="Sentence">
+      <extent>
+        <charseq START="563" END="600">دفع غرامة مقدارها 500 الف ليرة لبنانية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-E5" ROLE="Agent"/>
+  <event_argument REFID="AFA20001129.1800.0122-E11" ROLE="Origin"/>
+  <event_argument REFID="AFA20001129.1800.0122-T6" ROLE="Time-Holds"/>
+  <event_mention ID="AFA20001129.1800.0122-EV8-1">
+    <extent>
+      <charseq START="750" END="787">انسحابها من جنوب لبنان في 24 ايار/مايو</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="617" END="811">وبذلك يرتفع الى 1581 عدد الاحكام الصادرة منذ 5 حزيران/يونيو موعد بدء
+محاكمة حوالى 2200 لبناني يشتبه في تعاونهم مع الدولة العبرية قبل
+انسحابها من جنوب لبنان في 24 ايار/مايو بعد 22 عاما من الاحتلال</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="750" END="757">انسحابها</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E5-14" ROLE="Agent">
+      <extent>
+        <charseq START="756" END="757">ها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E11-15" ROLE="Origin">
+      <extent>
+        <charseq START="762" END="771">جنوب لبنان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T6-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="776" END="787">24 ايار/مايو</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV9" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V9" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-V10" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-T8" ROLE="Time-Ending"/>
+  <event_mention ID="AFA20001129.1800.0122-EV9-1">
+    <extent>
+      <charseq START="857" END="931">الاحكام التي صدرت حتى الان
+تضمنت اربعة احكام غيابية بالاعدام وحكمين بالمؤبد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="816" END="931">وافادت مراسلة فرانس برس القضائية ان مجمل الاحكام التي صدرت حتى الان
+تضمنت اربعة احكام غيابية بالاعدام وحكمين بالمؤبد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="857" END="863">الاحكام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V9-1" ROLE="Sentence">
+      <extent>
+        <charseq START="909" END="916">بالاعدام</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V10-1" ROLE="Sentence">
+      <extent>
+        <charseq START="925" END="931">بالمؤبد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T8-1" ROLE="Time-Ending">
+      <extent>
+        <charseq START="875" END="882">حتى الان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV10" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V11" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-T9" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001129.1800.0122-EV10-1">
+    <extent>
+      <charseq START="951" END="988">الاحكام الغيابية عن السجن لمدة 15 عاما</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="936" END="1029">وفي حين لم تقل الاحكام الغيابية عن السجن لمدة 15 عاما فان الاحكام
+الحضورية لم تتعد العشر سنوات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="951" END="957">الاحكام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V11-1" ROLE="Sentence">
+      <extent>
+        <charseq START="971" END="988">السجن لمدة 15 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T9-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="982" END="988">15 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV11" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V12" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-T10" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001129.1800.0122-EV11-1">
+    <extent>
+      <charseq START="994" END="1029">الاحكام
+الحضورية لم تتعد العشر سنوات</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="936" END="1029">وفي حين لم تقل الاحكام الغيابية عن السجن لمدة 15 عاما فان الاحكام
+الحضورية لم تتعد العشر سنوات</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="994" END="1000">الاحكام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V12-1" ROLE="Sentence">
+      <extent>
+        <charseq START="1011" END="1029">لم تتعد العشر سنوات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T10-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1019" END="1029">العشر سنوات</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV12" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V13" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-T11" ROLE="Time-Holds"/>
+  <event_argument REFID="AFA20001129.1800.0122-T12" ROLE="Time-Holds"/>
+  <event_mention ID="AFA20001129.1800.0122-EV12-1">
+    <extent>
+      <charseq START="1049" END="1090">الاحكام السابقة بين السجن لعام واحد وعامين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1034" END="1167">وتراوحت غالبية الاحكام السابقة بين السجن لعام واحد وعامين رافقتها
+عقوبة موازية بالمنع من الاقامة في الاقضية التي ينتمي اليها المحكومون</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1049" END="1055">الاحكام</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V13-1" ROLE="Sentence">
+      <extent>
+        <charseq START="1069" END="1090">السجن لعام واحد وعامين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T11-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="1075" END="1083">لعام واحد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T12-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="1086" END="1090">عامين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV13" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-E13" ROLE="Person"/>
+  <event_argument REFID="AFA20001129.1800.0122-T11" ROLE="Time-Holds"/>
+  <event_argument REFID="AFA20001129.1800.0122-T12" ROLE="Time-Holds"/>
+  <event_mention ID="AFA20001129.1800.0122-EV13-1">
+    <extent>
+      <charseq START="1069" END="1167">السجن لعام واحد وعامين رافقتها
+عقوبة موازية بالمنع من الاقامة في الاقضية التي ينتمي اليها المحكومون</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1034" END="1167">وتراوحت غالبية الاحكام السابقة بين السجن لعام واحد وعامين رافقتها
+عقوبة موازية بالمنع من الاقامة في الاقضية التي ينتمي اليها المحكومون</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1069" END="1073">السجن</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E13-18" ROLE="Person">
+      <extent>
+        <charseq START="1159" END="1167">المحكومون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T11-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="1075" END="1083">لعام واحد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T12-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="1086" END="1090">عامين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV14" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-V14" ROLE="Sentence"/>
+  <event_argument REFID="AFA20001129.1800.0122-V15" ROLE="Sentence"/>
+  <event_mention ID="AFA20001129.1800.0122-EV14-1">
+    <extent>
+      <charseq START="1180" END="1306">العقوبات بدفع غرامات تراوحت بين مليون ليرة لبنانية (666
+دولار) بالنسبة للرجال و 500 الف ليرة لبنانية (333 دولار) بالنسبة
+للنساء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1172" END="1306">كما قضت العقوبات بدفع غرامات تراوحت بين مليون ليرة لبنانية (666
+دولار) بالنسبة للرجال و 500 الف ليرة لبنانية (333 دولار) بالنسبة
+للنساء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1180" END="1187">العقوبات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V14-1" ROLE="Sentence">
+      <extent>
+        <charseq START="1189" END="1256">بدفع غرامات تراوحت بين مليون ليرة لبنانية (666
+دولار) بالنسبة للرجال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-V15-1" ROLE="Sentence">
+      <extent>
+        <charseq START="1260" END="1306">500 الف ليرة لبنانية (333 دولار) بالنسبة
+للنساء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV15" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001129.1800.0122-E3" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001129.1800.0122-T13" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001129.1800.0122-EV15-1">
+    <extent>
+      <charseq START="1423" END="1504">المحكمة العسكرية، وسعيا للانتهاء من هذا الملف، عادت الى
+الانعقاد ثلاث مرات اسبوعيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1411" END="1575">يشار الى ان المحكمة العسكرية، وسعيا للانتهاء من هذا الملف، عادت الى
+الانعقاد ثلاث مرات اسبوعيا بعد ان كانت جلساتها اقتصرت على جلسة اسبوعية
+واحدة خلال العطلة القضائية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1479" END="1486">الانعقاد</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E3-28" ROLE="Adjudicator">
+      <extent>
+        <charseq START="1423" END="1438">المحكمة العسكرية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T13-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1488" END="1504">ثلاث مرات اسبوعيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV16" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001129.1800.0122-E3" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001129.1800.0122-T14" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001129.1800.0122-EV16-1">
+    <extent>
+      <charseq START="1518" END="1554">جلساتها اقتصرت على جلسة اسبوعية
+واحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1411" END="1575">يشار الى ان المحكمة العسكرية، وسعيا للانتهاء من هذا الملف، عادت الى
+الانعقاد ثلاث مرات اسبوعيا بعد ان كانت جلساتها اقتصرت على جلسة اسبوعية
+واحدة خلال العطلة القضائية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1518" END="1524">جلساتها</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E3-30" ROLE="Adjudicator">
+      <extent>
+        <charseq START="1523" END="1524">ها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001129.1800.0122-T14-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1542" END="1554">اسبوعية
+واحدة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001129.1800.0122-EV17" TYPE="Justice" SUBTYPE="Acquit" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001129.1800.0122-E26" ROLE="Defendant"/>
+  <event_mention ID="AFA20001129.1800.0122-EV17-1">
+    <extent>
+      <charseq START="1711" END="1745">عفو عن
+سكان المنطقة المحتلة السابقة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1580" END="1806">وكان حزب الله الشيعي اللبناني قد انتقد اكثر من مرة العقوبات "المخففة"
+التي تصدرها المحكمة فيما يطالب عدد من مسؤولي المعارضة باصدار عفو عن
+سكان المنطقة المحتلة السابقة لانهم "تعاملوا مع اسرائيل بعد ان تخلت
+عنهم الدولة اللبنانية"</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1711" END="1713">عفو</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001129.1800.0122-E26-39" ROLE="Defendant">
+      <extent>
+        <charseq START="1718" END="1745">سكان المنطقة المحتلة السابقة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

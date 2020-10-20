@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001015.1300.1179.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001015.1300.1179">
+<entity ID="VAR20001015.1300.1179-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="70" END="109">سفيرا أوزبكستان وأفغانستان في إسلام أباد</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="74">سفيرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E1-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="68" END="68">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="68" END="68">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E1-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="267" END="267">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="267">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E1-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="347" END="354">السفيران</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="354">السفيران</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001015.1300.1179-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E2-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="408" END="413">طالبان</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="413">طالبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طالبان">
+      <charseq START="408" END="413">طالبان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E3-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="415" END="423">الأفغانية</charseq>
+    </extent>
+    <head>
+      <charseq START="415" END="423">الأفغانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E3-5" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="402" END="423">حكومة طالبان الأفغانية</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="406">حكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E3-12" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="605" END="613">أفغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="613">أفغانستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E3-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="87" END="95">أفغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="87" END="95">أفغانستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E3-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="232" END="240">أفغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="232" END="240">أفغانستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أفغانستان">
+      <charseq START="87" END="95">أفغانستان</charseq>
+    </name>
+    <name NAME="أفغانستان">
+      <charseq START="232" END="240">أفغانستان</charseq>
+    </name>
+    <name NAME="الأفغانية">
+      <charseq START="415" END="423">الأفغانية</charseq>
+    </name>
+    <name NAME="أفغانستان">
+      <charseq START="605" END="613">أفغانستان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E4-6" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="426" END="435">أوزباكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="435">أوزباكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E4-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="580" END="589">أوزباكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="589">أوزباكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E4-15" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="599" END="600">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="600">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E4-18" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="200" END="209">أوزباكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="209">أوزباكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E4-21" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="495" END="504">أوزباكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="504">أوزباكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E4-27" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="76" END="84">أوزبكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="76" END="84">أوزبكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أوزباكستان">
+      <charseq START="200" END="209">أوزباكستان</charseq>
+    </name>
+    <name NAME="أوزباكستان">
+      <charseq START="495" END="504">أوزباكستان</charseq>
+    </name>
+    <name NAME="أوزبكستان">
+      <charseq START="76" END="84">أوزبكستان</charseq>
+    </name>
+    <name NAME="أوزباكستان">
+      <charseq START="426" END="435">أوزباكستان</charseq>
+    </name>
+    <name NAME="أوزباكستان">
+      <charseq START="580" END="589">أوزباكستان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E5-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="566" END="575">قوات روسية</charseq>
+    </extent>
+    <head>
+      <charseq START="566" END="569">قوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001015.1300.1179-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E6-14" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="571" END="575">روسية</charseq>
+    </extent>
+    <head>
+      <charseq START="571" END="575">روسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="روسية">
+      <charseq START="571" END="575">روسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E7" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E7-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="595" END="613">حدودها
+مع أفغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="598">حدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001015.1300.1179-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E11-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="490" END="504">سفير أوزباكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="493">سفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E11-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="512" END="512">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="512">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E11-28" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="193" END="209">السفير
+أوزباكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="193" END="198">السفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E11-29" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="211" END="224">شاورات كابيلوه</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="224">شاورات كابيلوه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شاورات كابيلوه">
+      <charseq START="211" END="224">شاورات كابيلوه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E14-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="100" END="109">إسلام أباد</charseq>
+    </extent>
+    <head>
+      <charseq START="100" END="109">إسلام أباد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E14-23" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="128" END="146">العاصمة
+الباكستانية</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="134">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسلام أباد">
+      <charseq START="100" END="109">إسلام أباد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E15-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="136" END="146">الباكستانية</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="146">الباكستانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الباكستانية">
+      <charseq START="136" END="146">الباكستانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E16-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="463" END="485">وكالة
+الأنباء الإسلامية</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="485">وكالة
+الأنباء الإسلامية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E16-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="461" END="461">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="461">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E16-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="152" END="152">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="152">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E16-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="154" END="188">الوكالة الأفغانية الإسلامية للأنباء</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="188">الوكالة الأفغانية الإسلامية للأنباء</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الوكالة الأفغانية الإسلامية للأنباء">
+      <charseq START="154" END="188">الوكالة الأفغانية الإسلامية للأنباء</charseq>
+    </name>
+    <name NAME="وكالة الأنباء الإسلامية">
+      <charseq START="463" END="485">وكالة
+الأنباء الإسلامية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E19-31" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="227" END="240">سفير أفغانستان</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="230">سفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001015.1300.1179-E19-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="242" END="261">الملا عبد السلام سيف</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="261">الملا عبد السلام سيف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الملا عبد السلام سيف">
+      <charseq START="242" END="261">الملا عبد السلام سيف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001015.1300.1179-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001015.1300.1179-E21-34" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="334" END="340">البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="340">البلدين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="VAR20001015.1300.1179-T1">
+  <timex2_mention ID="VAR20001015.1300.1179-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/15/2000 13:19:39.78</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001015.1300.1179-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001015.1300.1179-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001015.1300.1179-E15" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001015.1300.1179-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="128" END="146">العاصمة
+الباكستانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E14-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="128" END="146">العاصمة
+الباكستانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E15-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="136" END="146">الباكستانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1179-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001015.1300.1179-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001015.1300.1179-E4" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001015.1300.1179-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="595" END="613">حدودها
+مع أفغانستان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E7-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="595" END="613">حدودها
+مع أفغانستان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E4-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="599" END="600">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1179-R3" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001015.1300.1179-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001015.1300.1179-E14" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001015.1300.1179-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="70" END="109">سفيرا أوزبكستان وأفغانستان في إسلام أباد</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E1-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="70" END="109">سفيرا أوزبكستان وأفغانستان في إسلام أباد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E14-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="100" END="109">إسلام أباد</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1179-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001015.1300.1179-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001015.1300.1179-E3" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001015.1300.1179-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="70" END="109">سفيرا أوزبكستان وأفغانستان في إسلام أباد</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E1-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="70" END="109">سفيرا أوزبكستان وأفغانستان في إسلام أباد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E3-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="87" END="95">أفغانستان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1179-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001015.1300.1179-E4" ROLE="Arg-2"/>
+  <relation_argument REFID="VAR20001015.1300.1179-E11" ROLE="Arg-1"/>
+  <relation_mention ID="VAR20001015.1300.1179-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="193" END="209">السفير
+أوزباكستان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E4-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="200" END="209">أوزباكستان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E11-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="193" END="209">السفير
+أوزباكستان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001015.1300.1179-R5-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="490" END="504">سفير أوزباكستان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E11-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="490" END="504">سفير أوزباكستان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E4-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="495" END="504">أوزباكستان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1179-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001015.1300.1179-E3" ROLE="Arg-2"/>
+  <relation_argument REFID="VAR20001015.1300.1179-E19" ROLE="Arg-1"/>
+  <relation_mention ID="VAR20001015.1300.1179-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="227" END="240">سفير أفغانستان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E3-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="232" END="240">أفغانستان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E19-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="227" END="240">سفير أفغانستان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001015.1300.1179-R8" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001015.1300.1179-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001015.1300.1179-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001015.1300.1179-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="566" END="575">قوات روسية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E5-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="566" END="575">قوات روسية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001015.1300.1179-E6-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="571" END="575">روسية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001015.1300.1179-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001015.1300.1179-E14" ROLE="Place"/>
+  <event_argument REFID="VAR20001015.1300.1179-E1" ROLE="Entity"/>
+  <event_mention ID="VAR20001015.1300.1179-EV1-1">
+    <extent>
+      <charseq START="70" END="146">سفيرا أوزبكستان وأفغانستان في إسلام أباد اجتماعا ثانيا في العاصمة
+الباكستانية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="146">عقدا سفيرا أوزبكستان وأفغانستان في إسلام أباد اجتماعا ثانيا في العاصمة
+الباكستانية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="111" END="117">اجتماعا</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001015.1300.1179-E14-23" ROLE="Place">
+      <extent>
+        <charseq START="128" END="146">العاصمة
+الباكستانية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001015.1300.1179-E1-1" ROLE="Entity">
+      <extent>
+        <charseq START="70" END="109">سفيرا أوزبكستان وأفغانستان في إسلام أباد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001015.1300.1179-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001015.1300.1179-E11" ROLE="Entity"/>
+  <event_argument REFID="VAR20001015.1300.1179-E19" ROLE="Entity"/>
+  <event_mention ID="VAR20001015.1300.1179-EV2-1">
+    <extent>
+      <charseq START="211" END="266">شاورات كابيلوه وسفير أفغانستان الملا عبد السلام سيف ناقش</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="148" END="340">وقالت الوكالة الأفغانية الإسلامية للأنباء إن السفير
+أوزباكستان شاورات كابيلوه وسفير أفغانستان الملا عبد السلام سيف ناقشا
+طائفة من القضايا بما فيها العلاقات الثنائية وفتح ممر للتجارة بين
+البلدين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="263" END="266">ناقش</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001015.1300.1179-E11-29" ROLE="Entity">
+      <extent>
+        <charseq START="211" END="224">شاورات كابيلوه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001015.1300.1179-E19-32" ROLE="Entity">
+      <extent>
+        <charseq START="242" END="261">الملا عبد السلام سيف</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

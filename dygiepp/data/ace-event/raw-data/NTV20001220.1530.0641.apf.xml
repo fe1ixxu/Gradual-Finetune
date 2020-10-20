@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001220.1530.0641.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001220.1530.0641">
+<entity ID="NTV20001220.1530.0641-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001220.1530.0641-E1-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="89" END="89">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="89">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001220.1530.0641-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="91" END="131">اللجنة البرلمانية المكلفة بشئون القانونية</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="96">اللجنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001220.1530.0641-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001220.1530.0641-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="171" END="182">رئيس الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="174">رئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001220.1530.0641-E3" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001220.1530.0641-E3-4" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="220" END="232">عدد من النواب</charseq>
+    </extent>
+    <head>
+      <charseq START="220" END="222">عدد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001220.1530.0641-E3-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="239" END="240">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="239" END="240">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001220.1530.0641-E3-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="273" END="274">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="274">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001220.1530.0641-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001220.1530.0641-E4-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="227" END="232">النواب</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="232">النواب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001220.1530.0641-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001220.1530.0641-E5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="340" END="357">متحدث باسم الكنيست</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="344">متحدث</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001220.1530.0641-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001220.1530.0641-E6-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="351" END="357">الكنيست</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="357">الكنيست</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكنيست">
+      <charseq START="351" END="357">الكنيست</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001220.1530.0641-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001220.1530.0641-E7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="176" END="182">الوزراء</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="182">الوزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="NTV20001220.1530.0641-V1" TYPE="Job-Title">
+  <value_mention ID="NTV20001220.1530.0641-V1-1">
+    <extent>
+      <charseq START="171" END="182">رئيس الوزراء</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="NTV20001220.1530.0641-T1">
+  <timex2_mention ID="NTV20001220.1530.0641-T1-1">
+    <extent>
+      <charseq START="39" END="60">12/20/2000 15:40:41.43</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001220.1530.0641-T2">
+  <timex2_mention ID="NTV20001220.1530.0641-T2-1">
+    <extent>
+      <charseq START="187" END="213">السادس من شهر
+فبراير القادم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001220.1530.0641-T3">
+  <timex2_mention ID="NTV20001220.1530.0641-T3-1">
+    <extent>
+      <charseq START="257" END="266">شهرا واحدا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001220.1530.0641-T4">
+  <timex2_mention ID="NTV20001220.1530.0641-T4-1">
+    <extent>
+      <charseq START="284" END="294">الستين يوما</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001220.1530.0641-T5">
+  <timex2_mention ID="NTV20001220.1530.0641-T5-1">
+    <extent>
+      <charseq START="407" END="422">السادس من فبراير</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001220.1530.0641-T6">
+  <timex2_mention ID="NTV20001220.1530.0641-T6-1">
+    <extent>
+      <charseq START="133" END="137">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001220.1530.0641-R1" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001220.1530.0641-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001220.1530.0641-E7" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001220.1530.0641-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="171" END="182">رئيس الوزراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001220.1530.0641-E2-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="171" END="182">رئيس الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001220.1530.0641-E7-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="176" END="182">الوزراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001220.1530.0641-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001220.1530.0641-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001220.1530.0641-E6" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001220.1530.0641-R2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="340" END="357">متحدث باسم الكنيست</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001220.1530.0641-E5-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="340" END="357">متحدث باسم الكنيست</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001220.1530.0641-E6-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="351" END="357">الكنيست</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001220.1530.0641-EV1" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_mention ID="NTV20001220.1530.0641-EV1-1">
+    <extent>
+      <charseq START="248" END="255">الاقتراع</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="215" END="333">وكان عدد من النواب اقترحوا تأخير الاقتراع شهرا واحدا
+معتبرين أن مهلة الستين يوما التي يحددها قانون الانتخابات غير كافية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="248" END="255">الاقتراع</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="NTV20001220.1530.0641-EV2" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001220.1530.0641-T5" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001220.1530.0641-EV2-1">
+    <extent>
+      <charseq START="367" END="422">الانتخابات ستبقى في الموعد المحدد أي
+في السادس من فبراير</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="335" END="422">ولكن متحدث باسم الكنيست أعلن أن الانتخابات ستبقى في الموعد المحدد أي
+في السادس من فبراير</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="367" END="376">الانتخابات</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001220.1530.0641-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="407" END="422">السادس من فبراير</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001220.1530.0641-EV3" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001220.1530.0641-V1" ROLE="Position"/>
+  <event_argument REFID="NTV20001220.1530.0641-T2" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001220.1530.0641-EV3-1">
+    <extent>
+      <charseq START="145" END="213">الانتخابات الخاصة باختيار رئيس الوزراء في السادس من شهر
+فبراير القادم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="213">وعلى صعيد هذا التطور قررت اللجنة البرلمانية المكلفة بشئون القانونية
+اليوم إجراء الانتخابات الخاصة باختيار رئيس الوزراء في السادس من شهر
+فبراير القادم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="145" END="154">الانتخابات</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001220.1530.0641-V1-1" ROLE="Position">
+      <extent>
+        <charseq START="171" END="182">رئيس الوزراء</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001220.1530.0641-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="187" END="213">السادس من شهر
+فبراير القادم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

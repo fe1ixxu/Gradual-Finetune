@@ -1,0 +1,2039 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001205.1400.0083.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001205.1400.0083">
+<entity ID="AFA20001205.1400.0083-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E1-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="346" END="353">لاسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="353">لاسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E1-59" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1636" END="1646">الاسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="1636" END="1646">الاسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E1-112" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="2793" END="2799">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2793" END="2799">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لاسرائيل">
+      <charseq START="346" END="353">لاسرائيل</charseq>
+    </name>
+    <name NAME="الاسرائيلية">
+      <charseq START="1636" END="1646">الاسرائيلية</charseq>
+    </name>
+    <name NAME="اسرائيل">
+      <charseq START="2793" END="2799">اسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E2-4" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="467" END="475">دول عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="469">دول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="481" END="483">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="481" END="483">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E3-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1569" END="1575">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1569" END="1575">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E3-15" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="533" END="535">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="533" END="535">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E3-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1012" END="1015">مصري</charseq>
+    </extent>
+    <head>
+      <charseq START="1012" END="1015">مصري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E3-57" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1562" END="1575">الديار المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1562" END="1567">الديار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E3-79" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="2001" END="2003">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="2001" END="2003">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E3-88" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2099" END="2106">المصريين</charseq>
+    </extent>
+    <head>
+      <charseq START="2099" END="2106">المصريين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E3-131" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="743" END="749">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="749">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="481" END="483">مصر</charseq>
+    </name>
+    <name NAME="المصرية">
+      <charseq START="1569" END="1575">المصرية</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="533" END="535">مصر</charseq>
+    </name>
+    <name NAME="مصري">
+      <charseq START="1012" END="1015">مصري</charseq>
+    </name>
+    <name NAME="الديار">
+      <charseq START="1562" END="1567">الديار</charseq>
+    </name>
+    <name NAME="مصر">
+      <charseq START="2001" END="2003">مصر</charseq>
+    </name>
+    <name NAME="المصريين">
+      <charseq START="2099" END="2106">المصريين</charseq>
+    </name>
+    <name NAME="المصرية">
+      <charseq START="743" END="749">المصرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E4-7" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="486" END="490">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="486" END="490">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E4-80" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2006" END="2010">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="2006" END="2010">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لبنان">
+      <charseq START="486" END="490">لبنان</charseq>
+    </name>
+    <name NAME="لبنان">
+      <charseq START="2006" END="2010">لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E5-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="493" END="497">سوريا</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="497">سوريا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سوريا">
+      <charseq START="493" END="497">سوريا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E6-9" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="471" END="475">عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="475">عربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E6-108" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2742" END="2748">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="2742" END="2748">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عربية">
+      <charseq START="471" END="475">عربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="2742" END="2748">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E7-11" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="500" END="504">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="504">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E7-82" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2021" END="2025">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="2021" END="2025">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمن">
+      <charseq START="500" END="504">اليمن</charseq>
+    </name>
+    <name NAME="اليمن">
+      <charseq START="2021" END="2025">اليمن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E8-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="507" END="512">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="512">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E8-83" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2028" END="2033">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="2028" END="2033">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغرب">
+      <charseq START="507" END="512">المغرب</charseq>
+    </name>
+    <name NAME="المغرب">
+      <charseq START="2028" END="2033">المغرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E9-13" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="515" END="524">دول خليجية</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="517">دول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E10" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E10-14" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="519" END="524">خليجية</charseq>
+    </extent>
+    <head>
+      <charseq START="519" END="524">خليجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خليجية">
+      <charseq START="519" END="524">خليجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E11-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="581" END="588">الجامعات</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="588">الجامعات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E12-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="591" END="597">المدارس</charseq>
+    </extent>
+    <head>
+      <charseq START="591" END="597">المدارس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E13" TYPE="LOC" SUBTYPE="Region-General" CLASS="USP">
+  <entity_mention ID="AFA20001205.1400.0083-E13-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="611" END="620">اماكن اخرى</charseq>
+    </extent>
+    <head>
+      <charseq START="611" END="615">اماكن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E14-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="624" END="641">من ابرز المستهدفين</charseq>
+    </extent>
+    <head>
+      <charseq START="624" END="625">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E14-130" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="644" END="664">سلسلة مطاعم مكدونالدز</charseq>
+    </extent>
+    <head>
+      <charseq START="650" END="654">مطاعم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E15-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="632" END="641">المستهدفين</charseq>
+    </extent>
+    <head>
+      <charseq START="632" END="641">المستهدفين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E17-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="667" END="700">كنتاكي فرايد تشيكن للوجبات السريعة</charseq>
+    </extent>
+    <head>
+      <charseq START="667" END="684">كنتاكي فرايد تشيكن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كنتاكي فرايد تشيكن">
+      <charseq START="667" END="684">كنتاكي فرايد تشيكن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E18-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="711" END="749">نائب رئيس غرفة المنشآت السياحية المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="711" END="714">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E18-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="751" END="769">عبد المنعم القيسوني</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="769">عبد المنعم القيسوني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E18-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="777" END="777">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="777" END="777">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E18-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="855" END="855">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="855">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E18-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="912" END="912">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="912" END="912">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E18-32" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="923" END="923">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="923" END="923">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبد المنعم القيسوني">
+      <charseq START="751" END="769">عبد المنعم القيسوني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E20-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="716" END="749">رئيس غرفة المنشآت السياحية المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="716" END="719">رئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E21-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="721" END="749">غرفة المنشآت السياحية المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="721" END="741">غرفة المنشآت السياحية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غرفة المنشآت السياحية">
+      <charseq START="721" END="741">غرفة المنشآت السياحية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E22-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="804" END="820">المطاعم الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="804" END="810">المطاعم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E23-1" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="307" END="322">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="322">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-2" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="301" END="301">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="301" END="301">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="812" END="820">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="820">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-43" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1522" END="1530">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1522" END="1530">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-44" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1216" END="1224">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1216" END="1224">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-51" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1477" END="1481">العدو</charseq>
+    </extent>
+    <head>
+      <charseq START="1477" END="1481">العدو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-58" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1625" END="1633">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1625" END="1633">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-77" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1967" END="1975">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1967" END="1975">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-100" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2552" END="2560">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="2552" END="2560">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-103" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2654" END="2662">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="2654" END="2662">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-129" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2396" END="2402">اميركيا</charseq>
+    </extent>
+    <head>
+      <charseq START="2396" END="2402">اميركيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E23-134" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="206" END="214">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="214">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="307" END="322">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="812" END="820">الاميركية</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="1522" END="1530">الاميركية</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="1216" END="1224">الاميركية</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="1625" END="1633">الاميركية</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="1967" END="1975">الاميركية</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="2552" END="2560">الاميركية</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="2654" END="2662">الاميركية</charseq>
+    </name>
+    <name NAME="اميركيا">
+      <charseq START="2396" END="2402">اميركيا</charseq>
+    </name>
+    <name NAME="الاميركية">
+      <charseq START="206" END="214">الاميركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E25-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="914" END="918">الصحف</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="918">الصحف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E25-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="908" END="908">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="908" END="908">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E26-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="968" END="978">80
+الف مصري</charseq>
+    </extent>
+    <head>
+      <charseq START="975" END="978">مصري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E28-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1149" END="1224">مدير شركة تقوم بتصنيع مواد للتنظيف بترخيص
+من شركة بروكتر اند غامبل الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1149" END="1152">مدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E28-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1133" END="1143">محمود جبران</charseq>
+    </extent>
+    <head>
+      <charseq START="1133" END="1143">محمود جبران</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E28-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1126" END="1126">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1126" END="1126">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E28-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1146" END="1224">هو مدير شركة تقوم بتصنيع مواد للتنظيف بترخيص
+من شركة بروكتر اند غامبل الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1146" END="1147">هو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمود جبران">
+      <charseq START="1133" END="1143">محمود جبران</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E29-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1154" END="1157">شركة</charseq>
+    </extent>
+    <head>
+      <charseq START="1154" END="1157">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E29-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1159" END="1159">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1159" END="1159">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E29-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1236" END="1241">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="1236" END="1241">الشركة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E30-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1194" END="1224">شركة بروكتر اند غامبل الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1194" END="1214">شركة بروكتر اند غامبل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة بروكتر اند غامبل">
+      <charseq START="1194" END="1214">شركة بروكتر اند غامبل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E33-48" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1389" END="1398">شيخ الازهر</charseq>
+    </extent>
+    <head>
+      <charseq START="1389" END="1391">شيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E33-49" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1400" END="1414">محمد سيد طنطاوي</charseq>
+    </extent>
+    <head>
+      <charseq START="1400" END="1414">محمد سيد طنطاوي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد سيد طنطاوي">
+      <charseq START="1400" END="1414">محمد سيد طنطاوي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E35" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E35-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1393" END="1398">الازهر</charseq>
+    </extent>
+    <head>
+      <charseq START="1393" END="1398">الازهر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الازهر">
+      <charseq START="1393" END="1398">الازهر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E36-54" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1557" END="1575">مفتي الديار المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="1557" END="1560">مفتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E36-55" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1577" END="1595">الشيخ فريد واصل نصر</charseq>
+    </extent>
+    <head>
+      <charseq START="1577" END="1581">الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E36-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1583" END="1595">فريد واصل نصر</charseq>
+    </extent>
+    <head>
+      <charseq START="1583" END="1595">فريد واصل نصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فريد واصل نصر">
+      <charseq START="1583" END="1595">فريد واصل نصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E41-63" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1670" END="1696">استاذ الطب في جامعة القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1670" END="1674">استاذ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E41-64" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1698" END="1713">مختار عبد اللطيف</charseq>
+    </extent>
+    <head>
+      <charseq START="1698" END="1713">مختار عبد اللطيف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E41-118" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1725" END="1725">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1725" END="1725">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E41-128" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1666" END="1666">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1666" END="1666">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مختار عبد اللطيف">
+      <charseq START="1698" END="1713">مختار عبد اللطيف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E42" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E42-65" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1684" END="1696">جامعة القاهرة</charseq>
+    </extent>
+    <head>
+      <charseq START="1684" END="1696">جامعة القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جامعة القاهرة">
+      <charseq START="1684" END="1696">جامعة القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E43-66" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1721" END="1725">مرضاه</charseq>
+    </extent>
+    <head>
+      <charseq START="1721" END="1724">مرضا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E44" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E44-69" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1824" END="1829">الاقصى</charseq>
+    </extent>
+    <head>
+      <charseq START="1824" END="1829">الاقصى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاقصى">
+      <charseq START="1824" END="1829">الاقصى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E45-72" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1868" END="1925">استاذ الاقتصاد ومنسق اعمال اللجنة المصرية الشعبية للمقاطعة</charseq>
+    </extent>
+    <head>
+      <charseq START="1868" END="1872">استاذ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E45-73" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1927" END="1939">نادر
+الفرجاني</charseq>
+    </extent>
+    <head>
+      <charseq START="1927" END="1939">نادر
+الفرجاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E45-74" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1884" END="1925">منسق اعمال اللجنة المصرية الشعبية للمقاطعة</charseq>
+    </extent>
+    <head>
+      <charseq START="1884" END="1887">منسق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E45-102" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2609" END="2616">الفرجاني</charseq>
+    </extent>
+    <head>
+      <charseq START="2609" END="2616">الفرجاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E45-105" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2713" END="2714">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2713" END="2714">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E45-106" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2716" END="2716">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="2716" END="2716">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نادر الفرجاني">
+      <charseq START="1927" END="1939">نادر
+الفرجاني</charseq>
+    </name>
+    <name NAME="الفرجاني">
+      <charseq START="2609" END="2616">الفرجاني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E48-75" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1895" END="1925">اللجنة المصرية الشعبية للمقاطعة</charseq>
+    </extent>
+    <head>
+      <charseq START="1895" END="1925">اللجنة المصرية الشعبية للمقاطعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E48-84" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2044" END="2049">اللجنة</charseq>
+    </extent>
+    <head>
+      <charseq START="2044" END="2049">اللجنة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E48-85" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2042" END="2042">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2042" END="2042">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اللجنة المصرية الشعبية للمقاطعة">
+      <charseq START="1895" END="1925">اللجنة المصرية الشعبية للمقاطعة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E49-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1944" END="1975">لجانا لمقاطعة المنتجات الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="1944" END="1948">لجانا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E49-78" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1981" END="1981">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1981" END="1981">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E51" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E51-81" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2013" END="2018">الاردن</charseq>
+    </extent>
+    <head>
+      <charseq START="2013" END="2018">الاردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاردن">
+      <charseq START="2013" END="2018">الاردن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E52-86" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2076" END="2083">بالشركات</charseq>
+    </extent>
+    <head>
+      <charseq START="2076" END="2083">بالشركات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E53-87" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2086" END="2106">رجال الاعمال المصريين</charseq>
+    </extent>
+    <head>
+      <charseq START="2086" END="2089">رجال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E55" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E55-89" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="2293" END="2300">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="2293" END="2300">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E55-93" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2367" END="2372">سعوديا</charseq>
+    </extent>
+    <head>
+      <charseq START="2367" END="2372">سعوديا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودية">
+      <charseq START="2293" END="2300">السعودية</charseq>
+    </name>
+    <name NAME="سعوديا">
+      <charseq START="2367" END="2372">سعوديا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E56" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E56-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2339" END="2359">المستشفيات
+الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="2339" END="2348">المستشفيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E57" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E57-52" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="1488" END="1498">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1488" END="1498">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E57-62" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="452" END="462">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="462">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E57-67" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="1771" END="1781">الفلسطينيون</charseq>
+    </extent>
+    <head>
+      <charseq START="1771" END="1781">الفلسطينيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E57-68" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="1807" END="1808">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1807" END="1808">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E57-70" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="1848" END="1849">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="1848" END="1849">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E57-92" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2350" END="2359">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="2350" END="2359">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E57-135" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="237" END="246">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="246">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينيين">
+      <charseq START="1488" END="1498">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطينيين">
+      <charseq START="452" END="462">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطينيون">
+      <charseq START="1771" END="1781">الفلسطينيون</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="2350" END="2359">الفلسطينية</charseq>
+    </name>
+    <name NAME="الفلسطينية">
+      <charseq START="237" END="246">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E59" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E59-94" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2424" END="2451">الزبائن الذين انخفضت اعدادهم</charseq>
+    </extent>
+    <head>
+      <charseq START="2424" END="2430">الزبائن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E59-95" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2432" END="2436">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="2432" END="2436">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E59-96" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2450" END="2451">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="2450" END="2451">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E60" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E60-97" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2488" END="2511">الامارات العربية المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="2488" END="2511">الامارات العربية المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الامارات العربية المتحدة">
+      <charseq START="2488" END="2511">الامارات العربية المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E61" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E61-98" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2519" END="2531">صحيفة "الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="2519" END="2531">صحيفة "الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E61-99" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2517" END="2517">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2517" END="2517">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة الخليج">
+      <charseq START="2519" END="2531">صحيفة "الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E63-101" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2592" END="2597">السكان</charseq>
+    </extent>
+    <head>
+      <charseq START="2592" END="2597">السكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E65" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E65-104" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2668" END="2680">العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="2668" END="2680">العالم العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العالم العربي">
+      <charseq START="2668" END="2680">العالم العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E66" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E66-90" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="656" END="664">مكدونالدز</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="664">مكدونالدز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E66-119" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2149" END="2157">مكدونالدز</charseq>
+    </extent>
+    <head>
+      <charseq START="2149" END="2157">مكدونالدز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E66-127" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2322" END="2330">مكدونالدز</charseq>
+    </extent>
+    <head>
+      <charseq START="2322" END="2330">مكدونالدز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مكدونالدز">
+      <charseq START="656" END="664">مكدونالدز</charseq>
+    </name>
+    <name NAME="مكدونالدز">
+      <charseq START="2149" END="2157">مكدونالدز</charseq>
+    </name>
+    <name NAME="مكدونالدز">
+      <charseq START="2322" END="2330">مكدونالدز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E67" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E67-107" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="2736" END="2748">الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="2736" END="2740">الدول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E69" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E69-109" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2761" END="2799">الشركات الاجنبية التي تتعامل مع اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="2761" END="2767">الشركات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E69-110" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="2778" END="2781">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="2778" END="2781">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E69-111" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2783" END="2783">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2783" END="2783">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E70" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E70-113" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2835" END="2853">جامعة الدول العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="2835" END="2853">جامعة الدول العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E70-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2831" END="2831">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2831" END="2831">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جامعة الدول العربية">
+      <charseq START="2835" END="2853">جامعة الدول العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E71" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E71-115" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2882" END="2886">اوسلو</charseq>
+    </extent>
+    <head>
+      <charseq START="2882" END="2886">اوسلو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوسلو">
+      <charseq START="2882" END="2886">اوسلو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E72" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E72-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="958" END="958">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="958" END="958">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E73" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E73-117" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1102" END="1115">لمصلحة
+الضرائب</charseq>
+    </extent>
+    <head>
+      <charseq START="1102" END="1115">لمصلحة
+الضرائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لمصلحة الضرائب">
+      <charseq START="1102" END="1115">لمصلحة
+الضرائب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E74" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E74-120" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2162" END="2170">كوكا كولا</charseq>
+    </extent>
+    <head>
+      <charseq START="2162" END="2170">كوكا كولا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوكا كولا">
+      <charseq START="2162" END="2170">كوكا كولا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E75" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E75-121" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2181" END="2187">مارلبور</charseq>
+    </extent>
+    <head>
+      <charseq START="2181" END="2187">مارلبور</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مارلبور">
+      <charseq START="2181" END="2187">مارلبور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E76" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E76-122" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2192" END="2196">ميريت</charseq>
+    </extent>
+    <head>
+      <charseq START="2192" END="2196">ميريت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميريت">
+      <charseq START="2192" END="2196">ميريت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E77" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E77-123" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2223" END="2226">ليفي</charseq>
+    </extent>
+    <head>
+      <charseq START="2223" END="2226">ليفي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ليفي">
+      <charseq START="2223" END="2226">ليفي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E78" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E78-124" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2257" END="2261">نايكي</charseq>
+    </extent>
+    <head>
+      <charseq START="2257" END="2261">نايكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نايكي">
+      <charseq START="2257" END="2261">نايكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E79-125" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2279" END="2283">ارييل</charseq>
+    </extent>
+    <head>
+      <charseq START="2279" END="2283">ارييل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ارييل">
+      <charseq START="2279" END="2283">ارييل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E80" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E80-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2307" END="2307">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2307" END="2307">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E80-126" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2309" END="2330">سسلسلة مطاعم مكدونالدز</charseq>
+    </extent>
+    <head>
+      <charseq START="2309" END="2314">سسلسلة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0083-E83" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E83-132" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="144" END="161">القاهرة 12-5 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="150">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="144" END="150">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E84" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E84-133" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="158" END="161">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="158" END="161">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="158" END="161">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0083-E89" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0083-E89-60" TYPE="PRO" LDCTYPE="WHQ" ROLE="LOC">
+    <extent>
+      <charseq START="297" END="299">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="297" END="299">حيث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0083-E89-136" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="283" END="295">العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="295">العالم العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العالم العربي">
+      <charseq START="283" END="295">العالم العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="AFA20001205.1400.0083-V1" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001205.1400.0083-V1-1">
+    <extent>
+      <charseq START="828" END="830">35%</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V2" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="AFA20001205.1400.0083-V2-1">
+    <extent>
+      <charseq START="1257" END="1264">20 و
+25%</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001205.1400.0083-V3-1">
+    <extent>
+      <charseq START="998" END="1015">30 مليون جنيه مصري</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001205.1400.0083-V4-1">
+    <extent>
+      <charseq START="1024" END="1046">5،7 ملايين دولار
+تقريبا</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V5" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001205.1400.0083-V5-1">
+    <extent>
+      <charseq START="1062" END="1075">370 مليون جنيه</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V6" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001205.1400.0083-V6-1">
+    <extent>
+      <charseq START="1078" END="1099">100 مليون دولار تقريبا</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V7" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001205.1400.0083-V7-1">
+    <extent>
+      <charseq START="2361" END="2372">ريالا سعوديا</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V8" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001205.1400.0083-V8-1">
+    <extent>
+      <charseq START="2386" END="2402">30،0 سنتا اميركيا</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="AFA20001205.1400.0083-V9" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="AFA20001205.1400.0083-V9-1">
+    <extent>
+      <charseq START="2683" END="2698">1،18 مليار دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="AFA20001205.1400.0083-T1">
+  <timex2_mention ID="AFA20001205.1400.0083-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-05 14:53:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T2">
+  <timex2_mention ID="AFA20001205.1400.0083-T2-1">
+    <extent>
+      <charseq START="152" END="155">12-5</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T3">
+  <timex2_mention ID="AFA20001205.1400.0083-T3-1">
+    <extent>
+      <charseq START="840" END="844">شهرين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T4">
+  <timex2_mention ID="AFA20001205.1400.0083-T4-1">
+    <extent>
+      <charseq START="1017" END="1021">سنويا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T5">
+  <timex2_mention ID="AFA20001205.1400.0083-T5-1">
+    <extent>
+      <charseq START="1299" END="1324">تشرين الثاني/نوفمبر الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T6">
+  <timex2_mention ID="AFA20001205.1400.0083-T6-1">
+    <extent>
+      <charseq START="1333" END="1341">شهر رمضان</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T7">
+  <timex2_mention ID="AFA20001205.1400.0083-T7-1">
+    <extent>
+      <charseq START="1416" END="1429">الاسبوع الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T8">
+  <timex2_mention ID="AFA20001205.1400.0083-T8-1">
+    <extent>
+      <charseq START="1983" END="1996">الاسبوع الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T9">
+  <timex2_mention ID="AFA20001205.1400.0083-T9-1">
+    <extent>
+      <charseq START="2700" END="2707">عام 1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T10">
+  <timex2_mention ID="AFA20001205.1400.0083-T10-1">
+    <extent>
+      <charseq START="2855" END="2862">عام 1951</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0083-T11">
+  <timex2_mention ID="AFA20001205.1400.0083-T11-1">
+    <extent>
+      <charseq START="2888" END="2895">عام 1993</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001205.1400.0083-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E84" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E83" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="144" END="161">القاهرة 12-5 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E84-133" ROLE="Arg-1">
+      <extent>
+        <charseq START="158" END="161">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E83-132" ROLE="Arg-2">
+      <extent>
+        <charseq START="144" END="161">القاهرة 12-5 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="467" END="475">دول عربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E6-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="471" END="475">عربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E2-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="467" END="475">دول عربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="721" END="749">غرفة المنشآت السياحية المصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E21-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="721" END="749">غرفة المنشآت السياحية المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E3-131" ROLE="Arg-2">
+      <extent>
+        <charseq START="743" END="749">المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R4" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="711" END="749">نائب رئيس غرفة المنشآت السياحية المصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E18-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="711" END="749">نائب رئيس غرفة المنشآت السياحية المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E20-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="716" END="749">رئيس غرفة المنشآت السياحية المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="711" END="749">نائب رئيس غرفة المنشآت السياحية المصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E20-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="716" END="749">رئيس غرفة المنشآت السياحية المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E21-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="721" END="749">غرفة المنشآت السياحية المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E23" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="804" END="820">المطاعم الاميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E22-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="804" END="820">المطاعم الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E23-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="812" END="820">الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E29" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1149" END="1224">مدير شركة تقوم بتصنيع مواد للتنظيف بترخيص
+من شركة بروكتر اند غامبل الاميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E28-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="1149" END="1224">مدير شركة تقوم بتصنيع مواد للتنظيف بترخيص
+من شركة بروكتر اند غامبل الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E29-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="1154" END="1157">شركة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E30" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E23" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1194" END="1224">شركة بروكتر اند غامبل الاميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E30-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="1194" END="1224">شركة بروكتر اند غامبل الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E23-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="1216" END="1224">الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E33" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E35" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R9-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1389" END="1398">شيخ الازهر</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E33-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="1389" END="1398">شيخ الازهر</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E35-50" ROLE="Arg-2">
+      <extent>
+        <charseq START="1393" END="1398">الازهر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R10" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R10-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1557" END="1575">مفتي الديار المصرية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E36-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="1557" END="1575">مفتي الديار المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E3-57" ROLE="Arg-2">
+      <extent>
+        <charseq START="1562" END="1575">الديار المصرية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R11" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E41" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E42" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1670" END="1696">استاذ الطب في جامعة القاهرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E41-63" ROLE="Arg-1">
+      <extent>
+        <charseq START="1670" END="1696">استاذ الطب في جامعة القاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E42-65" ROLE="Arg-2">
+      <extent>
+        <charseq START="1684" END="1696">جامعة القاهرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R12" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E45" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E48" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R12-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1868" END="1925">استاذ الاقتصاد ومنسق اعمال اللجنة المصرية الشعبية للمقاطعة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E45-74" ROLE="Arg-1">
+      <extent>
+        <charseq START="1884" END="1925">منسق اعمال اللجنة المصرية الشعبية للمقاطعة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E48-75" ROLE="Arg-2">
+      <extent>
+        <charseq START="1895" END="1925">اللجنة المصرية الشعبية للمقاطعة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R13" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E53" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2086" END="2106">رجال الاعمال المصريين</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E53-87" ROLE="Arg-1">
+      <extent>
+        <charseq START="2086" END="2106">رجال الاعمال المصريين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E3-88" ROLE="Arg-2">
+      <extent>
+        <charseq START="2099" END="2106">المصريين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0083-R14" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0083-E56" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0083-E57" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0083-R14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2339" END="2359">المستشفيات
+الفلسطينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E56-91" ROLE="Arg-1">
+      <extent>
+        <charseq START="2339" END="2359">المستشفيات
+الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0083-E57-92" ROLE="Arg-2">
+      <extent>
+        <charseq START="2350" END="2359">الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001205.1400.0083-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0083-E4" ROLE="Place"/>
+  <event_argument REFID="AFA20001205.1400.0083-E51" ROLE="Place"/>
+  <event_argument REFID="AFA20001205.1400.0083-E7" ROLE="Place"/>
+  <event_argument REFID="AFA20001205.1400.0083-E8" ROLE="Place"/>
+  <event_argument REFID="AFA20001205.1400.0083-T8" ROLE="Time-Within"/>
+  <event_argument REFID="AFA20001205.1400.0083-E49" ROLE="Person"/>
+  <event_argument REFID="AFA20001205.1400.0083-E3" ROLE="Place"/>
+  <event_mention ID="AFA20001205.1400.0083-EV1-1">
+    <extent>
+      <charseq START="1977" END="2033">تاسست الاسبوع الماضي في
+مصر ولبنان والاردن واليمن والمغرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1862" END="2033">واوضح استاذ الاقتصاد ومنسق اعمال اللجنة المصرية الشعبية للمقاطعة نادر
+الفرجاني ان لجانا لمقاطعة المنتجات الاميركية تاسست الاسبوع الماضي في
+مصر ولبنان والاردن واليمن والمغرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1977" END="1981">تاسست</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E4-80" ROLE="Place">
+      <extent>
+        <charseq START="2006" END="2010">لبنان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E51-81" ROLE="Place">
+      <extent>
+        <charseq START="2013" END="2018">الاردن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E7-82" ROLE="Place">
+      <extent>
+        <charseq START="2021" END="2025">اليمن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E8-83" ROLE="Place">
+      <extent>
+        <charseq START="2028" END="2033">المغرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-T8-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1983" END="1996">الاسبوع الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E49-78" ROLE="Person">
+      <extent>
+        <charseq START="1981" END="1981">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E3-79" ROLE="Place">
+      <extent>
+        <charseq START="2001" END="2003">مصر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0083-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001205.1400.0083-E80" ROLE="Giver"/>
+  <event_argument REFID="AFA20001205.1400.0083-V8" ROLE="Money"/>
+  <event_argument REFID="AFA20001205.1400.0083-E55" ROLE="Place"/>
+  <event_argument REFID="AFA20001205.1400.0083-E56" ROLE="Recipient"/>
+  <event_mention ID="AFA20001205.1400.0083-EV2-1">
+    <extent>
+      <charseq START="2293" END="2402">السعودية، اعلنت سسلسلة مطاعم مكدونالدز عن منح المستشفيات
+الفلسطينية ريالا سعوديا عن كل وجبة (30،0 سنتا اميركيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2289" END="2479">وفي السعودية، اعلنت سسلسلة مطاعم مكدونالدز عن منح المستشفيات
+الفلسطينية ريالا سعوديا عن كل وجبة (30،0 سنتا اميركيا) في محاولة
+لاستعادة الزبائن الذين انخفضت اعدادهم تاثرا بالدعوات الى المقاطعة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2335" END="2337">منح</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E80-126" ROLE="Giver">
+      <extent>
+        <charseq START="2309" END="2330">سسلسلة مطاعم مكدونالدز</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-V8-1" ROLE="Money">
+      <extent>
+        <charseq START="2386" END="2402">30،0 سنتا اميركيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E55-89" ROLE="Place">
+      <extent>
+        <charseq START="2293" END="2300">السعودية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E56-91" ROLE="Recipient">
+      <extent>
+        <charseq START="2339" END="2359">المستشفيات
+الفلسطينية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0083-EV3" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001205.1400.0083-E23" ROLE="Beneficiary"/>
+  <event_argument REFID="AFA20001205.1400.0083-V9" ROLE="Money"/>
+  <event_argument REFID="AFA20001205.1400.0083-E67" ROLE="Place"/>
+  <event_argument REFID="AFA20001205.1400.0083-T9" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001205.1400.0083-EV3-1">
+    <extent>
+      <charseq START="2645" END="2748">الصادرات الاميركية الى
+العالم العربي (1،18 مليار دولار عام 1999) لكننا نامل في ان يرغم ذلك
+الدول العربية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="2603" END="2799">واضاف الفرجاني "طبعا، المقاطعة لن تؤثر في الصادرات الاميركية الى
+العالم العربي (1،18 مليار دولار عام 1999) لكننا نامل في ان يرغم ذلك
+الدول العربية على مقاطعة الشركات الاجنبية التي تتعامل مع اسرائيل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="2645" END="2652">الصادرات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E23-103" ROLE="Beneficiary">
+      <extent>
+        <charseq START="2654" END="2662">الاميركية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-V9-1" ROLE="Money">
+      <extent>
+        <charseq START="2683" END="2698">1،18 مليار دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-E67-107" ROLE="Place">
+      <extent>
+        <charseq START="2736" END="2748">الدول العربية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0083-T9-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="2700" END="2707">عام 1999</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

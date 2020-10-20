@@ -1,0 +1,739 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001219.1100.0949.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001219.1100.0949">
+<entity ID="VAR20001219.1100.0949-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E1-2" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="314" END="317">روسي</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="317">روسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E1-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="471" END="475">الروس</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="475">الروس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E1-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="79" END="81">روس</charseq>
+    </extent>
+    <head>
+      <charseq START="79" END="81">روس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="روسي">
+      <charseq START="314" END="317">روسي</charseq>
+    </name>
+    <name NAME="الروس">
+      <charseq START="471" END="475">الروس</charseq>
+    </name>
+    <name NAME="روس">
+      <charseq START="79" END="81">روس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0949-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="349" END="354">جروزني</charseq>
+    </extent>
+    <head>
+      <charseq START="349" END="354">جروزني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E2-21" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="341" END="354">العاصمة جروزني</charseq>
+    </extent>
+    <head>
+      <charseq START="341" END="347">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جروزني">
+      <charseq START="349" END="354">جروزني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0949-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="421" END="440">المتمردين في الشيشان</charseq>
+    </extent>
+    <head>
+      <charseq START="421" END="429">المتمردين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E3-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="445" END="446">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="446">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E4-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="464" END="475">الجنود الروس</charseq>
+    </extent>
+    <head>
+      <charseq START="464" END="469">الجنود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E6-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="379" END="389">سائق القطار</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="382">سائق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E7" TYPE="WEA" SUBTYPE="Exploding" CLASS="USP">
+  <entity_mention ID="VAR20001219.1100.0949-E7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="328" END="336">بلغم أرضي</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="331">بلغم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E8-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="69" END="81">ثلاث جنود روس</charseq>
+    </extent>
+    <head>
+      <charseq START="74" END="77">جنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E8-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="173" END="186">الجنود الثلاثة</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="178">الجنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E8-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="118" END="119">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="119">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E8-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="191" END="192">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="192">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E10" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001219.1100.0949-E10-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="94" END="107">مسلحون مجهولون</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="99">مسلحون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E10-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="106" END="107">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="106" END="107">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E11" TYPE="WEA" SUBTYPE="Underspecified" CLASS="USP">
+  <entity_mention ID="VAR20001219.1100.0949-E11-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="109" END="113">النار</charseq>
+    </extent>
+    <head>
+      <charseq START="109" END="113">النار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E11-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="214" END="218">النار</charseq>
+    </extent>
+    <head>
+      <charseq START="214" END="218">النار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E12-18" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="124" END="155">جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+    </extent>
+    <head>
+      <charseq START="124" END="138">جمهورية
+أنجوشيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جمهورية أنجوشيا">
+      <charseq START="124" END="138">جمهورية
+أنجوشيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0949-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E13-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="434" END="440">الشيشان</charseq>
+    </extent>
+    <head>
+      <charseq START="434" END="440">الشيشان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E13-19" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="149" END="155">للشيشان</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="155">للشيشان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشيشان">
+      <charseq START="434" END="440">الشيشان</charseq>
+    </name>
+    <name NAME="للشيشان">
+      <charseq START="149" END="155">للشيشان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001219.1100.0949-E14" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001219.1100.0949-E14-20" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="162" END="168">مسئولون</charseq>
+    </extent>
+    <head>
+      <charseq START="162" END="168">مسئولون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E15-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="220" END="258">بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+    </extent>
+    <head>
+      <charseq START="230" END="239">قرية آلكون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E16" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E16-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="253" END="258">الحدود</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="258">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E17-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="274" END="281">شخص واحد</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="276">شخص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001219.1100.0949-E18" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="VAR20001219.1100.0949-E18-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="384" END="389">القطار</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="389">القطار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001219.1100.0949-E18-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="303" END="317">قطار عسكري روسي</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="306">قطار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="VAR20001219.1100.0949-T1">
+  <timex2_mention ID="VAR20001219.1100.0949-T1-1">
+    <extent>
+      <charseq START="39" END="60">12/19/2000 11:15:49.49</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001219.1100.0949-T2">
+  <timex2_mention ID="VAR20001219.1100.0949-T2-1">
+    <extent>
+      <charseq START="194" END="201">مساء أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001219.1100.0949-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0949-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0949-E1" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0949-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="69" END="81">ثلاث جنود روس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E8-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="69" END="81">ثلاث جنود روس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E1-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="79" END="81">روس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0949-R2" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0949-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0949-E13" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0949-R2-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="124" END="155">جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E12-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="124" END="155">جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E13-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="149" END="155">للشيشان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0949-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0949-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0949-E16" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0949-R3-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="220" END="258">بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E15-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="220" END="258">بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E16-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="253" END="258">الحدود</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0949-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0949-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0949-E18" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0949-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="303" END="317">قطار عسكري روسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="314" END="317">روسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E18-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="303" END="317">قطار عسكري روسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0949-R5" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0949-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0949-E13" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0949-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="421" END="440">المتمردين في الشيشان</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E3-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="421" END="440">المتمردين في الشيشان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E13-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="434" END="440">الشيشان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0949-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0949-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0949-E1" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0949-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="464" END="475">الجنود الروس</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E4-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="464" END="475">الجنود الروس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E1-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="471" END="475">الروس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001219.1100.0949-R7" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001219.1100.0949-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001219.1100.0949-E18" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001219.1100.0949-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="379" END="389">سائق القطار</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E6-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="379" END="389">سائق القطار</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001219.1100.0949-E18-4" ROLE="Arg-2">
+      <extent>
+        <charseq START="384" END="389">القطار</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001219.1100.0949-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0949-E11" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001219.1100.0949-E8" ROLE="Victim"/>
+  <event_argument REFID="VAR20001219.1100.0949-E10" ROLE="Agent"/>
+  <event_argument REFID="VAR20001219.1100.0949-E12" ROLE="Place"/>
+  <event_mention ID="VAR20001219.1100.0949-EV1-1">
+    <extent>
+      <charseq START="65" END="155">قتل ثلاث جنود روس عندما أطلق مسلحون مجهولون النار عليهم في جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="155">قتل ثلاث جنود روس عندما أطلق مسلحون مجهولون النار عليهم في جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="65" END="67">قتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E11-17" ROLE="Instrument">
+      <extent>
+        <charseq START="109" END="113">النار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E8-1" ROLE="Victim">
+      <extent>
+        <charseq START="69" END="81">ثلاث جنود روس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E10-14" ROLE="Agent">
+      <extent>
+        <charseq START="94" END="107">مسلحون مجهولون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E12-18" ROLE="Place">
+      <extent>
+        <charseq START="124" END="155">جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0949-E10" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001219.1100.0949-E12" ROLE="Place"/>
+  <event_argument REFID="VAR20001219.1100.0949-E8" ROLE="Target"/>
+  <event_argument REFID="VAR20001219.1100.0949-E11" ROLE="Instrument"/>
+  <event_mention ID="VAR20001219.1100.0949-EV2-1">
+    <extent>
+      <charseq START="69" END="155">ثلاث جنود روس عندما أطلق مسلحون مجهولون النار عليهم في جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="155">قتل ثلاث جنود روس عندما أطلق مسلحون مجهولون النار عليهم في جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="89" END="92">أطلق</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E10-14" ROLE="Attacker">
+      <extent>
+        <charseq START="94" END="107">مسلحون مجهولون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E12-18" ROLE="Place">
+      <extent>
+        <charseq START="124" END="155">جمهورية
+أنجوشيا المجاورة للشيشان</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E8-1" ROLE="Target">
+      <extent>
+        <charseq START="69" END="81">ثلاث جنود روس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E11-17" ROLE="Instrument">
+      <extent>
+        <charseq START="109" END="113">النار</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0949-E15" ROLE="Place"/>
+  <event_argument REFID="VAR20001219.1100.0949-E8" ROLE="Target"/>
+  <event_argument REFID="VAR20001219.1100.0949-E11" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001219.1100.0949-T2" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001219.1100.0949-EV3-1">
+    <extent>
+      <charseq START="173" END="258">الجنود الثلاثة قتلوا مساء أمس
+خلال إطلاق النار بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="157" END="258">وقال مسئولون إن الجنود الثلاثة قتلوا مساء أمس
+خلال إطلاق النار بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="208" END="212">إطلاق</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E15-24" ROLE="Place">
+      <extent>
+        <charseq START="220" END="258">بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E8-12" ROLE="Target">
+      <extent>
+        <charseq START="173" END="186">الجنود الثلاثة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E11-23" ROLE="Instrument">
+      <extent>
+        <charseq START="214" END="218">النار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="194" END="201">مساء أمس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0949-E11" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001219.1100.0949-E8" ROLE="Victim"/>
+  <event_argument REFID="VAR20001219.1100.0949-E15" ROLE="Place"/>
+  <event_argument REFID="VAR20001219.1100.0949-T2" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001219.1100.0949-EV4-1">
+    <extent>
+      <charseq START="188" END="258">قتلوا مساء أمس
+خلال إطلاق النار بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="157" END="258">وقال مسئولون إن الجنود الثلاثة قتلوا مساء أمس
+خلال إطلاق النار بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="188" END="192">قتلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E11-23" ROLE="Instrument">
+      <extent>
+        <charseq START="214" END="218">النار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E8-22" ROLE="Victim">
+      <extent>
+        <charseq START="191" END="192">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E15-24" ROLE="Place">
+      <extent>
+        <charseq START="220" END="258">بالقرب من قرية آلكون الواقعة على الحدود</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="194" END="201">مساء أمس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0949-E7" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001219.1100.0949-E2" ROLE="Place"/>
+  <event_argument REFID="VAR20001219.1100.0949-E18" ROLE="Target"/>
+  <event_mention ID="VAR20001219.1100.0949-EV5-1">
+    <extent>
+      <charseq START="298" END="354">أصدم قطار عسكري روسي بل اصطدم بلغم أرضي في
+العاصمة جروزني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="283" END="406">وفي حادث منفصل أصدم قطار عسكري روسي بل اصطدم بلغم أرضي في
+العاصمة جروزني وجاء في أحد الأنباء أن سائق القطار أصيب بجراح خطيرة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="298" END="301">أصدم</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E7-11" ROLE="Instrument">
+      <extent>
+        <charseq START="328" END="336">بلغم أرضي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E2-21" ROLE="Place">
+      <extent>
+        <charseq START="341" END="354">العاصمة جروزني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E18-27" ROLE="Target">
+      <extent>
+        <charseq START="303" END="317">قطار عسكري روسي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0949-E7" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001219.1100.0949-E6" ROLE="Victim"/>
+  <event_argument REFID="VAR20001219.1100.0949-E2" ROLE="Place"/>
+  <event_mention ID="VAR20001219.1100.0949-EV6-1">
+    <extent>
+      <charseq START="328" END="394">بلغم أرضي في
+العاصمة جروزني وجاء في أحد الأنباء أن سائق القطار أصيب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="283" END="406">وفي حادث منفصل أصدم قطار عسكري روسي بل اصطدم بلغم أرضي في
+العاصمة جروزني وجاء في أحد الأنباء أن سائق القطار أصيب بجراح خطيرة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="391" END="394">أصيب</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E7-11" ROLE="Instrument">
+      <extent>
+        <charseq START="328" END="336">بلغم أرضي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E6-10" ROLE="Victim">
+      <extent>
+        <charseq START="379" END="389">سائق القطار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E2-21" ROLE="Place">
+      <extent>
+        <charseq START="341" END="354">العاصمة جروزني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001219.1100.0949-E3" ROLE="Attacker"/>
+  <event_argument REFID="VAR20001219.1100.0949-E4" ROLE="Target"/>
+  <event_mention ID="VAR20001219.1100.0949-EV7-1">
+    <extent>
+      <charseq START="445" END="475">ون هجمات خاطفة على الجنود الروس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="408" END="488">ومما يذكر أن المتمردين في الشيشان يشنون هجمات خاطفة على الجنود الروس
+يوميا تقريبا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="448" END="452">هجمات</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E3-7" ROLE="Attacker">
+      <extent>
+        <charseq START="445" END="446">ون</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E4-8" ROLE="Target">
+      <extent>
+        <charseq START="464" END="475">الجنود الروس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001219.1100.0949-E18" ROLE="Target"/>
+  <event_argument REFID="VAR20001219.1100.0949-E7" ROLE="Instrument"/>
+  <event_argument REFID="VAR20001219.1100.0949-E2" ROLE="Place"/>
+  <event_mention ID="VAR20001219.1100.0949-EV8-1">
+    <extent>
+      <charseq START="303" END="354">قطار عسكري روسي بل اصطدم بلغم أرضي في
+العاصمة جروزني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="283" END="406">وفي حادث منفصل أصدم قطار عسكري روسي بل اصطدم بلغم أرضي في
+العاصمة جروزني وجاء في أحد الأنباء أن سائق القطار أصيب بجراح خطيرة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="322" END="326">اصطدم</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E18-27" ROLE="Target">
+      <extent>
+        <charseq START="303" END="317">قطار عسكري روسي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E7-11" ROLE="Instrument">
+      <extent>
+        <charseq START="328" END="336">بلغم أرضي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E2-21" ROLE="Place">
+      <extent>
+        <charseq START="341" END="354">العاصمة جروزني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001219.1100.0949-EV9" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001219.1100.0949-E17" ROLE="Person"/>
+  <event_mention ID="VAR20001219.1100.0949-EV9-1">
+    <extent>
+      <charseq START="267" END="281">اعتقال
+شخص واحد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="260" END="281">وقد تم اعتقال
+شخص واحد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="267" END="272">اعتقال</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001219.1100.0949-E17-26" ROLE="Person">
+      <extent>
+        <charseq START="274" END="281">شخص واحد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

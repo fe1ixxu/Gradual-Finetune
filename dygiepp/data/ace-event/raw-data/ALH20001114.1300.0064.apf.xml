@@ -1,0 +1,696 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001114.1300.0064.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001114.1300.0064">
+<entity ID="ALH20001114.1300.0064-E1" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E1-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="468" END="501">الحزب الاتحادي الديموقراطي المعارض</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="493">الحزب الاتحادي الديموقراطي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحزب الاتحادي الديموقراطي">
+      <charseq START="468" END="493">الحزب الاتحادي الديموقراطي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="512" END="544">طلاب من
+حزب المؤتمر الوطني الشعبي</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="515">طلاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E3-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="520" END="544">حزب المؤتمر الوطني الشعبي</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="544">حزب المؤتمر الوطني الشعبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E3-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="600" END="604">الحزب</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="604">الحزب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حزب المؤتمر الوطني الشعبي">
+      <charseq START="520" END="544">حزب المؤتمر الوطني الشعبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E4-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="562" END="562">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="562">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E4-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="573" END="620">مسؤول
+العلاقات الخارجية في الحزب إبراهيم السنوسي</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="577">مسؤول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E4-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="606" END="620">إبراهيم السنوسي</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="620">إبراهيم السنوسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إبراهيم السنوسي">
+      <charseq START="606" END="620">إبراهيم السنوسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E5" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0064-E5-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="308" END="313">اصابات</charseq>
+    </extent>
+    <head>
+      <charseq START="308" END="313">اصابات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E6-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="695" END="705">مقر الجامعة</charseq>
+    </extent>
+    <head>
+      <charseq START="695" END="697">مقر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E7" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0064-E7-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="719" END="726">المنظمون</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="726">المنظمون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E8" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0064-E8-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="827" END="832">الطلاب</charseq>
+    </extent>
+    <head>
+      <charseq START="827" END="832">الطلاب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E8-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="838" END="839">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="838" END="839">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E8-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="191" END="202">طلاب معارضين</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="194">طلاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E9-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="877" END="889">الحزب الشيوعي</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="889">الحزب الشيوعي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحزب الشيوعي">
+      <charseq START="877" END="889">الحزب الشيوعي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E10-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="892" END="900">حزب الأمة</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="900">حزب الأمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="حزب الأمة">
+      <charseq START="892" END="900">حزب الأمة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E11-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="872" END="900">طلاب الحزب الشيوعي وحزب الأمة</charseq>
+    </extent>
+    <head>
+      <charseq START="872" END="875">طلاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E12-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="948" END="948">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="948" END="948">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E12-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="937" END="943">السلطات</charseq>
+    </extent>
+    <head>
+      <charseq START="937" END="943">السلطات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E13-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="855" END="865">موقع الندوة</charseq>
+    </extent>
+    <head>
+      <charseq START="855" END="858">موقع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E14-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="121" END="127">الخرطوم</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="127">الخرطوم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخرطوم">
+      <charseq START="121" END="127">الخرطوم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E16-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="131" END="136">الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="131" END="136">الحياة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحياة">
+      <charseq START="131" END="136">الحياة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E17" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E17-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="699" END="705">الجامعة</charseq>
+    </extent>
+    <head>
+      <charseq START="699" END="705">الجامعة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E17-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="156" END="168">جامعة الخرطوم</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="168">جامعة الخرطوم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جامعة الخرطوم">
+      <charseq START="156" END="168">جامعة الخرطوم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001114.1300.0064-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E18-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="210" END="210">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="210">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E18-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="217" END="226">قوات الأمن</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="220">قوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E19" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0064-E19-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="299" END="303">ضحايا</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="303">ضحايا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E20" TYPE="WEA" SUBTYPE="Chemical" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E20-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="772" END="790">الغاز المسيل للدموع</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="776">الغاز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E20-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="228" END="246">الغاز
+المسيل للدموع</charseq>
+    </extent>
+    <head>
+      <charseq START="228" END="232">الغاز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E21" TYPE="WEA" SUBTYPE="Blunt" CLASS="GEN">
+  <entity_mention ID="ALH20001114.1300.0064-E21-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="793" END="800">الهراوات</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="800">الهراوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E21-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="249" END="256">الهراوات</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="256">الهراوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E22" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E22-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="803" END="818">الطلقات المطاطية</charseq>
+    </extent>
+    <head>
+      <charseq START="803" END="809">الطلقات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E22-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="259" END="274">الطلقات المطاطية</charseq>
+    </extent>
+    <head>
+      <charseq START="259" END="265">الطلقات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E23-38" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG">
+    <extent>
+      <charseq START="323" END="329">الحكومة</charseq>
+    </extent>
+    <head>
+      <charseq START="323" END="329">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E23-42" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="334" END="334">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="334" END="334">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E24-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="627" END="639">الحرس الجامعي</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="631">الحرس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E24-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="412" END="424">الحرس الجامعي</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="416">الحرس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E25-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="752" END="818">الشرطة التي استخدمت الغاز المسيل للدموع
+والهراوات والطلقات المطاطية</charseq>
+    </extent>
+    <head>
+      <charseq START="752" END="757">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E25-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="183" END="188">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="183" END="188">الشرطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E25-12" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="759" END="762">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="759" END="762">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E25-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="770" END="770">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="770">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001114.1300.0064-E25-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="426" END="431">الشرطة</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="431">الشرطة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001114.1300.0064-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001114.1300.0064-E26-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="460" END="501">طلاب من الحزب الاتحادي الديموقراطي المعارض</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="463">طلاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="ALH20001114.1300.0064-T1">
+  <timex2_mention ID="ALH20001114.1300.0064-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-14</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001114.1300.0064-T2">
+  <timex2_mention ID="ALH20001114.1300.0064-T2-1">
+    <extent>
+      <charseq START="433" END="435">أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001114.1300.0064-T3">
+  <timex2_mention ID="ALH20001114.1300.0064-T3-1">
+    <extent>
+      <charseq START="170" END="177">مساء
+أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001114.1300.0064-T4">
+  <timex2_mention ID="ALH20001114.1300.0064-T4-1">
+    <extent>
+      <charseq START="1050" END="1052">أمس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001114.1300.0064-R1" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0064-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0064-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0064-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="460" END="501">طلاب من الحزب الاتحادي الديموقراطي المعارض</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E26-41" ROLE="Arg-1">
+      <extent>
+        <charseq START="460" END="501">طلاب من الحزب الاتحادي الديموقراطي المعارض</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E1-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="468" END="501">الحزب الاتحادي الديموقراطي المعارض</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0064-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0064-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0064-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0064-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="573" END="620">مسؤول
+العلاقات الخارجية في الحزب إبراهيم السنوسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E4-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="573" END="620">مسؤول
+العلاقات الخارجية في الحزب إبراهيم السنوسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E3-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="600" END="604">الحزب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0064-R3" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0064-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0064-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0064-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="872" END="900">طلاب الحزب الشيوعي وحزب الأمة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E11-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="872" END="900">طلاب الحزب الشيوعي وحزب الأمة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E9-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="877" END="889">الحزب الشيوعي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0064-R4" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0064-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0064-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0064-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="512" END="544">طلاب من
+حزب المؤتمر الوطني الشعبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E2-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="512" END="544">طلاب من
+حزب المؤتمر الوطني الشعبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E3-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="520" END="544">حزب المؤتمر الوطني الشعبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0064-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0064-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0064-E22" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0064-R5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="752" END="818">الشرطة التي استخدمت الغاز المسيل للدموع
+والهراوات والطلقات المطاطية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E25-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="770" END="770">ت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E22-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="803" END="818">الطلقات المطاطية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0064-R6" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0064-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001114.1300.0064-E10" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001114.1300.0064-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="872" END="900">طلاب الحزب الشيوعي وحزب الأمة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E11-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="872" END="900">طلاب الحزب الشيوعي وحزب الأمة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E10-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="892" END="900">حزب الأمة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001114.1300.0064-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001114.1300.0064-E14" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001114.1300.0064-E16" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001114.1300.0064-R7-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="121" END="136">الخرطوم  »الحياة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E14-28" ROLE="Arg-2">
+      <extent>
+        <charseq START="121" END="127">الخرطوم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001114.1300.0064-E16-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="131" END="136">الحياة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001114.1300.0064-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001114.1300.0064-E25" ROLE="Attacker"/>
+  <event_argument REFID="ALH20001114.1300.0064-E20" ROLE="Instrument"/>
+  <event_argument REFID="ALH20001114.1300.0064-E21" ROLE="Instrument"/>
+  <event_argument REFID="ALH20001114.1300.0064-E22" ROLE="Instrument"/>
+  <event_argument REFID="ALH20001114.1300.0064-E8" ROLE="Target"/>
+  <event_mention ID="ALH20001114.1300.0064-EV1-1">
+    <extent>
+      <charseq START="145" END="274">مواجهات في جامعة الخرطوم مساء
+أمس بين الشرطة وطلاب معارضين استخدمت فيها قوات الأمن الغاز
+المسيل للدموع والهراوات والطلقات المطاطية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="140" END="274">وقعت مواجهات في جامعة الخرطوم مساء
+أمس بين الشرطة وطلاب معارضين استخدمت فيها قوات الأمن الغاز
+المسيل للدموع والهراوات والطلقات المطاطية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="145" END="151">مواجهات</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E25-11" ROLE="Attacker">
+      <extent>
+        <charseq START="183" END="188">الشرطة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E20-35" ROLE="Instrument">
+      <extent>
+        <charseq START="228" END="246">الغاز
+المسيل للدموع</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E21-36" ROLE="Instrument">
+      <extent>
+        <charseq START="249" END="256">الهراوات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E22-37" ROLE="Instrument">
+      <extent>
+        <charseq START="259" END="274">الطلقات المطاطية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E8-27" ROLE="Target">
+      <extent>
+        <charseq START="191" END="202">طلاب معارضين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001114.1300.0064-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001114.1300.0064-E21" ROLE="Instrument"/>
+  <event_argument REFID="ALH20001114.1300.0064-E22" ROLE="Instrument"/>
+  <event_argument REFID="ALH20001114.1300.0064-E25" ROLE="Attacker"/>
+  <event_argument REFID="ALH20001114.1300.0064-E8" ROLE="Target"/>
+  <event_argument REFID="ALH20001114.1300.0064-E20" ROLE="Instrument"/>
+  <event_mention ID="ALH20001114.1300.0064-EV2-1">
+    <extent>
+      <charseq START="764" END="832">استخدمت الغاز المسيل للدموع
+والهراوات والطلقات المطاطية لتفريق الطلاب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="752" END="832">الشرطة التي استخدمت الغاز المسيل للدموع
+والهراوات والطلقات المطاطية لتفريق الطلاب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="764" END="770">استخدمت</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E21-15" ROLE="Instrument">
+      <extent>
+        <charseq START="793" END="800">الهراوات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E22-16" ROLE="Instrument">
+      <extent>
+        <charseq START="803" END="818">الطلقات المطاطية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E25-13" ROLE="Attacker">
+      <extent>
+        <charseq START="770" END="770">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E8-17" ROLE="Target">
+      <extent>
+        <charseq START="827" END="832">الطلاب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001114.1300.0064-E20-14" ROLE="Instrument">
+      <extent>
+        <charseq START="772" END="790">الغاز المسيل للدموع</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

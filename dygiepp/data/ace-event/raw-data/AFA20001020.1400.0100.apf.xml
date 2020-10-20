@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001020.1400.0100.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001020.1400.0100">
+<entity ID="AFA20001020.1400.0100-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E1-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="493" END="548">مئات المتظاهرين الذين استخدموا الحجارة والزجاجات الفارغة</charseq>
+    </extent>
+    <head>
+      <charseq START="493" END="496">مئات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E2-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="347" END="368">فراس خليل زيد (26 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="359">فراس خليل زيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فراس خليل زيد">
+      <charseq START="347" END="359">فراس خليل زيد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001020.1400.0100-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E3-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="372" END="394">امجد احمد اكرم (32 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="385">امجد احمد اكرم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="امجد احمد اكرم">
+      <charseq START="372" END="385">امجد احمد اكرم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001020.1400.0100-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E4-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="398" END="421">عدنان محمد خيري (21 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="398" END="412">عدنان محمد خيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عدنان محمد خيري">
+      <charseq START="398" END="412">عدنان محمد خيري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001020.1400.0100-E5" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001020.1400.0100-E5-10" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="433" END="436">شهود</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="436">شهود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E6-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="481" END="490">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="481" END="490">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E6-30" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="241" END="250">الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="250">الاسرائيلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسرائيلي">
+      <charseq START="481" END="490">الاسرائيلي</charseq>
+    </name>
+    <name NAME="الاسرائيلي">
+      <charseq START="241" END="250">الاسرائيلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001020.1400.0100-E7" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001020.1400.0100-E7-14" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="509" END="513">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="509" END="513">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E7-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="521" END="522">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="522">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E8" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E8-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="524" END="530">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="530">الحجارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E9" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001020.1400.0100-E9-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="574" END="591">نحو عشرة فلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="583" END="591">فلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E9-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="596" END="597">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="596" END="597">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E10-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="123" END="155">نابلس (الضفة الغربية) 10-20 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="127">نابلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E10-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="265" END="275">مدينة نابلس</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="275">مدينة نابلس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="نابلس">
+      <charseq START="123" END="127">نابلس</charseq>
+    </name>
+    <name NAME="مدينة نابلس">
+      <charseq START="265" END="275">مدينة نابلس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001020.1400.0100-E11" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E11-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="533" END="548">الزجاجات الفارغة</charseq>
+    </extent>
+    <head>
+      <charseq START="533" END="540">الزجاجات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E12" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E12-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="260" END="297">مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="263">مدخل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E13" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E13-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="130" END="142">الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="142">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الضفة الغربية">
+      <charseq START="130" END="142">الضفة الغربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001020.1400.0100-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E14-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="152" END="155">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="155">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="152" END="155">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001020.1400.0100-E15" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="AFA20001020.1400.0100-E15-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="559" END="569">المصدر نفسه</charseq>
+    </extent>
+    <head>
+      <charseq START="559" END="564">المصدر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E15-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="566" END="569">نفسه</charseq>
+    </extent>
+    <head>
+      <charseq START="566" END="569">نفسه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E15-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="164" END="171">مصدر طبي</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="167">مصدر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E16-2" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="318" END="322">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="322">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E16-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="328" END="329">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="329">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E16-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="344" END="345">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="345">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E16-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="451" END="452">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="452">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E16-22" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="303" END="421">القتلى الثلاثة الذين اصيبوا بالرصاص الحي هم فراس خليل زيد (26 عاما)
+وامجد احمد اكرم (32 عاما) وعدنان محمد خيري (21 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="316">الثلاثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E16-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="176" END="196">ثلاثة فلسطينيين
+قتلوا</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="190">فلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E16-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="195" END="196">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="195" END="196">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E16-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="441" END="446">القتلى</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="446">القتلى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E17" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E17-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="331" END="342">بالرصاص الحي</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="337">بالرصاص</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E17-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="211" END="217">بالرصاص</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="217">بالرصاص</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E18-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="475" END="490">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="479">الجيش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001020.1400.0100-E18-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="235" END="250">الجيش الاسرائيلي</charseq>
+    </extent>
+    <head>
+      <charseq START="235" END="239">الجيش</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001020.1400.0100-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001020.1400.0100-E20-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="280" END="297">شمال الضفة الغربية</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="297">الضفة الغربية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001020.1400.0100-T1">
+  <timex2_mention ID="AFA20001020.1400.0100-T1-1">
+    <extent>
+      <charseq START="198" END="209">اليوم الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001020.1400.0100-T2">
+  <timex2_mention ID="AFA20001020.1400.0100-T2-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-20 14:47:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001020.1400.0100-T3">
+  <timex2_mention ID="AFA20001020.1400.0100-T3-1">
+    <extent>
+      <charseq START="145" END="149">10-20</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001020.1400.0100-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001020.1400.0100-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001020.1400.0100-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001020.1400.0100-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="123" END="155">نابلس (الضفة الغربية) 10-20 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E14-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="152" END="155">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E10-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="123" END="155">نابلس (الضفة الغربية) 10-20 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001020.1400.0100-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001020.1400.0100-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001020.1400.0100-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001020.1400.0100-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="260" END="297">مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E10-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="265" END="275">مدينة نابلس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E20-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="280" END="297">شمال الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001020.1400.0100-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001020.1400.0100-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001020.1400.0100-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001020.1400.0100-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="235" END="250">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E18-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="235" END="250">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E6-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="241" END="250">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001020.1400.0100-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="475" END="490">الجيش الاسرائيلي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E18-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="475" END="490">الجيش الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E6-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="481" END="490">الاسرائيلي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001020.1400.0100-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001020.1400.0100-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001020.1400.0100-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001020.1400.0100-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="260" END="297">مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E12-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="260" END="297">مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E10-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="265" END="275">مدينة نابلس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001020.1400.0100-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001020.1400.0100-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001020.1400.0100-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001020.1400.0100-R6-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="123" END="155">نابلس (الضفة الغربية) 10-20 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E10-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="123" END="155">نابلس (الضفة الغربية) 10-20 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001020.1400.0100-E13-23" ROLE="Arg-2">
+      <extent>
+        <charseq START="130" END="142">الضفة الغربية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001020.1400.0100-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001020.1400.0100-E17" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001020.1400.0100-E16" ROLE="Victim"/>
+  <event_argument REFID="AFA20001020.1400.0100-E18" ROLE="Agent"/>
+  <event_argument REFID="AFA20001020.1400.0100-E12" ROLE="Place"/>
+  <event_mention ID="AFA20001020.1400.0100-EV1-1">
+    <extent>
+      <charseq START="192" END="297">قتلوا اليوم الجمعة بالرصاص خلال مواجهات مع الجيش الاسرائيلي جرت عند
+مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="159" END="297">افاد مصدر طبي ان ثلاثة فلسطينيين
+قتلوا اليوم الجمعة بالرصاص خلال مواجهات مع الجيش الاسرائيلي جرت عند
+مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="192" END="196">قتلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E17-28" ROLE="Instrument">
+      <extent>
+        <charseq START="211" END="217">بالرصاص</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E16-27" ROLE="Victim">
+      <extent>
+        <charseq START="195" END="196">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E18-29" ROLE="Agent">
+      <extent>
+        <charseq START="235" END="250">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E12-21" ROLE="Place">
+      <extent>
+        <charseq START="260" END="297">مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001020.1400.0100-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001020.1400.0100-E18" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001020.1400.0100-E12" ROLE="Place"/>
+  <event_argument REFID="AFA20001020.1400.0100-E16" ROLE="Target"/>
+  <event_argument REFID="AFA20001020.1400.0100-E17" ROLE="Instrument"/>
+  <event_mention ID="AFA20001020.1400.0100-EV2-1">
+    <extent>
+      <charseq START="176" END="297">ثلاثة فلسطينيين
+قتلوا اليوم الجمعة بالرصاص خلال مواجهات مع الجيش الاسرائيلي جرت عند
+مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="159" END="297">افاد مصدر طبي ان ثلاثة فلسطينيين
+قتلوا اليوم الجمعة بالرصاص خلال مواجهات مع الجيش الاسرائيلي جرت عند
+مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="224" END="230">مواجهات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E18-29" ROLE="Attacker">
+      <extent>
+        <charseq START="235" END="250">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E12-21" ROLE="Place">
+      <extent>
+        <charseq START="260" END="297">مدخل مدينة نابلس في شمال الضفة الغربية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E16-26" ROLE="Target">
+      <extent>
+        <charseq START="176" END="196">ثلاثة فلسطينيين
+قتلوا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E17-28" ROLE="Instrument">
+      <extent>
+        <charseq START="211" END="217">بالرصاص</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001020.1400.0100-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001020.1400.0100-E17" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001020.1400.0100-E16" ROLE="Victim"/>
+  <event_mention ID="AFA20001020.1400.0100-EV3-1">
+    <extent>
+      <charseq START="303" END="421">القتلى الثلاثة الذين اصيبوا بالرصاص الحي هم فراس خليل زيد (26 عاما)
+وامجد احمد اكرم (32 عاما) وعدنان محمد خيري (21 عاما</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="303" END="421">القتلى الثلاثة الذين اصيبوا بالرصاص الحي هم فراس خليل زيد (26 عاما)
+وامجد احمد اكرم (32 عاما) وعدنان محمد خيري (21 عاما</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="303" END="308">القتلى</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E17-5" ROLE="Instrument">
+      <extent>
+        <charseq START="331" END="342">بالرصاص الحي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E16-22" ROLE="Victim">
+      <extent>
+        <charseq START="303" END="421">القتلى الثلاثة الذين اصيبوا بالرصاص الحي هم فراس خليل زيد (26 عاما)
+وامجد احمد اكرم (32 عاما) وعدنان محمد خيري (21 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001020.1400.0100-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001020.1400.0100-E18" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001020.1400.0100-E16" ROLE="Target"/>
+  <event_mention ID="AFA20001020.1400.0100-EV4-1">
+    <extent>
+      <charseq START="441" END="490">القتلى سقطوا خلال مواجهات جرت بين الجيش الاسرائيلي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="427" END="548">وافاد شهود ان القتلى سقطوا خلال مواجهات جرت بين الجيش الاسرائيلي
+ومئات المتظاهرين الذين استخدموا الحجارة والزجاجات الفارغة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="459" END="465">مواجهات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E18-12" ROLE="Attacker">
+      <extent>
+        <charseq START="475" END="490">الجيش الاسرائيلي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E16-31" ROLE="Target">
+      <extent>
+        <charseq START="441" END="446">القتلى</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001020.1400.0100-EV5" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_mention ID="AFA20001020.1400.0100-EV5-1">
+    <extent>
+      <charseq START="498" END="507">المتظاهرين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="427" END="548">وافاد شهود ان القتلى سقطوا خلال مواجهات جرت بين الجيش الاسرائيلي
+ومئات المتظاهرين الذين استخدموا الحجارة والزجاجات الفارغة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="498" END="507">المتظاهرين</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001020.1400.0100-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001020.1400.0100-E9" ROLE="Victim"/>
+  <event_mention ID="AFA20001020.1400.0100-EV6-1">
+    <extent>
+      <charseq START="574" END="602">نحو عشرة فلسطينيين سقطوا جرحى</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="553" END="623">واوضح المصدر نفسه ان نحو عشرة فلسطينيين سقطوا جرحى خلال المواجهات
+نفسها</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="599" END="602">جرحى</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001020.1400.0100-E9-19" ROLE="Victim">
+      <extent>
+        <charseq START="574" END="591">نحو عشرة فلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

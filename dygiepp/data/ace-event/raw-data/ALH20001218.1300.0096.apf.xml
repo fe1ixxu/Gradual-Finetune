@@ -1,0 +1,819 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001218.1300.0096.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001218.1300.0096">
+<entity ID="ALH20001218.1300.0096-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E1-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="547" END="592">بمقرها في دبي في دولة الامارات العربية المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="550">بمقر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E2-6" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="557" END="592">دبي في دولة الامارات العربية المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="557" END="559">دبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دبي">
+      <charseq START="557" END="559">دبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E3-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="564" END="592">دولة الامارات العربية المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="592">دولة الامارات العربية المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دولة الامارات العربية المتحدة">
+      <charseq START="564" END="592">دولة الامارات العربية المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="595" END="618">مكاتبها الرئيسية في سيول</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="599">مكاتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E5-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="615" END="618">سيول</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="618">سيول</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سيول">
+      <charseq START="615" END="618">سيول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="GEN">
+  <entity_mention ID="ALH20001218.1300.0096-E6-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="644" END="655">شركات القروض</charseq>
+    </extent>
+    <head>
+      <charseq START="644" END="648">شركات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E7" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALH20001218.1300.0096-E7-13" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="672" END="676">الاسر</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="676">الاسر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E8-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="864" END="887">نحو عشر شركات اقراض خاصة</charseq>
+    </extent>
+    <head>
+      <charseq START="872" END="876">شركات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E9-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="890" END="901">مصارف
+تجارية</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="894">مصارف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E10-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="129" END="168">شركة »ال جي الكترونيكس« الكورية الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="150">شركة »ال جي الكترونيكس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="551" END="552">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="552">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="600" END="601">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="601">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="621" END="621">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="621" END="621">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="626" END="631">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="626" END="631">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="720" END="720">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="720">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="725" END="730">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="730">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="737" END="738">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="737" END="738">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="907" END="907">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="907" END="907">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="910" END="925">ال جي الكترونيكس</charseq>
+    </extent>
+    <head>
+      <charseq START="910" END="925">ال جي الكترونيكس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="931" END="932">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="931" END="932">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="934" END="934">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="934">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="127" END="127">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="127">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="172" END="173">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="173">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="175" END="175">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="175" END="175">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="313" END="318">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="318">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="311" END="311">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="311">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="338" END="338">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="338">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="353" END="354">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="353" END="354">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="357" END="357">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="357">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="382" END="383">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="382" END="383">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="459" END="460">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="460">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E10-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="472" END="472">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="472">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة »ال جي الكترونيكس">
+      <charseq START="129" END="150">شركة »ال جي الكترونيكس</charseq>
+    </name>
+    <name NAME="ال جي الكترونيكس">
+      <charseq START="910" END="925">ال جي الكترونيكس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E11" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E11-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="518" END="530">المغرب العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="530">المغرب العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغرب العربي">
+      <charseq START="518" END="530">المغرب العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E12-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="942" END="951">سوق المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="944">سوق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E12-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="197" END="206">سوق المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="197" END="199">سوق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E13-30" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="153" END="168">الكورية الجنوبية</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="168">الكورية الجنوبية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكورية الجنوبية">
+      <charseq START="153" END="168">الكورية الجنوبية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E14-37" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="344" END="349">الرباط</charseq>
+    </extent>
+    <head>
+      <charseq START="344" END="349">الرباط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرباط">
+      <charseq START="344" END="349">الرباط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E15-17" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="815" END="820">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="820">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E15-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="946" END="951">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="946" END="951">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E15-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="201" END="206">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="206">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E15-27" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="372" END="399">اكبر اسواقها في شمال افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="375">اكبر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E15-40" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="365" END="370">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="370">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغرب">
+      <charseq START="815" END="820">المغرب</charseq>
+    </name>
+    <name NAME="المغرب">
+      <charseq START="946" END="951">المغرب</charseq>
+    </name>
+    <name NAME="المغرب">
+      <charseq START="201" END="206">المغرب</charseq>
+    </name>
+    <name NAME="المغرب">
+      <charseq START="365" END="370">المغرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E16" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E16-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="388" END="399">شمال افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="399">افريقيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E17-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="534" END="534">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="534">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E17-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="474" END="504">فرعاً
+اقليمياً في الدار البيضاء</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="477">فرعا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001218.1300.0096-E17-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="507" END="507">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="507">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001218.1300.0096-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E18-46" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="492" END="504">الدار البيضاء</charseq>
+    </extent>
+    <head>
+      <charseq START="492" END="504">الدار البيضاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الدار البيضاء">
+      <charseq START="492" END="504">الدار البيضاء</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001218.1300.0096-E19" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001218.1300.0096-E19-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="512" END="530">منطقة المغرب العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="512" END="516">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ALH20001218.1300.0096-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001218.1300.0096-V1-1">
+    <extent>
+      <charseq START="215" END="228">36 مليون دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001218.1300.0096-V2" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001218.1300.0096-V2-1">
+    <extent>
+      <charseq START="417" END="433">نحو 30
+مليون درهم</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001218.1300.0096-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001218.1300.0096-V3-1">
+    <extent>
+      <charseq START="442" END="456">2.8 مليون دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001218.1300.0096-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001218.1300.0096-V4-1">
+    <extent>
+      <charseq START="822" END="837">بنحو بليون دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001218.1300.0096-T1">
+  <timex2_mention ID="ALH20001218.1300.0096-T1-1">
+    <extent>
+      <charseq START="435" END="439">شهريا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001218.1300.0096-T2">
+  <timex2_mention ID="ALH20001218.1300.0096-T2-1">
+    <extent>
+      <charseq START="770" END="778">تسعة أشهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001218.1300.0096-T3">
+  <timex2_mention ID="ALH20001218.1300.0096-T3-1">
+    <extent>
+      <charseq START="839" END="843">سنويا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001218.1300.0096-T4">
+  <timex2_mention ID="ALH20001218.1300.0096-T4-1">
+    <extent>
+      <charseq START="39" END="48">2000-12-18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001218.1300.0096-T5">
+  <timex2_mention ID="ALH20001218.1300.0096-T5-1">
+    <extent>
+      <charseq START="230" END="242">السنة الجارية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001218.1300.0096-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001218.1300.0096-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001218.1300.0096-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001218.1300.0096-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="129" END="168">شركة »ال جي الكترونيكس« الكورية الجنوبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E10-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="129" END="168">شركة »ال جي الكترونيكس« الكورية الجنوبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E13-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="153" END="168">الكورية الجنوبية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001218.1300.0096-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001218.1300.0096-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001218.1300.0096-E18" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001218.1300.0096-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="474" END="504">فرعاً
+اقليمياً في الدار البيضاء</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E17-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="474" END="504">فرعاً
+اقليمياً في الدار البيضاء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E18-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="492" END="504">الدار البيضاء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001218.1300.0096-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001218.1300.0096-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001218.1300.0096-E2" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001218.1300.0096-R3-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="547" END="592">بمقرها في دبي في دولة الامارات العربية المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E1-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="547" END="592">بمقرها في دبي في دولة الامارات العربية المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E2-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="557" END="592">دبي في دولة الامارات العربية المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001218.1300.0096-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001218.1300.0096-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001218.1300.0096-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001218.1300.0096-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="595" END="618">مكاتبها الرئيسية في سيول</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E4-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="595" END="618">مكاتبها الرئيسية في سيول</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E5-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="615" END="618">سيول</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001218.1300.0096-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001218.1300.0096-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001218.1300.0096-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001218.1300.0096-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="197" END="206">سوق المغرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E12-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="197" END="206">سوق المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E15-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="201" END="206">المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001218.1300.0096-R5-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="942" END="951">سوق المغرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E12-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="942" END="951">سوق المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E15-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="946" END="951">المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001218.1300.0096-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001218.1300.0096-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001218.1300.0096-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001218.1300.0096-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="547" END="592">بمقرها في دبي في دولة الامارات العربية المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E2-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="557" END="592">دبي في دولة الامارات العربية المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001218.1300.0096-E3-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="564" END="592">دولة الامارات العربية المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001218.1300.0096-EV1" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001218.1300.0096-E17" ROLE="Org"/>
+  <event_argument REFID="ALH20001218.1300.0096-E10" ROLE="Agent"/>
+  <event_mention ID="ALH20001218.1300.0096-EV1-1">
+    <extent>
+      <charseq START="467" END="504">افتتحت فرعاً
+اقليمياً في الدار البيضاء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="458" END="618">وهي لذلك افتتحت فرعاً
+اقليمياً في الدار البيضاء سيغطي منطقة المغرب العربي وسيكون
+مرتبطاً بمقرها في دبي في دولة الامارات العربية المتحدة
+ومكاتبها الرئيسية في سيول</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="467" END="472">افتتحت</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001218.1300.0096-E17-45" ROLE="Org">
+      <extent>
+        <charseq START="474" END="504">فرعاً
+اقليمياً في الدار البيضاء</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001218.1300.0096-E10-44" ROLE="Agent">
+      <extent>
+        <charseq START="472" END="472">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001218.1300.0096-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001218.1300.0096-E8" ROLE="Giver"/>
+  <event_argument REFID="ALH20001218.1300.0096-E9" ROLE="Giver"/>
+  <event_argument REFID="ALH20001218.1300.0096-V4" ROLE="Money"/>
+  <event_argument REFID="ALH20001218.1300.0096-E15" ROLE="Place"/>
+  <event_argument REFID="ALH20001218.1300.0096-T3" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001218.1300.0096-EV2-1">
+    <extent>
+      <charseq START="791" END="901">قروض تمويل الاستهلاك في المغرب بنحو بليون دولار
+سنوياً وتتنافس على منحها نحو عشر شركات اقراض خاصة ومصارف
+تجارية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="780" END="901">وتقدر قيمة قروض تمويل الاستهلاك في المغرب بنحو بليون دولار
+سنوياً وتتنافس على منحها نحو عشر شركات اقراض خاصة ومصارف
+تجارية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="791" END="794">قروض</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001218.1300.0096-E8-18" ROLE="Giver">
+      <extent>
+        <charseq START="864" END="887">نحو عشر شركات اقراض خاصة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001218.1300.0096-E9-19" ROLE="Giver">
+      <extent>
+        <charseq START="890" END="901">مصارف
+تجارية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001218.1300.0096-V4-1" ROLE="Money">
+      <extent>
+        <charseq START="822" END="837">بنحو بليون دولار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001218.1300.0096-E15-17" ROLE="Place">
+      <extent>
+        <charseq START="815" END="820">المغرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001218.1300.0096-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="839" END="843">سنويا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001218.1300.0096-EV3" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001218.1300.0096-E10" ROLE="Beneficiary"/>
+  <event_argument REFID="ALH20001218.1300.0096-T5" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001218.1300.0096-EV3-1">
+    <extent>
+      <charseq START="129" END="242">شركة »ال جي الكترونيكس« الكورية الجنوبية انها
+تتوقع تحقيق مبيعات في سوق المغرب تتجاوز 36 مليون دولار
+السنة الجارية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="123" END="304">اعلنت شركة »ال جي الكترونيكس« الكورية الجنوبية انها
+تتوقع تحقيق مبيعات في سوق المغرب تتجاوز 36 مليون دولار
+السنة الجارية من خلال تسويق اجهزة الكترونية وتكنولوجية
+ومعدات مطبخية ومنزلي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="187" END="192">مبيعات</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001218.1300.0096-E10-1" ROLE="Beneficiary">
+      <extent>
+        <charseq START="129" END="168">شركة »ال جي الكترونيكس« الكورية الجنوبية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001218.1300.0096-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="230" END="242">السنة الجارية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001218.1300.0096-EV4" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001218.1300.0096-E10" ROLE="Beneficiary"/>
+  <event_argument REFID="ALH20001218.1300.0096-T1" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001218.1300.0096-EV4-1">
+    <extent>
+      <charseq START="313" END="439">الشركة في مؤتمر صحافي عقدته في الرباط انها ستجعل من
+المغرب اكبر اسواقها في شمال افريقيا بمبيعات تصل الى نحو 30
+مليون درهم شهريا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="307" END="456">وقالت الشركة في مؤتمر صحافي عقدته في الرباط انها ستجعل من
+المغرب اكبر اسواقها في شمال افريقيا بمبيعات تصل الى نحو 30
+مليون درهم شهرياً 2.8 مليون دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="401" END="407">بمبيعات</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001218.1300.0096-E10-34" ROLE="Beneficiary">
+      <extent>
+        <charseq START="313" END="318">الشركة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001218.1300.0096-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="435" END="439">شهريا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

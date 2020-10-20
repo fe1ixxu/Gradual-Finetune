@@ -1,0 +1,1539 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001019.1300.0101.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001019.1300.0101">
+<entity ID="ALH20001019.1300.0101-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E1-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="586" END="606">محمد بن راشد آل مكتوم</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="606">محمد بن راشد آل مكتوم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E1-7" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="568" END="578">ولي عهد دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="570">ولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E1-51" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="580" END="606">الشيخ محمد بن راشد آل مكتوم</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="584">الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد بن راشد آل مكتوم">
+      <charseq START="586" END="606">محمد بن راشد آل مكتوم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E2" TYPE="FAC" SUBTYPE="Path" CLASS="USP">
+  <entity_mention ID="ALH20001019.1300.0101-E2-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="659" END="698">البوابات التي
+تفصل مياه الخليج عن القناة</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="666">البوابات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E2-10" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="668" END="671">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="668" END="671">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E2-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="673" END="673">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="673" END="673">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E3" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E3-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="683" END="688">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="683" END="688">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E3-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="799" END="804">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="799" END="804">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E3-36" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1376" END="1381">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="1376" END="1381">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="683" END="688">الخليج</charseq>
+    </name>
+    <name NAME="الخليج">
+      <charseq START="799" END="804">الخليج</charseq>
+    </name>
+    <name NAME="الخليج">
+      <charseq START="1376" END="1381">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E4" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E4-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="693" END="698">القناة</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="698">القناة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1021" END="1062">القناة المائية التي
+استغرق تشييدها ٨١ شهرا</charseq>
+    </extent>
+    <head>
+      <charseq START="1021" END="1026">القناة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-28" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1036" END="1039">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1039">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1053" END="1054">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1053" END="1054">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1332" END="1360">القناة التي تم افتتاحها
+رسميا</charseq>
+    </extent>
+    <head>
+      <charseq START="1332" END="1337">القناة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1353" END="1354">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1353" END="1354">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1368" END="1368">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1368" END="1368">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1389" END="1401">قناة اصطناعية</charseq>
+    </extent>
+    <head>
+      <charseq START="1389" END="1392">قناة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1403" END="1403">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1403" END="1403">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1506" END="1548">القناة التي ستلحق بها الجسور وأرصفة القوارب</charseq>
+    </extent>
+    <head>
+      <charseq START="1506" END="1511">القناة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-46" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1513" END="1516">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1513" END="1516">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1519" END="1519">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1519" END="1519">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1551" END="1551">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1551" END="1551">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-65" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2262" END="2272">قناة المرسى</charseq>
+    </extent>
+    <head>
+      <charseq START="2262" END="2272">قناة المرسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-66" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2297" END="2298">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2297" END="2298">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-113" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1339" END="1342">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1339" END="1342">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-114" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1384" END="1384">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1384" END="1384">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E4-116" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1365" END="1366">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="1365" END="1366">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قناة المرسى">
+      <charseq START="2262" END="2272">قناة المرسى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E5" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E5-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="844" END="850">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="844" END="850">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E5-119" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="793" END="804">منطقة الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="797">منطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E5-120" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1686" END="1698">المنطقة نفسها</charseq>
+    </extent>
+    <head>
+      <charseq START="1686" END="1692">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E5-121" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1697" END="1698">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1697" END="1698">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E5-122" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1900" END="1906">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="1900" END="1906">المنطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E6-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="806" END="877">كمركز عصري قادر على مواكبة حاجات سكان
+المنطقة والمستثمرين العرب والأجانب</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="810">كمركز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E7-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="839" END="850">سكان
+المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="839" END="842">سكان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E8-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="853" END="877">المستثمرين العرب والأجانب</charseq>
+    </extent>
+    <head>
+      <charseq START="853" END="862">المستثمرين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E9-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="864" END="868">العرب</charseq>
+    </extent>
+    <head>
+      <charseq START="864" END="868">العرب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E10-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="871" END="877">الأجانب</charseq>
+    </extent>
+    <head>
+      <charseq START="871" END="877">الأجانب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E11-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="884" END="898">محمد علي العبار</charseq>
+    </extent>
+    <head>
+      <charseq START="884" END="898">محمد علي العبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E11-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1250" END="1255">العبار</charseq>
+    </extent>
+    <head>
+      <charseq START="1250" END="1255">العبار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E11-43" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="947" END="950">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="950">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E11-105" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="901" END="1006">المدير العام لدائرة التنمية
+الاقتصادية في دبي الذي يرأس مجلس إدارة شركة »إعمار«
+العقارية التي تنفذ المشروع</charseq>
+    </extent>
+    <head>
+      <charseq START="901" END="906">المدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E11-106" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="952" END="952">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="952" END="952">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد علي العبار">
+      <charseq START="884" END="898">محمد علي العبار</charseq>
+    </name>
+    <name NAME="العبار">
+      <charseq START="1250" END="1255">العبار</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E12-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="914" END="945">لدائرة التنمية
+الاقتصادية في دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="938">لدائرة التنمية
+الاقتصادية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لدائرة التنمية الاقتصادية">
+      <charseq START="914" END="938">لدائرة التنمية
+الاقتصادية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E13" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E13-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="217" END="222">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="217" END="222">الخليج</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E14-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1409" END="1491">المجمعات السكنية والتجارية التي سيتم الشروع في انشائها خلال
+المرحلة الثانية للمشروع</charseq>
+    </extent>
+    <head>
+      <charseq START="1409" END="1416">المجمعات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E14-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1461" END="1462">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1461" END="1462">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E14-41" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1436" END="1439">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1436" END="1439">التي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E15-42" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="943" END="945">دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="943" END="945">دبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دبي">
+      <charseq START="943" END="945">دبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E16" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E16-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1528" END="1533">الجسور</charseq>
+    </extent>
+    <head>
+      <charseq START="1528" END="1533">الجسور</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E17-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1536" END="1548">أرصفة القوارب</charseq>
+    </extent>
+    <head>
+      <charseq START="1536" END="1540">أرصفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E18" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E18-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1542" END="1548">القوارب</charseq>
+    </extent>
+    <head>
+      <charseq START="1542" END="1548">القوارب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E19" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E19-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1767" END="1767">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1767" END="1767">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E20" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E20-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1804" END="1818">شارع الشيخ زايد</charseq>
+    </extent>
+    <head>
+      <charseq START="1804" END="1818">شارع الشيخ زايد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شارع الشيخ زايد">
+      <charseq START="1804" END="1818">شارع الشيخ زايد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E21-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1825" END="1825">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1825" END="1825">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E21-55" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1839" END="1856">مدينة دبي للانترنت</charseq>
+    </extent>
+    <head>
+      <charseq START="1839" END="1856">مدينة دبي للانترنت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مدينة دبي للانترنت">
+      <charseq START="1839" END="1856">مدينة دبي للانترنت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E22-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2029" END="2029">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2029" END="2029">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E22-57" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2035" END="2043">حكومة دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="2035" END="2039">حكومة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E23-60" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="2134" END="2146">دولة
+الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="2134" END="2146">دولة
+الإمارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دولة الإمارات">
+      <charseq START="2134" END="2146">دولة
+الإمارات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E24-61" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2156" END="2156">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2156" END="2156">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E24-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2158" END="2185">جمعيتها العمومية غير العادية</charseq>
+    </extent>
+    <head>
+      <charseq START="2158" END="2162">جمعيت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E25-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2198" END="2204">للأجانب</charseq>
+    </extent>
+    <head>
+      <charseq START="2198" END="2204">للأجانب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E26-72" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2585" END="2593">ستة أبراج</charseq>
+    </extent>
+    <head>
+      <charseq START="2589" END="2593">أبراج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E26-74" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2604" END="2605">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2604" END="2605">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E26-80" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2683" END="2689">الأبراج</charseq>
+    </extent>
+    <head>
+      <charseq START="2683" END="2689">الأبراج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E26-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2746" END="2746">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2746" END="2746">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E26-94" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2672" END="2672">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2672" END="2672">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="ALH20001019.1300.0101-E27-73" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="2596" END="2622">اثنان منها بارتفاع ٧٣ طابقا</charseq>
+    </extent>
+    <head>
+      <charseq START="2596" END="2600">اثنان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E28" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E28-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2615" END="2622">٧٣ طابقا</charseq>
+    </extent>
+    <head>
+      <charseq START="2618" END="2622">طابقا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="USP">
+  <entity_mention ID="ALH20001019.1300.0101-E29-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2626" END="2668">الأربعة الأخرى بارتفاع ٨٢ و٤٢
+و٠٢ و٦١ طابقا</charseq>
+    </extent>
+    <head>
+      <charseq START="2634" END="2639">الأخرى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E30" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E30-77" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2661" END="2668">٦١ طابقا</charseq>
+    </extent>
+    <head>
+      <charseq START="2664" END="2668">طابقا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E31" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E31-78" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="2657" END="2658">٠٢</charseq>
+    </extent>
+    <head>
+      <charseq START="2657" END="2658">٠٢</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E32" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E32-79" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="2653" END="2654">٤٢</charseq>
+    </extent>
+    <head>
+      <charseq START="2653" END="2654">٤٢</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E33-81" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2691" END="2698">٦٧١١ شقة</charseq>
+    </extent>
+    <head>
+      <charseq START="2696" END="2698">شقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E34-82" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2701" END="2739">مواقف للسيارات تتسع لأكثر من
+٠٠٠٢ سيارة</charseq>
+    </extent>
+    <head>
+      <charseq START="2701" END="2705">مواقف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E34-84" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2716" END="2716">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2716" END="2716">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E35" TYPE="VEH" SUBTYPE="Land" CLASS="GEN">
+  <entity_mention ID="ALH20001019.1300.0101-E35-83" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2707" END="2714">للسيارات</charseq>
+    </extent>
+    <head>
+      <charseq START="2707" END="2714">للسيارات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E36" TYPE="VEH" SUBTYPE="Land" CLASS="USP">
+  <entity_mention ID="ALH20001019.1300.0101-E36-85" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="2721" END="2739">لأكثر من
+٠٠٠٢ سيارة</charseq>
+    </extent>
+    <head>
+      <charseq START="2721" END="2725">لأكثر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E37" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E37-86" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2730" END="2739">٠٠٠٢ سيارة</charseq>
+    </extent>
+    <head>
+      <charseq START="2735" END="2739">سيارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E38-88" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2757" END="2764">٤٦ فيللا</charseq>
+    </extent>
+    <head>
+      <charseq START="2760" END="2763">فيلل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E39" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E39-89" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2767" END="2781">٧٥ محلاً تجاريا</charseq>
+    </extent>
+    <head>
+      <charseq START="2770" END="2772">محل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E40-91" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2856" END="2862">المباني</charseq>
+    </extent>
+    <head>
+      <charseq START="2856" END="2862">المباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E40-92" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2864" END="2864">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2864" END="2864">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E41-93" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2956" END="2979">كبار
+المهندسين في العالم</charseq>
+    </extent>
+    <head>
+      <charseq START="2961" END="2969">المهندسين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E42" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E42-95" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="2649" END="2650">٨٢</charseq>
+    </extent>
+    <head>
+      <charseq START="2649" END="2650">٨٢</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E43" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E43-69" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="227" END="237">قناة المرسى</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="237">قناة المرسى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قناة المرسى">
+      <charseq START="227" END="237">قناة المرسى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E45-4" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="300" END="329">شركة »إعمار« العقارية
+المساهمة</charseq>
+    </extent>
+    <head>
+      <charseq START="300" END="320">شركة »إعمار« العقارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-30" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="990" END="993">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="990" END="993">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-44" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="968" END="1006">شركة »إعمار«
+العقارية التي تنفذ المشروع</charseq>
+    </extent>
+    <head>
+      <charseq START="968" END="988">شركة »إعمار«
+العقارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-56" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2012" END="2027">شركة مساهمة عامة</charseq>
+    </extent>
+    <head>
+      <charseq START="2012" END="2015">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-59" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2079" END="2084">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="2079" END="2084">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-63" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2163" END="2164">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2163" END="2164">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-67" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2313" END="2313">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2313" END="2313">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-68" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2315" END="2336">الشركة المنفذة للمشروع</charseq>
+    </extent>
+    <head>
+      <charseq START="2315" END="2320">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-70" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2434" END="2434">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2434" END="2434">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-71" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2436" END="2441">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="2436" END="2441">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-90" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2789" END="2789">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2789" END="2789">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-96" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1280" END="1285">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="1280" END="1285">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-97" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1276" END="1276">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1276" END="1276">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-98" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1859" END="1859">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1859" END="1859">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-99" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1865" END="1885">شركة »إعمار« العقارية</charseq>
+    </extent>
+    <head>
+      <charseq START="1865" END="1885">شركة »إعمار« العقارية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-100" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1944" END="1945">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1944" END="1945">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-101" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="2791" END="2796">الشركة</charseq>
+    </extent>
+    <head>
+      <charseq START="2791" END="2796">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-102" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2077" END="2077">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2077" END="2077">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-103" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1988" END="1989">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1988" END="1989">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-104" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2009" END="2010">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="2009" END="2010">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-108" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1887" END="1922">أكبر شركة في المنطقة للتطوير
+العقاري</charseq>
+    </extent>
+    <head>
+      <charseq START="1892" END="1895">شركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-109" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="995" END="995">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="995" END="995">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-110" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="2069" END="2070">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="2069" END="2070">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E45-115" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="294" END="294">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="294">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شركة »إعمار« العقارية">
+      <charseq START="300" END="320">شركة »إعمار« العقارية</charseq>
+    </name>
+    <name NAME="شركة »إعمار« العقارية">
+      <charseq START="968" END="988">شركة »إعمار«
+العقارية</charseq>
+    </name>
+    <name NAME="شركة »إعمار« العقارية">
+      <charseq START="1865" END="1885">شركة »إعمار« العقارية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E46" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E46-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="576" END="578">دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="578">دبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E46-14" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="723" END="877">لإمارة
+دبي التي تسعى إلى تركيز مكانتها التجارية والسياحية والخدمية
+في منطقة الخليج كمركز عصري قادر على مواكبة حاجات سكان
+المنطقة والمستثمرين العرب والأجانب</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="732">لإمارة
+دبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E46-15" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="734" END="737">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="734" END="737">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E46-16" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="739" END="739">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="739">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E46-17" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="759" END="760">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="759" END="760">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E46-58" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="2041" END="2043">دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="2041" END="2043">دبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E46-111" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="242" END="250">إمارة دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="250">إمارة دبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دبي">
+      <charseq START="576" END="578">دبي</charseq>
+    </name>
+    <name NAME="لإمارة دبي">
+      <charseq START="723" END="732">لإمارة
+دبي</charseq>
+    </name>
+    <name NAME="دبي">
+      <charseq START="2041" END="2043">دبي</charseq>
+    </name>
+    <name NAME="إمارة دبي">
+      <charseq START="242" END="250">إمارة دبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E49" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E49-117" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="376" END="393">شاطئ
+الخليج العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="379">شاطئ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E50" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E50-118" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="381" END="393">الخليج العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="393">الخليج العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج العربي">
+      <charseq START="381" END="393">الخليج العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001019.1300.0101-E51" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E51-112" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="352" END="393">مدينة عصرية نموذجية على شاطئ
+الخليج العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="356">مدينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E51-123" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="465" END="466">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="466">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E51-124" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="516" END="517">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="516" END="517">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001019.1300.0101-E51-126" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="433" END="433">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="433" END="433">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001019.1300.0101-E52" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001019.1300.0101-E52-125" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="419" END="431">وسط مدينة دبي</charseq>
+    </extent>
+    <head>
+      <charseq START="423" END="431">مدينة دبي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ALH20001019.1300.0101-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001019.1300.0101-V1-1">
+    <extent>
+      <charseq START="487" END="503">خمسة
+بلايين دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V2" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001019.1300.0101-V2-1">
+    <extent>
+      <charseq START="1070" END="1083">٠٠٢ مليون درهم</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V3" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001019.1300.0101-V3-1">
+    <extent>
+      <charseq START="1085" END="1098">٥٥ مليون
+دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V4" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001019.1300.0101-V4-1">
+    <extent>
+      <charseq START="1228" END="1242">٠٢٢ مليون دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V5" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001019.1300.0101-V5-1">
+    <extent>
+      <charseq START="1947" END="1967">نحو خمسة بلايين دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V6" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="ALH20001019.1300.0101-V6-1">
+    <extent>
+      <charseq START="2056" END="2060">المئة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V7" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001019.1300.0101-V7-1">
+    <extent>
+      <charseq START="1991" END="2005">٢٢٧ مليون دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V8" TYPE="Numeric" SUBTYPE="Percent">
+  <value_mention ID="ALH20001019.1300.0101-V8-1">
+    <extent>
+      <charseq START="2223" END="2227">المئة</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="ALH20001019.1300.0101-V9" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001019.1300.0101-V9-1">
+    <extent>
+      <charseq START="468" END="485">بنحو ٨١ بليون درهم</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001019.1300.0101-T1">
+  <timex2_mention ID="ALH20001019.1300.0101-T1-1">
+    <extent>
+      <charseq START="546" END="554">عشر
+سنوات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001019.1300.0101-T2">
+  <timex2_mention ID="ALH20001019.1300.0101-T2-1">
+    <extent>
+      <charseq START="1056" END="1062">٨١ شهرا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001019.1300.0101-T3">
+  <timex2_mention ID="ALH20001019.1300.0101-T3-1">
+    <extent>
+      <charseq START="1206" END="1212">٦٢
+شهرا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001019.1300.0101-T4">
+  <timex2_mention ID="ALH20001019.1300.0101-T4-1">
+    <extent>
+      <charseq START="1321" END="1324">الآن</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001019.1300.0101-T5">
+  <timex2_mention ID="ALH20001019.1300.0101-T5-1">
+    <extent>
+      <charseq START="1291" END="1294">الآن</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001019.1300.0101-T6">
+  <timex2_mention ID="ALH20001019.1300.0101-T6-1">
+    <extent>
+      <charseq START="2086" END="2099">قبل ثلاثة أشهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001019.1300.0101-T7">
+  <timex2_mention ID="ALH20001019.1300.0101-T7-1">
+    <extent>
+      <charseq START="2538" END="2558">أيار
+مايو من سنة ٣٠٠٢</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001019.1300.0101-T8">
+  <timex2_mention ID="ALH20001019.1300.0101-T8-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-19</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001019.1300.0101-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E46" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E43" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001019.1300.0101-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="227" END="250">قناة المرسى في إمارة دبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E46-111" ROLE="Arg-2">
+      <extent>
+        <charseq START="242" END="250">إمارة دبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E43-69" ROLE="Arg-1">
+      <extent>
+        <charseq START="227" END="237">قناة المرسى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Future" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E51" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E49" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="352" END="393">مدينة عصرية نموذجية على شاطئ
+الخليج العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E51-112" ROLE="Arg-1">
+      <extent>
+        <charseq START="352" END="393">مدينة عصرية نموذجية على شاطئ
+الخليج العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E49-117" ROLE="Arg-2">
+      <extent>
+        <charseq START="376" END="393">شاطئ
+الخليج العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R3" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E49" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E50" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="376" END="393">شاطئ
+الخليج العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E49-117" ROLE="Arg-1">
+      <extent>
+        <charseq START="376" END="393">شاطئ
+الخليج العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E50-118" ROLE="Arg-2">
+      <extent>
+        <charseq START="381" END="393">الخليج العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E46" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="568" END="578">ولي عهد دبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E1-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="568" END="578">ولي عهد دبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E46-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="576" END="578">دبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R5" TYPE="PHYS" SUBTYPE="Near" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="659" END="698">البوابات التي
+تفصل مياه الخليج عن القناة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E2-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="659" END="698">البوابات التي
+تفصل مياه الخليج عن القناة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E4-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="693" END="698">القناة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="839" END="850">سكان
+المنطقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E7-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="839" END="850">سكان
+المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E5-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="844" END="850">المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R7" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E12" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="901" END="1006">المدير العام لدائرة التنمية
+الاقتصادية في دبي الذي يرأس مجلس إدارة شركة »إعمار«
+العقارية التي تنفذ المشروع</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E11-105" ROLE="Arg-1">
+      <extent>
+        <charseq START="901" END="1006">المدير العام لدائرة التنمية
+الاقتصادية في دبي الذي يرأس مجلس إدارة شركة »إعمار«
+العقارية التي تنفذ المشروع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E12-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="914" END="945">لدائرة التنمية
+الاقتصادية في دبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="914" END="945">لدائرة التنمية
+الاقتصادية في دبي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E12-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="914" END="945">لدائرة التنمية
+الاقتصادية في دبي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E15-42" ROLE="Arg-2">
+      <extent>
+        <charseq START="943" END="945">دبي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E5" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E45" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001019.1300.0101-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1887" END="1922">أكبر شركة في المنطقة للتطوير
+العقاري</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E5-122" ROLE="Arg-2">
+      <extent>
+        <charseq START="1900" END="1906">المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E45-108" ROLE="Arg-1">
+      <extent>
+        <charseq START="1887" END="1922">أكبر شركة في المنطقة للتطوير
+العقاري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001019.1300.0101-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001019.1300.0101-E24" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001019.1300.0101-E45" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001019.1300.0101-R10-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="2158" END="2185">جمعيتها العمومية غير العادية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E24-62" ROLE="Arg-1">
+      <extent>
+        <charseq START="2158" END="2185">جمعيتها العمومية غير العادية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001019.1300.0101-E45-63" ROLE="Arg-2">
+      <extent>
+        <charseq START="2163" END="2164">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

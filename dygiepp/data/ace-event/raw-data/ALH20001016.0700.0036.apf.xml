@@ -1,0 +1,815 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001016.0700.0036.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001016.0700.0036">
+<entity ID="ALH20001016.0700.0036-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E1-51" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="472" END="477">الدوحة</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="477">الدوحة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الدوحة">
+      <charseq START="472" END="477">الدوحة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E2-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="482" END="489">الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="489">الإمارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإمارات">
+      <charseq START="482" END="489">الإمارات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E3" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="515" END="520">المطار</charseq>
+    </extent>
+    <head>
+      <charseq START="515" END="520">المطار</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001016.0700.0036-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E4-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="606" END="678">للمحامي ناصر الكعبي وكيل
+المتهمين شخبوط علي عنان المري ومحمد مبارك النابت</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="612">للمحامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E4-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="614" END="624">ناصر الكعبي</charseq>
+    </extent>
+    <head>
+      <charseq START="614" END="624">ناصر الكعبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E4-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="626" END="678">وكيل
+المتهمين شخبوط علي عنان المري ومحمد مبارك النابت</charseq>
+    </extent>
+    <head>
+      <charseq START="626" END="629">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E4-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="713" END="713">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="713">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ناصر الكعبي">
+      <charseq START="614" END="624">ناصر الكعبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E7-1" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="118" END="180">محكمة الاستئناف التي تنظر في قضية المحاولة
+الانقلابية الفاــشلة</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="132">محكمة الاستئناف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E7-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="116" END="116">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="116">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E7-32" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="134" END="137">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="137">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E7-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="139" END="139">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="139">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E7-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="186" END="187">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="187">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E7-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="206" END="206">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="206">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة الاستئناف">
+      <charseq START="118" END="132">محكمة الاستئناف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E8-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="631" END="678">المتهمين شخبوط علي عنان المري ومحمد مبارك النابت</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="638">المتهمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001016.0700.0036-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E9-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="662" END="678">محمد مبارك النابت</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="678">محمد مبارك النابت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E9-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="900" END="939">المتــــهم محـــمد مبارك النابت المـــري</charseq>
+    </extent>
+    <head>
+      <charseq START="900" END="909">المتــــهم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E9-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="911" END="939">محـــمد مبارك النابت المـــري</charseq>
+    </extent>
+    <head>
+      <charseq START="911" END="939">محـــمد مبارك النابت المـــري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد مبارك النابت">
+      <charseq START="662" END="678">محمد مبارك النابت</charseq>
+    </name>
+    <name NAME="محـــمد مبارك النابت المـــري">
+      <charseq START="911" END="939">محـــمد مبارك النابت المـــري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E10-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="753" END="772">المحامي راشد النعيمي</charseq>
+    </extent>
+    <head>
+      <charseq START="753" END="759">المحامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E10-18" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="748" END="748">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="748">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E10-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="761" END="772">راشد النعيمي</charseq>
+    </extent>
+    <head>
+      <charseq START="761" END="772">راشد النعيمي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E10-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="787" END="787">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="787" END="787">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="راشد النعيمي">
+      <charseq START="761" END="772">راشد النعيمي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E12-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="807" END="809">هما</charseq>
+    </extent>
+    <head>
+      <charseq START="807" END="809">هما</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001016.0700.0036-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E13-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="811" END="826">محمد علي المهندي</charseq>
+    </extent>
+    <head>
+      <charseq START="811" END="826">محمد علي المهندي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمد علي المهندي">
+      <charseq START="811" END="826">محمد علي المهندي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E14-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="829" END="841">وبران آل كليب</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="841">وبران آل كليب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وبران آل كليب">
+      <charseq START="829" END="841">وبران آل كليب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E15-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="860" END="876">وكيل المدعي العام</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="863">وكيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E15-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="881" END="881">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="881" END="881">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001016.0700.0036-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E16-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="865" END="876">المدعي العام</charseq>
+    </extent>
+    <head>
+      <charseq START="865" END="870">المدعي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001016.0700.0036-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E18-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="215" END="235">رئيـس
+المحاكم العدلية</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="219">رئيـس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E18-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="237" END="258">مبارك بن خليفة العسيري</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="258">مبارك بن خليفة العسيري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مبارك بن خليفة العسيري">
+      <charseq START="237" END="258">مبارك بن خليفة العسيري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E20-39" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="221" END="235">المحاكم العدلية</charseq>
+    </extent>
+    <head>
+      <charseq START="221" END="235">المحاكم العدلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المحاكم العدلية">
+      <charseq START="221" END="235">المحاكم العدلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E21-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="267" END="306">القاضيينعبدالله السعدي وعبدالرحيم القاضي</charseq>
+    </extent>
+    <head>
+      <charseq START="267" END="274">القاضيين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001016.0700.0036-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E22-41" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="275" END="288">عبدالله السعدي</charseq>
+    </extent>
+    <head>
+      <charseq START="275" END="288">عبدالله السعدي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبدالله السعدي">
+      <charseq START="275" END="288">عبدالله السعدي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E23-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="291" END="306">عبدالرحيم القاضي</charseq>
+    </extent>
+    <head>
+      <charseq START="291" END="306">عبدالرحيم القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبدالرحيم القاضي">
+      <charseq START="291" END="306">عبدالرحيم القاضي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E24-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="580" END="580">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="580" END="580">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="535" END="535">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="535" END="535">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="640" END="659">شخبوط علي عنان المري</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="659">شخبوط علي عنان المري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="320" END="365">شخبوط
+علي عنان المري المستأنف ضده بكفالة مالية</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="339">شخبوط
+علي عنان المري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="352" END="352">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="352">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="372" END="372">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="372">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="409" END="461">المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول</charseq>
+    </extent>
+    <head>
+      <charseq START="409" END="414">المتهم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-47" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="417" END="420">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="420">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E24-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="426" END="426">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="426" END="426">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شخبوط علي عنان المري">
+      <charseq START="640" END="659">شخبوط علي عنان المري</charseq>
+    </name>
+    <name NAME="شخبوط علي عنان المري">
+      <charseq START="320" END="339">شخبوط
+علي عنان المري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001016.0700.0036-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001016.0700.0036-E25-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="542" END="548">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="542" END="548">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E25-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="587" END="587">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="587">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E25-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="589" END="595">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="595">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E25-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="847" END="847">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="847">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E25-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="849" END="855">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="855">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E25-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="743" END="743">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="743">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E25-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="425" END="425">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="425" END="425">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001016.0700.0036-E25-50" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="428" END="450">المحكمة الجنائية الكبرى</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="450">المحكمة الجنائية الكبرى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المحكمة الجنائية الكبرى">
+      <charseq START="428" END="450">المحكمة الجنائية الكبرى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001016.0700.0036-T1">
+  <timex2_mention ID="ALH20001016.0700.0036-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-16</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001016.0700.0036-T2">
+  <timex2_mention ID="ALH20001016.0700.0036-T2-1">
+    <extent>
+      <charseq START="494" END="502">٢١ الجاري</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001016.0700.0036-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001016.0700.0036-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001016.0700.0036-E20" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001016.0700.0036-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="215" END="235">رئيـس
+المحاكم العدلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001016.0700.0036-E18-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="215" END="235">رئيـس
+المحاكم العدلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001016.0700.0036-E20-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="221" END="235">المحاكم العدلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001016.0700.0036-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001016.0700.0036-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001016.0700.0036-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001016.0700.0036-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="626" END="678">وكيل
+المتهمين شخبوط علي عنان المري ومحمد مبارك النابت</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001016.0700.0036-E4-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="626" END="678">وكيل
+المتهمين شخبوط علي عنان المري ومحمد مبارك النابت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001016.0700.0036-E8-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="631" END="678">المتهمين شخبوط علي عنان المري ومحمد مبارك النابت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001016.0700.0036-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001016.0700.0036-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001016.0700.0036-E16" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001016.0700.0036-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="860" END="876">وكيل المدعي العام</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001016.0700.0036-E15-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="860" END="876">وكيل المدعي العام</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001016.0700.0036-E16-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="865" END="876">المدعي العام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001016.0700.0036-EV1" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001016.0700.0036-E7" ROLE="Entity"/>
+  <event_argument REFID="ALH20001016.0700.0036-E24" ROLE="Person"/>
+  <event_mention ID="ALH20001016.0700.0036-EV1-1">
+    <extent>
+      <charseq START="118" END="365">محكمة الاستئناف التي تنظر في قضية المحاولة
+الانقلابية الفاــشلة جلستها الثانية أمس، وقررت برئاسة رئيـس
+المحاكم العدلية مبارك بن خليفة العسيري وعضوية
+القاضيينعبدالله السعدي وعبدالرحيم القاضي، الافراج عن شخبوط
+علي عنان المري المستأنف ضده بكفالة مالية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="113" END="402">عقدت محكمة الاستئناف التي تنظر في قضية المحاولة
+الانقلابية الفاــشلة جلستها الثانية أمس، وقررت برئاسة رئيـس
+المحاكم العدلية مبارك بن خليفة العسيري وعضوية
+القاضيينعبدالله السعدي وعبدالرحيم القاضي، الافراج عن شخبوط
+علي عنان المري المستأنف ضده بكفالة مالية وألا يحبس على ذمة
+الفصل في الاستئناف</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="309" END="315">الافراج</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E7-1" ROLE="Entity">
+      <extent>
+        <charseq START="118" END="180">محكمة الاستئناف التي تنظر في قضية المحاولة
+الانقلابية الفاــشلة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E24-43" ROLE="Person">
+      <extent>
+        <charseq START="320" END="365">شخبوط
+علي عنان المري المستأنف ضده بكفالة مالية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001016.0700.0036-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001016.0700.0036-E2" ROLE="Origin"/>
+  <event_argument REFID="ALH20001016.0700.0036-T2" ROLE="Time-Within"/>
+  <event_argument REFID="ALH20001016.0700.0036-E24" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001016.0700.0036-E1" ROLE="Destination"/>
+  <event_mention ID="ALH20001016.0700.0036-EV2-1">
+    <extent>
+      <charseq START="409" END="502">المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول،
+عاد إلى الدوحة من الإمارات في ٢١ الجاري</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="404" END="733">وكان المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول،
+عاد إلى الدوحة من الإمارات في ٢١ الجاري، فاعتقل في المطار
+ونفى لدى مثوله أمام المحكمة للمرة الأولى التهم الموجهة
+إليه ووافقت المحكمة بالتصريح للمحامي ناصر الكعبي وكيل
+المتهمين شخبوط علي عنان المري ومحمد مبارك النابت بالاطلاع
+على محضري التحقيق وتسليمه صورة منهما، إذا رغب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="464" END="466">عاد</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E2-2" ROLE="Origin">
+      <extent>
+        <charseq START="482" END="489">الإمارات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="494" END="502">٢١ الجاري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E24-46" ROLE="Artifact">
+      <extent>
+        <charseq START="409" END="461">المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E1-51" ROLE="Destination">
+      <extent>
+        <charseq START="472" END="477">الدوحة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001016.0700.0036-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001016.0700.0036-E24" ROLE="Person"/>
+  <event_argument REFID="ALH20001016.0700.0036-E7" ROLE="Agent"/>
+  <event_mention ID="ALH20001016.0700.0036-EV3-1">
+    <extent>
+      <charseq START="118" END="375">محكمة الاستئناف التي تنظر في قضية المحاولة
+الانقلابية الفاــشلة جلستها الثانية أمس، وقررت برئاسة رئيـس
+المحاكم العدلية مبارك بن خليفة العسيري وعضوية
+القاضيينعبدالله السعدي وعبدالرحيم القاضي، الافراج عن شخبوط
+علي عنان المري المستأنف ضده بكفالة مالية وألا يحبس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="113" END="402">عقدت محكمة الاستئناف التي تنظر في قضية المحاولة
+الانقلابية الفاــشلة جلستها الثانية أمس، وقررت برئاسة رئيـس
+المحاكم العدلية مبارك بن خليفة العسيري وعضوية
+القاضيينعبدالله السعدي وعبدالرحيم القاضي، الافراج عن شخبوط
+علي عنان المري المستأنف ضده بكفالة مالية وألا يحبس على ذمة
+الفصل في الاستئناف</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="372" END="375">يحبس</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E24-45" ROLE="Person">
+      <extent>
+        <charseq START="372" END="372">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E7-1" ROLE="Agent">
+      <extent>
+        <charseq START="118" END="180">محكمة الاستئناف التي تنظر في قضية المحاولة
+الانقلابية الفاــشلة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001016.0700.0036-EV4" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001016.0700.0036-E24" ROLE="Person"/>
+  <event_argument REFID="ALH20001016.0700.0036-E25" ROLE="Entity"/>
+  <event_mention ID="ALH20001016.0700.0036-EV4-1">
+    <extent>
+      <charseq START="422" END="426">برأته</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="404" END="733">وكان المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول،
+عاد إلى الدوحة من الإمارات في ٢١ الجاري، فاعتقل في المطار
+ونفى لدى مثوله أمام المحكمة للمرة الأولى التهم الموجهة
+إليه ووافقت المحكمة بالتصريح للمحامي ناصر الكعبي وكيل
+المتهمين شخبوط علي عنان المري ومحمد مبارك النابت بالاطلاع
+على محضري التحقيق وتسليمه صورة منهما، إذا رغب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="422" END="426">برأته</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E24-48" ROLE="Person">
+      <extent>
+        <charseq START="426" END="426">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E25-49" ROLE="Entity">
+      <extent>
+        <charseq START="425" END="425">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001016.0700.0036-EV5" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001016.0700.0036-E24" ROLE="Person"/>
+  <event_argument REFID="ALH20001016.0700.0036-E3" ROLE="Place"/>
+  <event_argument REFID="ALH20001016.0700.0036-T2" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001016.0700.0036-EV5-1">
+    <extent>
+      <charseq START="409" END="520">المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول،
+عاد إلى الدوحة من الإمارات في ٢١ الجاري، فاعتقل في المطار</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="404" END="733">وكان المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول،
+عاد إلى الدوحة من الإمارات في ٢١ الجاري، فاعتقل في المطار
+ونفى لدى مثوله أمام المحكمة للمرة الأولى التهم الموجهة
+إليه ووافقت المحكمة بالتصريح للمحامي ناصر الكعبي وكيل
+المتهمين شخبوط علي عنان المري ومحمد مبارك النابت بالاطلاع
+على محضري التحقيق وتسليمه صورة منهما، إذا رغب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="505" END="510">فاعتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E24-46" ROLE="Person">
+      <extent>
+        <charseq START="409" END="461">المتهم، الذي برأته المحكمة الجنائية الكبرى في حكم أول</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E3-3" ROLE="Place">
+      <extent>
+        <charseq START="515" END="520">المطار</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="494" END="502">٢١ الجاري</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001016.0700.0036-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001016.0700.0036-E9" ROLE="Person"/>
+  <event_argument REFID="ALH20001016.0700.0036-E15" ROLE="Agent"/>
+  <event_mention ID="ALH20001016.0700.0036-EV6-1">
+    <extent>
+      <charseq START="860" END="947">وكيل المدعي العام أن يقدم ما يدل على أن
+المتــــهم محـــمد مبارك النابت المـــري محــبوس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="736" END="962">كما قررت ان يقدم المحامي راشد النعيمي أسباب استئنافه عن
+المســـتأنف ضـدهما محمد علي المهندي ووبران آل كليب وطلبت
+المحكمة من وكيل المدعي العام أن يقدم ما يدل على أن
+المتــــهم محـــمد مبارك النابت المـــري محــبوس على ذمة
+القضية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="941" END="947">محــبوس</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E9-29" ROLE="Person">
+      <extent>
+        <charseq START="900" END="939">المتــــهم محـــمد مبارك النابت المـــري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001016.0700.0036-E15-26" ROLE="Agent">
+      <extent>
+        <charseq START="860" END="876">وكيل المدعي العام</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

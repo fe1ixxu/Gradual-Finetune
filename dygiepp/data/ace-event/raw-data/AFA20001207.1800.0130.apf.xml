@@ -1,0 +1,1194 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001207.1800.0130.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001207.1800.0130">
+<entity ID="AFA20001207.1800.0130-E1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="343" END="383">معهد الدراسات السياسية في
+بوردو (جنوب غرب</charseq>
+    </extent>
+    <head>
+      <charseq START="343" END="364">معهد الدراسات السياسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E1-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="739" END="769">معهد الدراسات السياسية في بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="760">معهد الدراسات السياسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="معهد الدراسات السياسية">
+      <charseq START="343" END="364">معهد الدراسات السياسية</charseq>
+    </name>
+    <name NAME="معهد الدراسات السياسية">
+      <charseq START="739" END="760">معهد الدراسات السياسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E2" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E2-8" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="479" END="490">الشرق الاوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="490">الشرق الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E2-11" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="551" END="557">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="551" END="557">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق الاوسط">
+      <charseq START="479" END="490">الشرق الاوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E3" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E3-6" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="TRUE">
+    <extent>
+      <charseq START="424" END="434">الفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="434">الفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E3-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="576" END="584">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="576" END="584">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E3-59" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="164" END="172">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="164" END="172">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينيين">
+      <charseq START="424" END="434">الفلسطينيين</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="576" END="584">الفلسطيني</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="164" END="172">الفلسطيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E4-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="631" END="646">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="646">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="631" END="646">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E5-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="734" END="769">طلاب معهد الدراسات السياسية في بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="734" END="737">طلاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E6-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="805" END="821">رئيس اساقفة بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="805" END="808">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E6-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="823" END="841">الكاردينال بيار ايت</charseq>
+    </extent>
+    <head>
+      <charseq START="823" END="832">الكاردينال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E6-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="834" END="841">بيار ايت</charseq>
+    </extent>
+    <head>
+      <charseq START="834" END="841">بيار ايت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بيار ايت">
+      <charseq START="834" END="841">بيار ايت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E8-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="810" END="821">اساقفة بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="810" END="815">اساقفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E9-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="844" END="866">نائب رئيس بلدية المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="844" END="847">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E9-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="891" END="900">ألان جوبيه</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="900">ألان جوبيه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E9-33" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="869" END="888">وزير الخارجية السابق</charseq>
+    </extent>
+    <head>
+      <charseq START="869" END="872">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ألان جوبيه">
+      <charseq START="891" END="900">ألان جوبيه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E10-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="849" END="866">رئيس بلدية المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="852">رئيس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E12-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="874" END="881">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="881">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="874" END="881">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E13-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="854" END="866">بلدية المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="854" END="858">بلدية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E14-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="952" END="1039">طلاب في جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+    </extent>
+    <head>
+      <charseq START="952" END="955">طلاب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E15" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E15-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="960" END="1039">جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+    </extent>
+    <head>
+      <charseq START="960" END="978">جامعة بوردو
+الثالثة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E15-41" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="980" END="983">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="980" END="983">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E15-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="985" END="985">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="985" END="985">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جامعة بوردو الثالثة">
+      <charseq START="960" END="978">جامعة بوردو
+الثالثة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E16" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E16-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="989" END="1039">مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+    </extent>
+    <head>
+      <charseq START="989" END="993">مركزا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E17-31" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1024" END="1029">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="1024" END="1029">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربي">
+      <charseq START="1024" END="1029">العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E18-44" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1032" END="1039">الاسلامي</charseq>
+    </extent>
+    <head>
+      <charseq START="1032" END="1039">الاسلامي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسلامي">
+      <charseq START="1032" END="1039">الاسلامي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E19-49" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1095" END="1099">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="1095" END="1099">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باريس">
+      <charseq START="1095" END="1099">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E20-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1106" END="1117">المقربين منه</charseq>
+    </extent>
+    <head>
+      <charseq START="1106" END="1113">المقربين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E21-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="369" END="383">بوردو (جنوب غرب</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="373">بوردو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E21-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="765" END="769">بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="765" END="769">بوردو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E21-27" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="817" END="821">بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="817" END="821">بوردو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E21-36" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="860" END="866">المدينة</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="866">المدينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E21-47" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1060" END="1064">بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="1060" END="1064">بوردو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E21-52" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="125" END="148">بوردو (فرنسا) 12-7 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="129">بوردو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E21-61" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="222" END="226">بوردو</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="226">بوردو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بوردو">
+      <charseq START="369" END="373">بوردو</charseq>
+    </name>
+    <name NAME="بوردو">
+      <charseq START="765" END="769">بوردو</charseq>
+    </name>
+    <name NAME="بوردو">
+      <charseq START="817" END="821">بوردو</charseq>
+    </name>
+    <name NAME="بوردو">
+      <charseq START="1060" END="1064">بوردو</charseq>
+    </name>
+    <name NAME="بوردو">
+      <charseq START="125" END="129">بوردو</charseq>
+    </name>
+    <name NAME="بوردو">
+      <charseq START="222" END="226">بوردو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E22-53" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="132" END="136">فرنسا</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="136">فرنسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E22-62" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="231" END="235">فرنسا</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="235">فرنسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فرنسا">
+      <charseq START="132" END="136">فرنسا</charseq>
+    </name>
+    <name NAME="فرنسا">
+      <charseq START="231" END="235">فرنسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E23-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="145" END="148">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="148">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="145" END="148">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E24" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E24-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1017" END="1039">العالم العربي والاسلامي</charseq>
+    </extent>
+    <head>
+      <charseq START="1017" END="1022">العالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001207.1800.0130-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E25-1" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="338" END="338">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="338">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="568" END="584">المسؤول الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="574">المسؤول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="597" END="597">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="597" END="597">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="672" END="678">الحسيني</charseq>
+    </extent>
+    <head>
+      <charseq START="672" END="678">الحسيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-17" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="666" END="666">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="666" END="666">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="784" END="790">الحسيني</charseq>
+    </extent>
+    <head>
+      <charseq START="784" END="790">الحسيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="913" END="924">فيصل الحسيني</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="924">فيصل الحسيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="907" END="907">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="907" END="907">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-45" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1052" END="1058">الحسيني</charseq>
+    </extent>
+    <head>
+      <charseq START="1052" END="1058">الحسيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-46" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1046" END="1046">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1046" END="1046">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-48" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1085" END="1085">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1085" END="1085">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-51" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1117" END="1117">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1117" END="1117">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-57" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="156" END="189">المسؤول الفلسطيني المكلف ملف القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="162">المسؤول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-58" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="191" END="202">فيصل الحسيني</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="202">فيصل الحسيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E25-65" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="309" END="315">الحسيني</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="315">الحسيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحسيني">
+      <charseq START="672" END="678">الحسيني</charseq>
+    </name>
+    <name NAME="الحسيني">
+      <charseq START="784" END="790">الحسيني</charseq>
+    </name>
+    <name NAME="فيصل الحسيني">
+      <charseq START="913" END="924">فيصل الحسيني</charseq>
+    </name>
+    <name NAME="الحسيني">
+      <charseq START="1052" END="1058">الحسيني</charseq>
+    </name>
+    <name NAME="فيصل الحسيني">
+      <charseq START="191" END="202">فيصل الحسيني</charseq>
+    </name>
+    <name NAME="الحسيني">
+      <charseq START="309" END="315">الحسيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E29-60" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="185" END="189">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="185" END="189">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="185" END="189">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E30" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E30-4" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="390" END="395">اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="390" END="395">اوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E30-5" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="413" END="413">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="413" END="413">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E30-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="460" END="465">اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="465">اوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E30-9" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="501" END="506">اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="506">اوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E30-10" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="511" END="511">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="511" END="511">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001207.1800.0130-E30-63" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="247" END="252">اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="247" END="252">اوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوروبا">
+      <charseq START="390" END="395">اوروبا</charseq>
+    </name>
+    <name NAME="اوروبا">
+      <charseq START="460" END="465">اوروبا</charseq>
+    </name>
+    <name NAME="اوروبا">
+      <charseq START="501" END="506">اوروبا</charseq>
+    </name>
+    <name NAME="اوروبا">
+      <charseq START="247" END="252">اوروبا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001207.1800.0130-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001207.1800.0130-E31-64" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="277" END="298">الاسرائيلية الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="298">الاسرائيلية الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسرائيلية الفلسطينية">
+      <charseq START="277" END="298">الاسرائيلية الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001207.1800.0130-T1">
+  <timex2_mention ID="AFA20001207.1800.0130-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-07 19:45:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0130-T2">
+  <timex2_mention ID="AFA20001207.1800.0130-T2-1">
+    <extent>
+      <charseq START="139" END="142">12-7</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0130-T3">
+  <timex2_mention ID="AFA20001207.1800.0130-T3-1">
+    <extent>
+      <charseq START="926" END="935">غدا الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0130-T4">
+  <timex2_mention ID="AFA20001207.1800.0130-T4-1">
+    <extent>
+      <charseq START="205" END="217">اليوم الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0130-T5">
+  <timex2_mention ID="AFA20001207.1800.0130-T5-1">
+    <extent>
+      <charseq START="792" END="803">اليوم الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001207.1800.0130-T6">
+  <timex2_mention ID="AFA20001207.1800.0130-T6-1">
+    <extent>
+      <charseq START="1066" END="1079">قبيل ظهر السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001207.1800.0130-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E23" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="125" END="148">بوردو (فرنسا) 12-7 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E23-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="145" END="148">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E21-52" ROLE="Arg-2">
+      <extent>
+        <charseq START="125" END="148">بوردو (فرنسا) 12-7 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E22" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="125" END="148">بوردو (فرنسا) 12-7 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E21-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="125" END="148">بوردو (فرنسا) 12-7 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E22-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="132" END="136">فرنسا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E25" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="156" END="189">المسؤول الفلسطيني المكلف ملف القدس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E25-57" ROLE="Arg-1">
+      <extent>
+        <charseq START="156" END="189">المسؤول الفلسطيني المكلف ملف القدس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E3-59" ROLE="Arg-2">
+      <extent>
+        <charseq START="164" END="172">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001207.1800.0130-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="568" END="584">المسؤول الفلسطيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E25-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="568" END="584">المسؤول الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E3-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="576" END="584">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="343" END="383">معهد الدراسات السياسية في
+بوردو (جنوب غرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E1-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="343" END="383">معهد الدراسات السياسية في
+بوردو (جنوب غرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E21-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="369" END="383">بوردو (جنوب غرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001207.1800.0130-R4-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="739" END="769">معهد الدراسات السياسية في بوردو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E1-19" ROLE="Arg-1">
+      <extent>
+        <charseq START="739" END="769">معهد الدراسات السياسية في بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E21-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="765" END="769">بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R7" TYPE="ORG-AFF" SUBTYPE="Student-Alum" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="734" END="769">طلاب معهد الدراسات السياسية في بوردو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E5-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="734" END="769">طلاب معهد الدراسات السياسية في بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E1-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="739" END="769">معهد الدراسات السياسية في بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R8" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="805" END="821">رئيس اساقفة بوردو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E6-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="805" END="821">رئيس اساقفة بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E8-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="810" END="821">اساقفة بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R9" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R9-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="810" END="821">اساقفة بوردو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E8-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="810" END="821">اساقفة بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E21-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="817" END="821">بوردو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R10" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R10-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="844" END="866">نائب رئيس بلدية المدينة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E9-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="844" END="866">نائب رئيس بلدية المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E10-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="849" END="866">رئيس بلدية المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R11" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R11-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="849" END="866">رئيس بلدية المدينة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E10-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="849" END="866">رئيس بلدية المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E13-35" ROLE="Arg-2">
+      <extent>
+        <charseq START="854" END="866">بلدية المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R12-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="854" END="866">بلدية المدينة</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E13-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="854" END="866">بلدية المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E21-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="860" END="866">المدينة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R13-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="869" END="888">وزير الخارجية السابق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E9-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="869" END="888">وزير الخارجية السابق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E12-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="874" END="881">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R14" TYPE="ORG-AFF" SUBTYPE="Student-Alum" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="952" END="1039">طلاب في جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E14-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="952" END="1039">طلاب في جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E15-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="960" END="1039">جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R15" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E25" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R15-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1106" END="1117">المقربين منه</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E20-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1106" END="1117">المقربين منه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E25-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="1117" END="1117">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001207.1800.0130-R16" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001207.1800.0130-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001207.1800.0130-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001207.1800.0130-R16-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="960" END="1039">جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E16-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="989" END="1039">مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001207.1800.0130-E15-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="960" END="1039">جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001207.1800.0130-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001207.1800.0130-E25" ROLE="Entity"/>
+  <event_argument REFID="AFA20001207.1800.0130-E6" ROLE="Entity"/>
+  <event_argument REFID="AFA20001207.1800.0130-E9" ROLE="Entity"/>
+  <event_argument REFID="AFA20001207.1800.0130-T5" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001207.1800.0130-EV1-1">
+    <extent>
+      <charseq START="778" END="866">التقى الحسيني اليوم الخميس رئيس اساقفة بوردو الكاردينال بيار ايت
+ونائب رئيس بلدية المدينة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="774" END="900">وقد التقى الحسيني اليوم الخميس رئيس اساقفة بوردو الكاردينال بيار ايت
+ونائب رئيس بلدية المدينة، وزير الخارجية السابق، ألان جوبيه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="778" END="782">التقى</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E25-21" ROLE="Entity">
+      <extent>
+        <charseq START="784" END="790">الحسيني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E6-23" ROLE="Entity">
+      <extent>
+        <charseq START="805" END="821">رئيس اساقفة بوردو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E9-29" ROLE="Entity">
+      <extent>
+        <charseq START="844" END="866">نائب رئيس بلدية المدينة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="792" END="803">اليوم الخميس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0130-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001207.1800.0130-E25" ROLE="Entity"/>
+  <event_argument REFID="AFA20001207.1800.0130-E14" ROLE="Entity"/>
+  <event_argument REFID="AFA20001207.1800.0130-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001207.1800.0130-EV2-1">
+    <extent>
+      <charseq START="913" END="1039">فيصل الحسيني غدا الجمعة في لقاء آخر مع طلاب في جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="905" END="1039">وسيشارك فيصل الحسيني غدا الجمعة في لقاء آخر مع طلاب في جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="940" END="943">لقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E25-37" ROLE="Entity">
+      <extent>
+        <charseq START="913" END="924">فيصل الحسيني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E14-39" ROLE="Entity">
+      <extent>
+        <charseq START="952" END="1039">طلاب في جامعة بوردو
+الثالثة التي تضم مركزا للدراسات والابحاث حول العالم العربي والاسلامي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="926" END="935">غدا الجمعة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0130-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001207.1800.0130-E25" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001207.1800.0130-E19" ROLE="Destination"/>
+  <event_argument REFID="AFA20001207.1800.0130-E21" ROLE="Origin"/>
+  <event_argument REFID="AFA20001207.1800.0130-T6" ROLE="Time-Before"/>
+  <event_mention ID="AFA20001207.1800.0130-EV3-1">
+    <extent>
+      <charseq START="1045" END="1099">سيغادر الحسيني بوردو قبيل ظهر السبت وقد يتوجه الى باريس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1044" END="1117">وسيغادر الحسيني بوردو قبيل ظهر السبت وقد يتوجه الى باريس بحسب
+المقربين منه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1045" END="1050">سيغادر</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E25-46" ROLE="Artifact">
+      <extent>
+        <charseq START="1046" END="1046">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E19-49" ROLE="Destination">
+      <extent>
+        <charseq START="1095" END="1099">باريس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E21-47" ROLE="Origin">
+      <extent>
+        <charseq START="1060" END="1064">بوردو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-T6-1" ROLE="Time-Before">
+      <extent>
+        <charseq START="1066" END="1079">قبيل ظهر السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001207.1800.0130-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001207.1800.0130-E25" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001207.1800.0130-E19" ROLE="Destination"/>
+  <event_argument REFID="AFA20001207.1800.0130-E21" ROLE="Origin"/>
+  <event_argument REFID="AFA20001207.1800.0130-T6" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001207.1800.0130-EV4-1">
+    <extent>
+      <charseq START="1060" END="1099">بوردو قبيل ظهر السبت وقد يتوجه الى باريس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1044" END="1117">وسيغادر الحسيني بوردو قبيل ظهر السبت وقد يتوجه الى باريس بحسب
+المقربين منه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1085" END="1089">يتوجه</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E25-48" ROLE="Artifact">
+      <extent>
+        <charseq START="1085" END="1085">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E19-49" ROLE="Destination">
+      <extent>
+        <charseq START="1095" END="1099">باريس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-E21-47" ROLE="Origin">
+      <extent>
+        <charseq START="1060" END="1064">بوردو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001207.1800.0130-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1066" END="1079">قبيل ظهر السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

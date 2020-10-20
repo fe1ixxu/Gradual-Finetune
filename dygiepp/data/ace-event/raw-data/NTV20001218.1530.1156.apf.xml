@@ -1,0 +1,2064 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="NTV20001218.1530.1156.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="NTV20001218.1530.1156">
+<entity ID="NTV20001218.1530.1156-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E1-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="358" END="362">نائبه</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="361">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E1-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="364" END="372">ديك تشيني</charseq>
+    </extent>
+    <head>
+      <charseq START="364" END="372">ديك تشيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E1-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="888" END="896">ديك
+تشيني</charseq>
+    </extent>
+    <head>
+      <charseq START="888" END="896">ديك
+تشيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E1-25" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="898" END="905">نائب بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="898" END="901">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E1-27" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="976" END="980">تشيني</charseq>
+    </extent>
+    <head>
+      <charseq START="976" END="980">تشيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E1-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1005" END="1005">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1005" END="1005">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E1-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1009" END="1009">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1009" END="1009">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E1-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1012" END="1012">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1012" END="1012">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ديك تشيني">
+      <charseq START="364" END="372">ديك تشيني</charseq>
+    </name>
+    <name NAME="ديك تشيني">
+      <charseq START="888" END="896">ديك
+تشيني</charseq>
+    </name>
+    <name NAME="تشيني">
+      <charseq START="976" END="980">تشيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E3-8" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="476" END="482">أمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="482">أمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E3-55" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1540" END="1548">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="1540" END="1548">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E3-91" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="77" END="84">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="77" END="84">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E3-114" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="264" END="271">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="264" END="271">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E3-115" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="333" END="348">الولايات
+المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="333" END="348">الولايات
+المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أمريكية">
+      <charseq START="476" END="482">أمريكية</charseq>
+    </name>
+    <name NAME="الأمريكية">
+      <charseq START="1540" END="1548">الأمريكية</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="77" END="84">الأمريكي</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="264" END="271">الأمريكي</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="333" END="348">الولايات
+المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E4-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="662" END="680">الفريق المساعد لبوش</charseq>
+    </extent>
+    <head>
+      <charseq START="662" END="667">الفريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E4-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="741" END="741">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="741" END="741">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E4-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="747" END="761">الفريق
+الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="747" END="752">الفريق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E5-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="163" END="176">إدارته الجديدة</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="167">إدارت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="547" END="594">الإدارة التي ستعمل معه خلال الأربع سنوات القادمة</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="553">الإدارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-13" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="555" END="558">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="555" END="558">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="561" END="561">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="561">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="705" END="738">الإدارة التي ستعمل في البيت الأبيض</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="711">الإدارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-16" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="713" END="716">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="716">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="719" END="719">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="719" END="719">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-46" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1337" END="1342">إدارته</charseq>
+    </extent>
+    <head>
+      <charseq START="1337" END="1341">إدارت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1503" END="1524">الإدارة التي ستعمل معه</charseq>
+    </extent>
+    <head>
+      <charseq START="1503" END="1509">الإدارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-51" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1511" END="1514">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1511" END="1514">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1517" END="1517">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1517" END="1517">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-85" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1863" END="1886">لإدارته التي تأخرت كثيرا</charseq>
+    </extent>
+    <head>
+      <charseq START="1863" END="1868">لإدارت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-86" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1871" END="1874">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="1871" END="1874">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-87" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1880" END="1880">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1880" END="1880">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-88" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1894" END="1894">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="1894" END="1894">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E5-95" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1161" END="1175">الإدارة القادمة</charseq>
+    </extent>
+    <head>
+      <charseq START="1161" END="1167">الإدارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E6-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="727" END="738">البيت الأبيض</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="738">البيت الأبيض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E6-98" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1057" END="1069">حكومة جمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1057" END="1061">حكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البيت الأبيض">
+      <charseq START="727" END="738">البيت الأبيض</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E7-22" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="754" END="761">الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="754" END="761">الجمهوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E7-31" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1063" END="1069">جمهورية</charseq>
+    </extent>
+    <head>
+      <charseq START="1063" END="1069">جمهورية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E7-73" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1758" END="1765">الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="1758" END="1765">الجمهوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجمهوري">
+      <charseq START="754" END="761">الجمهوري</charseq>
+    </name>
+    <name NAME="جمهورية">
+      <charseq START="1063" END="1069">جمهورية</charseq>
+    </name>
+    <name NAME="الجمهوري">
+      <charseq START="1758" END="1765">الجمهوري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E10-5" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="362" END="362">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="362">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="568" END="568">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="568">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-11" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="677" END="680">لبوش</charseq>
+    </extent>
+    <head>
+      <charseq START="677" END="680">لبوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="858" END="860">بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="858" END="860">بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="903" END="905">بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="903" END="905">بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1181" END="1201">الرئيس جورج دبليو بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="1181" END="1186">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1188" END="1201">جورج دبليو بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="1188" END="1201">جورج دبليو بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1236" END="1236">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1236" END="1236">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1318" END="1318">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1318" END="1318">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-45" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1342" END="1342">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1342" END="1342">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-47" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1477" END="1477">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1477" END="1477">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-48" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1482" END="1484">بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="1482" END="1484">بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-66" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1688" END="1688">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1688" END="1688">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-67" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1694" END="1696">بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="1694" END="1696">بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-78" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="70" END="92">الرئيس الأمريكي المنتخب</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="75">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-81" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1812" END="1812">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1812" END="1812">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-82" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1819" END="1821">بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="1819" END="1821">بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-83" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1832" END="1832">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1832" END="1832">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-89" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1869" END="1869">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1869" END="1869">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-90" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="1524" END="1524">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1524" END="1524">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-93" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="518" END="525">جورج بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="518" END="525">جورج بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-94" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="503" END="525">الرئيس المنتخب جورج بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="503" END="508">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-99" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="94" END="101">جورج بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="94" END="101">جورج بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-100" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="116" END="116">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="116">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-101" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="119" END="119">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="119" END="119">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-106" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="153" END="153">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="153">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-107" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="168" END="168">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="168" END="168">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-108" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="194" END="194">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="194">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E10-113" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="257" END="278">الرئيس الأمريكي
+الجديد</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="262">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لبوش">
+      <charseq START="677" END="680">لبوش</charseq>
+    </name>
+    <name NAME="بوش">
+      <charseq START="858" END="860">بوش</charseq>
+    </name>
+    <name NAME="بوش">
+      <charseq START="903" END="905">بوش</charseq>
+    </name>
+    <name NAME="جورج دبليو بوش">
+      <charseq START="1188" END="1201">جورج دبليو بوش</charseq>
+    </name>
+    <name NAME="بوش">
+      <charseq START="1482" END="1484">بوش</charseq>
+    </name>
+    <name NAME="بوش">
+      <charseq START="1694" END="1696">بوش</charseq>
+    </name>
+    <name NAME="بوش">
+      <charseq START="1819" END="1821">بوش</charseq>
+    </name>
+    <name NAME="جورج بوش">
+      <charseq START="518" END="525">جورج بوش</charseq>
+    </name>
+    <name NAME="جورج بوش">
+      <charseq START="94" END="101">جورج بوش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E11-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1247" END="1264">أوستن بولاية تكساس</charseq>
+    </extent>
+    <head>
+      <charseq START="1247" END="1251">أوستن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أوستن">
+      <charseq START="1247" END="1251">أوستن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E12-36" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1253" END="1264">بولاية تكساس</charseq>
+    </extent>
+    <head>
+      <charseq START="1253" END="1264">بولاية تكساس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بولاية تكساس">
+      <charseq START="1253" END="1264">بولاية تكساس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E13-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1278" END="1303">عضو مجلس الشيوخ
+الديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1278" END="1280">عضو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E13-39" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1305" END="1311">جون برو</charseq>
+    </extent>
+    <head>
+      <charseq START="1305" END="1311">جون برو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E13-41" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="1313" END="1316">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="1313" END="1316">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E13-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1328" END="1328">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1328" END="1328">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جون برو">
+      <charseq START="1305" END="1311">جون برو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E14-38" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1282" END="1303">مجلس الشيوخ
+الديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1282" END="1292">مجلس الشيوخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلس الشيوخ">
+      <charseq START="1282" END="1292">مجلس الشيوخ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E17-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1330" END="1342">لأعضاء إدارته</charseq>
+    </extent>
+    <head>
+      <charseq START="1330" END="1335">لأعضاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E17-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1497" END="1524">أعضاء
+الإدارة التي ستعمل معه</charseq>
+    </extent>
+    <head>
+      <charseq START="1497" END="1501">أعضاء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E18-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1527" END="1527">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1527" END="1527">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E18-54" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1532" END="1548">المصادر الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="1532" END="1538">المصادر</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E20-57" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1556" END="1565">كولين باول</charseq>
+    </extent>
+    <head>
+      <charseq START="1556" END="1565">كولين باول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E20-58" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1567" END="1585">رئيس
+الأركان الأسبق</charseq>
+    </extent>
+    <head>
+      <charseq START="1567" END="1570">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E20-59" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1597" END="1609">وزير الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="1597" END="1600">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E20-109" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="223" END="232">كولين باول</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="232">كولين باول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E20-110" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="206" END="232">الجنرال المتقاعد كولين باول</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="212">الجنرال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E20-111" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="234" END="247">وزيرا للخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="234" END="238">وزيرا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كولين باول">
+      <charseq START="1556" END="1565">كولين باول</charseq>
+    </name>
+    <name NAME="كولين باول">
+      <charseq START="223" END="232">كولين باول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E22-61" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1612" END="1625">كوند ليزا رايس</charseq>
+    </extent>
+    <head>
+      <charseq START="1612" END="1625">كوند ليزا رايس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E22-62" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1628" END="1629">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="1628" END="1629">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E22-64" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1653" END="1672">مستشارة الأمن القومي</charseq>
+    </extent>
+    <head>
+      <charseq START="1653" END="1659">مستشارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوند ليزا رايس">
+      <charseq START="1612" END="1625">كوند ليزا رايس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E23" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E23-63" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="1639" END="1645">إفريقية</charseq>
+    </extent>
+    <head>
+      <charseq START="1639" END="1645">إفريقية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إفريقية">
+      <charseq START="1639" END="1645">إفريقية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E25-65" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1661" END="1672">الأمن القومي</charseq>
+    </extent>
+    <head>
+      <charseq START="1661" END="1672">الأمن القومي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمن القومي">
+      <charseq START="1661" END="1672">الأمن القومي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E26" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001218.1530.1156-E26-68" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="1725" END="1777">عدد من زعماء الكونجرس من الحزبين الجمهوري
+والديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1725" END="1727">عدد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E27-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1732" END="1777">زعماء الكونجرس من الحزبين الجمهوري
+والديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1732" END="1736">زعماء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E28-70" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1738" END="1745">الكونجرس</charseq>
+    </extent>
+    <head>
+      <charseq START="1738" END="1745">الكونجرس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكونجرس">
+      <charseq START="1738" END="1745">الكونجرس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E29" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E29-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1750" END="1777">الحزبين الجمهوري
+والديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1750" END="1756">الحزبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E30" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E30-72" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1768" END="1777">الديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1768" END="1777">الديمقراطي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E30-96" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1294" END="1303">الديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1294" END="1303">الديمقراطي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E30-97" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1385" END="1400">الحزب الديمقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="1385" END="1400">الحزب الديمقراطي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الديمقراطي">
+      <charseq START="1768" END="1777">الديمقراطي</charseq>
+    </name>
+    <name NAME="الديمقراطي">
+      <charseq START="1294" END="1303">الديمقراطي</charseq>
+    </name>
+    <name NAME="الحزب الديمقراطي">
+      <charseq START="1385" END="1400">الحزب الديمقراطي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E32-74" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1782" END="1795">الرئيس كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="1782" END="1787">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E32-75" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1789" END="1795">كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="1789" END="1795">كلينتون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E32-80" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1802" END="1802">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="1802" END="1802">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كلينتون">
+      <charseq START="1789" END="1795">كلينتون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E34-77" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1804" END="1809">آل جور</charseq>
+    </extent>
+    <head>
+      <charseq START="1804" END="1809">آل جور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E34-79" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1798" END="1802">نائبه</charseq>
+    </extent>
+    <head>
+      <charseq START="1798" END="1801">نائب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="آل جور">
+      <charseq START="1804" END="1809">آل جور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E36-84" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1837" END="1842">واشنطن</charseq>
+    </extent>
+    <head>
+      <charseq START="1837" END="1842">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="1837" END="1842">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="NTV20001218.1530.1156-E37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E37-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="380" END="397">المكاتب الفيدرالية</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="386">المكاتب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E39-92" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1572" END="1578">الأركان</charseq>
+    </extent>
+    <head>
+      <charseq START="1572" END="1578">الأركان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E45" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="NTV20001218.1530.1156-E45-102" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="124" END="176">أول دفعة من
+المسئولين الذين سيعينهم في إدارته الجديدة</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="131">دفعة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E46-103" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="136" END="176">المسئولين الذين سيعينهم في إدارته الجديدة</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="144">المسئولين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E46-104" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="146" END="150">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="150">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E46-105" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="157" END="158">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="158">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="NTV20001218.1530.1156-E50" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="NTV20001218.1530.1156-E50-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1602" END="1609">الخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="1602" END="1609">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="NTV20001218.1530.1156-E50-112" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="240" END="247">للخارجية</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="247">للخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="1602" END="1609">الخارجية</charseq>
+    </name>
+    <name NAME="للخارجية">
+      <charseq START="240" END="247">للخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="NTV20001218.1530.1156-V1" TYPE="Job-Title">
+  <value_mention ID="NTV20001218.1530.1156-V1-1">
+    <extent>
+      <charseq START="70" END="92">الرئيس الأمريكي المنتخب</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="NTV20001218.1530.1156-V2" TYPE="Job-Title">
+  <value_mention ID="NTV20001218.1530.1156-V2-1">
+    <extent>
+      <charseq START="234" END="247">وزيرا للخارجية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="NTV20001218.1530.1156-V3" TYPE="Job-Title">
+  <value_mention ID="NTV20001218.1530.1156-V3-1">
+    <extent>
+      <charseq START="503" END="516">الرئيس المنتخب</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="NTV20001218.1530.1156-V4" TYPE="Job-Title">
+  <value_mention ID="NTV20001218.1530.1156-V4-1">
+    <extent>
+      <charseq START="1597" END="1609">وزير الخارجية</charseq>
+    </extent>
+  </value_mention>
+</value>
+<value ID="NTV20001218.1530.1156-V5" TYPE="Job-Title">
+  <value_mention ID="NTV20001218.1530.1156-V5-1">
+    <extent>
+      <charseq START="1653" END="1672">مستشارة الأمن القومي</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="NTV20001218.1530.1156-T1">
+  <timex2_mention ID="NTV20001218.1530.1156-T1-1">
+    <extent>
+      <charseq START="39" END="60">12/18/2000 15:49:16.05</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T2">
+  <timex2_mention ID="NTV20001218.1530.1156-T2-1">
+    <extent>
+      <charseq START="103" END="112">أمس الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T3">
+  <timex2_mention ID="NTV20001218.1530.1156-T3-1">
+    <extent>
+      <charseq START="178" END="188">اليوم السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T4">
+  <timex2_mention ID="NTV20001218.1530.1156-T4-1">
+    <extent>
+      <charseq START="575" END="594">الأربع سنوات القادمة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T5">
+  <timex2_mention ID="NTV20001218.1530.1156-T5-1">
+    <extent>
+      <charseq START="813" END="835">العشرين من
+يناير القادم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T6">
+  <timex2_mention ID="NTV20001218.1530.1156-T6-1">
+    <extent>
+      <charseq START="1075" END="1090">العشرين من يناير</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T7">
+  <timex2_mention ID="NTV20001218.1530.1156-T7-1">
+    <extent>
+      <charseq START="1211" END="1221">اليوم الأول</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T8">
+  <timex2_mention ID="NTV20001218.1530.1156-T8-1">
+    <extent>
+      <charseq START="1491" END="1495">ساعات</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="NTV20001218.1530.1156-T9">
+  <timex2_mention ID="NTV20001218.1530.1156-T9-1">
+    <extent>
+      <charseq START="1698" END="1717">منتصف
+الأسبوع القادم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="NTV20001218.1530.1156-R1" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Future" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E46" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E5" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="136" END="176">المسئولين الذين سيعينهم في إدارته الجديدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E46-105" ROLE="Arg-1">
+      <extent>
+        <charseq START="157" END="158">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="163" END="176">إدارته الجديدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R2" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E5" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="163" END="176">إدارته الجديدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-107" ROLE="Arg-1">
+      <extent>
+        <charseq START="168" END="168">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="163" END="176">إدارته الجديدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001218.1530.1156-R2-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1337" END="1342">إدارته</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="1342" END="1342">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="1337" END="1342">إدارته</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R3" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E10" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R3-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="358" END="362">نائبه</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E1-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="358" END="362">نائبه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="362" END="362">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001218.1530.1156-R3-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="898" END="905">نائب بوش</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E1-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="898" END="905">نائب بوش</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="903" END="905">بوش</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R5" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E39" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R5-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1567" END="1585">رئيس
+الأركان الأسبق</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E20-58" ROLE="Arg-1">
+      <extent>
+        <charseq START="1567" END="1585">رئيس
+الأركان الأسبق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E39-92" ROLE="Arg-2">
+      <extent>
+        <charseq START="1572" END="1578">الأركان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R6" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E27" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E28" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1732" END="1777">زعماء الكونجرس من الحزبين الجمهوري
+والديمقراطي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E27-69" ROLE="Arg-1">
+      <extent>
+        <charseq START="1732" END="1777">زعماء الكونجرس من الحزبين الجمهوري
+والديمقراطي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E28-70" ROLE="Arg-2">
+      <extent>
+        <charseq START="1738" END="1745">الكونجرس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E3" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="70" END="92">الرئيس الأمريكي المنتخب</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-78" ROLE="Arg-1">
+      <extent>
+        <charseq START="70" END="92">الرئيس الأمريكي المنتخب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E3-91" ROLE="Arg-2">
+      <extent>
+        <charseq START="77" END="84">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001218.1530.1156-R8-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="257" END="278">الرئيس الأمريكي
+الجديد</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-113" ROLE="Arg-1">
+      <extent>
+        <charseq START="257" END="278">الرئيس الأمريكي
+الجديد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E3-114" ROLE="Arg-2">
+      <extent>
+        <charseq START="264" END="271">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Unspecified" MODALITY="Other">
+  <relation_argument REFID="NTV20001218.1530.1156-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E50" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="234" END="247">وزيرا للخارجية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E20-111" ROLE="Arg-1">
+      <extent>
+        <charseq START="234" END="247">وزيرا للخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E50-112" ROLE="Arg-2">
+      <extent>
+        <charseq START="240" END="247">للخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001218.1530.1156-R9-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1597" END="1609">وزير الخارجية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E20-59" ROLE="Arg-1">
+      <extent>
+        <charseq START="1597" END="1609">وزير الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E50-60" ROLE="Arg-2">
+      <extent>
+        <charseq START="1602" END="1609">الخارجية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R11" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E10" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R11-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="662" END="680">الفريق المساعد لبوش</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E4-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="662" END="680">الفريق المساعد لبوش</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="677" END="680">لبوش</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R12" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Unspecified" MODALITY="Other">
+  <relation_argument REFID="NTV20001218.1530.1156-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E6" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="705" END="738">الإدارة التي ستعمل في البيت الأبيض</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="705" END="738">الإدارة التي ستعمل في البيت الأبيض</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E6-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="727" END="738">البيت الأبيض</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R13" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E7" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="747" END="761">الفريق
+الجمهوري</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E4-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="747" END="761">الفريق
+الجمهوري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E7-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="754" END="761">الجمهوري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R14" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E12" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R14-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1247" END="1264">أوستن بولاية تكساس</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E11-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="1247" END="1264">أوستن بولاية تكساس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E12-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="1253" END="1264">بولاية تكساس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R15" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E14" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R15-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1278" END="1303">عضو مجلس الشيوخ
+الديمقراطي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E13-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="1278" END="1303">عضو مجلس الشيوخ
+الديمقراطي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E14-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="1282" END="1303">مجلس الشيوخ
+الديمقراطي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R16" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E5" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R16-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1330" END="1342">لأعضاء إدارته</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E17-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="1330" END="1342">لأعضاء إدارته</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="1337" END="1342">إدارته</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R17" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E3" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R17-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1532" END="1548">المصادر الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E18-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="1532" END="1548">المصادر الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E3-55" ROLE="Arg-2">
+      <extent>
+        <charseq START="1540" END="1548">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R18" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E5" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R18-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1497" END="1524">أعضاء
+الإدارة التي ستعمل معه</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E17-49" ROLE="Arg-1">
+      <extent>
+        <charseq START="1497" END="1524">أعضاء
+الإدارة التي ستعمل معه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-50" ROLE="Arg-2">
+      <extent>
+        <charseq START="1503" END="1524">الإدارة التي ستعمل معه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R20" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Unspecified" MODALITY="Other">
+  <relation_argument REFID="NTV20001218.1530.1156-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E25" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R20-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1653" END="1672">مستشارة الأمن القومي</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E22-64" ROLE="Arg-1">
+      <extent>
+        <charseq START="1653" END="1672">مستشارة الأمن القومي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E25-65" ROLE="Arg-2">
+      <extent>
+        <charseq START="1661" END="1672">الأمن القومي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R21" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="NTV20001218.1530.1156-E32" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E34" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R21-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1798" END="1802">نائبه</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E32-80" ROLE="Arg-1">
+      <extent>
+        <charseq START="1802" END="1802">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E34-79" ROLE="Arg-2">
+      <extent>
+        <charseq START="1798" END="1802">نائبه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="NTV20001218.1530.1156-R22" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Unspecified" MODALITY="Other">
+  <relation_argument REFID="NTV20001218.1530.1156-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="NTV20001218.1530.1156-E10" ROLE="Arg-2"/>
+  <relation_mention ID="NTV20001218.1530.1156-R22-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1863" END="1909">لإدارته التي تأخرت كثيرا انتظارا لإعلان
+النتائج</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-85" ROLE="Arg-1">
+      <extent>
+        <charseq START="1863" END="1886">لإدارته التي تأخرت كثيرا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-89" ROLE="Arg-2">
+      <extent>
+        <charseq START="1869" END="1869">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="NTV20001218.1530.1156-R22-2" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="1503" END="1524">الإدارة التي ستعمل معه</charseq>
+    </extent>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E5-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="1503" END="1524">الإدارة التي ستعمل معه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="NTV20001218.1530.1156-E10-90" ROLE="Arg-2">
+      <extent>
+        <charseq START="1524" END="1524">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="NTV20001218.1530.1156-EV1" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001218.1530.1156-E10" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-V1" ROLE="Position"/>
+  <event_mention ID="NTV20001218.1530.1156-EV1-1">
+    <extent>
+      <charseq START="70" END="101">الرئيس الأمريكي المنتخب جورج بوش</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="247">أعلن الرئيس الأمريكي المنتخب جورج بوش أمس الجمعة أنه سيعلن أول دفعة من
+المسئولين الذين سيعينهم في إدارته الجديدة اليوم السبت ملمحا إلى تعيين
+الجنرال المتقاعد كولين باول وزيرا للخارجية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="86" END="92">المنتخب</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E10-99" ROLE="Person">
+      <extent>
+        <charseq START="94" END="101">جورج بوش</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-V1-1" ROLE="Position">
+      <extent>
+        <charseq START="70" END="92">الرئيس الأمريكي المنتخب</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV2" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-E10" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-E46" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-T3" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001218.1530.1156-EV2-1">
+    <extent>
+      <charseq START="152" END="188">سيعينهم في إدارته الجديدة اليوم السبت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="247">أعلن الرئيس الأمريكي المنتخب جورج بوش أمس الجمعة أنه سيعلن أول دفعة من
+المسئولين الذين سيعينهم في إدارته الجديدة اليوم السبت ملمحا إلى تعيين
+الجنرال المتقاعد كولين باول وزيرا للخارجية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="152" END="158">سيعينهم</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E10-106" ROLE="Person">
+      <extent>
+        <charseq START="153" END="153">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E46-105" ROLE="Person">
+      <extent>
+        <charseq START="157" END="158">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="178" END="188">اليوم السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-E10" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-T5" ROLE="Time-Starting"/>
+  <event_mention ID="NTV20001218.1530.1156-EV3-1">
+    <extent>
+      <charseq START="813" END="860">العشرين من
+يناير القادم الموعد المحدد لتنصيب بوش</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="740" END="860">ويحتاج الفريق
+الجمهوري إلى التحرك سريعا حتى تكتمل ترتيبات نقل السلطة قبل العشرين من
+يناير القادم الموعد المحدد لتنصيب بوش</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="851" END="856">لتنصيب</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E10-21" ROLE="Person">
+      <extent>
+        <charseq START="858" END="860">بوش</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-T5-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="813" END="835">العشرين من
+يناير القادم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV4" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-E20" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-V2" ROLE="Position"/>
+  <event_argument REFID="NTV20001218.1530.1156-T3" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001218.1530.1156-EV4-1">
+    <extent>
+      <charseq START="178" END="247">اليوم السبت ملمحا إلى تعيين
+الجنرال المتقاعد كولين باول وزيرا للخارجية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="247">أعلن الرئيس الأمريكي المنتخب جورج بوش أمس الجمعة أنه سيعلن أول دفعة من
+المسئولين الذين سيعينهم في إدارته الجديدة اليوم السبت ملمحا إلى تعيين
+الجنرال المتقاعد كولين باول وزيرا للخارجية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="200" END="204">تعيين</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E20-110" ROLE="Person">
+      <extent>
+        <charseq START="206" END="232">الجنرال المتقاعد كولين باول</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-V2-1" ROLE="Position">
+      <extent>
+        <charseq START="234" END="247">وزيرا للخارجية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="178" END="188">اليوم السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV5" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001218.1530.1156-E10" ROLE="Person"/>
+  <event_mention ID="NTV20001218.1530.1156-EV5-1">
+    <extent>
+      <charseq START="257" END="278">الرئيس الأمريكي
+الجديد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="249" END="442">وقد بدأ الرئيس الأمريكي
+الجديد في اتخاذ الترتيبات العملية للإمساك بمقاليد الأمور في الولايات
+المتحدة حيث قام نائبه ديك تشيني بتسلم المكاتب الفيدرالية والمخصصات
+المالية الخاصة بترتيبات نقل السلطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="273" END="278">الجديد</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E10-113" ROLE="Person">
+      <extent>
+        <charseq START="257" END="278">الرئيس الأمريكي
+الجديد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV6" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-E6" ROLE="Org"/>
+  <event_argument REFID="NTV20001218.1530.1156-E1" ROLE="Agent"/>
+  <event_argument REFID="NTV20001218.1530.1156-T6" ROLE="Time-Before"/>
+  <event_mention ID="NTV20001218.1530.1156-EV6-1">
+    <extent>
+      <charseq START="976" END="1090">تشيني بعد البدء في ممارسة عمله إنه سيتحرك بأسرع ما
+يمكن من أجل الانتهاء من تشكيل حكومة جمهورية قبل العشرين من يناير</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="971" END="1090">وقال تشيني بعد البدء في ممارسة عمله إنه سيتحرك بأسرع ما
+يمكن من أجل الانتهاء من تشكيل حكومة جمهورية قبل العشرين من يناير</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1051" END="1055">تشكيل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E6-98" ROLE="Org">
+      <extent>
+        <charseq START="1057" END="1069">حكومة جمهورية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E1-27" ROLE="Agent">
+      <extent>
+        <charseq START="976" END="980">تشيني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-T6-1" ROLE="Time-Before">
+      <extent>
+        <charseq START="1075" END="1090">العشرين من يناير</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV7" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001218.1530.1156-V3" ROLE="Position"/>
+  <event_argument REFID="NTV20001218.1530.1156-E10" ROLE="Person"/>
+  <event_mention ID="NTV20001218.1530.1156-EV7-1">
+    <extent>
+      <charseq START="503" END="525">الرئيس المنتخب جورج بوش</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="446" END="594">بعد أن هدأ غبار أطول انتخابات
+أمريكية وأكثرها تعقيدا بدأ الرئيس المنتخب جورج بوش في استعدادات لتشكيل
+الإدارة التي ستعمل معه خلال الأربع سنوات القادمة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="510" END="516">المنتخب</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-V3-1" ROLE="Position">
+      <extent>
+        <charseq START="503" END="516">الرئيس المنتخب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E10-93" ROLE="Person">
+      <extent>
+        <charseq START="518" END="525">جورج بوش</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV8" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-T4" ROLE="Time-Holds"/>
+  <event_mention ID="NTV20001218.1530.1156-EV8-1">
+    <extent>
+      <charseq START="540" END="594">لتشكيل
+الإدارة التي ستعمل معه خلال الأربع سنوات القادمة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="446" END="594">بعد أن هدأ غبار أطول انتخابات
+أمريكية وأكثرها تعقيدا بدأ الرئيس المنتخب جورج بوش في استعدادات لتشكيل
+الإدارة التي ستعمل معه خلال الأربع سنوات القادمة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="540" END="545">لتشكيل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-T4-1" ROLE="Time-Holds">
+      <extent>
+        <charseq START="575" END="594">الأربع سنوات القادمة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV9" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="NTV20001218.1530.1156-E10" ROLE="Person"/>
+  <event_mention ID="NTV20001218.1530.1156-EV9-1">
+    <extent>
+      <charseq START="1233" END="1236">فوزه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1177" END="1264">أما الرئيس جورج دبليو بوش فقد قضى اليوم الأول بعد
+إعلان فوزه رسميا في أوستن بولاية تكساس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1233" END="1236">فوزه</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E10-34" ROLE="Person">
+      <extent>
+        <charseq START="1236" END="1236">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV10" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="NTV20001218.1530.1156-E13" ROLE="Entity"/>
+  <event_argument REFID="NTV20001218.1530.1156-E10" ROLE="Entity"/>
+  <event_mention ID="NTV20001218.1530.1156-EV10-1">
+    <extent>
+      <charseq START="1269" END="1318">التقى مع عضو مجلس الشيوخ
+الديمقراطي جون برو الذي ي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1266" END="1460">ثم التقى مع عضو مجلس الشيوخ
+الديمقراطي جون برو الذي يأمل في ضمه لأعضاء إدارته في إطار مساعي إعادة
+المصالحة والتنسيق مع الحزب الديمقراطي ومعالجة الانقسامات الحادة التي
+ظهرت خلال العملية الانتخابية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1269" END="1273">التقى</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E13-37" ROLE="Entity">
+      <extent>
+        <charseq START="1278" END="1303">عضو مجلس الشيوخ
+الديمقراطي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E10-42" ROLE="Entity">
+      <extent>
+        <charseq START="1318" END="1318">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV11" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="NTV20001218.1530.1156-E13" ROLE="Person"/>
+  <event_mention ID="NTV20001218.1530.1156-EV11-1">
+    <extent>
+      <charseq START="1326" END="1328">ضمه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1266" END="1460">ثم التقى مع عضو مجلس الشيوخ
+الديمقراطي جون برو الذي يأمل في ضمه لأعضاء إدارته في إطار مساعي إعادة
+المصالحة والتنسيق مع الحزب الديمقراطي ومعالجة الانقسامات الحادة التي
+ظهرت خلال العملية الانتخابية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1326" END="1328">ضمه</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E13-43" ROLE="Person">
+      <extent>
+        <charseq START="1328" END="1328">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV12" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-E17" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-E5" ROLE="Entity"/>
+  <event_argument REFID="NTV20001218.1530.1156-T8" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001218.1530.1156-EV12-1">
+    <extent>
+      <charseq START="1491" END="1524">ساعات أعضاء
+الإدارة التي ستعمل معه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1462" END="1524">ومن المنتظر أن يعلن بوش خلال ساعات أعضاء
+الإدارة التي ستعمل معه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1516" END="1520">ستعمل</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E17-49" ROLE="Person">
+      <extent>
+        <charseq START="1497" END="1524">أعضاء
+الإدارة التي ستعمل معه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E5-52" ROLE="Entity">
+      <extent>
+        <charseq START="1517" END="1517">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-T8-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1491" END="1495">ساعات</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV13" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-E20" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-V4" ROLE="Position"/>
+  <event_mention ID="NTV20001218.1530.1156-EV13-1">
+    <extent>
+      <charseq START="1550" END="1609">تعيين كولين باول رئيس
+الأركان الأسبق لشغل منصب وزير الخارجية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1526" END="1672">وترجح المصادر الأمريكية تعيين كولين باول رئيس
+الأركان الأسبق لشغل منصب وزير الخارجية وكوند ليزا رايس وهي من أصول
+إفريقية لمنصب مستشارة الأمن القومي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1550" END="1554">تعيين</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E20-57" ROLE="Person">
+      <extent>
+        <charseq START="1556" END="1565">كولين باول</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-V4-1" ROLE="Position">
+      <extent>
+        <charseq START="1597" END="1609">وزير الخارجية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV14" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="NTV20001218.1530.1156-E22" ROLE="Person"/>
+  <event_argument REFID="NTV20001218.1530.1156-V5" ROLE="Position"/>
+  <event_mention ID="NTV20001218.1530.1156-EV14-1">
+    <extent>
+      <charseq START="1612" END="1672">كوند ليزا رايس وهي من أصول
+إفريقية لمنصب مستشارة الأمن القومي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1526" END="1672">وترجح المصادر الأمريكية تعيين كولين باول رئيس
+الأركان الأسبق لشغل منصب وزير الخارجية وكوند ليزا رايس وهي من أصول
+إفريقية لمنصب مستشارة الأمن القومي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1647" END="1651">لمنصب</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E22-61" ROLE="Person">
+      <extent>
+        <charseq START="1612" END="1625">كوند ليزا رايس</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-V5-1" ROLE="Position">
+      <extent>
+        <charseq START="1653" END="1672">مستشارة الأمن القومي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="NTV20001218.1530.1156-EV15" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="NTV20001218.1530.1156-E26" ROLE="Entity"/>
+  <event_argument REFID="NTV20001218.1530.1156-T9" ROLE="Time-Within"/>
+  <event_mention ID="NTV20001218.1530.1156-EV15-1">
+    <extent>
+      <charseq START="1698" END="1777">منتصف
+الأسبوع القادم للقاء عدد من زعماء الكونجرس من الحزبين الجمهوري
+والديمقراطي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1674" END="1909">ومن المقرر أن يتوجه بوش منتصف
+الأسبوع القادم للقاء عدد من زعماء الكونجرس من الحزبين الجمهوري
+والديمقراطي مع الرئيس كلينتون ونائبه آل جور ويستعرض بوش خلال وجوده في
+واشنطن التشكيلات المحتملة لإدارته التي تأخرت كثيرا انتظارا لإعلان
+النتائج</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1719" END="1723">للقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="NTV20001218.1530.1156-E26-68" ROLE="Entity">
+      <extent>
+        <charseq START="1725" END="1777">عدد من زعماء الكونجرس من الحزبين الجمهوري
+والديمقراطي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="NTV20001218.1530.1156-T9-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1698" END="1717">منتصف
+الأسبوع القادم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

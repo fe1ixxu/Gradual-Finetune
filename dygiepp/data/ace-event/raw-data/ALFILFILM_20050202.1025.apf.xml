@@ -1,0 +1,862 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALFILFILM_20050202.1025.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALFILFILM_20050202.1025">
+<entity ID="ALFILFILM_20050202.1025-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E1-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="574" END="578">دائرة</charseq>
+    </extent>
+    <head>
+      <charseq START="574" END="578">دائرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-2" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="625" END="638">الخريجين الجدد</charseq>
+    </extent>
+    <head>
+      <charseq START="625" END="632">الخريجين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="722" END="740">السينمائين النظريين</charseq>
+    </extent>
+    <head>
+      <charseq START="722" END="731">السينمائين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="772" END="773">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="772" END="773">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="780" END="785">دارسين</charseq>
+    </extent>
+    <head>
+      <charseq START="780" END="785">دارسين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-12" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="790" END="791">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="790" END="791">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="810" END="811">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="810" END="811">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-14" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="846" END="847">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="846" END="847">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="853" END="854">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="853" END="854">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1078" END="1097">السينمائيون النظريون</charseq>
+    </extent>
+    <head>
+      <charseq START="1078" END="1088">السينمائيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1119" END="1120">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1119" END="1120">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1759" END="1769">السينمائيين</charseq>
+    </extent>
+    <head>
+      <charseq START="1759" END="1769">السينمائيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-37" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1784" END="1785">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1784" END="1785">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-61" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="739" END="740">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="739" END="740">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E2-62" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1096" END="1097">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="1096" END="1097">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E3-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="688" END="707">الموظفين السينمائيين</charseq>
+    </extent>
+    <head>
+      <charseq START="688" END="695">الموظفين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E3-63" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="706" END="707">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="706" END="707">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E4" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALFILFILM_20050202.1025-E4-4" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="679" END="707">فكثير من
+الموظفين السينمائيين</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="683">فكثير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E4-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="714" END="715">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="714" END="715">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E5-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="743" END="748">استاذة</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="748">استاذة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E6-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="751" END="756">خريجين</charseq>
+    </extent>
+    <head>
+      <charseq START="751" END="756">خريجين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E7-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="759" END="763">طلابا</charseq>
+    </extent>
+    <head>
+      <charseq START="759" END="763">طلابا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E9-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="874" END="889">فريق عمل سينمائي</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="877">فريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E9-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="940" END="955">فريق عمل سينمائي</charseq>
+    </extent>
+    <head>
+      <charseq START="940" END="943">فريق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E10-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="101" END="105">الفيل</charseq>
+    </extent>
+    <head>
+      <charseq START="101" END="105">الفيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفيل">
+      <charseq START="101" END="105">الفيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E11" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALFILFILM_20050202.1025-E11-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1307" END="1307">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="1307" END="1307">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E11-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2549" END="2550">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="2549" END="2550">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E12" TYPE="PER" SUBTYPE="Group" CLASS="NEG">
+  <entity_mention ID="ALFILFILM_20050202.1025-E12-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1335" END="1341">مهاجمين</charseq>
+    </extent>
+    <head>
+      <charseq START="1335" END="1341">مهاجمين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E13" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="ALFILFILM_20050202.1025-E13-25" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1343" END="1348">لأولئك</charseq>
+    </extent>
+    <head>
+      <charseq START="1343" END="1348">لأولئك</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E14" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-26" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1511" END="1529">فالاقسام السينمائية</charseq>
+    </extent>
+    <head>
+      <charseq START="1511" END="1518">فالاقسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1531" END="1542">اقسام (عرجاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1531" END="1535">اقسام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1545" END="1545">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1545" END="1545">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-29" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1611" END="1611">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1611" END="1611">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-30" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1666" END="1666">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1666" END="1666">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1723" END="1723">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1723" END="1723">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-35" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1754" END="1754">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1754" END="1754">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1788" END="1788">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1788" END="1788">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-39" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1810" END="1811">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1810" END="1811">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E14-77" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="498" END="510">اقسام السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="498" END="502">اقسام</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E15" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E15-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1693" END="1720">المعاهد العربية وغير العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1693" END="1699">المعاهد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E16-32" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1701" END="1707">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1701" END="1707">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E16-65" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="268" END="274">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="274">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E16-66" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="277" END="287">غير العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="287">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="268" END="274">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="281" END="287">العربية</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="1701" END="1707">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E17" TYPE="PER" SUBTYPE="Group" CLASS="NEG">
+  <entity_mention ID="ALFILFILM_20050202.1025-E17-33" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1710" END="1720">غير العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="1714" END="1720">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="1714" END="1720">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E18-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2269" END="2280">موظف السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="2269" END="2272">موظف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E18-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2261" END="2261">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="2261" END="2261">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E19-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2354" END="2361">العاطلين</charseq>
+    </extent>
+    <head>
+      <charseq START="2354" END="2361">العاطلين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E20-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2345" END="2351">للبطالة</charseq>
+    </extent>
+    <head>
+      <charseq START="2345" END="2351">للبطالة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E21-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2699" END="2711">طاهر عبد مسلم</charseq>
+    </extent>
+    <head>
+      <charseq START="2699" END="2711">طاهر عبد مسلم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E21-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2840" END="2840">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2840" END="2840">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E21-51" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2918" END="2918">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="2918" END="2918">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E21-64" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2735" END="2770">باحث عراقي في الأعلام ووسائل الأتصال</charseq>
+    </extent>
+    <head>
+      <charseq START="2735" END="2738">باحث</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طاهر عبد مسلم">
+      <charseq START="2699" END="2711">طاهر عبد مسلم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E22-48" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="2740" END="2744">عراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="2740" END="2744">عراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E22-67" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="548" END="553">للدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="553">للدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E22-74" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="412" END="418">العراقي</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="418">العراقي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عراقي">
+      <charseq START="2740" END="2744">عراقي</charseq>
+    </name>
+    <name NAME="العراقي">
+      <charseq START="412" END="418">العراقي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E23" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E23-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2905" END="2913">الأنترنيت</charseq>
+    </extent>
+    <head>
+      <charseq START="2905" END="2913">الأنترنيت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E24-52" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="3034" END="3038">باريس</charseq>
+    </extent>
+    <head>
+      <charseq START="3034" END="3038">باريس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="باريس">
+      <charseq START="3034" END="3038">باريس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E25-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="3014" END="3030">مجلة
+اليوم السابع</charseq>
+    </extent>
+    <head>
+      <charseq START="3014" END="3030">مجلة
+اليوم السابع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مجلة اليوم السابع">
+      <charseq START="3014" END="3030">مجلة
+اليوم السابع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E26" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ALFILFILM_20050202.1025-E26-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="311" END="312">من</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="312">من</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E29-68" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="315" END="315">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="315">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E29-70" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="329" END="329">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="329" END="329">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E30" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="ALFILFILM_20050202.1025-E30-71" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="340" END="341">من</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="341">من</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E30-72" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="343" END="343">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="343" END="343">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E31" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALFILFILM_20050202.1025-E31-73" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="349" END="353">الناس</charseq>
+    </extent>
+    <head>
+      <charseq START="349" END="353">الناس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E34" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="ALFILFILM_20050202.1025-E34-75" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="439" END="445">الطرشان</charseq>
+    </extent>
+    <head>
+      <charseq START="439" END="445">الطرشان</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E35" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E35-76" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="491" END="495">معاهد</charseq>
+    </extent>
+    <head>
+      <charseq START="491" END="495">معاهد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E37" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1256" END="1269">بمؤسسة السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="1256" END="1261">بمؤسسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-22" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1276" END="1277">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1276" END="1277">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="2321" END="2338">المؤسسة السينمائية</charseq>
+    </extent>
+    <head>
+      <charseq START="2321" END="2327">المؤسسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2316" END="2316">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="2316" END="2316">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-54" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2072" END="2078">السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="2072" END="2078">السينما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="2089" END="2090">هي</charseq>
+    </extent>
+    <head>
+      <charseq START="2089" END="2090">هي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1477" END="1483">السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="1477" END="1483">السينما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-57" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1658" END="1664">السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="1658" END="1664">السينما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-59" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2238" END="2244">السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="2238" END="2244">السينما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-60" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="2274" END="2280">السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="2274" END="2280">السينما</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-78" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="524" END="553">المؤسسة اليتيمة الوحيدة
+للدولة</charseq>
+    </extent>
+    <head>
+      <charseq START="524" END="530">المؤسسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALFILFILM_20050202.1025-E37-79" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="556" END="586">مؤسسة او مصلحة او دائرة السينما</charseq>
+    </extent>
+    <head>
+      <charseq START="556" END="560">مؤسسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السينما">
+      <charseq START="2072" END="2078">السينما</charseq>
+    </name>
+    <name NAME="السينما">
+      <charseq START="1477" END="1483">السينما</charseq>
+    </name>
+    <name NAME="السينما">
+      <charseq START="1658" END="1664">السينما</charseq>
+    </name>
+    <name NAME="السينما">
+      <charseq START="2238" END="2244">السينما</charseq>
+    </name>
+    <name NAME="السينما">
+      <charseq START="2274" END="2280">السينما</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALFILFILM_20050202.1025-E38" TYPE="PER" SUBTYPE="Group" CLASS="NEG">
+  <entity_mention ID="ALFILFILM_20050202.1025-E38-69" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1314" END="1320">مدافعين</charseq>
+    </extent>
+    <head>
+      <charseq START="1314" END="1320">مدافعين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ALFILFILM_20050202.1025-V1" TYPE="Contact-Info" SUBTYPE="E-Mail">
+  <value_mention ID="ALFILFILM_20050202.1025-V1-1">
+    <extent>
+      <charseq START="2713" END="2733">tahirabms@hotmail.com</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALFILFILM_20050202.1025-T1">
+  <timex2_mention ID="ALFILFILM_20050202.1025-T1-1">
+    <extent>
+      <charseq START="39" END="57">2005-02-02T10:25:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050202.1025-T2">
+  <timex2_mention ID="ALFILFILM_20050202.1025-T2-1">
+    <extent>
+      <charseq START="2781" END="2784">1961</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050202.1025-T3">
+  <timex2_mention ID="ALFILFILM_20050202.1025-T3-1">
+    <extent>
+      <charseq START="3040" END="3043">1990</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALFILFILM_20050202.1025-T4">
+  <timex2_mention ID="ALFILFILM_20050202.1025-T4-1">
+    <extent>
+      <charseq START="109" END="127">2005-02-02T10:25:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALFILFILM_20050202.1025-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050202.1025-E22" ROLE="Arg-2"/>
+  <relation_argument REFID="ALFILFILM_20050202.1025-E37" ROLE="Arg-1"/>
+  <relation_mention ID="ALFILFILM_20050202.1025-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="524" END="553">المؤسسة اليتيمة الوحيدة
+للدولة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050202.1025-E22-67" ROLE="Arg-2">
+      <extent>
+        <charseq START="548" END="553">للدولة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050202.1025-E37-78" ROLE="Arg-1">
+      <extent>
+        <charseq START="524" END="553">المؤسسة اليتيمة الوحيدة
+للدولة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050202.1025-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050202.1025-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050202.1025-E37" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050202.1025-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2269" END="2280">موظف السينما</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050202.1025-E18-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="2269" END="2280">موظف السينما</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050202.1025-E37-60" ROLE="Arg-2">
+      <extent>
+        <charseq START="2274" END="2280">السينما</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALFILFILM_20050202.1025-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALFILFILM_20050202.1025-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="ALFILFILM_20050202.1025-E22" ROLE="Arg-2"/>
+  <relation_mention ID="ALFILFILM_20050202.1025-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="2735" END="2770">باحث عراقي في الأعلام ووسائل الأتصال</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALFILFILM_20050202.1025-E21-64" ROLE="Arg-1">
+      <extent>
+        <charseq START="2735" END="2770">باحث عراقي في الأعلام ووسائل الأتصال</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALFILFILM_20050202.1025-E22-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="2740" END="2744">عراقي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

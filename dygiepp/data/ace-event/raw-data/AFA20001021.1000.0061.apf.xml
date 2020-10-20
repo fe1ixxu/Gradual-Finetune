@@ -1,0 +1,645 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001021.1000.0061.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001021.1000.0061">
+<entity ID="AFA20001021.1000.0061-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E1-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="440" END="440">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="440" END="440">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E1-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="459" END="460">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="459" END="460">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E1-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="443" END="449">الجزيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="443" END="449">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزيرة">
+      <charseq START="443" END="449">الجزيرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E2" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E2-7" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="502" END="507">الكويت</charseq>
+    </extent>
+    <head>
+      <charseq START="502" END="507">الكويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكويت">
+      <charseq START="502" END="507">الكويت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E3-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="522" END="522">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="522">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E3-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="544" END="545">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="544" END="545">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0061-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E4-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="592" END="598">الرياضي</charseq>
+    </extent>
+    <head>
+      <charseq START="592" END="598">الرياضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E4-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="590" END="590">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="590" END="590">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياضي">
+      <charseq START="592" END="598">الرياضي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E5-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="602" END="605">الله</charseq>
+    </extent>
+    <head>
+      <charseq START="602" END="605">الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الله">
+      <charseq START="602" END="605">الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E6" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="AFA20001021.1000.0061-E6-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="638" END="647">لاعب موهوب</charseq>
+    </extent>
+    <head>
+      <charseq START="638" END="641">لاعب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0061-E7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E7-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="656" END="656">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="656" END="656">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0061-E8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E8-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="659" END="663">الغضب</charseq>
+    </extent>
+    <head>
+      <charseq START="659" END="663">الغضب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الغضب">
+      <charseq START="659" END="663">الغضب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E9-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="715" END="722">الرياضية</charseq>
+    </extent>
+    <head>
+      <charseq START="715" END="722">الرياضية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E9-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="713" END="713">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="713">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياضية">
+      <charseq START="715" END="722">الرياضية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E10" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E10-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="287" END="294">الاسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="294">الاسيوية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسيوية">
+      <charseq START="287" END="294">الاسيوية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E11-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="397" END="420">الشلهوب
+(شلهبهم) بهاتريك</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="420">الشلهوب
+(شلهبهم) بهاتريك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E11-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="620" END="626">الشلهوب</charseq>
+    </extent>
+    <head>
+      <charseq START="620" END="626">الشلهوب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشلهوب (شلهبهم) بهاتريك">
+      <charseq START="397" END="420">الشلهوب
+(شلهبهم) بهاتريك</charseq>
+    </name>
+    <name NAME="الشلهوب">
+      <charseq START="620" END="626">الشلهوب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E12-10" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="357" END="362">الاخضر</charseq>
+    </extent>
+    <head>
+      <charseq START="357" END="362">الاخضر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="539" END="545">منتخبنا</charseq>
+    </extent>
+    <head>
+      <charseq START="539" END="543">منتخب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-13" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="547" END="547">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="547" END="547">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-15" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="564" END="564">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="564" END="564">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-24" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="665" END="670">الاخضر</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="670">الاخضر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="463" END="468">الاخضر</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="468">الاخضر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-32" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="725" END="730">الاخضر</charseq>
+    </extent>
+    <head>
+      <charseq START="725" END="730">الاخضر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-36" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="200" END="212">لمنتخب بلادها</charseq>
+    </extent>
+    <head>
+      <charseq START="200" END="205">لمنتخب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-41" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="222" END="222">ة</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="222">ة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E12-42" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="248" END="248">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="248">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاخضر">
+      <charseq START="665" END="670">الاخضر</charseq>
+    </name>
+    <name NAME="الاخضر">
+      <charseq START="463" END="468">الاخضر</charseq>
+    </name>
+    <name NAME="الاخضر">
+      <charseq START="725" END="730">الاخضر</charseq>
+    </name>
+    <name NAME="الاخضر">
+      <charseq START="357" END="362">الاخضر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E13-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="525" END="528">عكاظ</charseq>
+    </extent>
+    <head>
+      <charseq START="525" END="528">عكاظ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عكاظ">
+      <charseq START="525" END="528">عكاظ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E14-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="377" END="385">اوزبكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="377" END="385">اوزبكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E14-26" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="224" END="235">الاوزبكستاني</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="235">الاوزبكستاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاوزبكستاني">
+      <charseq START="224" END="235">الاوزبكستاني</charseq>
+    </name>
+    <name NAME="اوزبكستان">
+      <charseq START="377" END="385">اوزبكستان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E15-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="123" END="141">الرياض 10-21 (أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="123" END="128">الرياض</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياض">
+      <charseq START="123" END="128">الرياض</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E16-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="137" END="141">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="141">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="137" END="141">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E17-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="151" END="184">الصحف السعودية الصادرة اليوم السبت</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="155">الصحف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E17-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="149" END="149">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="149">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E17-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="211" END="212">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="212">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0061-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E18-33" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="281" END="294">الامم الاسيوية</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="285">الامم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001021.1000.0061-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E19-37" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="207" END="212">بلادها</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="210">بلاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E19-44" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="157" END="164">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="164">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودية">
+      <charseq START="157" END="164">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E21" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E21-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="479" END="487">اوزبكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="487">اوزبكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E21-14" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="553" END="561">اوزبكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="561">اوزبكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E21-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="695" END="703">اوزبكستان</charseq>
+    </extent>
+    <head>
+      <charseq START="695" END="703">اوزبكستان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E21-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="218" END="235">نظيرة الاوزبكستاني</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="221">نظير</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوزبكستان">
+      <charseq START="553" END="561">اوزبكستان</charseq>
+    </name>
+    <name NAME="اوزبكستان">
+      <charseq START="695" END="703">اوزبكستان</charseq>
+    </name>
+    <name NAME="اوزبكستان">
+      <charseq START="479" END="487">اوزبكستان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E23-43" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="313" END="317">لبنان</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="317">لبنان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لبنان">
+      <charseq START="313" END="317">لبنان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001021.1000.0061-E25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001021.1000.0061-E25-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="394" END="394">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="394">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E25-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="342" END="353">صحيفة "اليوم</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="353">صحيفة "اليوم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001021.1000.0061-E25-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="340" END="340">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="340" END="340">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة اليوم">
+      <charseq START="342" END="353">صحيفة "اليوم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001021.1000.0061-T1">
+  <timex2_mention ID="AFA20001021.1000.0061-T1-1">
+    <extent>
+      <charseq START="130" END="134">10-21</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0061-T2">
+  <timex2_mention ID="AFA20001021.1000.0061-T2-1">
+    <extent>
+      <charseq START="174" END="184">اليوم السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0061-T3">
+  <timex2_mention ID="AFA20001021.1000.0061-T3-1">
+    <extent>
+      <charseq START="323" END="331">29
+الحالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0061-T4">
+  <timex2_mention ID="AFA20001021.1000.0061-T4-1">
+    <extent>
+      <charseq START="304" END="308">حاليا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001021.1000.0061-T5">
+  <timex2_mention ID="AFA20001021.1000.0061-T5-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-21 10:05:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001021.1000.0061-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001021.1000.0061-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001021.1000.0061-E15" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001021.1000.0061-T1" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001021.1000.0061-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="123" END="141">الرياض 10-21 (أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E16-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="137" END="141">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E15-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="123" END="141">الرياض 10-21 (أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="130" END="134">10-21</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001021.1000.0061-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001021.1000.0061-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001021.1000.0061-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001021.1000.0061-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="151" END="184">الصحف السعودية الصادرة اليوم السبت</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E17-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="151" END="184">الصحف السعودية الصادرة اليوم السبت</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E19-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="157" END="164">السعودية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001021.1000.0061-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001021.1000.0061-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001021.1000.0061-E19" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001021.1000.0061-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="200" END="212">لمنتخب بلادها</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E12-36" ROLE="Arg-1">
+      <extent>
+        <charseq START="200" END="212">لمنتخب بلادها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E19-37" ROLE="Arg-2">
+      <extent>
+        <charseq START="207" END="212">بلادها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001021.1000.0061-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001021.1000.0061-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001021.1000.0061-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001021.1000.0061-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="281" END="294">الامم الاسيوية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E18-33" ROLE="Arg-1">
+      <extent>
+        <charseq START="281" END="294">الامم الاسيوية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001021.1000.0061-E10-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="287" END="294">الاسيوية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

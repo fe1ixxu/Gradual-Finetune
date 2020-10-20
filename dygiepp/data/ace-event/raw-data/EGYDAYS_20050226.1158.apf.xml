@@ -1,0 +1,452 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="EGYDAYS_20050226.1158.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="EGYDAYS_20050226.1158">
+<entity ID="EGYDAYS_20050226.1158-E1" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E1-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="975" END="980">الغرفة</charseq>
+    </extent>
+    <head>
+      <charseq START="975" END="980">الغرفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E1-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1003" END="1004">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1003" END="1004">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E1-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1044" END="1053">تلك الغرفة</charseq>
+    </extent>
+    <head>
+      <charseq START="1048" END="1053">الغرفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E1-9" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="1056" END="1058">حيث</charseq>
+    </extent>
+    <head>
+      <charseq START="1056" END="1058">حيث</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E2" TYPE="LOC" SUBTYPE="Celestial" CLASS="GEN">
+  <entity_mention ID="EGYDAYS_20050226.1158-E2-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="945" END="949">لعالم</charseq>
+    </extent>
+    <head>
+      <charseq START="945" END="949">لعالم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E3" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E3-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="138" END="141">غرفت</charseq>
+    </extent>
+    <head>
+      <charseq START="138" END="141">غرفت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E4-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="206" END="206">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="206">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E4-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1023" END="1023">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="1023" END="1023">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E4-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="249" END="249">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="249">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E4-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="356" END="356">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="356" END="356">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E4-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="89" END="98">egyserpico</charseq>
+    </extent>
+    <head>
+      <charseq START="89" END="98">egyserpico</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E4-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="142" END="142">ى</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="142">ى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E4-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="748" END="748">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="748" END="748">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="egyserpico">
+      <charseq START="89" END="98">egyserpico</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="937" END="937">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="937" END="937">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="970" END="970">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="970">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="996" END="996">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="996" END="996">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1064" END="1068">الفتى</charseq>
+    </extent>
+    <head>
+      <charseq START="1064" END="1068">الفتى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="420" END="420">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="420">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="753" END="753">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="753" END="753">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="320" END="327">فيرناندو</charseq>
+    </extent>
+    <head>
+      <charseq START="320" END="327">فيرناندو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="404" END="404">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="404" END="404">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="829" END="829">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="829" END="829">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="613" END="613">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="613" END="613">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="833" END="833">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="833" END="833">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="844" END="844">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="844" END="844">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E5-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="877" END="877">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="877" END="877">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فيرناندو">
+      <charseq START="320" END="327">فيرناندو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E6" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E6-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="406" END="411">الحمام</charseq>
+    </extent>
+    <head>
+      <charseq START="406" END="411">الحمام</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E7-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="704" END="708">تشيلى</charseq>
+    </extent>
+    <head>
+      <charseq START="704" END="708">تشيلى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تشيلى">
+      <charseq START="704" END="708">تشيلى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E8-27" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="815" END="822">الأسبانى</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="822">الأسبانى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأسبانى">
+      <charseq START="815" END="822">الأسبانى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E9-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="849" END="871">معلق رياضى من الأرجنتين</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="852">معلق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E9-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="880" END="880">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="880" END="880">ه</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E10-12" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="529" END="533">الوطن</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="533">الوطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E10-31" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="863" END="871">الأرجنتين</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="871">الأرجنتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأرجنتين">
+      <charseq START="863" END="871">الأرجنتين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="EGYDAYS_20050226.1158-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="EGYDAYS_20050226.1158-E11-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="909" END="924">لاعب الكرة ايالا</charseq>
+    </extent>
+    <head>
+      <charseq START="909" END="912">لاعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="EGYDAYS_20050226.1158-E11-35" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="920" END="924">ايالا</charseq>
+    </extent>
+    <head>
+      <charseq START="920" END="924">ايالا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايالا">
+      <charseq START="920" END="924">ايالا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="EGYDAYS_20050226.1158-T1">
+  <timex2_mention ID="EGYDAYS_20050226.1158-T1-1">
+    <extent>
+      <charseq START="451" END="461">ساعات تالية</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EGYDAYS_20050226.1158-T2">
+  <timex2_mention ID="EGYDAYS_20050226.1158-T2-1">
+    <extent>
+      <charseq START="37" END="55">2005-02-26T11:58:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EGYDAYS_20050226.1158-T3">
+  <timex2_mention ID="EGYDAYS_20050226.1158-T3-1">
+    <extent>
+      <charseq START="102" END="120">2005-02-26T11:58:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EGYDAYS_20050226.1158-T4">
+  <timex2_mention ID="EGYDAYS_20050226.1158-T4-1">
+    <extent>
+      <charseq START="144" END="148">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EGYDAYS_20050226.1158-T5">
+  <timex2_mention ID="EGYDAYS_20050226.1158-T5-1">
+    <extent>
+      <charseq START="229" END="242">الأسبوع المقبل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EGYDAYS_20050226.1158-T6">
+  <timex2_mention ID="EGYDAYS_20050226.1158-T6-1">
+    <extent>
+      <charseq START="764" END="768">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="EGYDAYS_20050226.1158-T7">
+  <timex2_mention ID="EGYDAYS_20050226.1158-T7-1">
+    <extent>
+      <charseq START="774" END="784">لخمسة دقائق</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="EGYDAYS_20050226.1158-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="EGYDAYS_20050226.1158-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="EGYDAYS_20050226.1158-E3" ROLE="Arg-2"/>
+  <relation_mention ID="EGYDAYS_20050226.1158-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="138" END="142">غرفتى</charseq>
+    </extent>
+    <relation_mention_argument REFID="EGYDAYS_20050226.1158-E4-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="142" END="142">ى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="EGYDAYS_20050226.1158-E3-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="138" END="141">غرفت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="EGYDAYS_20050226.1158-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="EGYDAYS_20050226.1158-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="EGYDAYS_20050226.1158-E10" ROLE="Arg-2"/>
+  <relation_mention ID="EGYDAYS_20050226.1158-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="849" END="871">معلق رياضى من الأرجنتين</charseq>
+    </extent>
+    <relation_mention_argument REFID="EGYDAYS_20050226.1158-E9-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="849" END="871">معلق رياضى من الأرجنتين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="EGYDAYS_20050226.1158-E10-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="863" END="871">الأرجنتين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="EGYDAYS_20050226.1158-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="EGYDAYS_20050226.1158-E1" ROLE="Destination"/>
+  <event_argument REFID="EGYDAYS_20050226.1158-E5" ROLE="Artifact"/>
+  <event_mention ID="EGYDAYS_20050226.1158-EV1-1">
+    <extent>
+      <charseq START="970" END="980">يدخل الغرفة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="890" END="1013">و عن
+مدى سوء أخلاق لاعب الكرة ايالا، و عن مفهومه الخاص لعالم أكثر سعادة، قبل
+أن يدخل الغرفة مجدداً دون أن يخرج منها مرة أخرى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="970" END="973">يدخل</charseq>
+    </anchor>
+    <event_mention_argument REFID="EGYDAYS_20050226.1158-E1-5" ROLE="Destination">
+      <extent>
+        <charseq START="975" END="980">الغرفة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="EGYDAYS_20050226.1158-E5-3" ROLE="Artifact">
+      <extent>
+        <charseq START="970" END="970">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

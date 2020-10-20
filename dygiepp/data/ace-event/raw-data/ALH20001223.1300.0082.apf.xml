@@ -1,0 +1,701 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001223.1300.0082.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001223.1300.0082">
+<entity ID="ALH20001223.1300.0082-E1" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="373" END="384">جنوب اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="384">اسبانيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E1-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="477" END="488">جنوب اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="488">اسبانيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001223.1300.0082-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E2-7" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="523" END="528">اميركا</charseq>
+    </extent>
+    <head>
+      <charseq START="523" END="528">اميركا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اميركا">
+      <charseq START="523" END="528">اميركا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E3-8" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="531" END="537">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="531" END="537">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسرائيل">
+      <charseq START="531" END="537">اسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E4-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="573" END="599">امبراطورية اعلامية في موسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="582">امبراطورية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001223.1300.0082-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E5-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="595" END="599">موسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="599">موسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="موسكو">
+      <charseq START="595" END="599">موسكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E6-15" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="622" END="634">للرئيس الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="627">للرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E6-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="636" END="649">فلاديمير بوتين</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="649">فلاديمير بوتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلاديمير بوتين">
+      <charseq START="636" END="649">فلاديمير بوتين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E8-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="629" END="634">الروسي</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="634">الروسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E8-29" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="258" END="258">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="258">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E8-30" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="262" END="307">روسيا التي تتهمه
+بجرائم نصب واختلاس اموال عامة</charseq>
+    </extent>
+    <head>
+      <charseq START="262" END="266">روسيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E8-31" TYPE="PRO" LDCTYPE="WHQ" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="268" END="271">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="268" END="271">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E8-32" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="273" END="273">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="273">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الروسي">
+      <charseq START="629" END="634">الروسي</charseq>
+    </name>
+    <name NAME="روسيا">
+      <charseq START="262" END="266">روسيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E9-19" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="111" END="123">مدريد  رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="115">مدريد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مدريد">
+      <charseq START="111" END="115">مدريد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E10-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="118" END="123">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="118" END="123">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="118" END="123">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E11-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="130" END="144">القاضي الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="135">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E11-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="146" END="159">بالتزار غارسون</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="159">بالتزار غارسون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E11-34" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="315" END="320">القاضي</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="320">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بالتزار غارسون">
+      <charseq START="146" END="159">بالتزار غارسون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E13-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="137" END="144">الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="144">الاسباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسباني">
+      <charseq START="137" END="144">الاسباني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E14-1" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="363" END="368">الاخير</charseq>
+    </extent>
+    <head>
+      <charseq START="363" END="368">الاخير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="450" END="465">غوزينسكي 48 عاما</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="457">غوزينسكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-4" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="475" END="475">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="475" END="475">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-9" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="549" END="599">الثري
+اليهودي الذي يملك امبراطورية اعلامية في موسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="549" END="553">الثري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-10" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="563" END="566">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="563" END="566">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-11" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="568" END="568">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="568">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-18" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="326" END="333">غوزينسكي</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="333">غوزينسكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-26" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="192" END="208">فلاديمير غوزينسكي</charseq>
+    </extent>
+    <head>
+      <charseq START="192" END="208">فلاديمير غوزينسكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-27" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="178" END="233">الثري اليهودي فلاديمير غوزينسكي الذي اعتقل قبل
+عشرة ايام</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="182">الثري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-28" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="210" END="213">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="213">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E14-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="277" END="277">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="277">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غوزينسكي">
+      <charseq START="450" END="457">غوزينسكي</charseq>
+    </name>
+    <name NAME="غوزينسكي">
+      <charseq START="326" END="333">غوزينسكي</charseq>
+    </name>
+    <name NAME="فلاديمير غوزينسكي">
+      <charseq START="192" END="208">فلاديمير غوزينسكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001223.1300.0082-E17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001223.1300.0082-E17-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="471" END="488">منزله جنوب اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="474">منزل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001223.1300.0082-E17-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="358" END="384">منزل الاخير في جنوب اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="361">منزل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ALH20001223.1300.0082-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001223.1300.0082-V1-1">
+    <extent>
+      <charseq START="417" END="435">الخمسة ملايين دولار</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001223.1300.0082-T1">
+  <timex2_mention ID="ALH20001223.1300.0082-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-12-23</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001223.1300.0082-T2">
+  <timex2_mention ID="ALH20001223.1300.0082-T2-1">
+    <extent>
+      <charseq START="161" END="163">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001223.1300.0082-T3">
+  <timex2_mention ID="ALH20001223.1300.0082-T3-1">
+    <extent>
+      <charseq START="221" END="233">قبل
+عشرة ايام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001223.1300.0082-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001223.1300.0082-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001223.1300.0082-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001223.1300.0082-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="111" END="123">مدريد  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E10-20" ROLE="Arg-1">
+      <extent>
+        <charseq START="118" END="123">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E9-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="111" END="123">مدريد  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001223.1300.0082-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001223.1300.0082-E11" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001223.1300.0082-E13" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001223.1300.0082-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="130" END="144">القاضي الاسباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E11-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="130" END="144">القاضي الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E13-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="137" END="144">الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001223.1300.0082-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001223.1300.0082-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001223.1300.0082-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001223.1300.0082-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="358" END="384">منزل الاخير في جنوب اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E14-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="363" END="368">الاخير</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E17-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="358" END="384">منزل الاخير في جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001223.1300.0082-R3-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="471" END="488">منزله جنوب اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E14-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="475" END="475">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E17-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="471" END="488">منزله جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001223.1300.0082-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001223.1300.0082-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001223.1300.0082-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001223.1300.0082-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="358" END="384">منزل الاخير في جنوب اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E17-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="358" END="384">منزل الاخير في جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E1-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="373" END="384">جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001223.1300.0082-R4-2" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="471" END="488">منزله جنوب اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E17-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="471" END="488">منزله جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E1-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="477" END="488">جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001223.1300.0082-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001223.1300.0082-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001223.1300.0082-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001223.1300.0082-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="573" END="599">امبراطورية اعلامية في موسكو</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E4-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="573" END="599">امبراطورية اعلامية في موسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E5-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="595" END="599">موسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001223.1300.0082-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001223.1300.0082-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001223.1300.0082-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001223.1300.0082-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="622" END="634">للرئيس الروسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E6-15" ROLE="Arg-1">
+      <extent>
+        <charseq START="622" END="634">للرئيس الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E8-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="629" END="634">الروسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001223.1300.0082-R9" TYPE="ORG-AFF" SUBTYPE="Ownership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001223.1300.0082-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001223.1300.0082-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001223.1300.0082-R9-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="549" END="599">الثري
+اليهودي الذي يملك امبراطورية اعلامية في موسكو</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E14-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="549" END="599">الثري
+اليهودي الذي يملك امبراطورية اعلامية في موسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001223.1300.0082-E4-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="573" END="599">امبراطورية اعلامية في موسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001223.1300.0082-EV1" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001223.1300.0082-E14" ROLE="Person"/>
+  <event_argument REFID="ALH20001223.1300.0082-E11" ROLE="Entity"/>
+  <event_mention ID="ALH20001223.1300.0082-EV1-1">
+    <extent>
+      <charseq START="130" END="233">القاضي الاسباني بالتزار غارسون امس،
+بالافراج عن الثري اليهودي فلاديمير غوزينسكي الذي اعتقل قبل
+عشرة ايام</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="126" END="307">أمر القاضي الاسباني بالتزار غارسون امس،
+بالافراج عن الثري اليهودي فلاديمير غوزينسكي الذي اعتقل قبل
+عشرة ايام بموجب مذكرة استرداد قدمتها روسيا التي تتهمه
+بجرائم نصب واختلاس اموال عامة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="166" END="173">بالافراج</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E14-27" ROLE="Person">
+      <extent>
+        <charseq START="178" END="233">الثري اليهودي فلاديمير غوزينسكي الذي اعتقل قبل
+عشرة ايام</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E11-22" ROLE="Entity">
+      <extent>
+        <charseq START="130" END="144">القاضي الاسباني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001223.1300.0082-EV2" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001223.1300.0082-E11" ROLE="Adjudicator"/>
+  <event_argument REFID="ALH20001223.1300.0082-E14" ROLE="Defendant"/>
+  <event_argument REFID="ALH20001223.1300.0082-E17" ROLE="Place"/>
+  <event_mention ID="ALH20001223.1300.0082-EV2-1">
+    <extent>
+      <charseq START="315" END="384">القاضي وضع غوزينسكي
+قيد الاقامة الجبرية في منزل الاخير في جنوب اسبانيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="310" END="435">وقرر القاضي وضع غوزينسكي
+قيد الاقامة الجبرية في منزل الاخير في جنوب اسبانيا، وذلك
+بعد دفع كفالة مالية تفوق الخمسة ملايين دولار</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="339" END="345">الاقامة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E11-34" ROLE="Adjudicator">
+      <extent>
+        <charseq START="315" END="320">القاضي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E14-18" ROLE="Defendant">
+      <extent>
+        <charseq START="326" END="333">غوزينسكي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E17-25" ROLE="Place">
+      <extent>
+        <charseq START="358" END="384">منزل الاخير في جنوب اسبانيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001223.1300.0082-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001223.1300.0082-E14" ROLE="Person"/>
+  <event_argument REFID="ALH20001223.1300.0082-E8" ROLE="Agent"/>
+  <event_argument REFID="ALH20001223.1300.0082-T3" ROLE="Time-Before"/>
+  <event_mention ID="ALH20001223.1300.0082-EV3-1">
+    <extent>
+      <charseq START="210" END="307">الذي اعتقل قبل
+عشرة ايام بموجب مذكرة استرداد قدمتها روسيا التي تتهمه
+بجرائم نصب واختلاس اموال عامة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="126" END="307">أمر القاضي الاسباني بالتزار غارسون امس،
+بالافراج عن الثري اليهودي فلاديمير غوزينسكي الذي اعتقل قبل
+عشرة ايام بموجب مذكرة استرداد قدمتها روسيا التي تتهمه
+بجرائم نصب واختلاس اموال عامة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="215" END="219">اعتقل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E14-28" ROLE="Person">
+      <extent>
+        <charseq START="210" END="213">الذي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E8-30" ROLE="Agent">
+      <extent>
+        <charseq START="262" END="307">روسيا التي تتهمه
+بجرائم نصب واختلاس اموال عامة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001223.1300.0082-T3-1" ROLE="Time-Before">
+      <extent>
+        <charseq START="221" END="233">قبل
+عشرة ايام</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001223.1300.0082-EV4" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001223.1300.0082-E14" ROLE="Defendant"/>
+  <event_argument REFID="ALH20001223.1300.0082-E8" ROLE="Prosecutor"/>
+  <event_mention ID="ALH20001223.1300.0082-EV4-1">
+    <extent>
+      <charseq START="273" END="277">تتهمه</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="126" END="307">أمر القاضي الاسباني بالتزار غارسون امس،
+بالافراج عن الثري اليهودي فلاديمير غوزينسكي الذي اعتقل قبل
+عشرة ايام بموجب مذكرة استرداد قدمتها روسيا التي تتهمه
+بجرائم نصب واختلاس اموال عامة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="273" END="277">تتهمه</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E14-33" ROLE="Defendant">
+      <extent>
+        <charseq START="277" END="277">ه</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E8-32" ROLE="Prosecutor">
+      <extent>
+        <charseq START="273" END="273">ت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001223.1300.0082-EV5" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001223.1300.0082-E14" ROLE="Person"/>
+  <event_argument REFID="ALH20001223.1300.0082-E17" ROLE="Place"/>
+  <event_mention ID="ALH20001223.1300.0082-EV5-1">
+    <extent>
+      <charseq START="443" END="488">اعتقال غوزينسكي 48 عاماً في منزله جنوب اسبانيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="438" END="537">وكان اعتقال غوزينسكي 48 عاماً في منزله جنوب اسبانيا، اثار
+موجة من الانتقادات من جانب اميركا واسرائيل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="443" END="448">اعتقال</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E14-3" ROLE="Person">
+      <extent>
+        <charseq START="450" END="465">غوزينسكي 48 عاما</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001223.1300.0082-E17-5" ROLE="Place">
+      <extent>
+        <charseq START="471" END="488">منزله جنوب اسبانيا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001107.0700.0027.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001107.0700.0027">
+<entity ID="ALH20001107.0700.0027-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E1-1" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="277" END="293">الحكومة البحرينية</charseq>
+    </extent>
+    <head>
+      <charseq START="277" END="283">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E1-2" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="285" END="293">البحرينية</charseq>
+    </extent>
+    <head>
+      <charseq START="285" END="293">البحرينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E1-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="348" END="354">البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="348" END="354">البحرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E1-72" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="120" END="131">دولة البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="131">دولة البحرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E1-80" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="260" END="266">للبحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="260" END="266">للبحرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البحرينية">
+      <charseq START="285" END="293">البحرينية</charseq>
+    </name>
+    <name NAME="البحرين">
+      <charseq START="348" END="354">البحرين</charseq>
+    </name>
+    <name NAME="دولة البحرين">
+      <charseq START="120" END="131">دولة البحرين</charseq>
+    </name>
+    <name NAME="للبحرين">
+      <charseq START="260" END="266">للبحرين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E2-5" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="307" END="335">الشيخ خليفة بن سلمان آل خليفة</charseq>
+    </extent>
+    <head>
+      <charseq START="307" END="311">الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E2-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="337" END="354">رئيس وزراء البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="337" END="340">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E2-7" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="313" END="335">خليفة بن سلمان آل خليفة</charseq>
+    </extent>
+    <head>
+      <charseq START="313" END="335">خليفة بن سلمان آل خليفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خليفة بن سلمان آل خليفة">
+      <charseq START="313" END="335">خليفة بن سلمان آل خليفة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E5-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="342" END="354">وزراء البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="346">وزراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E6-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="362" END="386">الأمير سلمان بن عبدالعزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="362" END="367">الأمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E6-12" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="388" END="404">أمير منطقة الرياض</charseq>
+    </extent>
+    <head>
+      <charseq START="388" END="391">أمير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E6-13" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="369" END="386">سلمان بن عبدالعزيز</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="386">سلمان بن عبدالعزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E6-65" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="407" END="438">رئيس
+مؤسسة الرياض الخيرية للعلوم</charseq>
+    </extent>
+    <head>
+      <charseq START="407" END="410">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سلمان بن عبدالعزيز">
+      <charseq START="369" END="386">سلمان بن عبدالعزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E9-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="393" END="404">منطقة الرياض</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="397">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E10-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="399" END="404">الرياض</charseq>
+    </extent>
+    <head>
+      <charseq START="399" END="404">الرياض</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الرياض">
+      <charseq START="399" END="404">الرياض</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E11-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="412" END="438">مؤسسة الرياض الخيرية للعلوم</charseq>
+    </extent>
+    <head>
+      <charseq START="412" END="438">مؤسسة الرياض الخيرية للعلوم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مؤسسة الرياض الخيرية للعلوم">
+      <charseq START="412" END="438">مؤسسة الرياض الخيرية للعلوم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E12-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="441" END="475">المؤسسة العامة للتأمينات
+الاجتماعية</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="475">المؤسسة العامة للتأمينات
+الاجتماعية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E12-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="484" END="485">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="485">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المؤسسة العامة للتأمينات الاجتماعية">
+      <charseq START="441" END="475">المؤسسة العامة للتأمينات
+الاجتماعية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E13-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="506" END="530">كلية الأمير سلطان
+الأهلية</charseq>
+    </extent>
+    <head>
+      <charseq START="506" END="530">كلية الأمير سلطان
+الأهلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كلية الأمير سلطان الأهلية">
+      <charseq START="506" END="530">كلية الأمير سلطان
+الأهلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E14-20" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="573" END="595">الدكتور بدرالدين عرودكي</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="579">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E14-21" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="581" END="595">بدرالدين عرودكي</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="595">بدرالدين عرودكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E14-50" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="566" END="566">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="566" END="566">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بدرالدين عرودكي">
+      <charseq START="581" END="595">بدرالدين عرودكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E15-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="600" END="634">المقهى الأدبي في معهد
+العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="605">المقهى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E16" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E16-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="617" END="634">معهد
+العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="634">معهد
+العالم العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="معهد العالم العربي">
+      <charseq START="617" END="634">معهد
+العالم العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E17-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="636" END="663">المناضلة اللبنانية سهى بشارة</charseq>
+    </extent>
+    <head>
+      <charseq START="636" END="643">المناضلة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E17-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="655" END="663">سهى بشارة</charseq>
+    </extent>
+    <head>
+      <charseq START="655" END="663">سهى بشارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E17-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="682" END="683">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="682" END="683">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سهى بشارة">
+      <charseq START="655" END="663">سهى بشارة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E19-26" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="645" END="653">اللبنانية</charseq>
+    </extent>
+    <head>
+      <charseq START="645" END="653">اللبنانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اللبنانية">
+      <charseq START="645" END="653">اللبنانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E20-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="697" END="727">دار نشر جان كلود لاتيس الفرنسية</charseq>
+    </extent>
+    <head>
+      <charseq START="697" END="718">دار نشر جان كلود لاتيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="دار نشر جان كلود لاتيس">
+      <charseq START="697" END="718">دار نشر جان كلود لاتيس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E21-29" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="720" END="727">الفرنسية</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="727">الفرنسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفرنسية">
+      <charseq START="720" END="727">الفرنسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E22-30" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="795" END="815">اتحاد المصارف العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="815">اتحاد المصارف العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E22-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="856" END="862">الاتحاد</charseq>
+    </extent>
+    <head>
+      <charseq START="856" END="862">الاتحاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E22-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="892" END="892">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="892" END="892">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اتحاد المصارف العربية">
+      <charseq START="795" END="815">اتحاد المصارف العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E23-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="864" END="919">شخصيات مصرفية بارزة من
+اعضائه ومن المجتمع المصرفي العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="864" END="869">شخصيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E24-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="887" END="891">اعضائ</charseq>
+    </extent>
+    <head>
+      <charseq START="887" END="891">اعضائ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E25-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="898" END="919">المجتمع المصرفي العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="898" END="904">المجتمع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E26-36" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="914" END="919">العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="914" END="919">العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E26-41" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="987" END="993">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="987" END="993">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E26-51" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1102" END="1109">العربيات</charseq>
+    </extent>
+    <head>
+      <charseq START="1102" END="1109">العربيات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربي">
+      <charseq START="914" END="919">العربي</charseq>
+    </name>
+    <name NAME="العربية">
+      <charseq START="987" END="993">العربية</charseq>
+    </name>
+    <name NAME="العربيات">
+      <charseq START="1102" END="1109">العربيات</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E27-38" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="953" END="1003">محمود عبدالعزيز »الشخصية المصرفية العربية
+لعام ٠٠٠٢</charseq>
+    </extent>
+    <head>
+      <charseq START="953" END="967">محمود عبدالعزيز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E27-66" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="947" END="951">رئيسه</charseq>
+    </extent>
+    <head>
+      <charseq START="947" END="950">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E27-67" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="970" END="1003">الشخصية المصرفية العربية
+لعام ٠٠٠٢</charseq>
+    </extent>
+    <head>
+      <charseq START="970" END="976">الشخصية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محمود عبدالعزيز">
+      <charseq START="953" END="967">محمود عبدالعزيز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E29-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="951" END="951">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="951">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E29-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="934" END="945">مجلس
+الادارة</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="937">مجلس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E31-43" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1010" END="1010">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1010" END="1010">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E31-44" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1012" END="1034">السيدة غادة حماد أم علي</charseq>
+    </extent>
+    <head>
+      <charseq START="1012" END="1017">السيدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E31-45" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1019" END="1034">غادة حماد أم علي</charseq>
+    </extent>
+    <head>
+      <charseq START="1019" END="1034">غادة حماد أم علي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E31-46" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1036" END="1092">رئيسة اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية في لندن</charseq>
+    </extent>
+    <head>
+      <charseq START="1036" END="1040">رئيسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غادة حماد أم علي">
+      <charseq START="1019" END="1034">غادة حماد أم علي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E34" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E34-47" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="1042" END="1084">اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="1042" END="1084">اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اللجنة الاجتماعية لرابطة الجالية الفلسطينية">
+      <charseq START="1042" END="1084">اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E35" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E35-48" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1089" END="1092">لندن</charseq>
+    </extent>
+    <head>
+      <charseq START="1089" END="1092">لندن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لندن">
+      <charseq START="1089" END="1092">لندن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E36-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1094" END="1109">السيدات العربيات</charseq>
+    </extent>
+    <head>
+      <charseq START="1094" END="1100">السيدات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E38-52" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1219" END="1228">ضيف اللقاء</charseq>
+    </extent>
+    <head>
+      <charseq START="1219" END="1221">ضيف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E38-54" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1230" END="1270">المفوض
+الفلسطيني العام في المملكة المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1230" END="1235">المفوض</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E38-55" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1272" END="1287">السيد عفيف صافية</charseq>
+    </extent>
+    <head>
+      <charseq START="1272" END="1276">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E38-56" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1278" END="1287">عفيف صافية</charseq>
+    </extent>
+    <head>
+      <charseq START="1278" END="1287">عفيف صافية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E38-57" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="1214" END="1214">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="1214" END="1214">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عفيف صافية">
+      <charseq START="1278" END="1287">عفيف صافية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E41" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E41-58" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="1237" END="1245">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="1237" END="1245">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E41-61" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="1343" END="1348">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="1343" END="1348">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E41-63" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="1315" END="1319">الوطن</charseq>
+    </extent>
+    <head>
+      <charseq START="1315" END="1319">الوطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطيني">
+      <charseq START="1237" END="1245">الفلسطيني</charseq>
+    </name>
+    <name NAME="فلسطين">
+      <charseq START="1343" END="1348">فلسطين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E43-59" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1256" END="1270">المملكة المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="1256" END="1270">المملكة المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المملكة المتحدة">
+      <charseq START="1256" END="1270">المملكة المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E44" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E44-60" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1333" END="1348">لمستشفيات فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="1333" END="1341">لمستشفيات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E45-62" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1356" END="1376">أطفال الصمود والحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="1356" END="1360">أطفال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001107.0700.0027-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E48-69" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="84" END="110">الشيخ سلمان بن حمد آل خليفة</charseq>
+    </extent>
+    <head>
+      <charseq START="84" END="88">الشيخ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E48-70" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="112" END="131">ولي عهد دولة البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="114">ولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E48-71" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="90" END="110">سلمان بن حمد آل خليفة</charseq>
+    </extent>
+    <head>
+      <charseq START="90" END="110">سلمان بن حمد آل خليفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سلمان بن حمد آل خليفة">
+      <charseq START="90" END="110">سلمان بن حمد آل خليفة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E52-3" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="305" END="305">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="305">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E52-74" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="137" END="171">الدكتور عبدالعزيز بن عثمان التويجري</charseq>
+    </extent>
+    <head>
+      <charseq START="137" END="143">الدكتور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E52-75" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="173" END="235">المدير العام
+للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="178">المدير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E52-76" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="145" END="171">عبدالعزيز بن عثمان التويجري</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="171">عبدالعزيز بن عثمان التويجري</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E52-78" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="237" END="240">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="240">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E52-79" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="242" END="242">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="242" END="242">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عبدالعزيز بن عثمان التويجري">
+      <charseq START="145" END="171">عبدالعزيز بن عثمان التويجري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001107.0700.0027-E55" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001107.0700.0027-E55-64" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="229" END="235">ايسيسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="229" END="235">ايسيسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001107.0700.0027-E55-77" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="186" END="235">للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="186" END="227">للمنظمة الاسلامية للتربية والعلوم والثقافة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ايسيسكو">
+      <charseq START="229" END="235">ايسيسكو</charseq>
+    </name>
+    <name NAME="للمنظمة الاسلامية للتربية والعلوم والثقافة">
+      <charseq START="186" END="227">للمنظمة الاسلامية للتربية والعلوم والثقافة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<value ID="ALH20001107.0700.0027-V1" TYPE="Contact-Info" SUBTYPE="Phone-Number">
+  <value_mention ID="ALH20001107.0700.0027-V1-1">
+    <extent>
+      <charseq START="1456" END="1466">02072211734</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001107.0700.0027-T1">
+  <timex2_mention ID="ALH20001107.0700.0027-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-07</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T2">
+  <timex2_mention ID="ALH20001107.0700.0027-T2-1">
+    <extent>
+      <charseq START="133" END="135">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T3">
+  <timex2_mention ID="ALH20001107.0700.0027-T3-1">
+    <extent>
+      <charseq START="532" END="541">لهذا العام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T4">
+  <timex2_mention ID="ALH20001107.0700.0027-T4-1">
+    <extent>
+      <charseq START="733" END="766">الساعة السابعة من مساء غد الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T5">
+  <timex2_mention ID="ALH20001107.0700.0027-T5-1">
+    <extent>
+      <charseq START="995" END="1003">لعام ٠٠٠٢</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T6">
+  <timex2_mention ID="ALH20001107.0700.0027-T6-1">
+    <extent>
+      <charseq START="1133" END="1165">صباح الخميس 9 تشرين الثاني نوفمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T7">
+  <timex2_mention ID="ALH20001107.0700.0027-T7-1">
+    <extent>
+      <charseq START="827" END="839">اليوبيل الفضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T8">
+  <timex2_mention ID="ALH20001107.0700.0027-T8-1">
+    <extent>
+      <charseq START="1120" END="1125">الصباح</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T9">
+  <timex2_mention ID="ALH20001107.0700.0027-T9-1">
+    <extent>
+      <charseq START="1170" END="1187">الحادية
+عشرة صباحا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001107.0700.0027-T10">
+  <timex2_mention ID="ALH20001107.0700.0027-T10-1">
+    <extent>
+      <charseq START="1194" END="1210">الثالثة بعد الظهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001107.0700.0027-R1" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E29" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E27" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001107.0700.0027-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="947" END="951">رئيسه</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E29-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="951" END="951">ه</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E27-66" ROLE="Arg-1">
+      <extent>
+        <charseq START="947" END="951">رئيسه</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="600" END="634">المقهى الأدبي في معهد
+العالم العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E16-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="617" END="634">معهد
+العالم العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E15-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="600" END="634">المقهى الأدبي في معهد
+العالم العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R3" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E9" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="388" END="404">أمير منطقة الرياض</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E6-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="388" END="404">أمير منطقة الرياض</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E9-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="393" END="404">منطقة الرياض</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E48" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="112" END="131">ولي عهد دولة البحرين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E48-70" ROLE="Arg-1">
+      <extent>
+        <charseq START="112" END="131">ولي عهد دولة البحرين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E1-72" ROLE="Arg-2">
+      <extent>
+        <charseq START="120" END="131">دولة البحرين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R5" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E52" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E55" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="173" END="235">المدير العام
+للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E52-75" ROLE="Arg-1">
+      <extent>
+        <charseq START="173" END="235">المدير العام
+للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E55-77" ROLE="Arg-2">
+      <extent>
+        <charseq START="186" END="235">للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R6" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R6-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="342" END="354">وزراء البحرين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E5-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="342" END="354">وزراء البحرين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E1-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="348" END="354">البحرين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R7" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R7-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="337" END="354">رئيس وزراء البحرين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E2-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="337" END="354">رئيس وزراء البحرين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E5-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="342" END="354">وزراء البحرين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E11" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R8-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="407" END="438">رئيس
+مؤسسة الرياض الخيرية للعلوم</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E6-65" ROLE="Arg-1">
+      <extent>
+        <charseq START="407" END="438">رئيس
+مؤسسة الرياض الخيرية للعلوم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E11-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="412" END="438">مؤسسة الرياض الخيرية للعلوم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E21" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="697" END="727">دار نشر جان كلود لاتيس الفرنسية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E20-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="697" END="727">دار نشر جان كلود لاتيس الفرنسية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E21-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="720" END="727">الفرنسية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R10" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E31" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E34" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R10-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1036" END="1092">رئيسة اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية في لندن</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E31-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="1036" END="1092">رئيسة اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية في لندن</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E34-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="1042" END="1084">اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E35" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R11-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="1036" END="1092">رئيسة اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية في لندن</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E34-47" ROLE="Arg-1">
+      <extent>
+        <charseq START="1042" END="1084">اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E35-48" ROLE="Arg-2">
+      <extent>
+        <charseq START="1089" END="1092">لندن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R12" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E26" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R12-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1094" END="1109">السيدات العربيات</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E36-49" ROLE="Arg-1">
+      <extent>
+        <charseq START="1094" END="1109">السيدات العربيات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E26-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="1102" END="1109">العربيات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R13" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E38" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E41" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1230" END="1270">المفوض
+الفلسطيني العام في المملكة المتحدة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E38-54" ROLE="Arg-1">
+      <extent>
+        <charseq START="1230" END="1270">المفوض
+الفلسطيني العام في المملكة المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E41-58" ROLE="Arg-2">
+      <extent>
+        <charseq START="1237" END="1245">الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R14" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E44" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E41" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R14-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="1333" END="1348">لمستشفيات فلسطين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E44-60" ROLE="Arg-1">
+      <extent>
+        <charseq START="1333" END="1348">لمستشفيات فلسطين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E41-61" ROLE="Arg-2">
+      <extent>
+        <charseq START="1343" END="1348">فلسطين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001107.0700.0027-R15" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001107.0700.0027-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001107.0700.0027-E19" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001107.0700.0027-R15-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="636" END="663">المناضلة اللبنانية سهى بشارة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E17-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="636" END="663">المناضلة اللبنانية سهى بشارة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001107.0700.0027-E19-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="645" END="653">اللبنانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001107.0700.0027-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001107.0700.0027-E52" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001107.0700.0027-E1" ROLE="Destination"/>
+  <event_argument REFID="ALH20001107.0700.0027-T2" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001107.0700.0027-EV1-1">
+    <extent>
+      <charseq START="133" END="266">امس الدكتور عبدالعزيز بن عثمان التويجري المدير العام
+للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو الذي
+يقوم بزيارة رسمية للبحرين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="77" END="354">استقبل الشيخ سلمان بن حمد آل خليفة ولي عهد دولة البحرين
+امس الدكتور عبدالعزيز بن عثمان التويجري المدير العام
+للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو الذي
+يقوم بزيارة رسمية للبحرين بدعوة من الحكومة البحرينية كما
+استقبله الشيخ خليفة بن سلمان آل خليفة رئيس وزراء البحرين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="247" END="252">بزيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E52-79" ROLE="Artifact">
+      <extent>
+        <charseq START="242" END="242">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E1-80" ROLE="Destination">
+      <extent>
+        <charseq START="260" END="266">للبحرين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="133" END="135">امس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001107.0700.0027-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001107.0700.0027-E15" ROLE="Place"/>
+  <event_argument REFID="ALH20001107.0700.0027-E14" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-E17" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-T4" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001107.0700.0027-EV2-1">
+    <extent>
+      <charseq START="566" END="766">يستقبل الدكتور بدرالدين عرودكي في المقهى الأدبي في معهد
+العالم العربي المناضلة اللبنانية سهى بشارة بمناسبة ظهور
+كتابها »مقاومة« عن دار نشر جان كلود لاتيس الفرنسية عند
+الساعة السابعة من مساء غد الاربعاء</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="566" END="766">يستقبل الدكتور بدرالدين عرودكي في المقهى الأدبي في معهد
+العالم العربي المناضلة اللبنانية سهى بشارة بمناسبة ظهور
+كتابها »مقاومة« عن دار نشر جان كلود لاتيس الفرنسية عند
+الساعة السابعة من مساء غد الاربعاء</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="566" END="571">يستقبل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E15-22" ROLE="Place">
+      <extent>
+        <charseq START="600" END="634">المقهى الأدبي في معهد
+العالم العربي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E14-50" ROLE="Entity">
+      <extent>
+        <charseq START="566" END="566">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E17-24" ROLE="Entity">
+      <extent>
+        <charseq START="636" END="663">المناضلة اللبنانية سهى بشارة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="733" END="766">الساعة السابعة من مساء غد الاربعاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001107.0700.0027-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001107.0700.0027-E22" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-T5" ROLE="Time-Within"/>
+  <event_argument REFID="ALH20001107.0700.0027-E29" ROLE="Person"/>
+  <event_argument REFID="ALH20001107.0700.0027-E27" ROLE="Person"/>
+  <event_mention ID="ALH20001107.0700.0027-EV3-1">
+    <extent>
+      <charseq START="795" END="1003">اتحاد المصارف العربية في مناسبة
+اليوبيل الفضي لتأسيسه، كرَّم الاتحاد شخصيات مصرفية بارزة من
+اعضائه ومن المجتمع المصرفي العربي واعلن اختيار مجلس
+الادارة رئيسه محمود عبدالعزيز »الشخصية المصرفية العربية
+لعام ٠٠٠٢</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="770" END="1003">في الاحتفالات التي نظمها اتحاد المصارف العربية في مناسبة
+اليوبيل الفضي لتأسيسه، كرَّم الاتحاد شخصيات مصرفية بارزة من
+اعضائه ومن المجتمع المصرفي العربي واعلن اختيار مجلس
+الادارة رئيسه محمود عبدالعزيز »الشخصية المصرفية العربية
+لعام ٠٠٠٢</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="927" END="932">اختيار</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E22-30" ROLE="Entity">
+      <extent>
+        <charseq START="795" END="815">اتحاد المصارف العربية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="995" END="1003">لعام ٠٠٠٢</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E29-40" ROLE="Person">
+      <extent>
+        <charseq START="934" END="945">مجلس
+الادارة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E27-66" ROLE="Person">
+      <extent>
+        <charseq START="947" END="951">رئيسه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001107.0700.0027-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001107.0700.0027-E1" ROLE="Place"/>
+  <event_argument REFID="ALH20001107.0700.0027-E48" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-E52" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-E2" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-T2" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001107.0700.0027-EV4-1">
+    <extent>
+      <charseq START="77" END="335">استقبل الشيخ سلمان بن حمد آل خليفة ولي عهد دولة البحرين
+امس الدكتور عبدالعزيز بن عثمان التويجري المدير العام
+للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو الذي
+يقوم بزيارة رسمية للبحرين بدعوة من الحكومة البحرينية كما
+استقبله الشيخ خليفة بن سلمان آل خليفة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="77" END="354">استقبل الشيخ سلمان بن حمد آل خليفة ولي عهد دولة البحرين
+امس الدكتور عبدالعزيز بن عثمان التويجري المدير العام
+للمنظمة الاسلامية للتربية والعلوم والثقافة ايسيسكو الذي
+يقوم بزيارة رسمية للبحرين بدعوة من الحكومة البحرينية كما
+استقبله الشيخ خليفة بن سلمان آل خليفة رئيس وزراء البحرين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="77" END="82">استقبل</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E1-80" ROLE="Place">
+      <extent>
+        <charseq START="260" END="266">للبحرين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E48-69" ROLE="Entity">
+      <extent>
+        <charseq START="84" END="110">الشيخ سلمان بن حمد آل خليفة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E52-74" ROLE="Entity">
+      <extent>
+        <charseq START="137" END="171">الدكتور عبدالعزيز بن عثمان التويجري</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E2-5" ROLE="Entity">
+      <extent>
+        <charseq START="307" END="335">الشيخ خليفة بن سلمان آل خليفة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="133" END="135">امس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001107.0700.0027-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001107.0700.0027-E31" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-E36" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-E38" ROLE="Entity"/>
+  <event_argument REFID="ALH20001107.0700.0027-T9" ROLE="Time-Starting"/>
+  <event_argument REFID="ALH20001107.0700.0027-T10" ROLE="Time-Ending"/>
+  <event_argument REFID="ALH20001107.0700.0027-T6" ROLE="Time-Within"/>
+  <event_mention ID="ALH20001107.0700.0027-EV5-1">
+    <extent>
+      <charseq START="1010" END="1270">ت السيدة غادة حماد أم علي رئيسة اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية في لندن السيدات العربيات الى قهوة
+الصباح، وذلك صباح الخميس 9 تشرين الثاني نوفمبر من الحادية
+عشرة صباحاً الى الثالثة بعد الظهر وسيكون ضيف اللقاء المفوض
+الفلسطيني العام في المملكة المتحدة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="1008" END="1384">دعت السيدة غادة حماد أم علي رئيسة اللجنة الاجتماعية
+لرابطة الجالية الفلسطينية في لندن السيدات العربيات الى قهوة
+الصباح، وذلك صباح الخميس 9 تشرين الثاني نوفمبر من الحادية
+عشرة صباحاً الى الثالثة بعد الظهر وسيكون ضيف اللقاء المفوض
+الفلسطيني العام في المملكة المتحدة السيد عفيف صافية للحديث
+عن الوضع الحالي في الوطن ويخصص الريع لمستشفيات فلسطين
+ولدعم أطفال الصمود والحجارة العنوان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="1223" END="1228">اللقاء</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E31-43" ROLE="Entity">
+      <extent>
+        <charseq START="1010" END="1010">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E36-49" ROLE="Entity">
+      <extent>
+        <charseq START="1094" END="1109">السيدات العربيات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-E38-54" ROLE="Entity">
+      <extent>
+        <charseq START="1230" END="1270">المفوض
+الفلسطيني العام في المملكة المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-T9-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="1170" END="1187">الحادية
+عشرة صباحا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-T10-1" ROLE="Time-Ending">
+      <extent>
+        <charseq START="1194" END="1210">الثالثة بعد الظهر</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001107.0700.0027-T6-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="1133" END="1165">صباح الخميس 9 تشرين الثاني نوفمبر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

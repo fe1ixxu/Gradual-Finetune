@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001123.0700.0023.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001123.0700.0023">
+<entity ID="ALH20001123.0700.0023-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001123.0700.0023-E1-30" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="527" END="533">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="533">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="527" END="533">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001123.0700.0023-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001123.0700.0023-E2-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="115" END="134">سفير الكويت في فرنسا</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="118">سفير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E2-14" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="136" END="149">احمد الابراهيم</charseq>
+    </extent>
+    <head>
+      <charseq START="136" END="149">احمد الابراهيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E2-24" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="294" END="302">الابراهيم</charseq>
+    </extent>
+    <head>
+      <charseq START="294" END="302">الابراهيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="احمد الابراهيم">
+      <charseq START="136" END="149">احمد الابراهيم</charseq>
+    </name>
+    <name NAME="الابراهيم">
+      <charseq START="294" END="302">الابراهيم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001123.0700.0023-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001123.0700.0023-E4-2" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="549" END="550">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="549" END="550">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-3" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="553" END="553">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="553">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-6" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="627" END="627">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="627">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-7" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="633" END="638">الكويت</charseq>
+    </extent>
+    <head>
+      <charseq START="633" END="638">الكويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-8" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="690" END="691">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="690" END="691">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-10" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="326" END="326">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="326">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-11" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="617" END="617">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="617" END="617">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-12" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="513" END="544">عاصمة الثقافة العربية للعام
+2001</charseq>
+    </extent>
+    <head>
+      <charseq START="513" END="517">عاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-15" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="120" END="125">الكويت</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="125">الكويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="209" END="219">دولة الكويت</charseq>
+    </extent>
+    <head>
+      <charseq START="209" END="219">دولة الكويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-25" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="319" END="324">الكويت</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="324">الكويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-28" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="500" END="505">الكويت</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="505">الكويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E4-29" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="508" END="508">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="508">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكويت">
+      <charseq START="633" END="638">الكويت</charseq>
+    </name>
+    <name NAME="الكويت">
+      <charseq START="120" END="125">الكويت</charseq>
+    </name>
+    <name NAME="دولة الكويت">
+      <charseq START="209" END="219">دولة الكويت</charseq>
+    </name>
+    <name NAME="الكويت">
+      <charseq START="319" END="324">الكويت</charseq>
+    </name>
+    <name NAME="الكويت">
+      <charseq START="500" END="505">الكويت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001123.0700.0023-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001123.0700.0023-E5-16" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="130" END="134">فرنسا</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="134">فرنسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E5-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="251" END="255">فرنسي</charseq>
+    </extent>
+    <head>
+      <charseq START="251" END="255">فرنسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E5-26" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="383" END="387">فرنسا</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="387">فرنسا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فرنسا">
+      <charseq START="130" END="134">فرنسا</charseq>
+    </name>
+    <name NAME="فرنسي">
+      <charseq START="251" END="255">فرنسي</charseq>
+    </name>
+    <name NAME="فرنسا">
+      <charseq START="383" END="387">فرنسا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001123.0700.0023-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001123.0700.0023-E6-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="152" END="174">رئيس معهد العالم
+العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="152" END="155">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E6-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="176" END="185">كميل كابان</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="185">كميل كابان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كميل كابان">
+      <charseq START="176" END="185">كميل كابان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001123.0700.0023-E8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="ALH20001123.0700.0023-E8-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="567" END="584">معهد العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="584">معهد العالم العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E8-5" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="593" END="593">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="593" END="593">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E8-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="708" END="725">معهد العالم العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="708" END="725">معهد العالم العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E8-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="157" END="174">معهد العالم
+العربي</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="174">معهد العالم
+العربي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001123.0700.0023-E8-23" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="281" END="286">المعهد</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="286">المعهد</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="معهد العالم العربي">
+      <charseq START="567" END="584">معهد العالم العربي</charseq>
+    </name>
+    <name NAME="معهد العالم العربي">
+      <charseq START="708" END="725">معهد العالم العربي</charseq>
+    </name>
+    <name NAME="معهد العالم العربي">
+      <charseq START="157" END="174">معهد العالم
+العربي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001123.0700.0023-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001123.0700.0023-E10-27" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="457" END="463">البلدين</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="463">البلدين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<value ID="ALH20001123.0700.0023-V1" TYPE="Numeric" SUBTYPE="Money">
+  <value_mention ID="ALH20001123.0700.0023-V1-1">
+    <extent>
+      <charseq START="237" END="255">48 مليون فرنك فرنسي</charseq>
+    </extent>
+  </value_mention>
+</value>
+<timex2 ID="ALH20001123.0700.0023-T1">
+  <timex2_mention ID="ALH20001123.0700.0023-T1-1">
+    <extent>
+      <charseq START="535" END="544">للعام
+2001</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001123.0700.0023-T2">
+  <timex2_mention ID="ALH20001123.0700.0023-T2-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-23</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001123.0700.0023-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001123.0700.0023-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001123.0700.0023-E4" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001123.0700.0023-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="115" END="134">سفير الكويت في فرنسا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001123.0700.0023-E2-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="115" END="134">سفير الكويت في فرنسا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001123.0700.0023-E4-15" ROLE="Arg-2">
+      <extent>
+        <charseq START="120" END="125">الكويت</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001123.0700.0023-R2" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001123.0700.0023-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001123.0700.0023-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001123.0700.0023-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="115" END="134">سفير الكويت في فرنسا</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001123.0700.0023-E2-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="115" END="134">سفير الكويت في فرنسا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001123.0700.0023-E5-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="130" END="134">فرنسا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001123.0700.0023-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001123.0700.0023-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001123.0700.0023-E8" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001123.0700.0023-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="152" END="174">رئيس معهد العالم
+العربي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001123.0700.0023-E6-18" ROLE="Arg-1">
+      <extent>
+        <charseq START="152" END="174">رئيس معهد العالم
+العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001123.0700.0023-E8-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="157" END="174">معهد العالم
+العربي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001123.0700.0023-EV1" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="ALH20001123.0700.0023-E2" ROLE="Entity"/>
+  <event_argument REFID="ALH20001123.0700.0023-E6" ROLE="Entity"/>
+  <event_mention ID="ALH20001123.0700.0023-EV1-1">
+    <extent>
+      <charseq START="111" END="174">وقع سفير الكويت في فرنسا احمد الابراهيم ورئيس معهد العالم
+العربي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="111" END="286">وقع سفير الكويت في فرنسا احمد الابراهيم ورئيس معهد العالم
+العربي كميل كابان بروتوكول تتعهد بموجبه دولة الكويت تقديم
+مبلغ قدره 48 مليون فرنك فرنسي لتمويل نشاطات ثقافية في
+المعهد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="111" END="113">وقع</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001123.0700.0023-E2-13" ROLE="Entity">
+      <extent>
+        <charseq START="115" END="134">سفير الكويت في فرنسا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001123.0700.0023-E6-18" ROLE="Entity">
+      <extent>
+        <charseq START="152" END="174">رئيس معهد العالم
+العربي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001123.0700.0023-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001123.0700.0023-E4" ROLE="Giver"/>
+  <event_argument REFID="ALH20001123.0700.0023-V1" ROLE="Money"/>
+  <event_argument REFID="ALH20001123.0700.0023-E8" ROLE="Recipient"/>
+  <event_mention ID="ALH20001123.0700.0023-EV2-1">
+    <extent>
+      <charseq START="209" END="286">دولة الكويت تقديم
+مبلغ قدره 48 مليون فرنك فرنسي لتمويل نشاطات ثقافية في
+المعهد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="111" END="286">وقع سفير الكويت في فرنسا احمد الابراهيم ورئيس معهد العالم
+العربي كميل كابان بروتوكول تتعهد بموجبه دولة الكويت تقديم
+مبلغ قدره 48 مليون فرنك فرنسي لتمويل نشاطات ثقافية في
+المعهد</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="221" END="225">تقديم</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001123.0700.0023-E4-21" ROLE="Giver">
+      <extent>
+        <charseq START="209" END="219">دولة الكويت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001123.0700.0023-V1-1" ROLE="Money">
+      <extent>
+        <charseq START="237" END="255">48 مليون فرنك فرنسي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001123.0700.0023-E8-23" ROLE="Recipient">
+      <extent>
+        <charseq START="281" END="286">المعهد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

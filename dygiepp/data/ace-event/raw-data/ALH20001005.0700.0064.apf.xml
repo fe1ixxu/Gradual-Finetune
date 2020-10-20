@@ -1,0 +1,800 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001005.0700.0064.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001005.0700.0064">
+<entity ID="ALH20001005.0700.0064-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E1-1" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="328" END="336">الإماراتي</charseq>
+    </extent>
+    <head>
+      <charseq START="328" END="336">الإماراتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E1-3" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="386" END="395">الإماراتية</charseq>
+    </extent>
+    <head>
+      <charseq START="386" END="395">الإماراتية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E1-14" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="144" END="150">إماراتي</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="150">إماراتي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E1-18" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="627" END="634">إماراتية</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="634">إماراتية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E1-34" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="176" END="183">الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="176" END="183">الإمارات</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإماراتي">
+      <charseq START="328" END="336">الإماراتي</charseq>
+    </name>
+    <name NAME="الإماراتية">
+      <charseq START="386" END="395">الإماراتية</charseq>
+    </name>
+    <name NAME="إماراتي">
+      <charseq START="144" END="150">إماراتي</charseq>
+    </name>
+    <name NAME="إماراتية">
+      <charseq START="627" END="634">إماراتية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E2-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="380" END="395">الصحف الإماراتية</charseq>
+    </extent>
+    <head>
+      <charseq START="380" END="384">الصحف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E4" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="478" END="501">جبال
+رأس الخيمة والفجيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="481">جبال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E5-8" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="483" END="492">رأس الخيمة</charseq>
+    </extent>
+    <head>
+      <charseq START="483" END="492">رأس الخيمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رأس الخيمة">
+      <charseq START="483" END="492">رأس الخيمة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E6-9" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="495" END="501">الفجيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="501">الفجيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفجيرة">
+      <charseq START="495" END="501">الفجيرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E7-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="548" END="570">جنود الاحتلال في فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="548" END="551">جنود</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E7-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="292" END="309">القوات الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="297">القوات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E8-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="621" END="634">شركات إماراتية</charseq>
+    </extent>
+    <head>
+      <charseq START="621" END="625">شركات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E10" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E10-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="706" END="707">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="706" END="707">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E12-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="713" END="731">أبطال
+انتفاضة القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="713" END="717">أبطال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E13-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="727" END="731">القدس</charseq>
+    </extent>
+    <head>
+      <charseq START="727" END="731">القدس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القدس">
+      <charseq START="727" END="731">القدس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E14-16" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="600" END="600">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="600">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E14-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="134" END="150">رجل أعمال إماراتي</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="136">رجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E14-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="316" END="367">رجل الأعمال الإماراتي صديق فتح علي بن عبدالله الخاجة</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="318">رجل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E14-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="338" END="367">صديق فتح علي بن عبدالله الخاجة</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="367">صديق فتح علي بن عبدالله الخاجة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صديق فتح علي بن عبدالله الخاجة">
+      <charseq START="338" END="367">صديق فتح علي بن عبدالله الخاجة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E15-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="111" END="125">أبوظبي  »الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="111" END="116">أبوظبي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أبوظبي">
+      <charseq START="111" END="116">أبوظبي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E16-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="590" END="595">الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="590" END="595">الحياة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E16-31" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="120" END="125">الحياة</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="125">الحياة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الحياة">
+      <charseq START="590" END="595">الحياة</charseq>
+    </name>
+    <name NAME="الحياة">
+      <charseq START="120" END="125">الحياة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E17-32" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="227" END="234">الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="234">الإمارات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E18" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E18-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="643" END="649">المقالع</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="649">المقالع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E18-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="408" END="414">المقالع</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="414">المقالع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E18-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="152" END="183">بنصف مليون
+مقلاع من صنع الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="163" END="167">مقلاع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E20" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E20-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="240" END="241">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="240" END="241">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E20-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="193" END="206">٠٥ شاحنة كبيرة</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="200">شاحنة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E21" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E21-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="417" END="423">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="423">الحجارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E21-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="441" END="447">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="441" END="447">الحجارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E21-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="436" END="436">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="436">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E21-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="517" END="518">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="518">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E21-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="526" END="527">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="526" END="527">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E21-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="652" END="658">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="652" END="658">الحجارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E21-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="211" END="217">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="217">الحجارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E22" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E22-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="222" END="234">جبال الإمارات</charseq>
+    </extent>
+    <head>
+      <charseq START="222" END="225">جبال</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001005.0700.0064-E23" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E23-13" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="565" END="570">فلسطين</charseq>
+    </extent>
+    <head>
+      <charseq START="565" END="570">فلسطين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E23-38" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="273" END="287">الشعب
+الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="277">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001005.0700.0064-E23-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="279" END="287">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="287">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلسطين">
+      <charseq START="565" END="570">فلسطين</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="279" END="287">الفلسطيني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001005.0700.0064-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001005.0700.0064-E25-40" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="299" END="309">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="309">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإسرائيلية">
+      <charseq START="299" END="309">الإسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001005.0700.0064-T1">
+  <timex2_mention ID="ALH20001005.0700.0064-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-10-05</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001005.0700.0064-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E1" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E14" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001005.0700.0064-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="134" END="150">رجل أعمال إماراتي</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E14-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="134" END="150">رجل أعمال إماراتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E1-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="144" END="150">إماراتي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="ALH20001005.0700.0064-R1-2" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="316" END="367">رجل الأعمال الإماراتي صديق فتح علي بن عبدالله الخاجة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E1-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="328" END="336">الإماراتي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E14-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="316" END="367">رجل الأعمال الإماراتي صديق فتح علي بن عبدالله الخاجة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E18" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="152" END="183">بنصف مليون
+مقلاع من صنع الإمارات</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E1-34" ROLE="Arg-1">
+      <extent>
+        <charseq START="176" END="183">الإمارات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E18-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="152" END="183">بنصف مليون
+مقلاع من صنع الإمارات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E17" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="222" END="234">جبال الإمارات</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E22-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="222" END="234">جبال الإمارات</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E17-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="227" END="234">الإمارات</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E25" ROLE="Arg-2"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E7" ROLE="Arg-1"/>
+  <relation_mention ID="ALH20001005.0700.0064-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="292" END="309">القوات الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E25-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="299" END="309">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E7-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="292" END="309">القوات الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="380" END="395">الصحف الإماراتية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E2-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="380" END="395">الصحف الإماراتية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E1-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="386" END="395">الإماراتية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E5" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="478" END="501">جبال
+رأس الخيمة والفجيرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E4-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="478" END="501">جبال
+رأس الخيمة والفجيرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E5-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="483" END="492">رأس الخيمة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E6" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="478" END="501">جبال
+رأس الخيمة والفجيرة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E4-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="478" END="501">جبال
+رأس الخيمة والفجيرة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E6-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="495" END="501">الفجيرة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R9" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E23" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R9-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="548" END="570">جنود الاحتلال في فلسطين</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E7-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="548" END="570">جنود الاحتلال في فلسطين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E23-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="565" END="570">فلسطين</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E1" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="621" END="634">شركات إماراتية</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E8-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="621" END="634">شركات إماراتية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E1-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="627" END="634">إماراتية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="ALH20001005.0700.0064-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001005.0700.0064-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001005.0700.0064-E15" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001005.0700.0064-R11-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="111" END="125">أبوظبي  »الحياة</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E16-31" ROLE="Arg-1">
+      <extent>
+        <charseq START="120" END="125">الحياة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001005.0700.0064-E15-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="111" END="125">أبوظبي  »الحياة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="ALH20001005.0700.0064-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="ALH20001005.0700.0064-E23" ROLE="Attacker"/>
+  <event_argument REFID="ALH20001005.0700.0064-E7" ROLE="Target"/>
+  <event_mention ID="ALH20001005.0700.0064-EV1-1">
+    <extent>
+      <charseq START="265" END="309">انتفاضة الشعب
+الفلسطيني ضد القوات الإسرائيلية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="129" END="309">تبرع رجل أعمال إماراتي بنصف مليون
+مقلاع من صنع الإمارات، وحمولة ٠٥ شاحنة كبيرة من الحجارة من
+جبال الإمارات، وزنها أكثر من ٠٠٥١ طن، لدعم انتفاضة الشعب
+الفلسطيني ضد القوات الإسرائيلية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="265" END="271">انتفاضة</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E23-38" ROLE="Attacker">
+      <extent>
+        <charseq START="273" END="287">الشعب
+الفلسطيني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E7-29" ROLE="Target">
+      <extent>
+        <charseq START="292" END="309">القوات الإسرائيلية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001005.0700.0064-EV2" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001005.0700.0064-E21" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001005.0700.0064-E14" ROLE="Buyer"/>
+  <event_argument REFID="ALH20001005.0700.0064-E18" ROLE="Artifact"/>
+  <event_mention ID="ALH20001005.0700.0064-EV2-1">
+    <extent>
+      <charseq START="316" END="423">رجل الأعمال الإماراتي صديق فتح علي بن عبدالله الخاجة
+إعلاناً في الصحف الإماراتية أمس لتوريد المقالع والحجارة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="311" END="423">ونشر رجل الأعمال الإماراتي صديق فتح علي بن عبدالله الخاجة
+إعلاناً في الصحف الإماراتية أمس لتوريد المقالع والحجارة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="401" END="406">لتوريد</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E21-4" ROLE="Artifact">
+      <extent>
+        <charseq START="417" END="423">الحجارة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E14-24" ROLE="Buyer">
+      <extent>
+        <charseq START="316" END="367">رجل الأعمال الإماراتي صديق فتح علي بن عبدالله الخاجة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E18-28" ROLE="Artifact">
+      <extent>
+        <charseq START="408" END="414">المقالع</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001005.0700.0064-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001005.0700.0064-E7" ROLE="Target"/>
+  <event_argument REFID="ALH20001005.0700.0064-E21" ROLE="Instrument"/>
+  <event_mention ID="ALH20001005.0700.0064-EV3-1">
+    <extent>
+      <charseq START="441" END="570">الحجارة من الصوان الذي يوجد بكثرة في جبال
+رأس الخيمة والفجيرة، وأن يتم تكسيرها وإعدادها بأحجام مناسبة
+لرشق جنود الاحتلال في فلسطين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="426" END="570">واشترط أن تكون الحجارة من الصوان الذي يوجد بكثرة في جبال
+رأس الخيمة والفجيرة، وأن يتم تكسيرها وإعدادها بأحجام مناسبة
+لرشق جنود الاحتلال في فلسطين</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="543" END="546">لرشق</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E7-12" ROLE="Target">
+      <extent>
+        <charseq START="548" END="570">جنود الاحتلال في فلسطين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E21-5" ROLE="Instrument">
+      <extent>
+        <charseq START="441" END="447">الحجارة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001005.0700.0064-EV4" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001005.0700.0064-E18" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001005.0700.0064-E21" ROLE="Artifact"/>
+  <event_argument REFID="ALH20001005.0700.0064-E8" ROLE="Seller"/>
+  <event_argument REFID="ALH20001005.0700.0064-E14" ROLE="Buyer"/>
+  <event_mention ID="ALH20001005.0700.0064-EV4-1">
+    <extent>
+      <charseq START="600" END="658">ه
+تلقى أمس عروضاً من شركات إماراتية لتوريد المقالع والحجارة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="572" END="667">وأكد في اتصال مع »الحياة« أنه
+تلقى أمس عروضاً من شركات إماراتية لتوريد المقالع والحجارة
+المطلوبة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="636" END="641">لتوريد</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E18-27" ROLE="Artifact">
+      <extent>
+        <charseq START="643" END="649">المقالع</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E21-19" ROLE="Artifact">
+      <extent>
+        <charseq START="652" END="658">الحجارة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E8-17" ROLE="Seller">
+      <extent>
+        <charseq START="621" END="634">شركات إماراتية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E14-16" ROLE="Buyer">
+      <extent>
+        <charseq START="600" END="600">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="ALH20001005.0700.0064-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="ALH20001005.0700.0064-E10" ROLE="Artifact"/>
+  <event_mention ID="ALH20001005.0700.0064-EV5-1">
+    <extent>
+      <charseq START="702" END="707">وصولها</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="670" END="731">وقال »هناك اتصالات ناجحة لترتيب وصولها إلى أبطال
+انتفاضة القدس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="702" END="707">وصولها</charseq>
+    </anchor>
+    <event_mention_argument REFID="ALH20001005.0700.0064-E10-20" ROLE="Artifact">
+      <extent>
+        <charseq START="706" END="707">ها</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

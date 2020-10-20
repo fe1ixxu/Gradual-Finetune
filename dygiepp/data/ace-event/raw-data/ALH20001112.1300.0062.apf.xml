@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="ALH20001112.1300.0062.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="ALH20001112.1300.0062">
+<entity ID="ALH20001112.1300.0062-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E1-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="615" END="621">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="615" END="621">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E1-16" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="361" END="367">المصرية</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="367">المصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المصرية">
+      <charseq START="615" END="621">المصرية</charseq>
+    </name>
+    <name NAME="المصرية">
+      <charseq START="361" END="367">المصرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001112.1300.0062-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E2-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="624" END="631">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="624" END="631">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E2-17" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="370" END="377">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="377">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودية">
+      <charseq START="624" END="631">السعودية</charseq>
+    </name>
+    <name NAME="السعودية">
+      <charseq START="370" END="377">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001112.1300.0062-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E3-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="103" END="117">القاهرة  رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="103" END="109">القاهرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القاهرة">
+      <charseq START="103" END="109">القاهرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001112.1300.0062-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E4-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="112" END="117">رويترز</charseq>
+    </extent>
+    <head>
+      <charseq START="112" END="117">رويترز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رويترز">
+      <charseq START="112" END="117">رويترز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001112.1300.0062-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E5-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="145" END="158">مصرية  
+سعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="149">مصرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E5-18" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="387" END="394">الدولتان</charseq>
+    </extent>
+    <head>
+      <charseq START="387" END="394">الدولتان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصرية">
+      <charseq START="145" END="149">مصرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001112.1300.0062-E6" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E6-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="637" END="648">البحر الاحمر</charseq>
+    </extent>
+    <head>
+      <charseq START="637" END="648">البحر الاحمر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E6-11" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="182" END="193">البحر الاحمر</charseq>
+    </extent>
+    <head>
+      <charseq START="182" END="193">البحر الاحمر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البحر الاحمر">
+      <charseq START="637" END="648">البحر الاحمر</charseq>
+    </name>
+    <name NAME="البحر الاحمر">
+      <charseq START="182" END="193">البحر الاحمر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001112.1300.0062-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E7-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="563" END="569">المصادر</charseq>
+    </extent>
+    <head>
+      <charseq START="563" END="569">المصادر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E7-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="199" END="199">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="199" END="199">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E7-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="201" END="212">مصادر
+عسكرية</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="205">مصادر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E7-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="561" END="561">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="561">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001112.1300.0062-E8" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E8-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="261" END="278">الاراضي الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="261" END="278">الاراضي الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاراضي الفلسطينية">
+      <charseq START="261" END="278">الاراضي الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="ALH20001112.1300.0062-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E9-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="605" END="631">البحريتين
+المصرية والسعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="605" END="613">البحريتين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E9-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="694" END="694">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="694" END="694">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E9-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="701" END="709">البحريتان</charseq>
+    </extent>
+    <head>
+      <charseq START="701" END="709">البحريتان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="ALH20001112.1300.0062-E9-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="351" END="377">البحريتين المصرية والسعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="359">البحريتين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="ALH20001112.1300.0062-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="ALH20001112.1300.0062-E13-19" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="471" END="481">ميناء سفاجة</charseq>
+    </extent>
+    <head>
+      <charseq START="471" END="481">ميناء سفاجة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميناء سفاجة">
+      <charseq START="471" END="481">ميناء سفاجة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="ALH20001112.1300.0062-T1">
+  <timex2_mention ID="ALH20001112.1300.0062-T1-1">
+    <extent>
+      <charseq START="39" END="48">2000-11-12</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001112.1300.0062-T2">
+  <timex2_mention ID="ALH20001112.1300.0062-T2-1">
+    <extent>
+      <charseq START="126" END="128">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001112.1300.0062-T3">
+  <timex2_mention ID="ALH20001112.1300.0062-T3-1">
+    <extent>
+      <charseq START="425" END="434">اربعة ايام</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001112.1300.0062-T4">
+  <timex2_mention ID="ALH20001112.1300.0062-T4-1">
+    <extent>
+      <charseq START="490" END="494">يومين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="ALH20001112.1300.0062-T5">
+  <timex2_mention ID="ALH20001112.1300.0062-T5-1">
+    <extent>
+      <charseq START="341" END="345">سنويا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="ALH20001112.1300.0062-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="ALH20001112.1300.0062-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="ALH20001112.1300.0062-E3" ROLE="Arg-2"/>
+  <relation_mention ID="ALH20001112.1300.0062-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="103" END="117">القاهرة  رويترز</charseq>
+    </extent>
+    <relation_mention_argument REFID="ALH20001112.1300.0062-E4-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="112" END="117">رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="ALH20001112.1300.0062-E3-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="103" END="117">القاهرة  رويترز</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="MISRDIGITAL_20050126.0079.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="MISRDIGITAL_20050126.0079">
+<entity ID="MISRDIGITAL_20050126.0079-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="793" END="861">عمال البلدية الذين كانوا يتولون نظافة الشارع قبل قدوم
+الشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="793" END="796">عمال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-7" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="806" END="810">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="810">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="815" END="816">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="815" END="816">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="822" END="823">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="822" END="823">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="880" END="881">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="880" END="881">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="891" END="892">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="891" END="892">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="901" END="902">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="901" END="902">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E1-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="909" END="910">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="909" END="910">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E2" TYPE="ORG" SUBTYPE="Government" CLASS="GEN">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E2-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="798" END="804">البلدية</charseq>
+    </extent>
+    <head>
+      <charseq START="798" END="804">البلدية</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E3-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="929" END="948">عمال الشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="929" END="932">عمال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E3-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="951" END="952">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="951" END="952">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E3-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="958" END="959">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="958" END="959">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E4" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E4-24" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1039" END="1044">أوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="1039" END="1044">أوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أوروبا">
+      <charseq START="1039" END="1044">أوروبا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E5" TYPE="FAC" SUBTYPE="Path" CLASS="USP">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E5-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="1062" END="1077">الشوارع الجانبية</charseq>
+    </extent>
+    <head>
+      <charseq START="1062" END="1068">الشوارع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E5-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1079" END="1079">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1079" END="1079">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E6" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="255" END="301">عربات
+كارو تجرها الحمير يقودها الزبالون القدامى</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="259">عربات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="269" END="270">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="269" END="270">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="283" END="284">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="284">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="304" END="304">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="304">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="308" END="318">هذه العربات</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="318">العربات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="347" END="347">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="347">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="355" END="355">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="355" END="355">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E6-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="460" END="466">عرباتهم</charseq>
+    </extent>
+    <head>
+      <charseq START="460" END="464">عربات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E7-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="147" END="161">للشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="152">للشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="847" END="861">الشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="847" END="852">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E7-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="934" END="948">الشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="934" END="939">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E7-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="995" END="1009">الشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="995" END="1000">الشركة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E7-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="993" END="993">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="993" END="993">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E7-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1014" END="1015">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="1014" END="1015">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E7-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="331" END="345">الشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="336">الشركة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E8-23" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="1027" END="1029">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="1027" END="1029">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E8-37" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="1025" END="1025">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="1025" END="1025">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="1027" END="1029">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E9" TYPE="FAC" SUBTYPE="Path" CLASS="GEN">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E9-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="831" END="836">الشارع</charseq>
+    </extent>
+    <head>
+      <charseq START="831" END="836">الشارع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E9-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="978" END="984">الشوارع</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="984">الشوارع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E9-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="246" END="253">بالشوارع</charseq>
+    </extent>
+    <head>
+      <charseq START="246" END="253">بالشوارع</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E10-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="286" END="301">الزبالون القدامى</charseq>
+    </extent>
+    <head>
+      <charseq START="286" END="293">الزبالون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E10-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="279" END="279">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="279" END="279">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E10-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="447" END="447">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="447" END="447">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E10-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="465" END="466">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="465" END="466">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E10-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="474" END="475">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="474" END="475">ون</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E11" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E11-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="610" END="610">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="610">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E11-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="734" END="735">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="734" END="735">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E11-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="740" END="740">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="740" END="740">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E11-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="679" END="680">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="679" END="680">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E11-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="482" END="483">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="483">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E11-49" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="494" END="494">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="494">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E11-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="600" END="601">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="600" END="601">نا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E12-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="521" END="607">لزبال الحى التقليدى الذى
+يأتى يوما بعد يوم ليأخذ القمامة من أمام البيت كما اعتدنا دائما</charseq>
+    </extent>
+    <head>
+      <charseq START="521" END="525">لزبال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E12-52" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="541" END="544">الذى</charseq>
+    </extent>
+    <head>
+      <charseq START="541" END="544">الذى</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E12-53" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="546" END="546">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="546" END="546">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E12-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="565" END="565">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="565" END="565">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E13" TYPE="LOC" SUBTYPE="Address" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E13-51" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="527" END="539">الحى التقليدى</charseq>
+    </extent>
+    <head>
+      <charseq START="527" END="530">الحى</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E14" TYPE="VEH" SUBTYPE="Land" CLASS="USP">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E14-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="125" END="161">عربات القمامة التابعة للشركة الأجنبية</charseq>
+    </extent>
+    <head>
+      <charseq START="125" END="129">عربات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E14-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="241" END="241">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="241">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E14-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="120" END="120">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="120" END="120">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="MISRDIGITAL_20050126.0079-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="MISRDIGITAL_20050126.0079-E15-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="586" END="590">البيت</charseq>
+    </extent>
+    <head>
+      <charseq START="586" END="590">البيت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="MISRDIGITAL_20050126.0079-T1">
+  <timex2_mention ID="MISRDIGITAL_20050126.0079-T1-1">
+    <extent>
+      <charseq START="188" END="200">الواحدة صباحا</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="MISRDIGITAL_20050126.0079-T2">
+  <timex2_mention ID="MISRDIGITAL_20050126.0079-T2-1">
+    <extent>
+      <charseq START="213" END="224">العاشرة مساء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="MISRDIGITAL_20050126.0079-T3">
+  <timex2_mention ID="MISRDIGITAL_20050126.0079-T3-1">
+    <extent>
+      <charseq START="41" END="51">2005-01-26T</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="MISRDIGITAL_20050126.0079-T4">
+  <timex2_mention ID="MISRDIGITAL_20050126.0079-T4-1">
+    <extent>
+      <charseq START="99" END="117">2005-01-26T??:??:??</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="MISRDIGITAL_20050126.0079-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E2" ROLE="Arg-2"/>
+  <relation_mention ID="MISRDIGITAL_20050126.0079-R1-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="793" END="861">عمال البلدية الذين كانوا يتولون نظافة الشارع قبل قدوم
+الشركة الأجنبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E1-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="793" END="861">عمال البلدية الذين كانوا يتولون نظافة الشارع قبل قدوم
+الشركة الأجنبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E2-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="798" END="804">البلدية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MISRDIGITAL_20050126.0079-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E6" ROLE="Arg-2"/>
+  <relation_mention ID="MISRDIGITAL_20050126.0079-R2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="255" END="301">عربات
+كارو تجرها الحمير يقودها الزبالون القدامى</charseq>
+    </extent>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E10-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="286" END="301">الزبالون القدامى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E6-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="255" END="301">عربات
+كارو تجرها الحمير يقودها الزبالون القدامى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="MISRDIGITAL_20050126.0079-R2-2" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="460" END="466">عرباتهم</charseq>
+    </extent>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E10-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="465" END="466">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E6-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="460" END="466">عرباتهم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MISRDIGITAL_20050126.0079-R3" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E13" ROLE="Arg-2"/>
+  <relation_mention ID="MISRDIGITAL_20050126.0079-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="521" END="607">لزبال الحى التقليدى الذى
+يأتى يوما بعد يوم ليأخذ القمامة من أمام البيت كما اعتدنا دائما</charseq>
+    </extent>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E12-50" ROLE="Arg-1">
+      <extent>
+        <charseq START="521" END="607">لزبال الحى التقليدى الذى
+يأتى يوما بعد يوم ليأخذ القمامة من أمام البيت كما اعتدنا دائما</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E13-51" ROLE="Arg-2">
+      <extent>
+        <charseq START="527" END="539">الحى التقليدى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MISRDIGITAL_20050126.0079-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E7" ROLE="Arg-2"/>
+  <relation_mention ID="MISRDIGITAL_20050126.0079-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="929" END="948">عمال الشركة الأجنبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E3-16" ROLE="Arg-1">
+      <extent>
+        <charseq START="929" END="948">عمال الشركة الأجنبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E7-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="934" END="948">الشركة الأجنبية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="MISRDIGITAL_20050126.0079-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="MISRDIGITAL_20050126.0079-E14" ROLE="Arg-2"/>
+  <relation_mention ID="MISRDIGITAL_20050126.0079-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="125" END="161">عربات القمامة التابعة للشركة الأجنبية</charseq>
+    </extent>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E7-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="147" END="161">للشركة الأجنبية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="MISRDIGITAL_20050126.0079-E14-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="125" END="161">عربات القمامة التابعة للشركة الأجنبية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="MISRDIGITAL_20050126.0079-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E12" ROLE="Artifact"/>
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E15" ROLE="Destination"/>
+  <event_mention ID="MISRDIGITAL_20050126.0079-EV1-1">
+    <extent>
+      <charseq START="546" END="590">يأتى يوما بعد يوم ليأخذ القمامة من أمام البيت</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="478" END="607">لازلنا حتى الآن ندفع المبلغ الشهرى المعتاد لزبال الحى التقليدى الذى
+يأتى يوما بعد يوم ليأخذ القمامة من أمام البيت كما اعتدنا دائما</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="546" END="549">يأتى</charseq>
+    </anchor>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E12-53" ROLE="Artifact">
+      <extent>
+        <charseq START="546" END="546">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E15-55" ROLE="Destination">
+      <extent>
+        <charseq START="586" END="590">البيت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="MISRDIGITAL_20050126.0079-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E6" ROLE="Vehicle"/>
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E10" ROLE="Artifact"/>
+  <event_mention ID="MISRDIGITAL_20050126.0079-EV2-1">
+    <extent>
+      <charseq START="460" END="475">عرباتهم
+وينصرفون</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="447" END="475">يحملونها على عرباتهم
+وينصرفون</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="469" END="475">ينصرفون</charseq>
+    </anchor>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E6-36" ROLE="Vehicle">
+      <extent>
+        <charseq START="460" END="466">عرباتهم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E10-47" ROLE="Artifact">
+      <extent>
+        <charseq START="474" END="475">ون</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="MISRDIGITAL_20050126.0079-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E14" ROLE="Vehicle"/>
+  <event_argument REFID="MISRDIGITAL_20050126.0079-T1" ROLE="Time-Within"/>
+  <event_mention ID="MISRDIGITAL_20050126.0079-EV3-1">
+    <extent>
+      <charseq START="120" END="200">تأتى عربات القمامة التابعة للشركة الأجنبية لتفريغ الصناديق فى حوالى
+الواحدة صباحا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="120" END="200">تأتى عربات القمامة التابعة للشركة الأجنبية لتفريغ الصناديق فى حوالى
+الواحدة صباحا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="120" END="123">تأتى</charseq>
+    </anchor>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E14-40" ROLE="Vehicle">
+      <extent>
+        <charseq START="120" END="120">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="188" END="200">الواحدة صباحا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="MISRDIGITAL_20050126.0079-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E14" ROLE="Vehicle"/>
+  <event_argument REFID="MISRDIGITAL_20050126.0079-T2" ROLE="Time-At-End"/>
+  <event_mention ID="MISRDIGITAL_20050126.0079-EV4-1">
+    <extent>
+      <charseq START="213" END="244">العاشرة مساء وحتى ذلك الوقت تطوف</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="203" END="301">منذ حوالى العاشرة مساء وحتى ذلك الوقت تطوف بالشوارع عربات
+كارو تجرها الحمير يقودها الزبالون القدامى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="241" END="244">تطوف</charseq>
+    </anchor>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E14-26" ROLE="Vehicle">
+      <extent>
+        <charseq START="241" END="241">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-T2-1" ROLE="Time-At-End">
+      <extent>
+        <charseq START="213" END="224">العاشرة مساء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="MISRDIGITAL_20050126.0079-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E6" ROLE="Vehicle"/>
+  <event_argument REFID="MISRDIGITAL_20050126.0079-E7" ROLE="Agent"/>
+  <event_mention ID="MISRDIGITAL_20050126.0079-EV5-1">
+    <extent>
+      <charseq START="304" END="345">تمر هذه العربات على صناديق
+الشركة الأجنبية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="304" END="444">تمر هذه العربات على صناديق
+الشركة الأجنبية تفتشها وتنتقى منها كل ما هو قابل للانتفاع به، من مواد
+بلاستيكية، وزجاج، وألواح كارتون، وورق وخلافه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="304" END="306">تمر</charseq>
+    </anchor>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E6-33" ROLE="Vehicle">
+      <extent>
+        <charseq START="308" END="318">هذه العربات</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="MISRDIGITAL_20050126.0079-E7-44" ROLE="Agent">
+      <extent>
+        <charseq START="331" END="345">الشركة الأجنبية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

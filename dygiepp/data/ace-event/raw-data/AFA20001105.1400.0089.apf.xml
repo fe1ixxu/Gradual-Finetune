@@ -1,0 +1,1401 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001105.1400.0089.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001105.1400.0089">
+<entity ID="AFA20001105.1400.0089-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E1-59" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="314" END="329">ادارة
+منطقة قادس</charseq>
+    </extent>
+    <head>
+      <charseq START="314" END="318">ادارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E2" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E2-53" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="936" END="954">منطقة مضيق جبل طارق</charseq>
+    </extent>
+    <head>
+      <charseq START="936" END="940">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E3-2" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="399" END="422">دول
+افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="399" END="401">دول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E3-14" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="549" END="564">دون جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="549" END="551">دون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E3-29" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="816" END="839">دول افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="816" END="818">دول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E4" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E4-3" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="403" END="409">افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="409">افريقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E4-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="820" END="826">افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="820" END="826">افريقيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="افريقيا">
+      <charseq START="403" END="409">افريقيا</charseq>
+    </name>
+    <name NAME="افريقيا">
+      <charseq START="820" END="826">افريقيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E5" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E5-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="432" END="449">ثلاثة قوارب مطاطية</charseq>
+    </extent>
+    <head>
+      <charseq START="438" END="442">قوارب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E5-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="464" END="465">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="464" END="465">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E6" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E6-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="467" END="526">مضيق
+جبل طارق (14 كلم) الذي يفصل شمال المغرب عن جنوب اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="479">مضيق
+جبل طارق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E6-9" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="490" END="493">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="493">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E6-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="495" END="495">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="495" END="495">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E6-46" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="942" END="954">مضيق جبل طارق</charseq>
+    </extent>
+    <head>
+      <charseq START="942" END="954">مضيق جبل طارق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مضيق جبل طارق">
+      <charseq START="467" END="479">مضيق
+جبل طارق</charseq>
+    </name>
+    <name NAME="مضيق جبل طارق">
+      <charseq START="942" END="954">مضيق جبل طارق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E7-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="500" END="510">شمال المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="505" END="510">المغرب</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E8-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="515" END="526">جنوب اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="520" END="526">اسبانيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E9-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="537" END="564">الافارقة من دون جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="544">الافارقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E10-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="599" END="600">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="600">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E10-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="575" END="619">اربعة اطفال تتراوح اعمارهم بين
+شهر وخمسة اشهر</charseq>
+    </extent>
+    <head>
+      <charseq START="581" END="585">اطفال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E10-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="624" END="625">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="624" END="625">وا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E11-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="631" END="652">مستشفى الجزيرة المجاور</charseq>
+    </extent>
+    <head>
+      <charseq START="631" END="644">مستشفى الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مستشفى الجزيرة">
+      <charseq START="631" END="644">مستشفى الجزيرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E12-19" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="379" END="390">تسعون مغربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="385" END="390">مغربيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E13-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="751" END="765">بالقرب من طريفة</charseq>
+    </extent>
+    <head>
+      <charseq START="761" END="765">طريفة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E14-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="108" END="135">الجزيرة (اسبانيا) 11-5 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="108" END="114">الجزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجزيرة">
+      <charseq START="108" END="114">الجزيرة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E15-28" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="808" END="839">خمسة
+من دول افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="808" END="811">خمسة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E16-23" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="842" END="855">خمسة من المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="842" END="845">خمسة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E17-22" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="850" END="855">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="850" END="855">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E17-25" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="884" END="889">المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="884" END="889">المغرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المغرب">
+      <charseq START="850" END="855">المغرب</charseq>
+    </name>
+    <name NAME="المغرب">
+      <charseq START="884" END="889">المغرب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E18" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E18-24" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="860" END="889">مضيق سبتة الى الشمال من
+المغرب</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="868">مضيق سبتة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مضيق سبتة">
+      <charseq START="860" END="868">مضيق سبتة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E19-27" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="392" END="422">و69 من دول
+افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="393" END="394">69</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E20-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="320" END="329">منطقة قادس</charseq>
+    </extent>
+    <head>
+      <charseq START="326" END="329">قادس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قادس">
+      <charseq START="326" END="329">قادس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E21" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E21-33" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="411" END="422">جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="416" END="422">الصحراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E21-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="553" END="564">جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="558" END="564">الصحراء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E21-45" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="828" END="839">جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="833" END="839">الصحراء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E22" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E22-34" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="252" END="265">منطقة جبل طارق</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="256">منطقة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E23" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E23-35" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="258" END="265">جبل طارق</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="265">جبل طارق</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جبل طارق">
+      <charseq START="258" END="265">جبل طارق</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E24-6" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="454" END="455">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="454" END="455">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E24-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="368" END="369">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="368" END="369">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E24-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="194" END="212">159 مهاجرا غير شرعي</charseq>
+    </extent>
+    <head>
+      <charseq START="194" END="196">159</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E24-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="342" END="422">المهاجرون ال159 الذين اوقفوا امس وهم تسعون مغربيا و69 من دول
+افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <head>
+      <charseq START="342" END="350">المهاجرون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E24-38" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="358" END="362">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="358" END="362">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E24-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="376" END="377">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="376" END="377">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E25-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="717" END="718">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="717" END="718">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E25-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="726" END="727">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="726" END="727">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E25-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="703" END="718">114 مهاجرا اخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="703" END="705">114</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E25-56" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="804" END="805">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="804" END="805">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E26-41" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="777" END="799">عشرة مهاجرين غير شرعيين</charseq>
+    </extent>
+    <head>
+      <charseq START="777" END="780">عشرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E27" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001105.1400.0089-E27-47" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="903" END="954">اكثر من 11 الف مهاجر غير شرعي في منطقة مضيق جبل طارق</charseq>
+    </extent>
+    <head>
+      <charseq START="911" END="916">11 الف</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E28" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E28-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="132" END="135">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="132" END="135">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="132" END="135">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E29-49" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="144" END="164">الحرس الوطني الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="144" END="148">الحرس</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E30-30" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="117" END="123">اسبانيا</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="123">اسبانيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E30-50" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="157" END="164">الاسباني</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="164">الاسباني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسبانيا">
+      <charseq START="117" END="123">اسبانيا</charseq>
+    </name>
+    <name NAME="الاسباني">
+      <charseq START="157" END="164">الاسباني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E32-51" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="181" END="191">طريفة (جنوب</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="185">طريفة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="طريفة">
+      <charseq START="181" END="185">طريفة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001105.1400.0089-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E33-43" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="739" END="749">و61
+افريقيا</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="749">افريقيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E34-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="227" END="265">المهاجرين الذي اوقفوا
+في منطقة جبل طارق</charseq>
+    </extent>
+    <head>
+      <charseq START="227" END="235">المهاجرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E34-54" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="237" END="240">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="237" END="240">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E34-55" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="246" END="247">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="246" END="247">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001105.1400.0089-E34-57" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="295" END="297">283</charseq>
+    </extent>
+    <head>
+      <charseq START="295" END="297">283</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E35-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="729" END="737">53 مغربيا</charseq>
+    </extent>
+    <head>
+      <charseq START="732" END="737">مغربيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001105.1400.0089-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001105.1400.0089-E36-58" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="310" END="329">وفد ادارة
+منطقة قادس</charseq>
+    </extent>
+    <head>
+      <charseq START="310" END="312">وفد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001105.1400.0089-T1">
+  <timex2_mention ID="AFA20001105.1400.0089-T1-1">
+    <extent>
+      <charseq START="126" END="129">11-5</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001105.1400.0089-T2">
+  <timex2_mention ID="AFA20001105.1400.0089-T2-1">
+    <extent>
+      <charseq START="166" END="176">اليوم الاحد</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001105.1400.0089-T3">
+  <timex2_mention ID="AFA20001105.1400.0089-T3-1">
+    <extent>
+      <charseq START="270" END="289">نهاية الاسبوع الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001105.1400.0089-T4">
+  <timex2_mention ID="AFA20001105.1400.0089-T4-1">
+    <extent>
+      <charseq START="371" END="373">امس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001105.1400.0089-T5">
+  <timex2_mention ID="AFA20001105.1400.0089-T5-1">
+    <extent>
+      <charseq START="680" END="695">ليل الجمعة السبت</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001105.1400.0089-T6">
+  <timex2_mention ID="AFA20001105.1400.0089-T6-1">
+    <extent>
+      <charseq START="960" END="976">مطلع العام الحالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001105.1400.0089-T7">
+  <timex2_mention ID="AFA20001105.1400.0089-T7-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-05 16:17:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001105.1400.0089-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E8" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R1-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="467" END="526">مضيق
+جبل طارق (14 كلم) الذي يفصل شمال المغرب عن جنوب اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E6-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="467" END="526">مضيق
+جبل طارق (14 كلم) الذي يفصل شمال المغرب عن جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E8-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="515" END="526">جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E7" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R2-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="467" END="526">مضيق
+جبل طارق (14 كلم) الذي يفصل شمال المغرب عن جنوب اسبانيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E6-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="467" END="526">مضيق
+جبل طارق (14 كلم) الذي يفصل شمال المغرب عن جنوب اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E7-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="500" END="510">شمال المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="816" END="839">دول افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E3-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="816" END="839">دول افريقيا جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E21-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="828" END="839">جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001105.1400.0089-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="399" END="422">دول
+افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E3-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="399" END="422">دول
+افريقيا جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E21-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="411" END="422">جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001105.1400.0089-R3-3" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="549" END="564">دون جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E3-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="549" END="564">دون جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E21-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="553" END="564">جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E14" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="108" END="135">الجزيرة (اسبانيا) 11-5 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E28-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="132" END="135">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E14-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="108" END="135">الجزيرة (اسبانيا) 11-5 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E30" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R6-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="108" END="135">الجزيرة (اسبانيا) 11-5 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E14-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="108" END="135">الجزيرة (اسبانيا) 11-5 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E30-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="117" END="123">اسبانيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="399" END="422">دول
+افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E3-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="399" END="422">دول
+افريقيا جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E4-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="403" END="409">افريقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001105.1400.0089-R7-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="808" END="839">خمسة
+من دول افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E3-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="816" END="839">دول افريقيا جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E4-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="820" END="826">افريقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="860" END="889">مضيق سبتة الى الشمال من
+المغرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E18-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="860" END="889">مضيق سبتة الى الشمال من
+المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E17-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="884" END="889">المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R9" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E29" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E30" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="144" END="164">الحرس الوطني الاسباني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E29-49" ROLE="Arg-1">
+      <extent>
+        <charseq START="144" END="164">الحرس الوطني الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E30-50" ROLE="Arg-2">
+      <extent>
+        <charseq START="157" END="164">الاسباني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E2" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R10-1" LEXICALCONDITION="Participial">
+    <extent>
+      <charseq START="936" END="954">منطقة مضيق جبل طارق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E6-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="942" END="954">مضيق جبل طارق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E2-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="936" END="954">منطقة مضيق جبل طارق</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R12" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E22" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R12-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="227" END="265">المهاجرين الذي اوقفوا
+في منطقة جبل طارق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E34-26" ROLE="Arg-1">
+      <extent>
+        <charseq START="227" END="265">المهاجرين الذي اوقفوا
+في منطقة جبل طارق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E22-34" ROLE="Arg-2">
+      <extent>
+        <charseq START="252" END="265">منطقة جبل طارق</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R13" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E36" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R13-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="310" END="329">وفد ادارة
+منطقة قادس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E36-58" ROLE="Arg-1">
+      <extent>
+        <charseq START="310" END="329">وفد ادارة
+منطقة قادس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E1-59" ROLE="Arg-2">
+      <extent>
+        <charseq START="314" END="329">ادارة
+منطقة قادس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R14" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E1" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R14-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="314" END="329">ادارة
+منطقة قادس</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E1-59" ROLE="Arg-1">
+      <extent>
+        <charseq START="314" END="329">ادارة
+منطقة قادس</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E20-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="320" END="329">منطقة قادس</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R15" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R15-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="392" END="422">و69 من دول
+افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E4-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="403" END="409">افريقيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E21-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="411" END="422">جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R16" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R16-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="537" END="564">الافارقة من دون جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E9-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="537" END="564">الافارقة من دون جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E3-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="549" END="564">دون جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R17" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R17-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="808" END="839">خمسة
+من دول افريقيا جنوب الصحراء</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E15-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="808" END="839">خمسة
+من دول افريقيا جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E3-29" ROLE="Arg-2">
+      <extent>
+        <charseq START="816" END="839">دول افريقيا جنوب الصحراء</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001105.1400.0089-R19" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001105.1400.0089-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001105.1400.0089-E17" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001105.1400.0089-R19-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="842" END="855">خمسة من المغرب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E16-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="842" END="855">خمسة من المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001105.1400.0089-E17-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="850" END="855">المغرب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001105.1400.0089-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E24" ROLE="Person"/>
+  <event_argument REFID="AFA20001105.1400.0089-E32" ROLE="Place"/>
+  <event_argument REFID="AFA20001105.1400.0089-E29" ROLE="Agent"/>
+  <event_argument REFID="AFA20001105.1400.0089-T2" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001105.1400.0089-EV1-1">
+    <extent>
+      <charseq START="139" END="212">اوقف الحرس الوطني الاسباني اليوم الاحد
+في طريفة (جنوب) 159 مهاجرا غير شرعي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="139" END="329">اوقف الحرس الوطني الاسباني اليوم الاحد
+في طريفة (جنوب) 159 مهاجرا غير شرعي، مما رفع عدد المهاجرين الذي اوقفوا
+في منطقة جبل طارق في نهاية الاسبوع الماضي الى 283، حبما اعلن وفد ادارة
+منطقة قادس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="139" END="142">اوقف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E24-36" ROLE="Person">
+      <extent>
+        <charseq START="194" END="212">159 مهاجرا غير شرعي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E32-51" ROLE="Place">
+      <extent>
+        <charseq START="181" END="191">طريفة (جنوب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E29-49" ROLE="Agent">
+      <extent>
+        <charseq START="144" END="164">الحرس الوطني الاسباني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="166" END="176">اليوم الاحد</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E34" ROLE="Person"/>
+  <event_argument REFID="AFA20001105.1400.0089-T3" ROLE="Time-At-End"/>
+  <event_mention ID="AFA20001105.1400.0089-EV2-1">
+    <extent>
+      <charseq START="242" END="289">اوقفوا
+في منطقة جبل طارق في نهاية الاسبوع الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="139" END="329">اوقف الحرس الوطني الاسباني اليوم الاحد
+في طريفة (جنوب) 159 مهاجرا غير شرعي، مما رفع عدد المهاجرين الذي اوقفوا
+في منطقة جبل طارق في نهاية الاسبوع الماضي الى 283، حبما اعلن وفد ادارة
+منطقة قادس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="242" END="247">اوقفوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E34-55" ROLE="Person">
+      <extent>
+        <charseq START="246" END="247">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-T3-1" ROLE="Time-At-End">
+      <extent>
+        <charseq START="270" END="289">نهاية الاسبوع الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E24" ROLE="Person"/>
+  <event_argument REFID="AFA20001105.1400.0089-T4" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001105.1400.0089-EV3-1">
+    <extent>
+      <charseq START="364" END="373">اوقفوا امس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="334" END="526">وقد وصل المهاجرون ال159 الذين اوقفوا امس وهم تسعون مغربيا و69 من دول
+افريقيا جنوب الصحراء على متن ثلاثة قوارب مطاطية عبروا على متنها مضيق
+جبل طارق (14 كلم) الذي يفصل شمال المغرب عن جنوب اسبانيا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="364" END="369">اوقفوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E24-31" ROLE="Person">
+      <extent>
+        <charseq START="368" END="369">وا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="371" END="373">امس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E5" ROLE="Vehicle"/>
+  <event_argument REFID="AFA20001105.1400.0089-E24" ROLE="Artifact"/>
+  <event_mention ID="AFA20001105.1400.0089-EV4-1">
+    <extent>
+      <charseq START="432" END="455">ثلاثة قوارب مطاطية عبروا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="334" END="526">وقد وصل المهاجرون ال159 الذين اوقفوا امس وهم تسعون مغربيا و69 من دول
+افريقيا جنوب الصحراء على متن ثلاثة قوارب مطاطية عبروا على متنها مضيق
+جبل طارق (14 كلم) الذي يفصل شمال المغرب عن جنوب اسبانيا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="451" END="455">عبروا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E5-5" ROLE="Vehicle">
+      <extent>
+        <charseq START="432" END="449">ثلاثة قوارب مطاطية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E24-6" ROLE="Artifact">
+      <extent>
+        <charseq START="454" END="455">وا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E11" ROLE="Destination"/>
+  <event_argument REFID="AFA20001105.1400.0089-E10" ROLE="Artifact"/>
+  <event_mention ID="AFA20001105.1400.0089-EV5-1">
+    <extent>
+      <charseq START="621" END="652">نقلوا الى مستشفى الجزيرة المجاور</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="529" END="674">ومن بين
+الافارقة من دون جنوب الصحراء كان هناك اربعة اطفال تتراوح اعمارهم بين
+شهر وخمسة اشهر نقلوا الى مستشفى الجزيرة المجاور لاجراء فحوصات روتينية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="621" END="625">نقلوا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E11-18" ROLE="Destination">
+      <extent>
+        <charseq START="631" END="652">مستشفى الجزيرة المجاور</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E10-17" ROLE="Artifact">
+      <extent>
+        <charseq START="624" END="625">وا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E13" ROLE="Place"/>
+  <event_argument REFID="AFA20001105.1400.0089-T5" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001105.1400.0089-EV6-1">
+    <extent>
+      <charseq START="680" END="765">ليل الجمعة السبت، اوقف 114 مهاجرا اخرين من بينهم 53 مغربيا و61
+افريقيا بالقرب من طريفة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="679" END="765">وليل الجمعة السبت، اوقف 114 مهاجرا اخرين من بينهم 53 مغربيا و61
+افريقيا بالقرب من طريفة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="698" END="701">اوقف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E13-20" ROLE="Place">
+      <extent>
+        <charseq START="751" END="765">بالقرب من طريفة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="680" END="695">ليل الجمعة السبت</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E26" ROLE="Person"/>
+  <event_argument REFID="AFA20001105.1400.0089-E15" ROLE="Person"/>
+  <event_argument REFID="AFA20001105.1400.0089-E16" ROLE="Person"/>
+  <event_argument REFID="AFA20001105.1400.0089-E18" ROLE="Place"/>
+  <event_mention ID="AFA20001105.1400.0089-EV7-1">
+    <extent>
+      <charseq START="772" END="889">اوقف عشرة مهاجرين غير شرعيين غيرهم، خمسة
+من دول افريقيا جنوب الصحراء وخمسة من المغرب في مضيق سبتة الى الشمال من
+المغرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="768" END="889">كما اوقف عشرة مهاجرين غير شرعيين غيرهم، خمسة
+من دول افريقيا جنوب الصحراء وخمسة من المغرب في مضيق سبتة الى الشمال من
+المغرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="772" END="775">اوقف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E26-41" ROLE="Person">
+      <extent>
+        <charseq START="777" END="799">عشرة مهاجرين غير شرعيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E15-28" ROLE="Person">
+      <extent>
+        <charseq START="808" END="839">خمسة
+من دول افريقيا جنوب الصحراء</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E16-23" ROLE="Person">
+      <extent>
+        <charseq START="842" END="855">خمسة من المغرب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E18-24" ROLE="Place">
+      <extent>
+        <charseq START="860" END="889">مضيق سبتة الى الشمال من
+المغرب</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV8" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-T6" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001105.1400.0089-EV8-1">
+    <extent>
+      <charseq START="898" END="976">اوقف اكثر من 11 الف مهاجر غير شرعي في منطقة مضيق جبل طارق منذ
+مطلع العام الحالي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="894" END="976">وقد اوقف اكثر من 11 الف مهاجر غير شرعي في منطقة مضيق جبل طارق منذ
+مطلع العام الحالي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="898" END="901">اوقف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-T6-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="960" END="976">مطلع العام الحالي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001105.1400.0089-E24" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001105.1400.0089-E32" ROLE="Destination"/>
+  <event_argument REFID="AFA20001105.1400.0089-E29" ROLE="Agent"/>
+  <event_mention ID="AFA20001105.1400.0089-EV9-1">
+    <extent>
+      <charseq START="144" END="212">الحرس الوطني الاسباني اليوم الاحد
+في طريفة (جنوب) 159 مهاجرا غير شرعي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="139" END="297">اوقف الحرس الوطني الاسباني اليوم الاحد
+في طريفة (جنوب) 159 مهاجرا غير شرعي، مما رفع عدد المهاجرين الذي اوقفوا
+في منطقة جبل طارق في نهاية الاسبوع الماضي الى 283</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="198" END="203">مهاجرا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E24-36" ROLE="Artifact">
+      <extent>
+        <charseq START="194" END="212">159 مهاجرا غير شرعي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E32-51" ROLE="Destination">
+      <extent>
+        <charseq START="181" END="191">طريفة (جنوب</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E29-49" ROLE="Agent">
+      <extent>
+        <charseq START="144" END="164">الحرس الوطني الاسباني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV10" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E25" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001105.1400.0089-E13" ROLE="Destination"/>
+  <event_mention ID="AFA20001105.1400.0089-EV10-1">
+    <extent>
+      <charseq START="703" END="765">114 مهاجرا اخرين من بينهم 53 مغربيا و61
+افريقيا بالقرب من طريفة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="679" END="889">وليل الجمعة السبت، اوقف 114 مهاجرا اخرين من بينهم 53 مغربيا و61
+افريقيا بالقرب من طريفة. كما اوقف عشرة مهاجرين غير شرعيين غيرهم، خمسة
+من دول افريقيا جنوب الصحراء وخمسة من المغرب في مضيق سبتة الى الشمال من
+المغرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="707" END="712">مهاجرا</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E25-42" ROLE="Artifact">
+      <extent>
+        <charseq START="703" END="718">114 مهاجرا اخرين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E13-20" ROLE="Destination">
+      <extent>
+        <charseq START="751" END="765">بالقرب من طريفة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV11" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E26" ROLE="Artifact"/>
+  <event_mention ID="AFA20001105.1400.0089-EV11-1">
+    <extent>
+      <charseq START="777" END="799">عشرة مهاجرين غير شرعيين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="679" END="889">وليل الجمعة السبت، اوقف 114 مهاجرا اخرين من بينهم 53 مغربيا و61
+افريقيا بالقرب من طريفة. كما اوقف عشرة مهاجرين غير شرعيين غيرهم، خمسة
+من دول افريقيا جنوب الصحراء وخمسة من المغرب في مضيق سبتة الى الشمال من
+المغرب</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="782" END="788">مهاجرين</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E26-41" ROLE="Artifact">
+      <extent>
+        <charseq START="777" END="799">عشرة مهاجرين غير شرعيين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001105.1400.0089-EV12" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001105.1400.0089-E27" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001105.1400.0089-T6" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001105.1400.0089-EV12-1">
+    <extent>
+      <charseq START="903" END="976">اكثر من 11 الف مهاجر غير شرعي في منطقة مضيق جبل طارق منذ
+مطلع العام الحالي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="894" END="976">وقد اوقف اكثر من 11 الف مهاجر غير شرعي في منطقة مضيق جبل طارق منذ
+مطلع العام الحالي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="918" END="922">مهاجر</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001105.1400.0089-E27-47" ROLE="Artifact">
+      <extent>
+        <charseq START="903" END="954">اكثر من 11 الف مهاجر غير شرعي في منطقة مضيق جبل طارق</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001105.1400.0089-T6-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="960" END="976">مطلع العام الحالي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

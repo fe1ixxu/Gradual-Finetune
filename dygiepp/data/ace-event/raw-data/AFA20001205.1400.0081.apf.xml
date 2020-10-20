@@ -1,0 +1,902 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001205.1400.0081.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001205.1400.0081">
+<entity ID="AFA20001205.1400.0081-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="420" END="447">شبكة "ايه بي سي" التلفزيونية</charseq>
+    </extent>
+    <head>
+      <charseq START="420" END="434">شبكة "ايه بي سي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شبكة ايه بي سي">
+      <charseq START="420" END="434">شبكة "ايه بي سي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E2-3" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="278" END="302">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="291">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E2-4" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="472" END="496">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="485">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E2-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="513" END="523">هذه المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="523">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E2-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="591" END="630">المحكمة الوحيدة القادرة
+على ايجاد حل لها</charseq>
+    </extent>
+    <head>
+      <charseq START="591" END="597">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E2-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="696" END="709">المحكمة العليا</charseq>
+    </extent>
+    <head>
+      <charseq START="696" END="709">المحكمة العليا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E2-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="691" END="691">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="691">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="المحكمة العليا">
+      <charseq START="278" END="291">المحكمة العليا</charseq>
+    </name>
+    <name NAME="المحكمة العليا">
+      <charseq START="472" END="485">المحكمة العليا</charseq>
+    </name>
+    <name NAME="المحكمة العليا">
+      <charseq START="696" END="709">المحكمة العليا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E3-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="153" END="211">احد مستشاري المرشح الديموقراطي الى الرئاسة
+الاميركية آل غور</charseq>
+    </extent>
+    <head>
+      <charseq START="153" END="155">احد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E3-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="553" END="562">مستشار غور</charseq>
+    </extent>
+    <head>
+      <charseq START="553" END="558">مستشار</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E3-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="397" END="405">رون كلاين</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="405">رون كلاين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E3-20" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="729" END="733">كلاين</charseq>
+    </extent>
+    <head>
+      <charseq START="729" END="733">كلاين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E3-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="743" END="743">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="743" END="743">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E3-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="450" END="450">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="450" END="450">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رون كلاين">
+      <charseq START="397" END="405">رون كلاين</charseq>
+    </name>
+    <name NAME="كلاين">
+      <charseq START="729" END="733">كلاين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E4-8" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="157" END="211">مستشاري المرشح الديموقراطي الى الرئاسة
+الاميركية آل غور</charseq>
+    </extent>
+    <head>
+      <charseq START="157" END="163">مستشاري</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0081-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E5-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="351" END="358">الناخبين</charseq>
+    </extent>
+    <head>
+      <charseq START="351" END="358">الناخبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0081-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E6-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="669" END="686">القاضي ساندرز
+سولز</charseq>
+    </extent>
+    <head>
+      <charseq START="669" END="674">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E6-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="676" END="686">ساندرز
+سولز</charseq>
+    </extent>
+    <head>
+      <charseq START="676" END="686">ساندرز
+سولز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E6-22" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="806" END="816">القاضي سولز</charseq>
+    </extent>
+    <head>
+      <charseq START="806" END="811">القاضي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E6-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="813" END="816">سولز</charseq>
+    </extent>
+    <head>
+      <charseq START="813" END="816">سولز</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E6-41" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="316" END="323">قاض محلي</charseq>
+    </extent>
+    <head>
+      <charseq START="316" END="318">قاض</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ساندرز سولز">
+      <charseq START="676" END="686">ساندرز
+سولز</charseq>
+    </name>
+    <name NAME="سولز">
+      <charseq START="813" END="816">سولز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E9-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="1038" END="1052">المرشح الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="1038" END="1043">المرشح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E9-31" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1054" END="1061">جورج بوش</charseq>
+    </extent>
+    <head>
+      <charseq START="1054" END="1061">جورج بوش</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جورج بوش">
+      <charseq START="1054" END="1061">جورج بوش</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E11-32" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="1045" END="1052">الجمهوري</charseq>
+    </extent>
+    <head>
+      <charseq START="1045" END="1052">الجمهوري</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجمهوري">
+      <charseq START="1045" END="1052">الجمهوري</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E12-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="560" END="562">غور</charseq>
+    </extent>
+    <head>
+      <charseq START="560" END="562">غور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E12-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="767" END="772">آل غور</charseq>
+    </extent>
+    <head>
+      <charseq START="767" END="772">آل غور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E12-21" TYPE="PRO" LDCTYPE="PRO" LDCATR="TRUE">
+    <extent>
+      <charseq START="778" END="778">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="778" END="778">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E12-34" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1076" END="1081">آل غور</charseq>
+    </extent>
+    <head>
+      <charseq START="1076" END="1081">آل غور</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E12-35" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="1069" END="1081">مرشحهم آل غور</charseq>
+    </extent>
+    <head>
+      <charseq START="1069" END="1072">مرشح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E12-46" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="165" END="204">المرشح الديموقراطي الى الرئاسة
+الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="170">المرشح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E12-47" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="206" END="211">آل غور</charseq>
+    </extent>
+    <head>
+      <charseq START="206" END="211">آل غور</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="غور">
+      <charseq START="560" END="562">غور</charseq>
+    </name>
+    <name NAME="آل غور">
+      <charseq START="767" END="772">آل غور</charseq>
+    </name>
+    <name NAME="آل غور">
+      <charseq START="1076" END="1081">آل غور</charseq>
+    </name>
+    <name NAME="آل غور">
+      <charseq START="206" END="211">آل غور</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E13-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="129" END="145">واشنطن 12-5 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="129" END="134">واشنطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="واشنطن">
+      <charseq START="129" END="134">واشنطن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E14-43" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="142" END="145">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="145">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="142" END="145">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E17-48" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="196" END="204">الاميركية</charseq>
+    </extent>
+    <head>
+      <charseq START="196" END="204">الاميركية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركية">
+      <charseq START="196" END="204">الاميركية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E18" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E18-49" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="172" END="182">الديموقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="172" END="182">الديموقراطي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E18-50" TYPE="NAM" LDCTYPE="NAMPRE" LDCATR="TRUE">
+    <extent>
+      <charseq START="238" END="248">الديموقراطي</charseq>
+    </extent>
+    <head>
+      <charseq START="238" END="248">الديموقراطي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الديموقراطي">
+      <charseq START="172" END="182">الديموقراطي</charseq>
+    </name>
+    <name NAME="الديموقراطي">
+      <charseq START="238" END="248">الديموقراطي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001205.1400.0081-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E20-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="361" END="361">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="361">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="458" END="459">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="458" END="459">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="462" END="462">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="462" END="462">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-24" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="849" END="906">الديموقراطيون
+الذين اعترضوا على النتائج الرسمية في فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="849" END="861">الديموقراطيون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-25" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="863" END="867">الذين</charseq>
+    </extent>
+    <head>
+      <charseq START="863" END="867">الذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="874" END="875">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="875">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-27" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="913" END="914">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="914">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="978" END="979">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="978" END="979">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="1073" END="1074">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="1073" END="1074">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-37" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="372" END="372">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="372" END="372">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="369" END="369">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="369">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="231" END="302">الفريق الديموقراطي الذي تقدم بطلب
+استئناف امام المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="231" END="236">الفريق</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-51" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="250" END="253">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="250" END="253">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E20-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="255" END="255">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="255">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001205.1400.0081-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001205.1400.0081-E21-53" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="296" END="302">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="296" END="302">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E21-54" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="490" END="496">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="496">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E21-55" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="900" END="906">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="900" END="906">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001205.1400.0081-E21-56" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="1092" END="1098">فلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="1092" END="1098">فلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فلوريدا">
+      <charseq START="296" END="302">فلوريدا</charseq>
+    </name>
+    <name NAME="فلوريدا">
+      <charseq START="490" END="496">فلوريدا</charseq>
+    </name>
+    <name NAME="فلوريدا">
+      <charseq START="900" END="906">فلوريدا</charseq>
+    </name>
+    <name NAME="فلوريدا">
+      <charseq START="1092" END="1098">فلوريدا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001205.1400.0081-T1">
+  <timex2_mention ID="AFA20001205.1400.0081-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-05 14:45:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0081-T2">
+  <timex2_mention ID="AFA20001205.1400.0081-T2-1">
+    <extent>
+      <charseq START="136" END="139">12-5</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0081-T3">
+  <timex2_mention ID="AFA20001205.1400.0081-T3-1">
+    <extent>
+      <charseq START="213" END="226">اليوم الثلاثاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0081-T4">
+  <timex2_mention ID="AFA20001205.1400.0081-T4-1">
+    <extent>
+      <charseq START="751" END="762">مساء الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001205.1400.0081-T5">
+  <timex2_mention ID="AFA20001205.1400.0081-T5-1">
+    <extent>
+      <charseq START="818" END="824">الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001205.1400.0081-R1" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="153" END="211">احد مستشاري المرشح الديموقراطي الى الرئاسة
+الاميركية آل غور</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E4-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="157" END="211">مستشاري المرشح الديموقراطي الى الرئاسة
+الاميركية آل غور</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E12-46" ROLE="Arg-2">
+      <extent>
+        <charseq START="165" END="204">المرشح الديموقراطي الى الرئاسة
+الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0081-R2" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R2-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="1069" END="1081">مرشحهم آل غور</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E12-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="1069" END="1081">مرشحهم آل غور</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E20-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="1073" END="1074">هم</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0081-R3" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="231" END="302">الفريق الديموقراطي الذي تقدم بطلب
+استئناف امام المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E20-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="231" END="302">الفريق الديموقراطي الذي تقدم بطلب
+استئناف امام المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E18-50" ROLE="Arg-2">
+      <extent>
+        <charseq START="238" END="248">الديموقراطي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0081-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E14" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="129" END="145">واشنطن 12-5 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E14-43" ROLE="Arg-1">
+      <extent>
+        <charseq START="142" END="145">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E13-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="129" END="145">واشنطن 12-5 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0081-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E21" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="278" END="302">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E2-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="278" END="302">المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E21-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="296" END="302">فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001205.1400.0081-R5-2" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="472" END="496">المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E2-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="472" END="496">المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E21-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="490" END="496">فلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0081-R7" TYPE="PER-SOC" SUBTYPE="Business" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E12" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="553" END="562">مستشار غور</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E3-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="553" END="562">مستشار غور</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E12-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="560" END="562">غور</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0081-R8" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="1038" END="1052">المرشح الجمهوري</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E9-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="1038" END="1052">المرشح الجمهوري</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E11-32" ROLE="Arg-2">
+      <extent>
+        <charseq START="1045" END="1052">الجمهوري</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001205.1400.0081-R9" TYPE="ORG-AFF" SUBTYPE="Membership" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001205.1400.0081-E12" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001205.1400.0081-E18" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001205.1400.0081-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="165" END="204">المرشح الديموقراطي الى الرئاسة
+الاميركية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E12-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="165" END="204">المرشح الديموقراطي الى الرئاسة
+الاميركية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001205.1400.0081-E18-49" ROLE="Arg-2">
+      <extent>
+        <charseq START="172" END="182">الديموقراطي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001205.1400.0081-EV1" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0081-E2" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001205.1400.0081-E20" ROLE="Plaintiff"/>
+  <event_mention ID="AFA20001205.1400.0081-EV1-1">
+    <extent>
+      <charseq START="231" END="302">الفريق الديموقراطي الذي تقدم بطلب
+استئناف امام المحكمة العليا في فلوريدا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="149" END="386">اكد احد مستشاري المرشح الديموقراطي الى الرئاسة
+الاميركية آل غور اليوم الثلاثاء ان الفريق الديموقراطي الذي تقدم بطلب
+استئناف امام المحكمة العليا في فلوريدا على اثر رفض قاض محلي اعادة
+الفرز اليدوي لاصوات الناخبين، يعتقد انه سيربح هذه الدعوى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="265" END="271">استئناف</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0081-E2-3" ROLE="Adjudicator">
+      <extent>
+        <charseq START="278" END="302">المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0081-E20-42" ROLE="Plaintiff">
+      <extent>
+        <charseq START="231" END="302">الفريق الديموقراطي الذي تقدم بطلب
+استئناف امام المحكمة العليا في فلوريدا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0081-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001205.1400.0081-EV2-1">
+    <extent>
+      <charseq START="381" END="386">الدعوى</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="149" END="386">اكد احد مستشاري المرشح الديموقراطي الى الرئاسة
+الاميركية آل غور اليوم الثلاثاء ان الفريق الديموقراطي الذي تقدم بطلب
+استئناف امام المحكمة العليا في فلوريدا على اثر رفض قاض محلي اعادة
+الفرز اليدوي لاصوات الناخبين، يعتقد انه سيربح هذه الدعوى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="381" END="386">الدعوى</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0081-EV3" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0081-E6" ROLE="Adjudicator"/>
+  <event_mention ID="AFA20001205.1400.0081-EV3-1">
+    <extent>
+      <charseq START="664" END="686">قرار القاضي ساندرز
+سولز</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="547" END="717">واضاف مستشار غور ان "هذه القضية موضع بحث من المحكمة الوحيدة القادرة
+على ايجاد حل لها". وراى ان "هناك اخطاء واضحة" في قرار القاضي ساندرز
+سولز و"ستقوم المحكمة العليا بالغائه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="664" END="667">قرار</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0081-E6-18" ROLE="Adjudicator">
+      <extent>
+        <charseq START="669" END="686">القاضي ساندرز
+سولز</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0081-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0081-E3" ROLE="Entity"/>
+  <event_argument REFID="AFA20001205.1400.0081-E12" ROLE="Entity"/>
+  <event_argument REFID="AFA20001205.1400.0081-T4" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001205.1400.0081-EV4-1">
+    <extent>
+      <charseq START="729" END="772">كلاين اخيرا انه تحادث مساء الاثنين مع آل غور</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="723" END="792">واعلن كلاين اخيرا انه تحادث مساء الاثنين مع آل غور ووجده "مصمما
+للغاية</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="745" END="749">تحادث</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0081-E3-20" ROLE="Entity">
+      <extent>
+        <charseq START="729" END="733">كلاين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0081-E12-6" ROLE="Entity">
+      <extent>
+        <charseq START="767" END="772">آل غور</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0081-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="751" END="762">مساء الاثنين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001205.1400.0081-EV5" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001205.1400.0081-E6" ROLE="Adjudicator"/>
+  <event_argument REFID="AFA20001205.1400.0081-E20" ROLE="Defendant"/>
+  <event_mention ID="AFA20001205.1400.0081-EV5-1">
+    <extent>
+      <charseq START="806" END="906">القاضي سولز الاثنين طلب الطعن الذي تقدم به الديموقراطيون
+الذين اعترضوا على النتائج الرسمية في فلوريدا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="798" END="967">وقد رفض القاضي سولز الاثنين طلب الطعن الذي تقدم به الديموقراطيون
+الذين اعترضوا على النتائج الرسمية في فلوريدا وطالبوا باجراء فرز جديد
+لحوالي 12 الف بطاقة اقتراع موضع نزاع</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="830" END="834">الطعن</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001205.1400.0081-E6-22" ROLE="Adjudicator">
+      <extent>
+        <charseq START="806" END="816">القاضي سولز</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001205.1400.0081-E20-24" ROLE="Defendant">
+      <extent>
+        <charseq START="849" END="906">الديموقراطيون
+الذين اعترضوا على النتائج الرسمية في فلوريدا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

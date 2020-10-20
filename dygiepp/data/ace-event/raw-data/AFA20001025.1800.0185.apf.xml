@@ -1,0 +1,672 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001025.1800.0185.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001025.1800.0185">
+<entity ID="AFA20001025.1800.0185-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E1-2" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="154" END="159">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="154" END="159">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E1-12" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="561" END="574">الدولة اليمنية</charseq>
+    </extent>
+    <head>
+      <charseq START="561" END="566">الدولة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E1-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="568" END="574">اليمنية</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="574">اليمنية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E1-20" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC" LDCATR="TRUE">
+    <extent>
+      <charseq START="121" END="125">اليمن</charseq>
+    </extent>
+    <head>
+      <charseq START="121" END="125">اليمن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E1-33" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="345" END="350">اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="345" END="350">اليمني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمني">
+      <charseq START="154" END="159">اليمني</charseq>
+    </name>
+    <name NAME="اليمنية">
+      <charseq START="568" END="574">اليمنية</charseq>
+    </name>
+    <name NAME="اليمن">
+      <charseq START="121" END="125">اليمن</charseq>
+    </name>
+    <name NAME="اليمني">
+      <charseq START="345" END="350">اليمني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E2" TYPE="WEA" SUBTYPE="Projectile" CLASS="GEN">
+  <entity_mention ID="AFA20001025.1800.0185-E2-3" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="378" END="384">الحجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="378" END="384">الحجارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E2-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="394" END="398">حجارة</charseq>
+    </extent>
+    <head>
+      <charseq START="394" END="398">حجارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001025.1800.0185-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E3-6" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="472" END="472">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="472" END="472">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001025.1800.0185-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E4-7" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="477" END="498">مقاتلي الشعب الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="477" END="482">مقاتلي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001025.1800.0185-E5" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E5-8" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="484" END="498">الشعب الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="484" END="488">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E5-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="490" END="498">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="490" END="498">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E5-18" TYPE="NOM" LDCTYPE="NOM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="664" END="678">الشعب الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="664" END="668">الشعب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E5-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="670" END="678">الفلسطيني</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="678">الفلسطيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E5-24" TYPE="NAM" LDCTYPE="NAM" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="287" END="297">للفلسطينيين</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="297">للفلسطينيين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E5-30" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="306" END="307">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="306" END="307">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E5-31" TYPE="PRO" LDCTYPE="PRO" ROLE="PER" LDCATR="FALSE">
+    <extent>
+      <charseq START="327" END="328">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="327" END="328">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطيني">
+      <charseq START="490" END="498">الفلسطيني</charseq>
+    </name>
+    <name NAME="الفلسطيني">
+      <charseq START="670" END="678">الفلسطيني</charseq>
+    </name>
+    <name NAME="للفلسطينيين">
+      <charseq START="287" END="297">للفلسطينيين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E7" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E7-10" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="508" END="513">السلاح</charseq>
+    </extent>
+    <head>
+      <charseq START="508" END="513">السلاح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E7-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="642" END="647">السلاح</charseq>
+    </extent>
+    <head>
+      <charseq START="642" END="647">السلاح</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001025.1800.0185-E9" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E9-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="620" END="633">الحدود العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="620" END="625">الحدود</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001025.1800.0185-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E10-15" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="627" END="633">العربية</charseq>
+    </extent>
+    <head>
+      <charseq START="627" END="633">العربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="العربية">
+      <charseq START="627" END="633">العربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E11-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="650" END="658">المقاتلين</charseq>
+    </extent>
+    <head>
+      <charseq START="650" END="658">المقاتلين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001025.1800.0185-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E13-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="116" END="138">عدن (اليمن) 10-25 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="116" END="118">عدن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عدن">
+      <charseq START="116" END="118">عدن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E15-21" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="135" END="138">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="135" END="138">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="135" END="138">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E16-11" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="556" END="574">رئيس الدولة اليمنية</charseq>
+    </extent>
+    <head>
+      <charseq START="556" END="559">رئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E16-23" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="147" END="159">الرئيس اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="147" END="152">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E16-25" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="161" END="176">علي عبدالله صالح</charseq>
+    </extent>
+    <head>
+      <charseq START="161" END="176">علي عبدالله صالح</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E16-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="338" END="350">الرئيس اليمني</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="343">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علي عبدالله صالح">
+      <charseq START="161" END="176">علي عبدالله صالح</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E18" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E18-26" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="191" END="225">شبكة تلفزيون الشرق الاوسط "ام بي سي</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="215">شبكة تلفزيون الشرق الاوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E18-27" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="218" END="225">ام بي سي</charseq>
+    </extent>
+    <head>
+      <charseq START="218" END="225">ام بي سي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شبكة تلفزيون الشرق الاوسط">
+      <charseq START="191" END="215">شبكة تلفزيون الشرق الاوسط</charseq>
+    </name>
+    <name NAME="ام بي سي">
+      <charseq START="218" END="225">ام بي سي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E19-5" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="442" END="448">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="448">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001025.1800.0185-E19-28" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="266" END="272">اسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="266" END="272">اسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اسرائيل">
+      <charseq START="442" END="448">اسرائيل</charseq>
+    </name>
+    <name NAME="اسرائيل">
+      <charseq START="266" END="272">اسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001025.1800.0185-E20" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="AFA20001025.1800.0185-E20-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="281" END="285">اسلحة</charseq>
+    </extent>
+    <head>
+      <charseq START="281" END="285">اسلحة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001025.1800.0185-T1">
+  <timex2_mention ID="AFA20001025.1800.0185-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-25 20:45:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001025.1800.0185-T2">
+  <timex2_mention ID="AFA20001025.1800.0185-T2-1">
+    <extent>
+      <charseq START="128" END="132">10-25</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001025.1800.0185-T3">
+  <timex2_mention ID="AFA20001025.1800.0185-T3-1">
+    <extent>
+      <charseq START="228" END="241">اليوم الاربعاء</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001025.1800.0185-T4">
+  <timex2_mention ID="AFA20001025.1800.0185-T4-1">
+    <extent>
+      <charseq START="583" END="610">السابع من تشرين الاول/اكتوبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001025.1800.0185-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001025.1800.0185-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001025.1800.0185-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001025.1800.0185-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="116" END="138">عدن (اليمن) 10-25 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E15-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="135" END="138">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E1-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="121" END="125">اليمن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001025.1800.0185-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001025.1800.0185-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001025.1800.0185-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001025.1800.0185-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="116" END="138">عدن (اليمن) 10-25 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E13-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="116" END="138">عدن (اليمن) 10-25 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E1-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="121" END="125">اليمن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001025.1800.0185-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001025.1800.0185-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001025.1800.0185-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001025.1800.0185-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="477" END="498">مقاتلي الشعب الفلسطيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E4-7" ROLE="Arg-1">
+      <extent>
+        <charseq START="477" END="498">مقاتلي الشعب الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E5-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="484" END="498">الشعب الفلسطيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001025.1800.0185-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001025.1800.0185-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001025.1800.0185-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001025.1800.0185-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="147" END="159">الرئيس اليمني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E16-23" ROLE="Arg-1">
+      <extent>
+        <charseq START="147" END="159">الرئيس اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E1-2" ROLE="Arg-2">
+      <extent>
+        <charseq START="154" END="159">اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001025.1800.0185-R4-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="338" END="350">الرئيس اليمني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E16-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="338" END="350">الرئيس اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E1-33" ROLE="Arg-2">
+      <extent>
+        <charseq START="345" END="350">اليمني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001025.1800.0185-R4-3" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="556" END="574">رئيس الدولة اليمنية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E16-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="556" END="574">رئيس الدولة اليمنية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001025.1800.0185-E1-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="561" END="574">الدولة اليمنية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001025.1800.0185-EV1" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001025.1800.0185-E3" ROLE="Giver"/>
+  <event_argument REFID="AFA20001025.1800.0185-E4" ROLE="Beneficiary"/>
+  <event_mention ID="AFA20001025.1800.0185-EV1-1">
+    <extent>
+      <charseq START="472" END="498">نزود مقاتلي الشعب الفلسطيني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="453" END="546">واضاف "ادعو الى ان نزود مقاتلي الشعب الفلسطيني بالمال والسلاح للدفاع
+عن النفس وهذا نضال مشروع"</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="472" END="475">نزود</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E3-6" ROLE="Giver">
+      <extent>
+        <charseq START="472" END="472">ن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E4-7" ROLE="Beneficiary">
+      <extent>
+        <charseq START="477" END="498">مقاتلي الشعب الفلسطيني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001025.1800.0185-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001025.1800.0185-E19" ROLE="Target"/>
+  <event_argument REFID="AFA20001025.1800.0185-E20" ROLE="Instrument"/>
+  <event_argument REFID="AFA20001025.1800.0185-T3" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001025.1800.0185-EV2-1">
+    <extent>
+      <charseq START="228" END="285">اليوم الاربعاء الى
+"الكفاح المسلح" ضد اسرائيل وارسال اسلحة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="143" END="328">دعا الرئيس اليمني علي عبدالله صالح في
+مقابلة مع شبكة تلفزيون الشرق الاوسط "ام بي سي" اليوم الاربعاء الى
+"الكفاح المسلح" ضد اسرائيل وارسال اسلحة للفلسطينيين لمساعدتهم على
+الدفاع عن انفسهم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="248" END="253">الكفاح</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E19-28" ROLE="Target">
+      <extent>
+        <charseq START="266" END="272">اسرائيل</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E20-29" ROLE="Instrument">
+      <extent>
+        <charseq START="281" END="285">اسلحة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001025.1800.0185-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="228" END="241">اليوم الاربعاء</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001025.1800.0185-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001025.1800.0185-E5" ROLE="Destination"/>
+  <event_argument REFID="AFA20001025.1800.0185-E16" ROLE="Artifact"/>
+  <event_mention ID="AFA20001025.1800.0185-EV3-1">
+    <extent>
+      <charseq START="147" END="297">الرئيس اليمني علي عبدالله صالح في
+مقابلة مع شبكة تلفزيون الشرق الاوسط "ام بي سي" اليوم الاربعاء الى
+"الكفاح المسلح" ضد اسرائيل وارسال اسلحة للفلسطينيين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="143" END="328">دعا الرئيس اليمني علي عبدالله صالح في
+مقابلة مع شبكة تلفزيون الشرق الاوسط "ام بي سي" اليوم الاربعاء الى
+"الكفاح المسلح" ضد اسرائيل وارسال اسلحة للفلسطينيين لمساعدتهم على
+الدفاع عن انفسهم</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="275" END="279">ارسال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E5-24" ROLE="Destination">
+      <extent>
+        <charseq START="287" END="297">للفلسطينيين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E16-23" ROLE="Artifact">
+      <extent>
+        <charseq START="147" END="159">الرئيس اليمني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001025.1800.0185-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001025.1800.0185-E2" ROLE="Instrument"/>
+  <event_mention ID="AFA20001025.1800.0185-EV4-1">
+    <extent>
+      <charseq START="373" END="384">ثورة الحجارة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="333" END="448">وقال الرئيس اليمني "ينبغي فورا ان تتحول ثورة الحجارة من ثورة حجارة
+الى نضال مسلح وادعو الى الكفاح المسلح" ضد اسرائيل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="373" END="376">ثورة</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E2-3" ROLE="Instrument">
+      <extent>
+        <charseq START="378" END="384">الحجارة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001025.1800.0185-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_mention ID="AFA20001025.1800.0185-EV5-1">
+    <extent>
+      <charseq START="409" END="412">مسلح</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="333" END="448">وقال الرئيس اليمني "ينبغي فورا ان تتحول ثورة الحجارة من ثورة حجارة
+الى نضال مسلح وادعو الى الكفاح المسلح" ضد اسرائيل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="409" END="412">مسلح</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001025.1800.0185-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001025.1800.0185-E4" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001025.1800.0185-E7" ROLE="Instrument"/>
+  <event_mention ID="AFA20001025.1800.0185-EV6-1">
+    <extent>
+      <charseq START="477" END="539">مقاتلي الشعب الفلسطيني بالمال والسلاح للدفاع
+عن النفس وهذا نضال</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="453" END="546">واضاف "ادعو الى ان نزود مقاتلي الشعب الفلسطيني بالمال والسلاح للدفاع
+عن النفس وهذا نضال مشروع"</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="536" END="539">نضال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E4-7" ROLE="Attacker">
+      <extent>
+        <charseq START="477" END="498">مقاتلي الشعب الفلسطيني</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E7-10" ROLE="Instrument">
+      <extent>
+        <charseq START="508" END="513">السلاح</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001025.1800.0185-EV7" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="AFA20001025.1800.0185-E16" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001025.1800.0185-E9" ROLE="Origin"/>
+  <event_argument REFID="AFA20001025.1800.0185-E5" ROLE="Destination"/>
+  <event_mention ID="AFA20001025.1800.0185-EV7-1">
+    <extent>
+      <charseq START="556" END="678">رئيس الدولة اليمنية دعا في السابع من تشرين الاول/اكتوبر الى فتح
+الحدود العربية لارسال السلاح والمقاتلين الى الشعب الفلسطيني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="551" END="678">وكان رئيس الدولة اليمنية دعا في السابع من تشرين الاول/اكتوبر الى فتح
+الحدود العربية لارسال السلاح والمقاتلين الى الشعب الفلسطيني</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="635" END="640">لارسال</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E16-11" ROLE="Artifact">
+      <extent>
+        <charseq START="556" END="574">رئيس الدولة اليمنية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E9-14" ROLE="Origin">
+      <extent>
+        <charseq START="620" END="633">الحدود العربية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001025.1800.0185-E5-18" ROLE="Destination">
+      <extent>
+        <charseq START="664" END="678">الشعب الفلسطيني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

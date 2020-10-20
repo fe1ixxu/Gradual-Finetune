@@ -1,0 +1,814 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001118.1100.0389.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001118.1100.0389">
+<entity ID="VAR20001118.1100.0389-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E1-2" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="263" END="268">الكويت</charseq>
+    </extent>
+    <head>
+      <charseq START="263" END="268">الكويت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الكويت">
+      <charseq START="263" END="268">الكويت</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E2-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="273" END="280">السعودية</charseq>
+    </extent>
+    <head>
+      <charseq START="273" END="280">السعودية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="السعودية">
+      <charseq START="273" END="280">السعودية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E3-4" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="283" END="289">إسرائيل</charseq>
+    </extent>
+    <head>
+      <charseq START="283" END="289">إسرائيل</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="إسرائيل">
+      <charseq START="283" END="289">إسرائيل</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E4-5" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="292" END="294">مصر</charseq>
+    </extent>
+    <head>
+      <charseq START="292" END="294">مصر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مصر">
+      <charseq START="292" END="294">مصر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E5-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="305" END="331">القوات الأمريكية في المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="305" END="310">القوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E5-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="303" END="303">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="303">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0389-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E6-7" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="312" END="320">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="312" END="320">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E6-10" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="463" END="469">أمريكيا</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="469">أمريكيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E6-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="500" END="508">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="500" END="508">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E6-21" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="369" END="377">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="369" END="377">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E6-26" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="92" END="99">الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="92" END="99">الأمريكي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكية">
+      <charseq START="312" END="320">الأمريكية</charseq>
+    </name>
+    <name NAME="أمريكيا">
+      <charseq START="463" END="469">أمريكيا</charseq>
+    </name>
+    <name NAME="الأمريكية">
+      <charseq START="500" END="508">الأمريكية</charseq>
+    </name>
+    <name NAME="الأمريكية">
+      <charseq START="369" END="377">الأمريكية</charseq>
+    </name>
+    <name NAME="الأمريكي">
+      <charseq START="92" END="99">الأمريكي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E7" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E7-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="114" END="119">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="119">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E7-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="325" END="331">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="325" END="331">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E7-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="610" END="616">المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="616">المنطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="114" END="119">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E8-9" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="448" END="469">سبعة عشر بحارا أمريكيا</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="461">بحارا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0389-E10" TYPE="PER" SUBTYPE="Individual" CLASS="USP">
+  <entity_mention ID="VAR20001118.1100.0389-E10-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="476" END="508">ناطق بلسان وزارة الدفاع الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="479">ناطق</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0389-E12" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E12-19" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="361" END="377">المدمرة الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="361" END="367">المدمرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E12-20" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="381" END="384">كوين</charseq>
+    </extent>
+    <head>
+      <charseq START="381" END="384">كوين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوين">
+      <charseq START="381" END="384">كوين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E15-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="70" END="78">وليم كوين</charseq>
+    </extent>
+    <head>
+      <charseq START="70" END="78">وليم كوين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E15-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="80" END="99">وزير الدفاع الأمريكي</charseq>
+    </extent>
+    <head>
+      <charseq START="80" END="83">وزير</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E15-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="65" END="65">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="65">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E15-32" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="174" END="183">السيد كوين</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="178">السيد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E15-33" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="180" END="183">كوين</charseq>
+    </extent>
+    <head>
+      <charseq START="180" END="183">كوين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E15-34" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="189" END="189">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="189" END="189">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E15-36" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="207" END="207">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="207" END="207">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وليم كوين">
+      <charseq START="70" END="78">وليم كوين</charseq>
+    </name>
+    <name NAME="كوين">
+      <charseq START="180" END="183">كوين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E16" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E16-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="389" END="397">ميناء عدن</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="397">ميناء عدن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ميناء عدن">
+      <charseq START="389" END="397">ميناء عدن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E18-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="487" END="508">وزارة الدفاع الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="487" END="498">وزارة الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E18-25" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="85" END="90">الدفاع</charseq>
+    </extent>
+    <head>
+      <charseq START="85" END="90">الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وزارة الدفاع">
+      <charseq START="487" END="498">وزارة الدفاع</charseq>
+    </name>
+    <name NAME="الدفاع">
+      <charseq START="85" END="90">الدفاع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E20" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E20-14" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="606" END="616">دول المنطقة</charseq>
+    </extent>
+    <head>
+      <charseq START="606" END="608">دول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E20-28" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="110" END="119">دول الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="110" END="112">دول</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0389-E21" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E21-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="632" END="650">أسلحة الدمار الشامل</charseq>
+    </extent>
+    <head>
+      <charseq START="632" END="636">أسلحة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E21-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="145" END="164">أسلحة التدمير الشامل</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="149">أسلحة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001118.1100.0389-E21-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="139" END="139">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="139">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0389-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E23-35" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="198" END="204">البحرين</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="204">البحرين</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="البحرين">
+      <charseq START="198" END="204">البحرين</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E24-37" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="212" END="214">قطر</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="214">قطر</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="قطر">
+      <charseq START="212" END="214">قطر</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001118.1100.0389-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E25-38" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="249" END="294">كل من الأردن
+والكويت ثم السعودية وإسرائيل ومصر</charseq>
+    </extent>
+    <head>
+      <charseq START="249" END="250">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001118.1100.0389-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001118.1100.0389-E26-39" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="255" END="260">الأردن</charseq>
+    </extent>
+    <head>
+      <charseq START="255" END="260">الأردن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأردن">
+      <charseq START="255" END="260">الأردن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001118.1100.0389-T1">
+  <timex2_mention ID="VAR20001118.1100.0389-T1-1">
+    <extent>
+      <charseq START="402" END="427">الثاني عشر من الشهر الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001118.1100.0389-T2">
+  <timex2_mention ID="VAR20001118.1100.0389-T2-1">
+    <extent>
+      <charseq START="574" END="590">عام ثمانية وتسعين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001118.1100.0389-T3">
+  <timex2_mention ID="VAR20001118.1100.0389-T3-1">
+    <extent>
+      <charseq START="39" END="60">11/18/2000 11:06:29.36</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001118.1100.0389-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E18" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="85" END="99">الدفاع الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E18-25" ROLE="Arg-1">
+      <extent>
+        <charseq START="85" END="90">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E6-26" ROLE="Arg-2">
+      <extent>
+        <charseq START="92" END="99">الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001118.1100.0389-R1-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="487" END="508">وزارة الدفاع الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E18-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="487" END="508">وزارة الدفاع الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E6-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="500" END="508">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0389-R2" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E18" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="80" END="99">وزير الدفاع الأمريكي</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E15-24" ROLE="Arg-1">
+      <extent>
+        <charseq START="80" END="99">وزير الدفاع الأمريكي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E18-25" ROLE="Arg-2">
+      <extent>
+        <charseq START="85" END="90">الدفاع</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0389-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E20" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E7" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="110" END="119">دول الخليج</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E20-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="110" END="119">دول الخليج</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E7-8" ROLE="Arg-2">
+      <extent>
+        <charseq START="114" END="119">الخليج</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001118.1100.0389-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="606" END="616">دول المنطقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E20-14" ROLE="Arg-1">
+      <extent>
+        <charseq START="606" END="616">دول المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E7-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="610" END="616">المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0389-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R4-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="305" END="331">القوات الأمريكية في المنطقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E5-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="305" END="331">القوات الأمريكية في المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E6-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="312" END="320">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0389-R5" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E5" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E7" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="305" END="331">القوات الأمريكية في المنطقة</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E5-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="305" END="331">القوات الأمريكية في المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E7-16" ROLE="Arg-2">
+      <extent>
+        <charseq START="325" END="331">المنطقة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0389-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E12" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="361" END="377">المدمرة الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E6-21" ROLE="Arg-1">
+      <extent>
+        <charseq START="369" END="377">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E12-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="361" END="377">المدمرة الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0389-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E6" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="448" END="469">سبعة عشر بحارا أمريكيا</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E8-9" ROLE="Arg-1">
+      <extent>
+        <charseq START="448" END="469">سبعة عشر بحارا أمريكيا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E6-10" ROLE="Arg-2">
+      <extent>
+        <charseq START="463" END="469">أمريكيا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001118.1100.0389-R8" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001118.1100.0389-E10" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001118.1100.0389-E18" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001118.1100.0389-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="476" END="508">ناطق بلسان وزارة الدفاع الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E10-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="476" END="508">ناطق بلسان وزارة الدفاع الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001118.1100.0389-E18-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="487" END="508">وزارة الدفاع الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001118.1100.0389-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Generic" TENSE="Present">
+  <event_mention ID="VAR20001118.1100.0389-EV1-1">
+    <extent>
+      <charseq START="514" END="519">الجولة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="471" END="650">وصرح ناطق بلسان وزارة الدفاع الأمريكية بأن الجولة تدخل ضمن أنشطة
+مغادرة التعاون الدفاعي التي أعلن عنها عام ثمانية وتسعين لتوعية وإعداد
+دول المنطقة لمواجهة أخطار أسلحة الدمار الشامل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="514" END="519">الجولة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="VAR20001118.1100.0389-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001118.1100.0389-E15" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001118.1100.0389-E20" ROLE="Destination"/>
+  <event_mention ID="VAR20001118.1100.0389-EV2-1">
+    <extent>
+      <charseq START="70" END="119">وليم كوين وزير الدفاع الأمريكي بجولة في دول الخليج</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="164">يقوم وليم كوين وزير الدفاع الأمريكي بجولة في دول الخليج لبحث التهديد
+الذي تمثله أسلحة التدمير الشامل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="101" END="105">بجولة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E15-23" ROLE="Artifact">
+      <extent>
+        <charseq START="70" END="78">وليم كوين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E20-28" ROLE="Destination">
+      <extent>
+        <charseq START="110" END="119">دول الخليج</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001118.1100.0389-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001118.1100.0389-E23" ROLE="Destination"/>
+  <event_argument REFID="VAR20001118.1100.0389-E15" ROLE="Artifact"/>
+  <event_mention ID="VAR20001118.1100.0389-EV3-1">
+    <extent>
+      <charseq START="189" END="204">ه بزيارة
+البحرين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="166" END="294">وقد بدأ السيد كوين جولته بزيارة
+البحرين ويزور قطر في اليوم نفسه وتشمل الجولة زيارة كل من الأردن
+والكويت ثم السعودية وإسرائيل ومصر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="191" END="196">بزيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E23-35" ROLE="Destination">
+      <extent>
+        <charseq START="198" END="204">البحرين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E15-34" ROLE="Artifact">
+      <extent>
+        <charseq START="189" END="189">ه</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001118.1100.0389-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001118.1100.0389-E15" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001118.1100.0389-E24" ROLE="Destination"/>
+  <event_mention ID="VAR20001118.1100.0389-EV4-1">
+    <extent>
+      <charseq START="207" END="214">يزور قطر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="166" END="294">وقد بدأ السيد كوين جولته بزيارة
+البحرين ويزور قطر في اليوم نفسه وتشمل الجولة زيارة كل من الأردن
+والكويت ثم السعودية وإسرائيل ومصر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="207" END="210">يزور</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E15-36" ROLE="Artifact">
+      <extent>
+        <charseq START="207" END="207">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E24-37" ROLE="Destination">
+      <extent>
+        <charseq START="212" END="214">قطر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001118.1100.0389-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001118.1100.0389-E25" ROLE="Origin"/>
+  <event_mention ID="VAR20001118.1100.0389-EV5-1">
+    <extent>
+      <charseq START="243" END="294">زيارة كل من الأردن
+والكويت ثم السعودية وإسرائيل ومصر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="166" END="294">وقد بدأ السيد كوين جولته بزيارة
+البحرين ويزور قطر في اليوم نفسه وتشمل الجولة زيارة كل من الأردن
+والكويت ثم السعودية وإسرائيل ومصر</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="243" END="247">زيارة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E25-38" ROLE="Origin">
+      <extent>
+        <charseq START="249" END="294">كل من الأردن
+والكويت ثم السعودية وإسرائيل ومصر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001118.1100.0389-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001118.1100.0389-E16" ROLE="Place"/>
+  <event_argument REFID="VAR20001118.1100.0389-E12" ROLE="Target"/>
+  <event_argument REFID="VAR20001118.1100.0389-T1" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001118.1100.0389-EV6-1">
+    <extent>
+      <charseq START="355" END="427">تفجير المدمرة الأمريكية ، كوين في ميناء عدن في
+الثاني عشر من الشهر الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="296" END="469">وقد وضعت القوات الأمريكية في المنطقة
+في حالة تأهب قصوى عقب تفجير المدمرة الأمريكية ، كوين في ميناء عدن في
+الثاني عشر من الشهر الماضي والذي أسفر عن مقتل سبعة عشر بحارا أمريكيا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="355" END="359">تفجير</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E16-22" ROLE="Place">
+      <extent>
+        <charseq START="389" END="397">ميناء عدن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E12-19" ROLE="Target">
+      <extent>
+        <charseq START="361" END="377">المدمرة الأمريكية</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001118.1100.0389-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="402" END="427">الثاني عشر من الشهر الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001118.1100.0389-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001118.1100.0389-E8" ROLE="Victim"/>
+  <event_argument REFID="VAR20001118.1100.0389-E16" ROLE="Place"/>
+  <event_argument REFID="VAR20001118.1100.0389-T1" ROLE="Time-Within"/>
+  <event_mention ID="VAR20001118.1100.0389-EV7-1">
+    <extent>
+      <charseq START="389" END="469">ميناء عدن في
+الثاني عشر من الشهر الماضي والذي أسفر عن مقتل سبعة عشر بحارا أمريكيا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="296" END="469">وقد وضعت القوات الأمريكية في المنطقة
+في حالة تأهب قصوى عقب تفجير المدمرة الأمريكية ، كوين في ميناء عدن في
+الثاني عشر من الشهر الماضي والذي أسفر عن مقتل سبعة عشر بحارا أمريكيا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="443" END="446">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E8-9" ROLE="Victim">
+      <extent>
+        <charseq START="448" END="469">سبعة عشر بحارا أمريكيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001118.1100.0389-E16-22" ROLE="Place">
+      <extent>
+        <charseq START="389" END="397">ميناء عدن</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001118.1100.0389-T1-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="402" END="427">الثاني عشر من الشهر الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

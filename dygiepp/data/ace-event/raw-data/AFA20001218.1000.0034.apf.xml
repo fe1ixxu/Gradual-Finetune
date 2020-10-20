@@ -1,0 +1,988 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001218.1000.0034.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001218.1000.0034">
+<entity ID="AFA20001218.1000.0034-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E1-12" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="494" END="501">فيليبيني</charseq>
+    </extent>
+    <head>
+      <charseq START="494" END="501">فيليبيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E1-30" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="723" END="732">الفيليبيني</charseq>
+    </extent>
+    <head>
+      <charseq START="723" END="732">الفيليبيني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E1-43" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="149" END="159">الفيليبينية</charseq>
+    </extent>
+    <head>
+      <charseq START="149" END="159">الفيليبينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E1-54" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="324" END="334">الفيليبينية</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="334">الفيليبينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فيليبيني">
+      <charseq START="494" END="501">فيليبيني</charseq>
+    </name>
+    <name NAME="الفيليبيني">
+      <charseq START="723" END="732">الفيليبيني</charseq>
+    </name>
+    <name NAME="الفيليبينية">
+      <charseq START="149" END="159">الفيليبينية</charseq>
+    </name>
+    <name NAME="الفيليبينية">
+      <charseq START="324" END="334">الفيليبينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E2-2" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="389" END="389">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="389" END="389">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-3" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="691" END="697">شيللينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="691" END="697">شيللينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-6" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="818" END="830">جيفري شيللينغ</charseq>
+    </extent>
+    <head>
+      <charseq START="818" END="830">جيفري شيللينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-7" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="876" END="876">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="876" END="876">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="470" END="540">الاميركي رهينة مع مواطن فيليبيني لدى جماعة ابو سياف التي احتجزت 21
+شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="470" END="477">الاميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-16" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="347" END="367">جيفري شيللينغ (24 سنة</charseq>
+    </extent>
+    <head>
+      <charseq START="347" END="359">جيفري شيللينغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-37" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="940" END="947">للاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="940" END="947">للاميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-38" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="968" END="968">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="968" END="968">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-46" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="204" END="279">الرهينة الاميركي المحتجز منذ اربعة اشهر لدى
+متمردين اسلامييين في جنوب البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="210">الرهينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-49" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="339" END="367">الرهينة جيفري شيللينغ (24 سنة</charseq>
+    </extent>
+    <head>
+      <charseq START="339" END="345">الرهينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E2-51" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="299" END="299">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="299" END="299">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شيللينغ">
+      <charseq START="691" END="697">شيللينغ</charseq>
+    </name>
+    <name NAME="جيفري شيللينغ">
+      <charseq START="818" END="830">جيفري شيللينغ</charseq>
+    </name>
+    <name NAME="جيفري شيللينغ">
+      <charseq START="347" END="359">جيفري شيللينغ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E3" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E3-5" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="395" END="445">مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو</charseq>
+    </extent>
+    <head>
+      <charseq START="395" END="398">مخيم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E4-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="417" END="431">لجماعة ابو سياف</charseq>
+    </extent>
+    <head>
+      <charseq START="417" END="431">لجماعة ابو سياف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E4-13" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="507" END="540">جماعة ابو سياف التي احتجزت 21
+شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="507" END="520">جماعة ابو سياف</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E4-14" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="522" END="525">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="522" END="525">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E4-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="532" END="532">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="532" END="532">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E4-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="596" END="596">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="596" END="596">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E4-28" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="671" END="684">جماعة ابو سياف</charseq>
+    </extent>
+    <head>
+      <charseq START="671" END="684">جماعة ابو سياف</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="لجماعة ابو سياف">
+      <charseq START="417" END="431">لجماعة ابو سياف</charseq>
+    </name>
+    <name NAME="جماعة ابو سياف">
+      <charseq START="507" END="520">جماعة ابو سياف</charseq>
+    </name>
+    <name NAME="جماعة ابو سياف">
+      <charseq START="671" END="684">جماعة ابو سياف</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E5-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="436" END="445">جزيرة
+جولو</charseq>
+    </extent>
+    <head>
+      <charseq START="436" END="445">جزيرة
+جولو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جزيرة جولو">
+      <charseq START="436" END="445">جزيرة
+جولو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E6-4" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="700" END="704">اولاه</charseq>
+    </extent>
+    <head>
+      <charseq START="700" END="704">اولاه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E6-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="488" END="501">مواطن فيليبيني</charseq>
+    </extent>
+    <head>
+      <charseq START="488" END="492">مواطن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E6-29" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="715" END="732">الرهينة الفيليبيني</charseq>
+    </extent>
+    <head>
+      <charseq START="715" END="721">الرهينة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E8-17" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="534" END="540">21
+شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="537" END="540">شخصا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E8-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="550" END="551">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="551">هم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E8-25" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="603" END="604">هم</charseq>
+    </extent>
+    <head>
+      <charseq START="603" END="604">هم</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E9-18" TYPE="PRO" LDCTYPE="PTV">
+    <extent>
+      <charseq START="543" END="571">عشرة منهم من الرعايا الغربيين</charseq>
+    </extent>
+    <head>
+      <charseq START="543" END="546">عشرة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E10-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="556" END="571">الرعايا الغربيين</charseq>
+    </extent>
+    <head>
+      <charseq START="556" END="562">الرعايا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E10-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="570" END="571">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="570" END="571">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E11-22" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="269" END="279">جنوب البلاد</charseq>
+    </extent>
+    <head>
+      <charseq START="274" END="279">البلاد</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E13-32" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="837" END="849">لحكومة مانيلا</charseq>
+    </extent>
+    <head>
+      <charseq START="837" END="842">لحكومة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E14-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="888" END="888">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="888" END="888">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E14-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="890" END="947">صحيفة "فيليبين ديلي" التي نشرت اليوم الاثنين صورة للاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="890" END="908">صحيفة "فيليبين ديلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E14-35" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="911" END="914">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="911" END="914">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E14-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="919" END="919">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="919" END="919">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة فيليبين ديلي">
+      <charseq START="890" END="908">صحيفة "فيليبين ديلي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E15-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="114" END="131">مانيلا 12-18 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="114" END="119">مانيلا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E15-20" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="844" END="849">مانيلا</charseq>
+    </extent>
+    <head>
+      <charseq START="844" END="849">مانيلا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مانيلا">
+      <charseq START="114" END="119">مانيلا</charseq>
+    </name>
+    <name NAME="مانيلا">
+      <charseq START="844" END="849">مانيلا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E16-40" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="128" END="131">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="131">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="128" END="131">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E17-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="139" END="139">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="139">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E17-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="141" END="159">السلطات الفيليبينية</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="147">السلطات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E17-44" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="178" END="179">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="178" END="179">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E17-45" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="201" END="202">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="201" END="202">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E20-47" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="212" END="219">الاميركي</charseq>
+    </extent>
+    <head>
+      <charseq START="212" END="219">الاميركي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاميركي">
+      <charseq START="212" END="219">الاميركي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001218.1000.0034-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E21-31" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="764" END="772">المتمردين</charseq>
+    </extent>
+    <head>
+      <charseq START="764" END="772">المتمردين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E21-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="400" END="408">المتمردين</charseq>
+    </extent>
+    <head>
+      <charseq START="400" END="408">المتمردين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E21-48" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="248" END="264">متمردين اسلامييين</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="254">متمردين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E21-50" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="293" END="298">محتجزي</charseq>
+    </extent>
+    <head>
+      <charseq START="293" END="298">محتجزي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001218.1000.0034-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001218.1000.0034-E22-26" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="628" END="628">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="628" END="628">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E22-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="630" END="636">الوزارة</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="636">الوزارة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E22-52" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="309" END="309">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="309" END="309">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001218.1000.0034-E22-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="311" END="334">وزارة الدفاع الفيليبينية</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="322">وزارة الدفاع</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وزارة الدفاع">
+      <charseq START="311" END="322">وزارة الدفاع</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001218.1000.0034-T1">
+  <timex2_mention ID="AFA20001218.1000.0034-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-18 11:05:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001218.1000.0034-T2">
+  <timex2_mention ID="AFA20001218.1000.0034-T2-1">
+    <extent>
+      <charseq START="121" END="125">12-18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001218.1000.0034-T3">
+  <timex2_mention ID="AFA20001218.1000.0034-T3-1">
+    <extent>
+      <charseq START="450" END="464">آب/اغسطس الماضي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001218.1000.0034-T4">
+  <timex2_mention ID="AFA20001218.1000.0034-T4-1">
+    <extent>
+      <charseq START="577" END="587">نيسان/ابريل</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001218.1000.0034-T5">
+  <timex2_mention ID="AFA20001218.1000.0034-T5-1">
+    <extent>
+      <charseq START="789" END="800">ايلول/سبتمبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001218.1000.0034-T6">
+  <timex2_mention ID="AFA20001218.1000.0034-T6-1">
+    <extent>
+      <charseq START="921" END="933">اليوم الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001218.1000.0034-T7">
+  <timex2_mention ID="AFA20001218.1000.0034-T7-1">
+    <extent>
+      <charseq START="229" END="242">منذ اربعة اشهر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001218.1000.0034-T8">
+  <timex2_mention ID="AFA20001218.1000.0034-T8-1">
+    <extent>
+      <charseq START="161" END="173">اليوم الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001218.1000.0034-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R1-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="395" END="445">مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E21-39" ROLE="Arg-1">
+      <extent>
+        <charseq START="400" END="408">المتمردين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E3-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="395" END="445">مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="114" END="131">مانيلا 12-18 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E16-40" ROLE="Arg-1">
+      <extent>
+        <charseq START="128" END="131">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E15-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="114" END="131">مانيلا 12-18 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="141" END="159">السلطات الفيليبينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E17-42" ROLE="Arg-1">
+      <extent>
+        <charseq START="141" END="159">السلطات الفيليبينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E1-43" ROLE="Arg-2">
+      <extent>
+        <charseq START="149" END="159">الفيليبينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E20" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R4-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="204" END="279">الرهينة الاميركي المحتجز منذ اربعة اشهر لدى
+متمردين اسلامييين في جنوب البلاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E2-46" ROLE="Arg-1">
+      <extent>
+        <charseq START="204" END="279">الرهينة الاميركي المحتجز منذ اربعة اشهر لدى
+متمردين اسلامييين في جنوب البلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E20-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="212" END="219">الاميركي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R5" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E21" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E11" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001218.1000.0034-T7" ROLE="Time-Starting"/>
+  <relation_mention ID="AFA20001218.1000.0034-R5-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="204" END="279">الرهينة الاميركي المحتجز منذ اربعة اشهر لدى
+متمردين اسلامييين في جنوب البلاد</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E21-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="248" END="264">متمردين اسلامييين</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E11-22" ROLE="Arg-2">
+      <extent>
+        <charseq START="269" END="279">جنوب البلاد</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-T7-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="229" END="242">منذ اربعة اشهر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E22" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="311" END="334">وزارة الدفاع الفيليبينية</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E22-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="311" END="334">وزارة الدفاع الفيليبينية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E1-54" ROLE="Arg-2">
+      <extent>
+        <charseq START="324" END="334">الفيليبينية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="395" END="445">مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E3-5" ROLE="Arg-1">
+      <extent>
+        <charseq START="395" END="445">مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E5-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="436" END="445">جزيرة
+جولو</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="488" END="501">مواطن فيليبيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E6-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="488" END="501">مواطن فيليبيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E1-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="494" END="501">فيليبيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001218.1000.0034-R8-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="715" END="732">الرهينة الفيليبيني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E6-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="715" END="732">الرهينة الفيليبيني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E1-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="723" END="732">الفيليبيني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001218.1000.0034-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001218.1000.0034-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001218.1000.0034-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001218.1000.0034-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="837" END="849">لحكومة مانيلا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E13-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="837" END="849">لحكومة مانيلا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001218.1000.0034-E15-20" ROLE="Arg-2">
+      <extent>
+        <charseq START="844" END="849">مانيلا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001218.1000.0034-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001218.1000.0034-E8" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001218.1000.0034-E4" ROLE="Agent"/>
+  <event_argument REFID="AFA20001218.1000.0034-T4" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001218.1000.0034-EV1-1">
+    <extent>
+      <charseq START="577" END="604">نيسان/ابريل قبل ان تفرج عنهم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="469" END="619">والاميركي رهينة مع مواطن فيليبيني لدى جماعة ابو سياف التي احتجزت 21
+شخصا، عشرة منهم من الرعايا الغربيين، في نيسان/ابريل قبل ان تفرج عنهم
+في مقابل كفالة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="596" END="599">تفرج</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E8-25" ROLE="Artifact">
+      <extent>
+        <charseq START="603" END="604">هم</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E4-24" ROLE="Agent">
+      <extent>
+        <charseq START="596" END="596">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="577" END="587">نيسان/ابريل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001218.1000.0034-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_mention ID="AFA20001218.1000.0034-EV2-1">
+    <extent>
+      <charseq START="615" END="619">كفالة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="469" END="619">والاميركي رهينة مع مواطن فيليبيني لدى جماعة ابو سياف التي احتجزت 21
+شخصا، عشرة منهم من الرعايا الغربيين، في نيسان/ابريل قبل ان تفرج عنهم
+في مقابل كفالة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="615" END="619">كفالة</charseq>
+    </anchor>
+  </event_mention>
+</event>
+<event ID="AFA20001218.1000.0034-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001218.1000.0034-E22" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001218.1000.0034-E4" ROLE="Target"/>
+  <event_argument REFID="AFA20001218.1000.0034-T5" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001218.1000.0034-EV3-1">
+    <extent>
+      <charseq START="630" END="800">الوزارة في بيان "لن تجرى مفاوضات اخرى مع جماعة ابو سياف بشأن
+شيللينغ واولاه" وهو اسم الرهينة الفيليبيني مضيفة ان العمليات العسكرية
+ضد المتمردين التي انطلقت في ايلول/سبتمبر</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="624" END="808">واكدت الوزارة في بيان "لن تجرى مفاوضات اخرى مع جماعة ابو سياف بشأن
+شيللينغ واولاه" وهو اسم الرهينة الفيليبيني مضيفة ان العمليات العسكرية
+ضد المتمردين التي انطلقت في ايلول/سبتمبر ستتواصل</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="743" END="750">العمليات</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E22-27" ROLE="Attacker">
+      <extent>
+        <charseq START="630" END="636">الوزارة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E4-28" ROLE="Target">
+      <extent>
+        <charseq START="671" END="684">جماعة ابو سياف</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-T5-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="789" END="800">ايلول/سبتمبر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001218.1000.0034-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="AFA20001218.1000.0034-E2" ROLE="Artifact"/>
+  <event_mention ID="AFA20001218.1000.0034-EV4-1">
+    <extent>
+      <charseq START="818" END="872">جيفري شيللينغ نداء لحكومة مانيلا لاجراء مفاوضات للافراج</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="813" END="976">ووجه جيفري شيللينغ نداء لحكومة مانيلا لاجراء مفاوضات للافراج عنه على
+ما ذكرت صحيفة "فيليبين ديلي" التي نشرت اليوم الاثنين صورة للاميركي بدا
+فيها شاحبا ويداه مكبلتان</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="866" END="872">للافراج</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E2-6" ROLE="Artifact">
+      <extent>
+        <charseq START="818" END="830">جيفري شيللينغ</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001218.1000.0034-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001218.1000.0034-E3" ROLE="Destination"/>
+  <event_argument REFID="AFA20001218.1000.0034-T3" ROLE="Time-Within"/>
+  <event_argument REFID="AFA20001218.1000.0034-E2" ROLE="Artifact"/>
+  <event_mention ID="AFA20001218.1000.0034-EV5-1">
+    <extent>
+      <charseq START="339" END="464">الرهينة جيفري شيللينغ (24 سنة) كان
+توجه بملء ارادته الى مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو في آب/اغسطس الماضي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="304" END="464">واوضحت وزارة الدفاع الفيليبينية ان الرهينة جيفري شيللينغ (24 سنة) كان
+توجه بملء ارادته الى مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو في آب/اغسطس الماضي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="374" END="377">توجه</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E3-5" ROLE="Destination">
+      <extent>
+        <charseq START="395" END="445">مخيم المتمردين التابع لجماعة ابو سياف في جزيرة
+جولو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="450" END="464">آب/اغسطس الماضي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E2-49" ROLE="Artifact">
+      <extent>
+        <charseq START="339" END="367">الرهينة جيفري شيللينغ (24 سنة</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001218.1000.0034-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001218.1000.0034-E2" ROLE="Artifact"/>
+  <event_argument REFID="AFA20001218.1000.0034-E21" ROLE="Agent"/>
+  <event_argument REFID="AFA20001218.1000.0034-E11" ROLE="Origin"/>
+  <event_argument REFID="AFA20001218.1000.0034-T7" ROLE="Time-Starting"/>
+  <event_mention ID="AFA20001218.1000.0034-EV6-1">
+    <extent>
+      <charseq START="204" END="279">الرهينة الاميركي المحتجز منذ اربعة اشهر لدى
+متمردين اسلامييين في جنوب البلاد</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="135" END="299">اعلنت السلطات الفيليبينية اليوم الاثنين رفضها
+النداء الذي وجهه اليها الرهينة الاميركي المحتجز منذ اربعة اشهر لدى
+متمردين اسلامييين في جنوب البلاد، للتفاوض مع محتجزيه</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="222" END="227">لمحتجز</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E2-46" ROLE="Artifact">
+      <extent>
+        <charseq START="204" END="279">الرهينة الاميركي المحتجز منذ اربعة اشهر لدى
+متمردين اسلامييين في جنوب البلاد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E21-48" ROLE="Agent">
+      <extent>
+        <charseq START="248" END="264">متمردين اسلامييين</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-E11-22" ROLE="Origin">
+      <extent>
+        <charseq START="269" END="279">جنوب البلاد</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001218.1000.0034-T7-1" ROLE="Time-Starting">
+      <extent>
+        <charseq START="229" END="242">منذ اربعة اشهر</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

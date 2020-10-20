@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001019.1800.0157.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001019.1800.0157">
+<entity ID="AFA20001019.1800.0157-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E1-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="91" END="108">اوسلو 10-19 (أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="91" END="95">اوسلو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوسلو">
+      <charseq START="91" END="95">اوسلو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E2-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="104" END="108">أ ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="104" END="108">أ ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أ ف ب">
+      <charseq START="104" END="108">أ ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E3-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="130" END="151">النروجية ترينه هاتشتاد</charseq>
+    </extent>
+    <head>
+      <charseq START="130" END="137">النروجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-5" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="139" END="151">ترينه هاتشتاد</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="151">ترينه هاتشتاد</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-6" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="171" END="247">حاملة الرقم القياسي في مسابقة رمي الرمح التي قررت اعلان
+اعتزالها اليوم الخميس</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="175">حاملة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-7" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="211" END="214">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="211" END="214">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-8" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="219" END="219">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="219" END="219">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-9" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="233" END="234">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="233" END="234">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-10" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="256" END="256">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="256" END="256">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-13" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="335" END="377">ام لولدين: جواكيم (10 سنوات)
+وروبن (5 اعوام</charseq>
+    </extent>
+    <head>
+      <charseq START="335" END="336">ام</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-20" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="435" END="436">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="435" END="436">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="779" END="780">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="779" END="780">ها</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E3-27" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="846" END="846">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="846" END="846">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ترينه هاتشتاد">
+      <charseq START="139" END="151">ترينه هاتشتاد</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E5-11" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="284" END="292">ليورنسكوغ</charseq>
+    </extent>
+    <head>
+      <charseq START="284" END="292">ليورنسكوغ</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ليورنسكوغ">
+      <charseq START="284" END="292">ليورنسكوغ</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E6-14" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="338" END="377">لولدين: جواكيم (10 سنوات)
+وروبن (5 اعوام</charseq>
+    </extent>
+    <head>
+      <charseq START="338" END="343">لولدين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1800.0157-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E7-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="346" END="361">جواكيم (10 سنوات</charseq>
+    </extent>
+    <head>
+      <charseq START="346" END="351">جواكيم</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جواكيم">
+      <charseq START="346" END="351">جواكيم</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E8-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="383" END="397">النادي: مينيرفا</charseq>
+    </extent>
+    <head>
+      <charseq START="383" END="388">النادي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E8-17" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="391" END="397">مينيرفا</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="397">مينيرفا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="مينيرفا">
+      <charseq START="391" END="397">مينيرفا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E9-18" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="402" END="425">المدرب: بير ارلينغ اولسن</charseq>
+    </extent>
+    <head>
+      <charseq START="402" END="407">المدرب</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001019.1800.0157-E9-19" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="410" END="425">بير ارلينغ اولسن</charseq>
+    </extent>
+    <head>
+      <charseq START="410" END="425">بير ارلينغ اولسن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بير ارلينغ اولسن">
+      <charseq START="410" END="425">بير ارلينغ اولسن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E11-21" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="482" END="487">النروج</charseq>
+    </extent>
+    <head>
+      <charseq START="482" END="487">النروج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="النروج">
+      <charseq START="482" END="487">النروج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E12-22" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="573" END="577">سيدني</charseq>
+    </extent>
+    <head>
+      <charseq START="573" END="577">سيدني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="سيدني">
+      <charseq START="573" END="577">سيدني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E13-23" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="601" END="607">اتلانتا</charseq>
+    </extent>
+    <head>
+      <charseq START="601" END="607">اتلانتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اتلانتا">
+      <charseq START="601" END="607">اتلانتا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E14-24" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="629" END="635">برشلونة</charseq>
+    </extent>
+    <head>
+      <charseq START="629" END="635">برشلونة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="برشلونة">
+      <charseq START="629" END="635">برشلونة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E15" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E15-25" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="718" END="723">اوروبا</charseq>
+    </extent>
+    <head>
+      <charseq START="718" END="723">اوروبا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اوروبا">
+      <charseq START="718" END="723">اوروبا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E16-12" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="365" END="377">روبن (5 اعوام</charseq>
+    </extent>
+    <head>
+      <charseq START="365" END="368">روبن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="روبن">
+      <charseq START="365" END="368">روبن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001019.1800.0157-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E17-28" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="478" END="487">ملك النروج</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="480">ملك</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001019.1800.0157-E18" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+  <entity_mention ID="AFA20001019.1800.0157-E18-29" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="889" END="902">للاتحاد الدولي</charseq>
+    </extent>
+    <head>
+      <charseq START="889" END="902">للاتحاد الدولي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للاتحاد الدولي">
+      <charseq START="889" END="902">للاتحاد الدولي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001019.1800.0157-T1">
+  <timex2_mention ID="AFA20001019.1800.0157-T1-1">
+    <extent>
+      <charseq START="951" END="958">عام 1986</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T2">
+  <timex2_mention ID="AFA20001019.1800.0157-T2-1">
+    <extent>
+      <charseq START="39" END="57">2000-10-19 18:18:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T3">
+  <timex2_mention ID="AFA20001019.1800.0157-T3-1">
+    <extent>
+      <charseq START="97" END="101">10-19</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T4">
+  <timex2_mention ID="AFA20001019.1800.0157-T4-1">
+    <extent>
+      <charseq START="236" END="247">اليوم الخميس</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T5">
+  <timex2_mention ID="AFA20001019.1800.0157-T5-1">
+    <extent>
+      <charseq START="261" END="279">18 نيسان/ابريل 1696</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T6">
+  <timex2_mention ID="AFA20001019.1800.0157-T6-1">
+    <extent>
+      <charseq START="527" END="530">2000</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T7">
+  <timex2_mention ID="AFA20001019.1800.0157-T7-1">
+    <extent>
+      <charseq START="457" END="460">1983</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T8">
+  <timex2_mention ID="AFA20001019.1800.0157-T8-1">
+    <extent>
+      <charseq START="466" END="469">2000</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T9">
+  <timex2_mention ID="AFA20001019.1800.0157-T9-1">
+    <extent>
+      <charseq START="503" END="506">1984</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T10">
+  <timex2_mention ID="AFA20001019.1800.0157-T10-1">
+    <extent>
+      <charseq START="509" END="512">1991</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T11">
+  <timex2_mention ID="AFA20001019.1800.0157-T11-1">
+    <extent>
+      <charseq START="515" END="518">1992</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T12">
+  <timex2_mention ID="AFA20001019.1800.0157-T12-1">
+    <extent>
+      <charseq START="521" END="524">1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T13">
+  <timex2_mention ID="AFA20001019.1800.0157-T13-1">
+    <extent>
+      <charseq START="561" END="568">عام
+2000</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T14">
+  <timex2_mention ID="AFA20001019.1800.0157-T14-1">
+    <extent>
+      <charseq START="589" END="596">عام 1996</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T15">
+  <timex2_mention ID="AFA20001019.1800.0157-T15-1">
+    <extent>
+      <charseq START="617" END="624">عام 1992</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T16">
+  <timex2_mention ID="AFA20001019.1800.0157-T16-1">
+    <extent>
+      <charseq START="683" END="690">عام 1999</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T17">
+  <timex2_mention ID="AFA20001019.1800.0157-T17-1">
+    <extent>
+      <charseq START="700" END="707">عام 1991</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T18">
+  <timex2_mention ID="AFA20001019.1800.0157-T18-1">
+    <extent>
+      <charseq START="664" END="667">1993</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T19">
+  <timex2_mention ID="AFA20001019.1800.0157-T19-1">
+    <extent>
+      <charseq START="670" END="673">1997</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T20">
+  <timex2_mention ID="AFA20001019.1800.0157-T20-1">
+    <extent>
+      <charseq START="731" END="738">عام 1949</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T21">
+  <timex2_mention ID="AFA20001019.1800.0157-T21-1">
+    <extent>
+      <charseq START="747" END="754">عام 1998</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T22">
+  <timex2_mention ID="AFA20001019.1800.0157-T22-1">
+    <extent>
+      <charseq START="764" END="771">عام
+1986</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T23">
+  <timex2_mention ID="AFA20001019.1800.0157-T23-1">
+    <extent>
+      <charseq START="859" END="862">1993</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T24">
+  <timex2_mention ID="AFA20001019.1800.0157-T24-1">
+    <extent>
+      <charseq START="865" END="868">2000</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T25">
+  <timex2_mention ID="AFA20001019.1800.0157-T25-1">
+    <extent>
+      <charseq START="915" END="918">2000</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T26">
+  <timex2_mention ID="AFA20001019.1800.0157-T26-1">
+    <extent>
+      <charseq START="921" END="924">1992</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001019.1800.0157-T27">
+  <timex2_mention ID="AFA20001019.1800.0157-T27-1">
+    <extent>
+      <charseq START="934" END="941">عام 1994</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001019.1800.0157-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1800.0157-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1800.0157-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1800.0157-R1-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="91" END="108">اوسلو 10-19 (أ ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1800.0157-E2-2" ROLE="Arg-1">
+      <extent>
+        <charseq START="104" END="108">أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1800.0157-E1-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="91" END="108">اوسلو 10-19 (أ ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1800.0157-R2" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1800.0157-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1800.0157-E6" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1800.0157-R2-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="335" END="377">ام لولدين: جواكيم (10 سنوات)
+وروبن (5 اعوام</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1800.0157-E3-13" ROLE="Arg-1">
+      <extent>
+        <charseq START="335" END="377">ام لولدين: جواكيم (10 سنوات)
+وروبن (5 اعوام</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1800.0157-E6-14" ROLE="Arg-2">
+      <extent>
+        <charseq START="338" END="377">لولدين: جواكيم (10 سنوات)
+وروبن (5 اعوام</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001019.1800.0157-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001019.1800.0157-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001019.1800.0157-E11" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001019.1800.0157-R3-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="478" END="487">ملك النروج</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001019.1800.0157-E17-28" ROLE="Arg-1">
+      <extent>
+        <charseq START="478" END="487">ملك النروج</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001019.1800.0157-E11-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="482" END="487">النروج</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001019.1800.0157-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001019.1800.0157-E3" ROLE="Person"/>
+  <event_argument REFID="AFA20001019.1800.0157-T4" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001019.1800.0157-EV1-1">
+    <extent>
+      <charseq START="227" END="247">اعتزالها اليوم الخميس</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="112" END="247">في ما يلي نبذة عن النروجية ترينه هاتشتاد البطلة
+الاولمبية وحاملة الرقم القياسي في مسابقة رمي الرمح التي قررت اعلان
+اعتزالها اليوم الخميس</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="227" END="234">اعتزالها</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1800.0157-E3-9" ROLE="Person">
+      <extent>
+        <charseq START="233" END="234">ها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1800.0157-T4-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="236" END="247">اليوم الخميس</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001019.1800.0157-EV2" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="AFA20001019.1800.0157-E3" ROLE="Person"/>
+  <event_argument REFID="AFA20001019.1800.0157-E5" ROLE="Place"/>
+  <event_argument REFID="AFA20001019.1800.0157-T5" ROLE="Time-Within"/>
+  <event_mention ID="AFA20001019.1800.0157-EV2-1">
+    <extent>
+      <charseq START="253" END="292">ولدت في 18 نيسان/ابريل 1696 في ليورنسكوغ</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="253" END="292">ولدت في 18 نيسان/ابريل 1696 في ليورنسكوغ</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="253" END="256">ولدت</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001019.1800.0157-E3-10" ROLE="Person">
+      <extent>
+        <charseq START="256" END="256">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1800.0157-E5-11" ROLE="Place">
+      <extent>
+        <charseq START="284" END="292">ليورنسكوغ</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001019.1800.0157-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="261" END="279">18 نيسان/ابريل 1696</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

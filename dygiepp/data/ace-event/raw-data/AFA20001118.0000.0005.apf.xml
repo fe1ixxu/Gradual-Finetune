@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001118.0000.0005.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001118.0000.0005">
+<entity ID="AFA20001118.0000.0005-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001118.0000.0005-E1-2" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="643" END="657">الناخبين الكبار</charseq>
+    </extent>
+    <head>
+      <charseq START="643" END="650">الناخبين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001118.0000.0005-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="AFA20001118.0000.0005-E2-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="177" END="177">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="177" END="177">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-8" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="179" END="213">محكمة الاستئناف
+الفدرالية في اتلنتا</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="203">محكمة الاستئناف
+الفدرالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="318" END="361">محكمة اتلنتا التي تختص اقليميا ايضا بفلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="318" END="322">محكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-13" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="331" END="334">التي</charseq>
+    </extent>
+    <head>
+      <charseq START="331" END="334">التي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="336" END="336">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="336" END="336">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="367" END="367">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="367" END="367">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="461" END="461">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="461" END="461">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-18" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="463" END="469">المحكمة</charseq>
+    </extent>
+    <head>
+      <charseq START="463" END="469">المحكمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="476" END="477">نا</charseq>
+    </extent>
+    <head>
+      <charseq START="476" END="477">نا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E2-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="568" END="568">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="568" END="568">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="محكمة الاستئناف الفدرالية">
+      <charseq START="179" END="203">محكمة الاستئناف
+الفدرالية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001118.0000.0005-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001118.0000.0005-E3-3" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="134" END="170">اتلنتا (الولايات المتحدة) 11-18 (اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="134" END="139">اتلنتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E3-9" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="208" END="213">اتلنتا</charseq>
+    </extent>
+    <head>
+      <charseq START="208" END="213">اتلنتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E3-12" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="324" END="329">اتلنتا</charseq>
+    </extent>
+    <head>
+      <charseq START="324" END="329">اتلنتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اتلنتا">
+      <charseq START="208" END="213">اتلنتا</charseq>
+    </name>
+    <name NAME="اتلنتا">
+      <charseq START="324" END="329">اتلنتا</charseq>
+    </name>
+    <name NAME="اتلنتا">
+      <charseq START="134" END="139">اتلنتا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001118.0000.0005-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001118.0000.0005-E4-6" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="167" END="170">اف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="167" END="170">اف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اف ب">
+      <charseq START="167" END="170">اف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001118.0000.0005-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001118.0000.0005-E5-4" TYPE="NOM" LDCTYPE="NOM" ROLE="GPE">
+    <extent>
+      <charseq START="595" END="602">الولايات</charseq>
+    </extent>
+    <head>
+      <charseq START="595" END="602">الولايات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E5-5" TYPE="PRO" LDCTYPE="PRO" ROLE="GPE">
+    <extent>
+      <charseq START="589" END="589">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="589" END="589">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001118.0000.0005-E5-7" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="142" END="157">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="157">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الولايات المتحدة">
+      <charseq START="142" END="157">الولايات المتحدة</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001118.0000.0005-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+  <entity_mention ID="AFA20001118.0000.0005-E6-15" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="354" END="361">بفلوريدا</charseq>
+    </extent>
+    <head>
+      <charseq START="354" END="361">بفلوريدا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بفلوريدا">
+      <charseq START="354" END="361">بفلوريدا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001118.0000.0005-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+  <entity_mention ID="AFA20001118.0000.0005-E7-10" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="244" END="253">الجمهوريون</charseq>
+    </extent>
+    <head>
+      <charseq START="244" END="253">الجمهوريون</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجمهوريون">
+      <charseq START="244" END="253">الجمهوريون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="AFA20001118.0000.0005-T1">
+  <timex2_mention ID="AFA20001118.0000.0005-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-11-18 00:34:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001118.0000.0005-T2">
+  <timex2_mention ID="AFA20001118.0000.0005-T2-1">
+    <extent>
+      <charseq START="160" END="164">11-18</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001118.0000.0005-T3">
+  <timex2_mention ID="AFA20001118.0000.0005-T3-1">
+    <extent>
+      <charseq START="215" END="229">مساء امس الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001118.0000.0005-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001118.0000.0005-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001118.0000.0005-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001118.0000.0005-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="179" END="213">محكمة الاستئناف
+الفدرالية في اتلنتا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E2-8" ROLE="Arg-1">
+      <extent>
+        <charseq START="179" END="213">محكمة الاستئناف
+الفدرالية في اتلنتا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E3-9" ROLE="Arg-2">
+      <extent>
+        <charseq START="208" END="213">اتلنتا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001118.0000.0005-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001118.0000.0005-E2" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001118.0000.0005-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001118.0000.0005-R2-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="318" END="361">محكمة اتلنتا التي تختص اقليميا ايضا بفلوريدا</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E2-11" ROLE="Arg-1">
+      <extent>
+        <charseq START="318" END="361">محكمة اتلنتا التي تختص اقليميا ايضا بفلوريدا</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E3-12" ROLE="Arg-2">
+      <extent>
+        <charseq START="324" END="329">اتلنتا</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001118.0000.0005-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001118.0000.0005-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001118.0000.0005-E5" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001118.0000.0005-R3-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="134" END="170">اتلنتا (الولايات المتحدة) 11-18 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E3-3" ROLE="Arg-1">
+      <extent>
+        <charseq START="134" END="170">اتلنتا (الولايات المتحدة) 11-18 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E5-7" ROLE="Arg-2">
+      <extent>
+        <charseq START="142" END="157">الولايات المتحدة</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001118.0000.0005-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001118.0000.0005-E4" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001118.0000.0005-E3" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001118.0000.0005-R4-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="134" END="170">اتلنتا (الولايات المتحدة) 11-18 (اف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E4-6" ROLE="Arg-1">
+      <extent>
+        <charseq START="167" END="170">اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001118.0000.0005-E3-3" ROLE="Arg-2">
+      <extent>
+        <charseq START="134" END="170">اتلنتا (الولايات المتحدة) 11-18 (اف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+</document>
+</source_file>

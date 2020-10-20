@@ -1,0 +1,776 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="AFA20001222.1400.0085.sgm" SOURCE="newswire" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="AFA20001222.1400.0085">
+<entity ID="AFA20001222.1400.0085-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E1-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="485" END="491">الجورجي</charseq>
+    </extent>
+    <head>
+      <charseq START="485" END="491">الجورجي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E1-36" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="148" END="154">الجورجي</charseq>
+    </extent>
+    <head>
+      <charseq START="148" END="154">الجورجي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الجورجي">
+      <charseq START="485" END="491">الجورجي</charseq>
+    </name>
+    <name NAME="الجورجي">
+      <charseq START="148" END="154">الجورجي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E2-9" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="795" END="815">خوسيه انطونيو
+تريمينو</charseq>
+    </extent>
+    <head>
+      <charseq START="795" END="815">خوسيه انطونيو
+تريمينو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="خوسيه انطونيو تريمينو">
+      <charseq START="795" END="815">خوسيه انطونيو
+تريمينو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E3" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001222.1400.0085-E3-12" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="538" END="565">حوالى سبعة الاف لاجيء شيشاني</charseq>
+    </extent>
+    <head>
+      <charseq START="554" END="558">لاجيء</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E4-13" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="560" END="565">شيشاني</charseq>
+    </extent>
+    <head>
+      <charseq START="560" END="565">شيشاني</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E4-20" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="665" END="673">الشيشانية</charseq>
+    </extent>
+    <head>
+      <charseq START="665" END="673">الشيشانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="شيشاني">
+      <charseq START="560" END="565">شيشاني</charseq>
+    </name>
+    <name NAME="الشيشانية">
+      <charseq START="665" END="673">الشيشانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E5-15" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="572" END="588">متمردين انفصاليين</charseq>
+    </extent>
+    <head>
+      <charseq START="572" END="578">متمردين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E5-16" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="587" END="588">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="588">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E6-17" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC">
+    <extent>
+      <charseq START="604" END="630">بلدات وادي بنكيسي (شمال شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="604" END="608">بلدات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E6-19" TYPE="PRO" LDCTYPE="PRO" ROLE="LOC">
+    <extent>
+      <charseq START="599" END="599">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="599" END="599">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E8-21" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="729" END="741">منطقة القوقاز</charseq>
+    </extent>
+    <head>
+      <charseq START="729" END="733">منطقة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E8-22" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="735" END="741">القوقاز</charseq>
+    </extent>
+    <head>
+      <charseq START="735" END="741">القوقاز</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="القوقاز">
+      <charseq START="735" END="741">القوقاز</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E9-10" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="755" END="774">رجلي الاعمال الاسبان</charseq>
+    </extent>
+    <head>
+      <charseq START="755" END="758">رجلي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E9-25" TYPE="PRO" LDCTYPE="WHQ" LDCATR="FALSE">
+    <extent>
+      <charseq START="817" END="822">اللذين</charseq>
+    </extent>
+    <head>
+      <charseq START="817" END="822">اللذين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E9-26" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="827" END="827">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="827" END="827">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E9-28" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="871" END="872">ان</charseq>
+    </extent>
+    <head>
+      <charseq START="871" END="872">ان</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E9-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="874" END="894">رهائن
+في ممرات بنكيسي</charseq>
+    </extent>
+    <head>
+      <charseq START="874" END="878">رهائن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E10-24" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="768" END="774">الاسبان</charseq>
+    </extent>
+    <head>
+      <charseq START="768" END="774">الاسبان</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الاسبان">
+      <charseq START="768" END="774">الاسبان</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E11-27" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="857" END="863">تبيليسي</charseq>
+    </extent>
+    <head>
+      <charseq START="857" END="863">تبيليسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="تبيليسي">
+      <charseq START="857" END="863">تبيليسي</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E13" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E13-30" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="883" END="894">ممرات بنكيسي</charseq>
+    </extent>
+    <head>
+      <charseq START="883" END="887">ممرات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E14-23" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="776" END="792">فرنسيسكو رودريغيس</charseq>
+    </extent>
+    <head>
+      <charseq START="776" END="792">فرنسيسكو رودريغيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="فرنسيسكو رودريغيس">
+      <charseq START="776" END="792">فرنسيسكو رودريغيس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E15-1" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="115" END="132">موسكو 12-22 (ا ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="115" END="119">موسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E15-34" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG">
+    <extent>
+      <charseq START="257" END="257">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="257" END="257">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E15-38" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG">
+    <extent>
+      <charseq START="174" END="178">موسكو</charseq>
+    </extent>
+    <head>
+      <charseq START="174" END="178">موسكو</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="موسكو">
+      <charseq START="115" END="119">موسكو</charseq>
+    </name>
+    <name NAME="موسكو">
+      <charseq START="174" END="178">موسكو</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E16-32" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="128" END="132">ا ف ب</charseq>
+    </extent>
+    <head>
+      <charseq START="128" END="132">ا ف ب</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ا ف ب">
+      <charseq START="128" END="132">ا ف ب</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E17-4" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="478" END="491">الرئيس الجورجي</charseq>
+    </extent>
+    <head>
+      <charseq START="478" END="483">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E17-35" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="141" END="154">الرئيس الجورجي</charseq>
+    </extent>
+    <head>
+      <charseq START="141" END="146">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E17-37" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="156" END="172">ادوارد شيفارنادزه</charseq>
+    </extent>
+    <head>
+      <charseq START="156" END="172">ادوارد شيفارنادزه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E17-41" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="287" END="296">شيفارنادزه</charseq>
+    </extent>
+    <head>
+      <charseq START="287" END="296">شيفارنادزه</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="ادوارد شيفارنادزه">
+      <charseq START="156" END="172">ادوارد شيفارنادزه</charseq>
+    </name>
+    <name NAME="شيفارنادزه">
+      <charseq START="287" END="296">شيفارنادزه</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E20-39" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="206" END="220">شمال شرق جورجيا</charseq>
+    </extent>
+    <head>
+      <charseq START="215" END="220">جورجيا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E21-40" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="266" END="277">شمال القوقاز</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="277">القوقاز</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E22" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E22-42" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="315" END="340">صحيفة "نيزافيسيمايا غازيتا</charseq>
+    </extent>
+    <head>
+      <charseq START="315" END="340">صحيفة "نيزافيسيمايا غازيتا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E22-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="311" END="311">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="311">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="صحيفة نيزافيسيمايا غازيتا">
+      <charseq START="315" END="340">صحيفة "نيزافيسيمايا غازيتا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="AFA20001222.1400.0085-E23" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+  <entity_mention ID="AFA20001222.1400.0085-E23-3" TYPE="PRO" LDCTYPE="PRO" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="467" END="467">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="467" END="467">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-6" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="517" END="565">وادي بنكيسي الذي يضم
+حوالى سبعة الاف لاجيء شيشاني</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="527">وادي بنكيسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-7" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="529" END="532">الذي</charseq>
+    </extent>
+    <head>
+      <charseq START="529" END="532">الذي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="534" END="534">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="534" END="534">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-14" TYPE="PRO" LDCTYPE="PRO" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="567" END="567">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="567" END="567">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-18" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="610" END="630">وادي بنكيسي (شمال شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="620">وادي بنكيسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-31" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="889" END="894">بنكيسي</charseq>
+    </extent>
+    <head>
+      <charseq START="889" END="894">بنكيسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-44" TYPE="NAM" LDCTYPE="NAM" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="370" END="390">وادي بنكيسي (شمال شرق</charseq>
+    </extent>
+    <head>
+      <charseq START="370" END="380">وادي بنكيسي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-45" TYPE="PRO" LDCTYPE="PRO" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="396" END="396">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="396" END="396">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E23-46" TYPE="PRO" LDCTYPE="PRO" METONYMY_MENTION="TRUE">
+    <extent>
+      <charseq START="401" END="401">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="401" END="401">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="AFA20001222.1400.0085-E24" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="AFA20001222.1400.0085-E24-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="445" END="445">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="445" END="445">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E24-47" TYPE="NOM" LDCTYPE="BAR">
+    <extent>
+      <charseq START="424" END="427">قوات</charseq>
+    </extent>
+    <head>
+      <charseq START="424" END="427">قوات</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="AFA20001222.1400.0085-E24-48" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="429" END="429">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="429" END="429">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="AFA20001222.1400.0085-T1">
+  <timex2_mention ID="AFA20001222.1400.0085-T1-1">
+    <extent>
+      <charseq START="39" END="57">2000-12-22 15:56:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001222.1400.0085-T2">
+  <timex2_mention ID="AFA20001222.1400.0085-T2-1">
+    <extent>
+      <charseq START="121" END="125">12-22</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001222.1400.0085-T3">
+  <timex2_mention ID="AFA20001222.1400.0085-T3-1">
+    <extent>
+      <charseq START="343" END="354">اليوم
+الجمعة</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001222.1400.0085-T4">
+  <timex2_mention ID="AFA20001222.1400.0085-T4-1">
+    <extent>
+      <charseq START="506" END="512">الاثنين</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="AFA20001222.1400.0085-T5">
+  <timex2_mention ID="AFA20001222.1400.0085-T5-1">
+    <extent>
+      <charseq START="832" END="852">30 تشرين الاول/اكتوبر</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="AFA20001222.1400.0085-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E6" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E23" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="604" END="630">بلدات وادي بنكيسي (شمال شرق</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E6-17" ROLE="Arg-1">
+      <extent>
+        <charseq START="604" END="630">بلدات وادي بنكيسي (شمال شرق</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E23-18" ROLE="Arg-2">
+      <extent>
+        <charseq START="610" END="630">وادي بنكيسي (شمال شرق</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E16" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E15" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R2-1" LEXICALCONDITION="Formulaic">
+    <extent>
+      <charseq START="115" END="132">موسكو 12-22 (ا ف ب</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E16-32" ROLE="Arg-1">
+      <extent>
+        <charseq START="128" END="132">ا ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E15-1" ROLE="Arg-2">
+      <extent>
+        <charseq START="115" END="132">موسكو 12-22 (ا ف ب</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R3" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E17" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E1" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="141" END="154">الرئيس الجورجي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E17-35" ROLE="Arg-1">
+      <extent>
+        <charseq START="141" END="154">الرئيس الجورجي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E1-36" ROLE="Arg-2">
+      <extent>
+        <charseq START="148" END="154">الجورجي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="AFA20001222.1400.0085-R3-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="478" END="491">الرئيس الجورجي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E17-4" ROLE="Arg-1">
+      <extent>
+        <charseq START="478" END="491">الرئيس الجورجي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E1-5" ROLE="Arg-2">
+      <extent>
+        <charseq START="485" END="491">الجورجي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R5" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E23" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R5-1" LEXICALCONDITION="Verbal">
+    <extent>
+      <charseq START="517" END="565">وادي بنكيسي الذي يضم
+حوالى سبعة الاف لاجيء شيشاني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E3-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="538" END="565">حوالى سبعة الاف لاجيء شيشاني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E23-6" ROLE="Arg-2">
+      <extent>
+        <charseq START="517" END="565">وادي بنكيسي الذي يضم
+حوالى سبعة الاف لاجيء شيشاني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R6" TYPE="PHYS" SUBTYPE="Located" TENSE="Past" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E11" ROLE="Arg-2"/>
+  <relation_argument REFID="AFA20001222.1400.0085-T5" ROLE="Time-Within"/>
+  <relation_mention ID="AFA20001222.1400.0085-R6-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="755" END="864">رجلي الاعمال الاسبان فرنسيسكو رودريغيس وخوسيه انطونيو
+تريمينو اللذين خطفا في 30 تشرين الاول/اكتوبر في تبيليسي،</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E9-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="755" END="774">رجلي الاعمال الاسبان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E11-27" ROLE="Arg-2">
+      <extent>
+        <charseq START="857" END="863">تبيليسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-T5-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="832" END="852">30 تشرين الاول/اكتوبر</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E10" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R7-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="755" END="774">رجلي الاعمال الاسبان</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E9-10" ROLE="Arg-1">
+      <extent>
+        <charseq START="755" END="774">رجلي الاعمال الاسبان</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E10-24" ROLE="Arg-2">
+      <extent>
+        <charseq START="768" END="774">الاسبان</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R8" TYPE="PHYS" SUBTYPE="Located" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E9" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E13" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R8-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="874" END="894">رهائن
+في ممرات بنكيسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E9-29" ROLE="Arg-1">
+      <extent>
+        <charseq START="874" END="894">رهائن
+في ممرات بنكيسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E13-30" ROLE="Arg-2">
+      <extent>
+        <charseq START="883" END="894">ممرات بنكيسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E13" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E23" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R9-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="883" END="894">ممرات بنكيسي</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E13-30" ROLE="Arg-1">
+      <extent>
+        <charseq START="883" END="894">ممرات بنكيسي</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E23-31" ROLE="Arg-2">
+      <extent>
+        <charseq START="889" END="894">بنكيسي</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="AFA20001222.1400.0085-R10" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="AFA20001222.1400.0085-E3" ROLE="Arg-1"/>
+  <relation_argument REFID="AFA20001222.1400.0085-E4" ROLE="Arg-2"/>
+  <relation_mention ID="AFA20001222.1400.0085-R10-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="538" END="565">حوالى سبعة الاف لاجيء شيشاني</charseq>
+    </extent>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E3-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="538" END="565">حوالى سبعة الاف لاجيء شيشاني</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="AFA20001222.1400.0085-E4-13" ROLE="Arg-2">
+      <extent>
+        <charseq START="560" END="565">شيشاني</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="AFA20001222.1400.0085-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001222.1400.0085-E6" ROLE="Place"/>
+  <event_mention ID="AFA20001222.1400.0085-EV1-1">
+    <extent>
+      <charseq START="604" END="663">بلدات وادي بنكيسي (شمال شرق) وضعا اجراميا مرتبط بطبيعة
+الحرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="593" END="741">وقال "تشهد بلدات وادي بنكيسي (شمال شرق) وضعا اجراميا مرتبط بطبيعة
+الحرب الشيشانية وانعكاساتها" مضيفا ان الصراع "يشكل تهديدا كبيرا" لامن
+منطقة القوقاز</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="659" END="663">الحرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001222.1400.0085-E6-17" ROLE="Place">
+      <extent>
+        <charseq START="604" END="630">بلدات وادي بنكيسي (شمال شرق</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="AFA20001222.1400.0085-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Negative" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="AFA20001222.1400.0085-E15" ROLE="Attacker"/>
+  <event_argument REFID="AFA20001222.1400.0085-E20" ROLE="Place"/>
+  <event_argument REFID="AFA20001222.1400.0085-E21" ROLE="Target"/>
+  <event_mention ID="AFA20001222.1400.0085-EV2-1">
+    <extent>
+      <charseq START="174" END="277">موسكو
+بالسعي الى زعزعة الوضع في شمال شرق جورجيا لانجاز عملية "مكافحة
+الارهاب" التي تشنها في شمال القوقاز</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="136" END="277">اتهم الرئيس الجورجي ادوارد شيفارنادزه موسكو
+بالسعي الى زعزعة الوضع في شمال شرق جورجيا لانجاز عملية "مكافحة
+الارهاب" التي تشنها في شمال القوقاز</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="243" END="249">الارهاب</charseq>
+    </anchor>
+    <event_mention_argument REFID="AFA20001222.1400.0085-E15-38" ROLE="Attacker">
+      <extent>
+        <charseq START="174" END="178">موسكو</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001222.1400.0085-E20-39" ROLE="Place">
+      <extent>
+        <charseq START="206" END="220">شمال شرق جورجيا</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="AFA20001222.1400.0085-E21-40" ROLE="Target">
+      <extent>
+        <charseq START="266" END="277">شمال القوقاز</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

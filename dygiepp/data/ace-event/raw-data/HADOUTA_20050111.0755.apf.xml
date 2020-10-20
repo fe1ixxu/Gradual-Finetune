@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="HADOUTA_20050111.0755.sgm" SOURCE="weblog" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="HADOUTA_20050111.0755">
+<entity ID="HADOUTA_20050111.0755-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050111.0755-E1-5" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="479" END="487">Anonymous</charseq>
+    </extent>
+    <head>
+      <charseq START="479" END="487">Anonymous</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="Anonymous">
+      <charseq START="479" END="487">Anonymous</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050111.0755-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="GEN">
+  <entity_mention ID="HADOUTA_20050111.0755-E2-6" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="286" END="292">المدرسة</charseq>
+    </extent>
+    <head>
+      <charseq START="286" END="292">المدرسة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E2-22" TYPE="PRO" LDCTYPE="WHQ">
+    <extent>
+      <charseq START="173" END="176">هناك</charseq>
+    </extent>
+    <head>
+      <charseq START="173" END="176">هناك</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E2-26" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="322" END="327">للروضة</charseq>
+    </extent>
+    <head>
+      <charseq START="322" END="327">للروضة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E2-27" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="145" END="157">لروضة الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="145" END="149">لروضة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050111.0755-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050111.0755-E3-16" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="408" END="419">لقبائل الغجر</charseq>
+    </extent>
+    <head>
+      <charseq START="408" END="413">لقبائل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050111.0755-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050111.0755-E4-20" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="452" END="452">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="452" END="452">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E4-21" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="457" END="457">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="457" END="457">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E4-23" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="122" END="122">أ</charseq>
+    </extent>
+    <head>
+      <charseq START="122" END="122">أ</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E4-33" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="117" END="117">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="117">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E4-40" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="179" END="179">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="179" END="179">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E4-42" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="191" END="191">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="191">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E4-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="75" END="86">رحـاب بـسـام</charseq>
+    </extent>
+    <head>
+      <charseq START="75" END="86">رحـاب بـسـام</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رحـاب بـسـام">
+      <charseq START="75" END="86">رحـاب بـسـام</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050111.0755-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="HADOUTA_20050111.0755-E5-15" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="585" END="588">علاء</charseq>
+    </extent>
+    <head>
+      <charseq START="585" END="588">علاء</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E5-34" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="517" END="519">أنا</charseq>
+    </extent>
+    <head>
+      <charseq START="517" END="519">أنا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="علاء">
+      <charseq START="585" END="588">علاء</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="HADOUTA_20050111.0755-E6" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="HADOUTA_20050111.0755-E6-35" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="127" END="131">كالأم</charseq>
+    </extent>
+    <head>
+      <charseq START="127" END="131">كالأم</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E6-36" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="133" END="133">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="133" END="133">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E6-38" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="142" END="143">ها</charseq>
+    </extent>
+    <head>
+      <charseq START="142" END="143">ها</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050111.0755-E7" TYPE="PER" SUBTYPE="Individual" CLASS="GEN">
+  <entity_mention ID="HADOUTA_20050111.0755-E7-1" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="253" END="253">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="253" END="253">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-3" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="271" END="271">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="271" END="271">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-4" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="278" END="278">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="278" END="278">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-7" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="303" END="303">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="303" END="303">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-8" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="350" END="350">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="350" END="350">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-9" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="359" END="359">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="359">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="374" END="374">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="374" END="374">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-11" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="384" END="384">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="384" END="384">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-12" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="391" END="391">ا</charseq>
+    </extent>
+    <head>
+      <charseq START="391" END="391">ا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-13" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="397" END="397">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="397" END="397">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-14" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="403" END="403">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="403" END="403">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-17" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="422" END="422">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="422" END="422">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-18" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="428" END="428">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="428" END="428">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-19" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="442" END="442">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="442" END="442">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-24" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="550" END="550">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="550" END="550">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-32" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="574" END="574">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="574" END="574">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-37" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="139" END="143">طفلها</charseq>
+    </extent>
+    <head>
+      <charseq START="139" END="141">طفل</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-39" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="171" END="171">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="171" END="171">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-41" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="187" END="187">ه</charseq>
+    </extent>
+    <head>
+      <charseq START="187" END="187">ه</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E7-43" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="210" END="210">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="210" END="210">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="HADOUTA_20050111.0755-E8" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="HADOUTA_20050111.0755-E8-2" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="265" END="266">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="265" END="266">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-25" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="151" END="157">الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="151" END="157">الأطفال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-28" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="538" END="539">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="538" END="539">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-29" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="545" END="546">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="545" END="546">ين</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-30" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="562" END="563">وا</charseq>
+    </extent>
+    <head>
+      <charseq START="562" END="563">وا</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-31" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="569" END="570">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="569" END="570">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-44" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="224" END="230">الأطفال</charseq>
+    </extent>
+    <head>
+      <charseq START="224" END="230">الأطفال</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="241" END="242">ون</charseq>
+    </extent>
+    <head>
+      <charseq START="241" END="242">ون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="HADOUTA_20050111.0755-E8-47" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="248" END="249">ين</charseq>
+    </extent>
+    <head>
+      <charseq START="248" END="249">ين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<timex2 ID="HADOUTA_20050111.0755-T1">
+  <timex2_mention ID="HADOUTA_20050111.0755-T1-1">
+    <extent>
+      <charseq START="37" END="55">2005-01-11T07:55:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050111.0755-T2">
+  <timex2_mention ID="HADOUTA_20050111.0755-T2-1">
+    <extent>
+      <charseq START="159" END="168">في أول يوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050111.0755-T3">
+  <timex2_mention ID="HADOUTA_20050111.0755-T3-1">
+    <extent>
+      <charseq START="329" END="343">في اليوم التالي</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050111.0755-T4">
+  <timex2_mention ID="HADOUTA_20050111.0755-T4-1">
+    <extent>
+      <charseq START="90" END="108">2005-01-11T07:55:00</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="HADOUTA_20050111.0755-T5">
+  <timex2_mention ID="HADOUTA_20050111.0755-T5-1">
+    <extent>
+      <charseq START="491" END="509">2005-02-16T??:??:??</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="HADOUTA_20050111.0755-R1" TYPE="PER-SOC" SUBTYPE="Family" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="HADOUTA_20050111.0755-E7" ROLE="Arg-1"/>
+  <relation_argument REFID="HADOUTA_20050111.0755-E6" ROLE="Arg-2"/>
+  <relation_mention ID="HADOUTA_20050111.0755-R1-1" LEXICALCONDITION="Possessive">
+    <extent>
+      <charseq START="139" END="143">طفلها</charseq>
+    </extent>
+    <relation_mention_argument REFID="HADOUTA_20050111.0755-E7-37" ROLE="Arg-1">
+      <extent>
+        <charseq START="139" END="143">طفلها</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="HADOUTA_20050111.0755-E6-38" ROLE="Arg-2">
+      <extent>
+        <charseq START="142" END="143">ها</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="HADOUTA_20050111.0755-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="HADOUTA_20050111.0755-E2" ROLE="Origin"/>
+  <event_argument REFID="HADOUTA_20050111.0755-E7" ROLE="Artifact"/>
+  <event_mention ID="HADOUTA_20050111.0755-EV1-1">
+    <extent>
+      <charseq START="277" END="292">سيعود من المدرسة</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="274" END="343">هل سيعود من المدرسة مرحاً وكله ثقة وتشوق للذهاب
+للروضة في اليوم التالي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="277" END="281">سيعود</charseq>
+    </anchor>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E2-6" ROLE="Origin">
+      <extent>
+        <charseq START="286" END="292">المدرسة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E7-4" ROLE="Artifact">
+      <extent>
+        <charseq START="278" END="278">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="HADOUTA_20050111.0755-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="HADOUTA_20050111.0755-E7" ROLE="Agent"/>
+  <event_argument REFID="HADOUTA_20050111.0755-T3" ROLE="Time-Within"/>
+  <event_mention ID="HADOUTA_20050111.0755-EV2-1">
+    <extent>
+      <charseq START="278" END="343">يعود من المدرسة مرحاً وكله ثقة وتشوق للذهاب
+للروضة في اليوم التالي</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="274" END="343">هل سيعود من المدرسة مرحاً وكله ثقة وتشوق للذهاب
+للروضة في اليوم التالي</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="315" END="320">للذهاب</charseq>
+    </anchor>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E7-4" ROLE="Agent">
+      <extent>
+        <charseq START="278" END="278">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-T3-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="329" END="343">في اليوم التالي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="HADOUTA_20050111.0755-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="HADOUTA_20050111.0755-E7" ROLE="Agent"/>
+  <event_mention ID="HADOUTA_20050111.0755-EV3-1">
+    <extent>
+      <charseq START="349" END="353">سيعود</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="346" END="442">أم سيعود باكياً ومقسماً ألا يكمل تعليمه ومقرراً
+أن يهرب وينضم لقبائل الغجر ليرقص ويغني طيلة حياته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="349" END="353">سيعود</charseq>
+    </anchor>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E7-8" ROLE="Agent">
+      <extent>
+        <charseq START="350" END="350">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="HADOUTA_20050111.0755-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="HADOUTA_20050111.0755-E7" ROLE="Artifact"/>
+  <event_mention ID="HADOUTA_20050111.0755-EV4-1">
+    <extent>
+      <charseq START="397" END="400">يهرب</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="346" END="442">أم سيعود باكياً ومقسماً ألا يكمل تعليمه ومقرراً
+أن يهرب وينضم لقبائل الغجر ليرقص ويغني طيلة حياته</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="397" END="400">يهرب</charseq>
+    </anchor>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E7-13" ROLE="Artifact">
+      <extent>
+        <charseq START="397" END="397">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="HADOUTA_20050111.0755-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="HADOUTA_20050111.0755-E6" ROLE="Artifact"/>
+  <event_argument REFID="HADOUTA_20050111.0755-E7" ROLE="Artifact"/>
+  <event_argument REFID="HADOUTA_20050111.0755-E2" ROLE="Destination"/>
+  <event_argument REFID="HADOUTA_20050111.0755-T2" ROLE="Time-Within"/>
+  <event_mention ID="HADOUTA_20050111.0755-EV5-1">
+    <extent>
+      <charseq START="133" END="168">تصطحب طفلها لروضة الأطفال في أول يوم</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="111" END="176">عندما اكتب أكون كالأم تصطحب طفلها لروضة الأطفال في أول يوم له هناك</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="133" END="137">تصطحب</charseq>
+    </anchor>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E6-36" ROLE="Artifact">
+      <extent>
+        <charseq START="133" END="133">ت</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E7-37" ROLE="Artifact">
+      <extent>
+        <charseq START="139" END="143">طفلها</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-E2-27" ROLE="Destination">
+      <extent>
+        <charseq START="145" END="157">لروضة الأطفال</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="HADOUTA_20050111.0755-T2-1" ROLE="Time-Within">
+      <extent>
+        <charseq START="159" END="168">في أول يوم</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>

@@ -1,0 +1,1088 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="VAR20001012.1300.0063.sgm" SOURCE="broadcast news" TYPE="text" AUTHOR="LDC" ENCODING="UTF-8">
+<document DOCID="VAR20001012.1300.0063">
+<entity ID="VAR20001012.1300.0063-E1" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E1-2" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="258" END="269">الشرق
+الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="258" END="269">الشرق
+الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E1-16" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="587" END="598">الشرق الأوسط</charseq>
+    </extent>
+    <head>
+      <charseq START="587" END="598">الشرق الأوسط</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشرق الأوسط">
+      <charseq START="258" END="269">الشرق
+الأوسط</charseq>
+    </name>
+    <name NAME="الشرق الأوسط">
+      <charseq START="587" END="598">الشرق الأوسط</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E2-3" TYPE="NAM" LDCTYPE="NAMPRE">
+    <extent>
+      <charseq START="304" END="308">عربية</charseq>
+    </extent>
+    <head>
+      <charseq START="304" END="308">عربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="عربية">
+      <charseq START="304" END="308">عربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E3" TYPE="PER" SUBTYPE="Group" CLASS="GEN">
+  <entity_mention ID="VAR20001012.1300.0063-E3-51" TYPE="PRO" LDCTYPE="HLS">
+    <extent>
+      <charseq START="693" END="697">أخرين</charseq>
+    </extent>
+    <head>
+      <charseq START="693" END="697">أخرين</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E4" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E4-4" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="311" END="316">أوربية</charseq>
+    </extent>
+    <head>
+      <charseq START="311" END="316">أوربية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="أوربية">
+      <charseq START="311" END="316">أوربية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E5-5" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="319" END="323">روسية</charseq>
+    </extent>
+    <head>
+      <charseq START="319" END="323">روسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="روسية">
+      <charseq START="319" END="323">روسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E6" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E6-6" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="352" END="368">السلطة الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="352" END="357">السلطة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E6-7" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="359" END="368">الفلسطينية</charseq>
+    </extent>
+    <head>
+      <charseq START="359" END="368">الفلسطينية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفلسطينية">
+      <charseq START="359" END="368">الفلسطينية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E8-8" TYPE="NOM" LDCTYPE="NOM" ROLE="ORG" LDCATR="FALSE">
+    <extent>
+      <charseq START="371" END="389">الحكومة الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="371" END="377">الحكومة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E8-9" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="FALSE">
+    <extent>
+      <charseq START="379" END="389">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="379" END="389">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E8-12" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="451" END="461">الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="451" END="461">الإسرائيلية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الإسرائيلية">
+      <charseq START="379" END="389">الإسرائيلية</charseq>
+    </name>
+    <name NAME="الإسرائيلية">
+      <charseq START="451" END="461">الإسرائيلية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E10" TYPE="ORG" SUBTYPE="Media" CLASS="USP">
+  <entity_mention ID="VAR20001012.1300.0063-E10-10" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="392" END="392">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="392" END="392">ن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E10-15" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="501" END="501">ن</charseq>
+    </extent>
+    <head>
+      <charseq START="501" END="501">ن</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E11" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E11-11" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="432" END="461">طائرات الهيليكوبتر الإسرائيلية</charseq>
+    </extent>
+    <head>
+      <charseq START="432" END="437">طائرات</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E13" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E13-13" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="468" END="476">بالصواريخ</charseq>
+    </extent>
+    <head>
+      <charseq START="468" END="476">بالصواريخ</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E14-14" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="491" END="498">رام الله</charseq>
+    </extent>
+    <head>
+      <charseq START="491" END="498">رام الله</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="رام الله">
+      <charseq START="491" END="498">رام الله</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E15-19" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="630" END="638">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="630" END="638">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E15-21" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="107" END="115">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="107" END="115">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E15-22" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="155" END="163">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="155" END="163">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E15-27" TYPE="NAM" LDCTYPE="NAM" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="780" END="795">الولايات المتحدة</charseq>
+    </extent>
+    <head>
+      <charseq START="780" END="795">الولايات المتحدة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E15-28" TYPE="PRO" LDCTYPE="PRO" ROLE="ORG" LDCATR="TRUE">
+    <extent>
+      <charseq START="797" END="797">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="797" END="797">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E15-40" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="213" END="221">الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="213" END="221">الأمريكية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الأمريكية">
+      <charseq START="630" END="638">الأمريكية</charseq>
+    </name>
+    <name NAME="الأمريكية">
+      <charseq START="107" END="115">الأمريكية</charseq>
+    </name>
+    <name NAME="الأمريكية">
+      <charseq START="155" END="163">الأمريكية</charseq>
+    </name>
+    <name NAME="الولايات المتحدة">
+      <charseq START="780" END="795">الولايات المتحدة</charseq>
+    </name>
+    <name NAME="الأمريكية">
+      <charseq START="213" END="221">الأمريكية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E16" TYPE="PER" SUBTYPE="Group" CLASS="USP">
+  <entity_mention ID="VAR20001012.1300.0063-E16-20" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="664" END="684">أربعة بحارة
+على الأقل</charseq>
+    </extent>
+    <head>
+      <charseq START="670" END="674">بحارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E18-23" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="712" END="718">كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="712" END="718">كلينتون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E18-24" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="705" END="718">الرئيس كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="705" END="710">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E18-25" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="720" END="720">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="720" END="720">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E18-29" TYPE="NOM" LDCTYPE="NOM" LDCATR="TRUE">
+    <extent>
+      <charseq START="805" END="818">الرئيس
+كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="805" END="810">الرئيس</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E18-30" TYPE="NAM" LDCTYPE="NAM" LDCATR="FALSE">
+    <extent>
+      <charseq START="812" END="818">كلينتون</charseq>
+    </extent>
+    <head>
+      <charseq START="812" END="818">كلينتون</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E18-31" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="821" END="821">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="821" END="821">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E18-33" TYPE="PRO" LDCTYPE="PRO" LDCATR="FALSE">
+    <extent>
+      <charseq START="848" END="848">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="848" END="848">ي</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كلينتون">
+      <charseq START="712" END="718">كلينتون</charseq>
+    </name>
+    <name NAME="كلينتون">
+      <charseq START="812" END="818">كلينتون</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E20-26" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE">
+    <extent>
+      <charseq START="770" END="778">يوغسلافيا</charseq>
+    </extent>
+    <head>
+      <charseq START="770" END="778">يوغسلافيا</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يوغسلافيا">
+      <charseq START="770" END="778">يوغسلافيا</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E23-32" TYPE="NAM" LDCTYPE="NAM" ROLE="LOC">
+    <extent>
+      <charseq START="826" END="839">كوريا الشمالية</charseq>
+    </extent>
+    <head>
+      <charseq START="826" END="839">كوريا الشمالية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="كوريا الشمالية">
+      <charseq START="826" END="839">كوريا الشمالية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E24" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E24-34" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="860" END="880">وكالة الأنباء الروسية</charseq>
+    </extent>
+    <head>
+      <charseq START="860" END="880">وكالة الأنباء الروسية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E24-35" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="882" END="882">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="882" END="882">ت</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="وكالة الأنباء الروسية">
+      <charseq START="860" END="880">وكالة الأنباء الروسية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E25" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E25-36" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="897" END="936">سيارة ملغومة في العاصمة الشيشانية جروزني</charseq>
+    </extent>
+    <head>
+      <charseq START="897" END="901">سيارة</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E26-1" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="65" END="115">المتحدث باسم الفيلق الخامس التابع للبحرية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="65" END="71">المتحدث</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E26-46" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="117" END="117">ي</charseq>
+    </extent>
+    <head>
+      <charseq START="117" END="117">ي</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E28-38" TYPE="NOM" LDCTYPE="NOM" ROLE="LOC" LDCATR="FALSE">
+    <extent>
+      <charseq START="913" END="929">العاصمة الشيشانية</charseq>
+    </extent>
+    <head>
+      <charseq START="913" END="919">العاصمة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E28-41" TYPE="NAM" LDCTYPE="NAM" ROLE="GPE" LDCATR="TRUE">
+    <extent>
+      <charseq START="931" END="936">جروزني</charseq>
+    </extent>
+    <head>
+      <charseq START="931" END="936">جروزني</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="جروزني">
+      <charseq START="931" END="936">جروزني</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E29-39" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="921" END="929">الشيشانية</charseq>
+    </extent>
+    <head>
+      <charseq START="921" END="929">الشيشانية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الشيشانية">
+      <charseq START="921" END="929">الشيشانية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E31-42" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="951" END="957">15 شخصا</charseq>
+    </extent>
+    <head>
+      <charseq START="954" END="957">شخصا</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E33" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E33-17" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="610" END="649">سفينة تابعة للبحرية الأمريكية بميناء عدن</charseq>
+    </extent>
+    <head>
+      <charseq START="610" END="614">سفينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E33-43" TYPE="NAM" LDCTYPE="NAM" LDCATR="TRUE">
+    <extent>
+      <charseq START="165" END="176">يو إس إس كول</charseq>
+    </extent>
+    <head>
+      <charseq START="165" END="176">يو إس إس كول</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E33-47" TYPE="NOM" LDCTYPE="NOM" LDCATR="FALSE">
+    <extent>
+      <charseq START="146" END="196">بالسفينة الأمريكية يو إس إس كول في ميناء عدن اليمنى</charseq>
+    </extent>
+    <head>
+      <charseq START="146" END="153">بالسفينة</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="يو إس إس كول">
+      <charseq START="165" END="176">يو إس إس كول</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E34" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E34-44" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="99" END="115">للبحرية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="99" END="105">للبحرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E34-48" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="622" END="638">للبحرية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="622" END="628">للبحرية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="للبحرية">
+      <charseq START="99" END="105">للبحرية</charseq>
+    </name>
+    <name NAME="للبحرية">
+      <charseq START="622" END="628">للبحرية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E35-45" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="78" END="115">الفيلق الخامس التابع للبحرية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="78" END="90">الفيلق الخامس</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الفيلق الخامس">
+      <charseq START="78" END="90">الفيلق الخامس</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E37-18" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="640" END="649">بميناء عدن</charseq>
+    </extent>
+    <head>
+      <charseq START="640" END="649">بميناء عدن</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E37-49" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="181" END="196">ميناء عدن اليمنى</charseq>
+    </extent>
+    <head>
+      <charseq START="181" END="189">ميناء عدن</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="بميناء عدن">
+      <charseq START="640" END="649">بميناء عدن</charseq>
+    </name>
+    <name NAME="ميناء عدن">
+      <charseq START="181" END="189">ميناء عدن</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E38-50" TYPE="NAM" LDCTYPE="NAMPRE" ROLE="GPE">
+    <extent>
+      <charseq START="191" END="196">اليمنى</charseq>
+    </extent>
+    <head>
+      <charseq START="191" END="196">اليمنى</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="اليمنى">
+      <charseq START="191" END="196">اليمنى</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E39-52" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="198" END="221">وزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="198" END="202">وزيرة</charseq>
+    </head>
+  </entity_mention>
+  <entity_mention ID="VAR20001012.1300.0063-E39-54" TYPE="PRO" LDCTYPE="PRO">
+    <extent>
+      <charseq START="223" END="223">ت</charseq>
+    </extent>
+    <head>
+      <charseq START="223" END="223">ت</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E40" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E40-53" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="204" END="221">الخارجية الأمريكية</charseq>
+    </extent>
+    <head>
+      <charseq START="204" END="211">الخارجية</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخارجية">
+      <charseq START="204" END="211">الخارجية</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<entity ID="VAR20001012.1300.0063-E41" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E41-55" TYPE="NOM" LDCTYPE="NOM">
+    <extent>
+      <charseq START="252" END="277">كل من الشرق
+الأوسط والخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="252" END="253">كل</charseq>
+    </head>
+  </entity_mention>
+</entity>
+<entity ID="VAR20001012.1300.0063-E42" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+  <entity_mention ID="VAR20001012.1300.0063-E42-56" TYPE="NAM" LDCTYPE="NAM">
+    <extent>
+      <charseq START="272" END="277">الخليج</charseq>
+    </extent>
+    <head>
+      <charseq START="272" END="277">الخليج</charseq>
+    </head>
+  </entity_mention>
+  <entity_attributes>
+    <name NAME="الخليج">
+      <charseq START="272" END="277">الخليج</charseq>
+    </name>
+  </entity_attributes>
+</entity>
+<timex2 ID="VAR20001012.1300.0063-T1">
+  <timex2_mention ID="VAR20001012.1300.0063-T1-1">
+    <extent>
+      <charseq START="39" END="60">10/12/2000 13:01:03.15</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001012.1300.0063-T2">
+  <timex2_mention ID="VAR20001012.1300.0063-T2-1">
+    <extent>
+      <charseq START="243" END="247">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001012.1300.0063-T3">
+  <timex2_mention ID="VAR20001012.1300.0063-T3-1">
+    <extent>
+      <charseq START="398" END="401">الآن</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<timex2 ID="VAR20001012.1300.0063-T4">
+  <timex2_mention ID="VAR20001012.1300.0063-T4-1">
+    <extent>
+      <charseq START="426" END="430">اليوم</charseq>
+    </extent>
+  </timex2_mention>
+</timex2>
+<relation ID="VAR20001012.1300.0063-R1" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E26" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E35" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R1-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="65" END="115">المتحدث باسم الفيلق الخامس التابع للبحرية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E26-1" ROLE="Arg-1">
+      <extent>
+        <charseq START="65" END="115">المتحدث باسم الفيلق الخامس التابع للبحرية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E35-45" ROLE="Arg-2">
+      <extent>
+        <charseq START="78" END="115">الفيلق الخامس التابع للبحرية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E15" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E33" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R2-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="146" END="196">بالسفينة الأمريكية يو إس إس كول في ميناء عدن اليمنى</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E15-22" ROLE="Arg-1">
+      <extent>
+        <charseq START="155" END="163">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E33-47" ROLE="Arg-2">
+      <extent>
+        <charseq START="146" END="196">بالسفينة الأمريكية يو إس إس كول في ميناء عدن اليمنى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E37" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E38" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R3-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="181" END="196">ميناء عدن اليمنى</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E37-49" ROLE="Arg-1">
+      <extent>
+        <charseq START="181" END="196">ميناء عدن اليمنى</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E38-50" ROLE="Arg-2">
+      <extent>
+        <charseq START="191" END="196">اليمنى</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R4" TYPE="ORG-AFF" SUBTYPE="Employment" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E39" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E40" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R4-1" LEXICALCONDITION="Other">
+    <extent>
+      <charseq START="198" END="221">وزيرة الخارجية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E39-52" ROLE="Arg-1">
+      <extent>
+        <charseq START="198" END="221">وزيرة الخارجية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E40-53" ROLE="Arg-2">
+      <extent>
+        <charseq START="204" END="221">الخارجية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E40" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E15" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R5-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="204" END="221">الخارجية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E40-53" ROLE="Arg-1">
+      <extent>
+        <charseq START="204" END="221">الخارجية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E15-40" ROLE="Arg-2">
+      <extent>
+        <charseq START="213" END="221">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E8" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E11" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R6-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="432" END="461">طائرات الهيليكوبتر الإسرائيلية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E8-12" ROLE="Arg-1">
+      <extent>
+        <charseq START="451" END="461">الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E11-11" ROLE="Arg-2">
+      <extent>
+        <charseq START="432" END="461">طائرات الهيليكوبتر الإسرائيلية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R7" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E33" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R7-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="610" END="649">سفينة تابعة للبحرية الأمريكية بميناء عدن</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E34-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="622" END="638">للبحرية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E33-17" ROLE="Arg-2">
+      <extent>
+        <charseq START="610" END="649">سفينة تابعة للبحرية الأمريكية بميناء عدن</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E28" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E29" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R8-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="913" END="929">العاصمة الشيشانية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E28-38" ROLE="Arg-1">
+      <extent>
+        <charseq START="913" END="929">العاصمة الشيشانية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E29-39" ROLE="Arg-2">
+      <extent>
+        <charseq START="921" END="929">الشيشانية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E34" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E15" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R9-1" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="99" END="115">للبحرية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E34-44" ROLE="Arg-1">
+      <extent>
+        <charseq START="99" END="115">للبحرية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E15-21" ROLE="Arg-2">
+      <extent>
+        <charseq START="107" END="115">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+  <relation_mention ID="VAR20001012.1300.0063-R9-2" LEXICALCONDITION="PreMod">
+    <extent>
+      <charseq START="622" END="638">للبحرية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E34-48" ROLE="Arg-1">
+      <extent>
+        <charseq START="622" END="638">للبحرية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E15-19" ROLE="Arg-2">
+      <extent>
+        <charseq START="630" END="638">الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<relation ID="VAR20001012.1300.0063-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" TENSE="Present" MODALITY="Asserted">
+  <relation_argument REFID="VAR20001012.1300.0063-E35" ROLE="Arg-1"/>
+  <relation_argument REFID="VAR20001012.1300.0063-E34" ROLE="Arg-2"/>
+  <relation_mention ID="VAR20001012.1300.0063-R10-1" LEXICALCONDITION="Preposition">
+    <extent>
+      <charseq START="78" END="115">الفيلق الخامس التابع للبحرية الأمريكية</charseq>
+    </extent>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E35-45" ROLE="Arg-1">
+      <extent>
+        <charseq START="78" END="115">الفيلق الخامس التابع للبحرية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+    <relation_mention_argument REFID="VAR20001012.1300.0063-E34-44" ROLE="Arg-2">
+      <extent>
+        <charseq START="99" END="115">للبحرية الأمريكية</charseq>
+      </extent>
+    </relation_mention_argument>
+  </relation_mention>
+</relation>
+<event ID="VAR20001012.1300.0063-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001012.1300.0063-E33" ROLE="Target"/>
+  <event_mention ID="VAR20001012.1300.0063-EV1-1">
+    <extent>
+      <charseq START="129" END="196">التفجير التي لحق بالسفينة الأمريكية يو إس إس كول في ميناء عدن اليمنى</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="65" END="196">المتحدث باسم الفيلق الخامس التابع للبحرية الأمريكية يوضح تفاصيل
+التفجير التي لحق بالسفينة الأمريكية يو إس إس كول في ميناء عدن اليمنى</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="129" END="135">التفجير</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E33-47" ROLE="Target">
+      <extent>
+        <charseq START="146" END="196">بالسفينة الأمريكية يو إس إس كول في ميناء عدن اليمنى</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001012.1300.0063-E14" ROLE="Place"/>
+  <event_argument REFID="VAR20001012.1300.0063-E11" ROLE="Instrument"/>
+  <event_mention ID="VAR20001012.1300.0063-EV2-1">
+    <extent>
+      <charseq START="432" END="498">طائرات الهيليكوبتر الإسرائيلية تغير
+بالصواريخ على أهداف في رام الله</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="432" END="498">طائرات الهيليكوبتر الإسرائيلية تغير
+بالصواريخ على أهداف في رام الله</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="463" END="466">تغير</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E14-14" ROLE="Place">
+      <extent>
+        <charseq START="491" END="498">رام الله</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E11-11" ROLE="Instrument">
+      <extent>
+        <charseq START="432" END="461">طائرات الهيليكوبتر الإسرائيلية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001012.1300.0063-E33" ROLE="Target"/>
+  <event_mention ID="VAR20001012.1300.0063-EV3-1">
+    <extent>
+      <charseq START="600" END="649">انفجار
+في سفينة تابعة للبحرية الأمريكية بميناء عدن</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="600" END="703">انفجار
+في سفينة تابعة للبحرية الأمريكية بميناء عدن يسفر عن مقتل أربعة بحارة
+على الأقل وإصابة أخرين بجراح</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="600" END="605">انفجار</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E33-17" ROLE="Target">
+      <extent>
+        <charseq START="610" END="649">سفينة تابعة للبحرية الأمريكية بميناء عدن</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001012.1300.0063-E16" ROLE="Victim"/>
+  <event_mention ID="VAR20001012.1300.0063-EV4-1">
+    <extent>
+      <charseq START="659" END="684">مقتل أربعة بحارة
+على الأقل</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="600" END="703">انفجار
+في سفينة تابعة للبحرية الأمريكية بميناء عدن يسفر عن مقتل أربعة بحارة
+على الأقل وإصابة أخرين بجراح</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="659" END="662">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E16-20" ROLE="Victim">
+      <extent>
+        <charseq START="664" END="684">أربعة بحارة
+على الأقل</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Future">
+  <event_argument REFID="VAR20001012.1300.0063-E18" ROLE="Artifact"/>
+  <event_argument REFID="VAR20001012.1300.0063-E23" ROLE="Destination"/>
+  <event_mention ID="VAR20001012.1300.0063-EV5-1">
+    <extent>
+      <charseq START="820" END="839">سيزور كوريا الشمالية</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="780" END="858">الولايات المتحدة تقول أن الرئيس
+كلينتون سيزور كوريا الشمالية قبل أن يترك السلطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="820" END="824">سيزور</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E18-31" ROLE="Artifact">
+      <extent>
+        <charseq START="821" END="821">ي</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E23-32" ROLE="Destination">
+      <extent>
+        <charseq START="826" END="839">كوريا الشمالية</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001012.1300.0063-E25" ROLE="Target"/>
+  <event_mention ID="VAR20001012.1300.0063-EV6-1">
+    <extent>
+      <charseq START="890" END="936">انفجار سيارة ملغومة في العاصمة الشيشانية جروزني</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="860" END="957">وكالة الأنباء الروسية
+تقول أن انفجار سيارة ملغومة في العاصمة الشيشانية جروزني أسفر عن مقتل
+15 شخصا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="890" END="895">انفجار</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E25-36" ROLE="Target">
+      <extent>
+        <charseq START="897" END="936">سيارة ملغومة في العاصمة الشيشانية جروزني</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past">
+  <event_argument REFID="VAR20001012.1300.0063-E31" ROLE="Victim"/>
+  <event_mention ID="VAR20001012.1300.0063-EV7-1">
+    <extent>
+      <charseq START="946" END="957">مقتل
+15 شخصا</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="860" END="957">وكالة الأنباء الروسية
+تقول أن انفجار سيارة ملغومة في العاصمة الشيشانية جروزني أسفر عن مقتل
+15 شخصا</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="946" END="949">مقتل</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E31-42" ROLE="Victim">
+      <extent>
+        <charseq START="951" END="957">15 شخصا</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV8" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Present">
+  <event_argument REFID="VAR20001012.1300.0063-E3" ROLE="Victim"/>
+  <event_mention ID="VAR20001012.1300.0063-EV8-1">
+    <extent>
+      <charseq START="687" END="697">إصابة أخرين</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="600" END="703">انفجار
+في سفينة تابعة للبحرية الأمريكية بميناء عدن يسفر عن مقتل أربعة بحارة
+على الأقل وإصابة أخرين بجراح</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="687" END="691">إصابة</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E3-51" ROLE="Victim">
+      <extent>
+        <charseq START="693" END="697">أخرين</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+<event ID="VAR20001012.1300.0063-EV9" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Other" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+  <event_argument REFID="VAR20001012.1300.0063-E15" ROLE="Place"/>
+  <event_argument REFID="VAR20001012.1300.0063-E18" ROLE="Person"/>
+  <event_mention ID="VAR20001012.1300.0063-EV9-1">
+    <extent>
+      <charseq START="780" END="851">الولايات المتحدة تقول أن الرئيس
+كلينتون سيزور كوريا الشمالية قبل أن يترك</charseq>
+    </extent>
+    <ldc_scope>
+      <charseq START="780" END="858">الولايات المتحدة تقول أن الرئيس
+كلينتون سيزور كوريا الشمالية قبل أن يترك السلطة</charseq>
+    </ldc_scope>
+    <anchor>
+      <charseq START="848" END="851">يترك</charseq>
+    </anchor>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E15-27" ROLE="Place">
+      <extent>
+        <charseq START="780" END="795">الولايات المتحدة</charseq>
+      </extent>
+    </event_mention_argument>
+    <event_mention_argument REFID="VAR20001012.1300.0063-E18-33" ROLE="Person">
+      <extent>
+        <charseq START="848" END="848">ي</charseq>
+      </extent>
+    </event_mention_argument>
+  </event_mention>
+</event>
+</document>
+</source_file>
