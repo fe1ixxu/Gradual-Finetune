@@ -1,6 +1,6 @@
 # Gradual Fine-Tuning for Low-Resource Domain Adaptation
 Gradually  fine-tuning  in  a  multi-step  process  can  yield  substantial further gains and can be applied without modifying the model or learning objective. This method has been demonstrated to be effective in Event Extraction and Dialogue State Tracking.
-
+<div align=center><img src="https://github.com/fe1ixxu/Gradual-Finetune/blob/master/figure.png"/></div>
 ## 1. Event Extraction
 
 We use [DYGIE++](https://github.com/dwadden/dygiepp) framwork to perform event extraction on the ACE 2005 corpus by considering Arabic as the target domain and English as the auxiliary domain.
