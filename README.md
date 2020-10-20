@@ -1,5 +1,5 @@
 # Gradual Fine-Tuning for Low-Resource Domain Adaptation
-Gradually  fine-tuning  in  a  multi-step  process  can  yield  substantial further gains and can be applied with-out modifying the model or learning objective. This method has been demonstrated to be effective in Event Extraction and Dialogue State Tracking.
+Gradually  fine-tuning  in  a  multi-step  process  can  yield  substantial further gains and can be applied without modifying the model or learning objective. This method has been demonstrated to be effective in Event Extraction and Dialogue State Tracking.
 
 ## 1. Event Extraction
 
