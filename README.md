@@ -78,7 +78,7 @@ allennlp evaluate \
 ```
 
 ## 2. Dialogue State Tracking
-We utilize [SUMBT](https://github.com/SKTBrain/SUMBT) to perform DST experiments. Original SUMBT does not offer fine-tuning function, but we add it for their repo: `./SUMBT`. We use `--fine_tune FINE/TUNE/DIR` to enable the fine-tuning function. We also add `--domain` arguments to forcus on each domain, and `--data_augmentation DARA/TO/AUG # e.g., 500` to represent the amount of augmentated data. 
+We utilize [SUMBT](https://github.com/SKTBrain/SUMBT) to perform DST experiments. Original SUMBT does not offer fine-tuning function, but we add it under the directory: `./SUMBT`. We use `--fine_tune FINE/TUNE/DIR` to enable the fine-tuning function. We also add `--domain` arguments to forcus on each domain, and `--data_augmentation DARA/TO/AUG # e.g., 4k, 2k, 500` to represent the amount of augmentated data. 
 
 We have also offered all preprocessed dataset for restaurant and hotel domains here: `SUMBT/data/multiwoz/domains`. The amount of out-of-domain and has been indicated in the name of data file, e.g. train4000.tsv represents 4K out-of-domain data.
 
@@ -91,31 +91,47 @@ pip install -r requirements.txt
 ```
 
 ### Train from Scratch
-To train the model:
+To train the model (example of training 4k out-of-domain data with in-domain data)
 ```
-python3 code/main-multislot.py --do_train --do_eval --num_train_epochs $EPOCH --data_dir $DATA/DIR \
---bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT/DIR \
---target_slot all --warmup_proportion 0.1 --learning_rate LR/YOU/WANT --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
---tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA/TO/AUG \
---domain $DOMAIN --patience 15  # --data_augmentation only support 4k, 2k, 500, NONE. NONE means no augmentated data
+DOMAIN=restaurant
+
+DATA_DIR=data/multiwoz/domains/${DOMAIN}
+DATA_AUG=4k
+EPOCH=200                                                         
+PATIENCE=15
+LR=1e-4
+
+
+python3 code/main-multislot.py --do_train --do_eval --num_train_epochs $EPOCH --data_dir $DATA_DIR \
+--bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT_DIR \
+--target_slot all --warmup_proportion 0.1 --learning_rate $LR --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
+--tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA_AUG \
+--domain $DOMAIN --patience 15  
+
+# --data_augmentation only support 4k, 2k, 500, NONE. NONE means no augmentated data
 ```
 
 ### Fine-Tuning
-We show how to enable fine-tuning function by simply modify the command:
+We show how to enable fine-tuning function by adding `--fine_tune` field (example of fine-tuning the previous checkpoint on only in-domain data):
 ```
-python3 code/main-multislot.py --do_train --do_eval --num_train_epochs $EPOCH --data_dir $DATA/DIR \
---bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT/DIR \
---target_slot all --warmup_proportion 0.1 --learning_rate LR/YOU/WANT --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
+OUT_DIR=models/model-4k-None
+FINE_TUNE_DIR=models/model-4k
+DATA_AUG=NONE
+
+python3 code/main-multislot.py --do_train --do_eval --num_train_epochs $EPOCH --data_dir $DATA_DIR \
+--bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT_DIR \
+--target_slot all --warmup_proportion 0.1 --learning_rate $LR --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
 --tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA_AUG \
---fine_tune $FINE_TUNE_DIR --patience 15 --domain $DOMAIN
+--domain $DOMAIN --patience 15 --fine_tune $FINE_TUNE_DIR
+
 ```
 ### Evaluation
 A simple way to evaluate a trained model is just removing `--do_train`:
 ```
-python3 code/main-multislot.py --do_eval --num_train_epochs $EPOCH --data_dir $DATA/DIR \
---bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT/DIR \
---target_slot all --warmup_proportion 0.1 --learning_rate LR/YOU/WANT --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
---tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA/TO/AUG \
---domain $DOMAIN --patience 15  # --data_augmentation only support 4k, 2k, 500, NONE. NONE means no augmentated data
+python3 code/main-multislot.py --do_eval --num_train_epochs $EPOCH --data_dir $DATA_DIR \
+--bert_model bert-base-uncased --do_lower_case --task_name bert-gru-sumbt --nbt rnn --output_dir $OUT_DIR \
+--target_slot all --warmup_proportion 0.1 --learning_rate $LR --train_batch_size 3 --eval_batch_size 16 --distance_metric euclidean \
+--tf_dir tensorboard --hidden_dim 300 --max_label_length 32 --max_seq_length 64 --max_turn_length 22 --data_augmentation $DARA_AUG \
+--domain $DOMAIN --patience 15  
 ```
 
