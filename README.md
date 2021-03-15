@@ -1,4 +1,14 @@
 # Gradual Fine-Tuning for Low-Resource Domain Adaptation
+If you find anything useful in this work, please cite our [paper](https://arxiv.org/abs/2103.02205):
+```
+@article{xu2021gradual,
+  title={Gradual Fine-Tuning for Low-Resource Domain Adaptation},
+  author={Xu, Haoran and Ebner, Seth and Yarmohammadi, Mahsa and White, Aaron Steven and Van Durme, Benjamin and Murray, Kenton},
+  journal={arXiv preprint arXiv:2103.02205},
+  year={2021}
+}
+```
+
 Gradually  fine-tuning  in  a  multi-step  process  can  yield  substantial further gains and can be applied without modifying the model or learning objective. This method has been demonstrated to be effective in Event Extraction and Dialogue State Tracking.
 <div align=center><img src="https://github.com/fe1ixxu/Gradual-Finetune/blob/master/figure.png"/></div>
 
