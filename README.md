@@ -1,11 +1,22 @@
 # Gradual Fine-Tuning for Low-Resource Domain Adaptation
-If you find anything useful in this work, please cite our [paper](https://arxiv.org/abs/2103.02205):
+If you find anything useful in this work, please cite our [paper](https://www.aclweb.org/anthology/2021.adaptnlp-1.22/):
 ```
-@article{xu2021gradual,
-  title={Gradual Fine-Tuning for Low-Resource Domain Adaptation},
-  author={Xu, Haoran and Ebner, Seth and Yarmohammadi, Mahsa and White, Aaron Steven and Van Durme, Benjamin and Murray, Kenton},
-  journal={arXiv preprint arXiv:2103.02205},
-  year={2021}
+@inproceedings{xu-etal-2021-gradual,
+    title = "Gradual Fine-Tuning for Low-Resource Domain Adaptation",
+    author = "Xu, Haoran  and
+      Ebner, Seth  and
+      Yarmohammadi, Mahsa  and
+      White, Aaron Steven  and
+      Van Durme, Benjamin  and
+      Murray, Kenton",
+    booktitle = "Proceedings of the Second Workshop on Domain Adaptation for NLP",
+    month = apr,
+    year = "2021",
+    address = "Kyiv, Ukraine",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.adaptnlp-1.22",
+    pages = "214--221",
+    abstract = "Fine-tuning is known to improve NLP models by adapting an initial model trained on more plentiful but less domain-salient examples to data in a target domain. Such domain adaptation is typically done using one stage of fine-tuning. We demonstrate that gradually fine-tuning in a multi-step process can yield substantial further gains and can be applied without modifying the model or learning objective.",
 }
 ```
 
